@@ -1,0 +1,18 @@
+{
+	title: "Key to the Next Tier",
+	x: 7.9d,
+	y: -0.6d,
+	text: [
+		"The Petal Apothecary is the gate to Botania, and you can move onto the next questline!"
+	],
+	dependencies: [
+		"8c0352dc"
+	],
+	tasks: [{
+		uid: "3899fffb",
+		type: "item",
+		items: [{
+			item: "botania:altar"
+		}]
+	}]
+}

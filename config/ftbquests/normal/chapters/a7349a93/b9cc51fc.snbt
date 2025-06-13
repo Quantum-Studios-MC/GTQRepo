@@ -1,7 +1,7 @@
 {
 	title: "Compartments",
-	x: -1.6d,
-	y: 0.5d,
+	x: -1.9d,
+	y: 0.7d,
 	text: [
 		"Compartments have about 2 Double Chests of space in a single block, and you can also organise them easily."
 	],

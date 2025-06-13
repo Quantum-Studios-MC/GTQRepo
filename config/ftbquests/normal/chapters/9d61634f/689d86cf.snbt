@@ -1,6 +1,6 @@
 {
 	title: "Resources: Nether Quartz",
-	x: 12.8d,
+	x: 9.3d,
 	y: 3.8d,
 	text: [
 		"Nether Quartz is acquired in low amounts in the overworld in form of ore, which only gives 1-2 quartz each.",
@@ -17,5 +17,10 @@
 		items: [{
 			item: "minecraft:quartz"
 		}]
+	}],
+	rewards: [{
+		uid: "4722537c",
+		type: "item",
+		item: "harvestcraft:starfruitjuiceitem"
 	}]
 }

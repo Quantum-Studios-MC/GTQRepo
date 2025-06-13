@@ -1,7 +1,7 @@
 {
 	title: "Transporting Power",
-	x: -1.5d,
-	y: 1.0d,
+	x: 0.0d,
+	y: 1.3d,
 	text: [
 		"EU is the main energy unit of GT. ",
 		"",

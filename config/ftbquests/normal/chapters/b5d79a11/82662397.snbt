@@ -1,0 +1,36 @@
+{
+	title: "Masonry",
+	x: 1.4d,
+	y: -2.1d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	dependencies: [
+		"9c1a4019"
+	],
+	tasks: [{
+		uid: "9562d543",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any blockCarvedMasonry"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "blockCarvedMasonry"
+				}
+			}
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "e07859ea",
+		type: "ftbmoney:money",
+		ftb_money: 5L
+	}]
+}

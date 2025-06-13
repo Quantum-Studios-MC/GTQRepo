@@ -1,7 +1,7 @@
 {
 	title: "Resources: Coke",
 	icon: "gregtech:meta_gem 1 319",
-	x: 11.2d,
+	x: 7.699999999999999d,
 	y: 5.5d,
 	text: [
 		"Coke (No, not the coal tar drink) is acquired from various sources.",

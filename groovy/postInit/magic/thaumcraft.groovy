@@ -122,6 +122,6 @@ mods.thaumcraft.crucible.recipeBuilder()
     .aspect(aspect('aqua') * 2)
     .register()
 
-mods.thaumcraft.arcane_workbench.removeByOutput(item('thaumictinkerer:kamiresource', 3))
+mods.thaumcraft.infusion_crafting.removeByOutput(item('thaumictinkerer:ichor_block'))
 
 

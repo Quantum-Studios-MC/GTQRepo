@@ -1,6 +1,6 @@
 {
-	x: -6.5d,
-	y: -5.0d,
+	x: -4.5d,
+	y: -6.3d,
 	dependencies: [
 		"0a7de317"
 	],
@@ -9,6 +9,27 @@
 		type: "item",
 		items: [{
 			item: "botania:manaresource"
+		}]
+	},
+	{
+		uid: "1ffbf451",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 1"
+		}]
+	},
+	{
+		uid: "cdb9a9bc",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 2"
+		}]
+	},
+	{
+		uid: "2858a362",
+		type: "item",
+		items: [{
+			item: "botania:manaresource 1 16"
 		}]
 	}]
 }

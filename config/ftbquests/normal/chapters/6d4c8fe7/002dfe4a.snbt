@@ -20,5 +20,10 @@
 		type: "item",
 		item: "extrautils2:ingredients 1 4",
 		count: 10
+	},
+	{
+		uid: "384f0563",
+		type: "item",
+		item: "minecraft:sapling 1 1"
 	}]
 }

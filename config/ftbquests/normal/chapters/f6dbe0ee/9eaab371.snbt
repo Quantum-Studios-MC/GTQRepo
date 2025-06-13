@@ -1,0 +1,21 @@
+{
+	x: -4.5d,
+	y: -2.8d,
+	text: [
+		"Thaumcraft is gated behind Botania. Gather ore from Essentia deposits and convert it into Salis Mundus...",
+		"",
+		"Coralium deposits contain Alkimvite and Aquivite, and also Coralium/Rich Coralium.",
+		"",
+		"Essentia deposits contain all the rest of the ores."
+	],
+	dependencies: [
+		"bedf3122"
+	],
+	tasks: [{
+		uid: "b99f143c",
+		type: "item",
+		items: [{
+			item: "thaumcraft:salis_mundus"
+		}]
+	}]
+}

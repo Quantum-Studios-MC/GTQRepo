@@ -1,0 +1,22 @@
+{
+	x: 3.5d,
+	y: -0.6d,
+	text: [
+		"Grove Stones are useless unactivated. To activate them, perform the Grove Supplication ritual."
+	],
+	dependencies: [
+		"4e42cba2"
+	],
+	tasks: [{
+		uid: "d3a5dfb2",
+		type: "item",
+		items: [{
+			item: "roots:grove_stone"
+		}]
+	}],
+	rewards: [{
+		uid: "9d5b4402",
+		type: "item",
+		item: "minecraft:lever"
+	}]
+}

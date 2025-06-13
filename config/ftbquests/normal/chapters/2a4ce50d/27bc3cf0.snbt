@@ -1,0 +1,23 @@
+{
+	title: "Harken Scythe",
+	x: 6.5d,
+	y: 1.7d,
+	text: [
+		"Welcome to Harken Scythe!",
+		"This mod is inspired by old Tekkit.",
+		"",
+		"There are 2 paths you can go down. Make a Glaive to extract Blood Essence, or a Scythe to extract Souls."
+	],
+	tasks: [{
+		uid: "8e5240f5",
+		type: "item",
+		items: [{
+			item: "harkenscythe:wooden_scythe"
+		},
+		{
+			item: "harkenscythe:wooden_glaive"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

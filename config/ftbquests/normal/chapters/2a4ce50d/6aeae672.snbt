@@ -1,0 +1,19 @@
+{
+	x: 3.5d,
+	y: 1.8d,
+	text: [
+		"Spells that are put on staves can have modifiers applied to them.",
+		"To access the modifier menu, place a staff in an Imposer then right-click with a knife.",
+		"Every spell has different modifiers."
+	],
+	dependencies: [
+		"e38367d9"
+	],
+	tasks: [{
+		uid: "86392f02",
+		type: "item",
+		items: [{
+			item: "roots:imposer"
+		}]
+	}]
+}

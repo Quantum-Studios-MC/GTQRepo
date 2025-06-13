@@ -32,11 +32,6 @@
 		}]
 	}],
 	rewards: [{
-		uid: "0ba56d7b",
-		type: "item",
-		item: "extrautils2:trashchest"
-	},
-	{
 		uid: "f9dc190b",
 		type: "item",
 		item: "gregtechfoodoption:gtfo_meta_item 1 54"

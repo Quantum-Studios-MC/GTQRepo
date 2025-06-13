@@ -1,0 +1,25 @@
+{
+	x: -6.1d,
+	y: -1.6d,
+	dependencies: [
+		"f9b5d5a9"
+	],
+	tasks: [{
+		uid: "17364bc7",
+		type: "item",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotTerrasteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotTerrasteel"
+				}
+			}
+		}]
+	}]
+}

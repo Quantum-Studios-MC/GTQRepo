@@ -1,0 +1,17 @@
+{
+	x: 2.1d,
+	y: -5.7d,
+	dependencies: [
+		"718dcbf7"
+	],
+	tasks: [{
+		uid: "cbc236e7",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "endoflame"
+			}
+		}]
+	}]
+}

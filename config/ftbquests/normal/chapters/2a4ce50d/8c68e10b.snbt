@@ -1,0 +1,21 @@
+{
+	x: 6.5d,
+	y: 2.7d,
+	text: [
+		"Right-clicking a mob with your weapon till it dies causes it to sometimes drop either Souls or Blood.",
+		"",
+		"To collect this, you will need an Essence Keeper. Simply right click to add it to the essence keeper."
+	],
+	dependencies: [
+		"27bc3cf0"
+	],
+	tasks: [{
+		uid: "a6be6652",
+		type: "item",
+		items: [{
+			item: "harkenscythe:essence_keeper"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

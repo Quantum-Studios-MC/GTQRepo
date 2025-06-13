@@ -10,7 +10,6 @@
     "Entry item strings are in the format: (domain):(path):(meta)"
   ],
   "entries": {
-    "advancedrocketry:alienwood:0": "advancedrocketry:planks:0",
     "bewitchment:cypress_planks:0": "bewitchment:cypress_wood_slab:0",
     "bewitchment:cypress_wood:0": "bewitchment:cypress_planks:0",
     "bewitchment:dragons_blood_planks:0": "bewitchment:dragons_blood_slab:0",
@@ -36,6 +35,12 @@
     "biomesoplenty:log_3:6": "biomesoplenty:planks_0:14",
     "biomesoplenty:log_3:7": "biomesoplenty:planks_0:15",
     "cuisine:log:0": "cuisine:planks:0",
+    "extraplanets:kepler22b_maple_logs2:0": "extraplanets:kepler22b_planks:4",
+    "extraplanets:kepler22b_maple_logs2:1": "extraplanets:kepler22b_planks:5",
+    "extraplanets:kepler22b_maple_logs:0": "extraplanets:kepler22b_planks:0",
+    "extraplanets:kepler22b_maple_logs:1": "extraplanets:kepler22b_planks:1",
+    "extraplanets:kepler22b_maple_logs:2": "extraplanets:kepler22b_planks:2",
+    "extraplanets:kepler22b_maple_logs:3": "extraplanets:kepler22b_planks:3",
     "extratrees:logs.0:0": "extratrees:planks.0:0",
     "extratrees:logs.0:1": "extratrees:planks.0:1",
     "extratrees:logs.0:2": "extratrees:planks.0:2",
@@ -314,6 +319,7 @@
     "forestry:planks.vanilla.fireproof.0:3": "forestry:slabs.vanilla.fireproof.0:3",
     "forestry:planks.vanilla.fireproof.0:4": "forestry:slabs.vanilla.fireproof.0:4",
     "forestry:planks.vanilla.fireproof.0:5": "forestry:slabs.vanilla.fireproof.0:5",
+    "galaxyspace:barnarda_c_test_log:0": "galaxyspace:barnarda_c_blocks:6",
     "gregtech:rubber_log:0": "gregtech:planks:0",
     "gregtechfoodoption:gtfo_log_0:0": "gregtechfoodoption:gtfo_planks_0:0",
     "gregtechfoodoption:gtfo_log_0:12": "gregtechfoodoption:gtfo_planks_0:3",

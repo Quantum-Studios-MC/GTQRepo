@@ -37,5 +37,21 @@
 				volume: 10
 			}
 		}
+	},
+	{
+		uid: "b7076823",
+		type: "item",
+		item: {
+			id: "cuisine:chopping_board",
+			tag: {
+				BlockEntityTag: {
+					cover: {
+						id: "minecraft:log",
+						Count: 1,
+						Damage: 0s
+					}
+				}
+			}
+		}
 	}]
 }

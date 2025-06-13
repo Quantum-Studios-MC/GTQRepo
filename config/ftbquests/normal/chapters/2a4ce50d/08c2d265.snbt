@@ -1,0 +1,21 @@
+{
+	title: "Diverging Paths",
+	x: 6.5d,
+	y: 3.8d,
+	text: [
+		""
+	],
+	dependencies: [
+		"8c68e10b"
+	],
+	tasks: [{
+		uid: "efcce824",
+		type: "item",
+		items: [{
+			item: "harkenscythe:shadow_book"
+		},
+		{
+			item: "harkenscythe:carnage_book"
+		}]
+	}]
+}

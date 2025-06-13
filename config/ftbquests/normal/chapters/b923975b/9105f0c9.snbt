@@ -19,5 +19,10 @@
 		type: "item",
 		item: "gregtech:meta_item_1 1 621",
 		count: 4
+	},
+	{
+		uid: "f14f9133",
+		type: "ftbmoney:money",
+		ftb_money: 50L
 	}]
 }

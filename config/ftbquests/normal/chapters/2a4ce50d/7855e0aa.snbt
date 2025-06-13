@@ -1,0 +1,33 @@
+{
+	icon: "roots:mortar",
+	x: 2.1d,
+	y: 0.6d,
+	text: [
+		"The Mortar is used for a variety of recipes. Right click with your ingredients, then right click with a pestle."
+	],
+	dependencies: [
+		"9f393817"
+	],
+	tasks: [{
+		uid: "dcf63e1f",
+		type: "item",
+		items: [{
+			item: "roots:mortar"
+		}]
+	},
+	{
+		uid: "f408f951",
+		type: "item",
+		items: [{
+			item: "roots:pestle"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bbf433de",
+		type: "item",
+		item: "minecraft:yellow_flower",
+		count: 3
+	}]
+}

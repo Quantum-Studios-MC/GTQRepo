@@ -1,6 +1,6 @@
 {
 	title: "Resources: Redstone",
-	x: 10.2d,
+	x: 6.699999999999999d,
 	y: 2.8d,
 	text: [
 		"In early game, redstone cannot be easily refined from ore.",
@@ -27,5 +27,10 @@
 				}
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "828b9d91",
+		type: "item",
+		item: "harvestcraft:cherryjuiceitem"
 	}]
 }

@@ -1,6 +1,6 @@
 {
 	x: 1.05d,
-	y: -0.35d,
+	y: -0.375d,
 	shape: "square",
 	text: [
 		"The LPIC requires the cutting machine to be in the Cleanroom, whose mechanics were explained in MV.",

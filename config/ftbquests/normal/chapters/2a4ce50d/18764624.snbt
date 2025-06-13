@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 3.3d,
+	text: [
+		"This is the key to the Soul path of Harken Scythe. Use the Blunt Dagger on it to make a Harken Athame."
+	],
+	dependencies: [
+		"08c2d265"
+	],
+	tasks: [{
+		uid: "fcd8a9ac",
+		type: "item",
+		items: [{
+			item: "harkenscythe:soul_altar"
+		}]
+	}]
+}

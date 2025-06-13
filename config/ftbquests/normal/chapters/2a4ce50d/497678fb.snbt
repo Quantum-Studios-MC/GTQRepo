@@ -1,0 +1,17 @@
+{
+	x: 9.3d,
+	y: 3.8d,
+	dependencies: [
+		"bd8a96b7",
+		"18764624"
+	],
+	tasks: [{
+		uid: "3ed5ef9b",
+		type: "item",
+		items: [{
+			item: "harkenscythe:harken_athame"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

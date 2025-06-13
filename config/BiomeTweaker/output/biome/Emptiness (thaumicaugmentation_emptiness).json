@@ -1,6 +1,6 @@
 
 {
-  "ID": 122,
+  "ID": 152,
   "Name": "Emptiness",
   "Resource Location": "thaumicaugmentation:emptiness",
   "Class": "thecodex6824.thaumicaugmentation.common.world.biome.BiomeEmptiness",
@@ -20,21 +20,14 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
+    "VOID",
     "COLD",
-    "SPOOKY",
     "SPARSE",
-    "VOID"
+    "SPOOKY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
-  "Spawnable Monsters": [
-    {
-      "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
-      "Weight": 0,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    }
-  ],
+  "Spawnable Monsters": [],
   "Spawnable Water Creatures": [],
   "Spawnable Cave Creatures": [],
   "Spawn Biome": false,

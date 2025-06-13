@@ -1,0 +1,17 @@
+{
+	x: 11.5d,
+	y: 3.4000000000000004d,
+	text: [
+		"You will see more of this in Shehitah."
+	],
+	dependencies: [
+		"6621c484"
+	],
+	tasks: [{
+		uid: "29d0c63b",
+		type: "item",
+		items: [{
+			item: "harkenscythe:biomass"
+		}]
+	}]
+}

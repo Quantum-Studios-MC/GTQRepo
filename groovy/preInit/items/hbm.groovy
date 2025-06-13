@@ -302,6 +302,8 @@ materialBuilder(32125, 'desh')
 
 materialBuilder(32126, 'xen')
     .gem()
+    .flags('generate_plate')
+    .ore()
     .color(0xfffb00).iconSet('SHINY')
 .build()
 
@@ -526,7 +528,7 @@ materialBuilder(31293, 'saturnite')
     .blastTemp(2001, "MID")
     .components(material('platinum') * 4, material('phosphorus'), material('osmium'))
     .color(0x217E89).iconSet('SHINY')
-    .flags('generate_plate', 'generate_rod', 'generate_gear', 'generate_dense', 'generate_spring')
+    .flags('generate_plate', 'generate_rod', 'generate_gear', 'generate_dense', 'generate_spring', 'generate_fine_wire', 'generate_foil')
 .build()
 
 materialBuilder(31001, 'c_m_b_steel')

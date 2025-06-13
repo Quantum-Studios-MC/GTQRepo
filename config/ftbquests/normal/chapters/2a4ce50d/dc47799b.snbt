@@ -1,0 +1,14 @@
+{
+	x: 2.1d,
+	y: -2.2d,
+	dependencies: [
+		"4f3adbba"
+	],
+	tasks: [{
+		uid: "f31e8adf",
+		type: "item",
+		items: [{
+			item: "roots:spirit_herb"
+		}]
+	}]
+}

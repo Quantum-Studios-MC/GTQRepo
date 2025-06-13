@@ -1,6 +1,6 @@
 
 {
-  "ID": 121,
+  "ID": 150,
   "Name": "Parasite Biome",
   "Resource Location": "srparasites:biome_parasite",
   "Class": "com.dhanantry.scapeandrunparasites.world.biome.BiomeInfestedPlain",
@@ -148,12 +148,6 @@
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
-      "Weight": 0,
-      "Min Group Count": 1,
-      "Max Group Count": 2
     }
   ],
   "Spawnable Water Creatures": [],

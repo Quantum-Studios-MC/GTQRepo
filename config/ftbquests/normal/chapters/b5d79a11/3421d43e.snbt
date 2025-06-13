@@ -1,0 +1,34 @@
+{
+	title: "Living Production",
+	x: -1.4d,
+	y: -2.1d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	dependencies: [
+		"9c1a4019"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "7c867ea2",
+		type: "item",
+		items: [{
+			item: "botania:livingwood"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "fd2000e8",
+		type: "item",
+		items: [{
+			item: "botania:livingrock"
+		}],
+		consume_items: true
+	}],
+	rewards: [{
+		uid: "1bc51402",
+		type: "ftbmoney:money",
+		ftb_money: 10L
+	}]
+}

@@ -1,9 +1,4 @@
 
-recipemap('macerator').recipeBuilder()
-    .inputs(item('advancedrocketry:moonturf'))
-    .outputs(metaitem('dustMoonstone')) // Desh PEANITS
-    .duration(120).EUt(120).buildAndRegister();
-
 recipemap('electric_blast_furnace').recipeBuilder()
     .inputs(ore('dustMoonstone') * 64)
     .property("temperature", 2001)

@@ -1,0 +1,15 @@
+{
+	icon: "minecraft:anvil",
+	x: 2.1d,
+	y: 3.0d,
+	text: [
+		"The imbuer can also be used as an anvil, with no XP cost."
+	],
+	dependencies: [
+		"e38367d9"
+	],
+	tasks: [{
+		uid: "ced32550",
+		type: "checkmark"
+	}]
+}

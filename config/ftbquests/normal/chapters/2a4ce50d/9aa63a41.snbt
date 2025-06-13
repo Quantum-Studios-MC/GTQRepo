@@ -1,0 +1,33 @@
+{
+	x: 6.5d,
+	y: 0.6d,
+	text: [
+		"Runic Shears may be used to gather Life Essences from mobs, as well as Runic Leather, which is an easy way to get leather.",
+		"",
+		"It is also how you get many of the herbs existent in this mod."
+	],
+	dependencies: [
+		"8c0352dc"
+	],
+	tasks: [{
+		uid: "85e786ac",
+		type: "item",
+		items: [{
+			item: "roots:runic_shears"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "1df7a47c",
+		type: "item",
+		item: {
+			id: "thermalexpansion:morb",
+			tag: {
+				id: "minecraft:cow",
+				Generic: 1b
+			}
+		},
+		count: 3
+	}]
+}

@@ -1,0 +1,19 @@
+{
+	x: -2.0d,
+	y: -0.8d,
+	text: [
+		"Poke yourself with it near an Altar to get blood in the altar."
+	],
+	dependencies: [
+		"d90f11bb"
+	],
+	tasks: [{
+		uid: "1287de9a",
+		type: "item",
+		items: [{
+			id: "bloodmagic:sacrificial_dagger",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

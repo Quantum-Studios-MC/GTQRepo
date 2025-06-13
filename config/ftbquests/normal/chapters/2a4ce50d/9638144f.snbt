@@ -1,0 +1,14 @@
+{
+	x: 1.1d,
+	y: -4.5d,
+	dependencies: [
+		"4f3adbba"
+	],
+	tasks: [{
+		uid: "357fa2f2",
+		type: "item",
+		items: [{
+			item: "roots:dewgonia"
+		}]
+	}]
+}

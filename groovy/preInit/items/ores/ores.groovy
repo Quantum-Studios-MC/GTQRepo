@@ -322,4 +322,17 @@ materialBuilder(31731, 'perditionite')
     .ore()
     .flags()
 .build();
+
+materialBuilder(31732, 'dilithium')
+    .color(0x000000)
+    .ore()
+    .flags()
+.build();
+
+materialBuilder(31733, 'lunarsapphire')
+    .colorAverage()
+    .ore(true)
+    .flags()
+    .components(material('sapphire'))
+.build();
 }

@@ -1,0 +1,29 @@
+{
+	x: 2.1d,
+	y: 1.8d,
+	text: [
+		"The spell system can be a little difficult to understand, but the gist is:",
+		"",
+		"To learn a spell, you need to first make its spell dust in a Mortar. Next, make an imbuer and then place the spell dust inside it.",
+		"After that, simply place the gramary on top of the dust in the imbuer and wait. You will eventually receive a message that a new spell has been added to",
+		"your Spell Library.",
+		"",
+		"To open the spell library, press K (default keybind) while holding a staff. This will allow you to select the spell!"
+	],
+	dependencies: [
+		"f1c39039",
+		"7855e0aa"
+	],
+	tasks: [{
+		uid: "1ee1924e",
+		type: "item",
+		items: [{
+			item: "roots:imbuer"
+		}]
+	}],
+	rewards: [{
+		uid: "1032c083",
+		type: "item",
+		item: "roots:dewgonia"
+	}]
+}

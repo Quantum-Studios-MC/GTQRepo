@@ -1,0 +1,88 @@
+{
+	title: "Lesser Runes",
+	x: -7.5d,
+	y: -3.9d,
+	text: [
+		""
+	],
+	dependencies: [
+		"00e0247a"
+	],
+	tasks: [{
+		uid: "ed64cf67",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 4"
+		}]
+	},
+	{
+		uid: "178f55ef",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 5"
+		}]
+	},
+	{
+		uid: "dbf12dcf",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 6"
+		}]
+	},
+	{
+		uid: "e3aa3fa4",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 7"
+		}]
+	},
+	{
+		uid: "cbe91ae6",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 9"
+		}]
+	},
+	{
+		uid: "2ce07ca4",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 10"
+		}]
+	},
+	{
+		uid: "a93a20d3",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 11"
+		}]
+	},
+	{
+		uid: "9d4d2701",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 12"
+		}]
+	},
+	{
+		uid: "3c03e272",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 13"
+		}]
+	},
+	{
+		uid: "223e3f78",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 14"
+		}]
+	},
+	{
+		uid: "0d56bd88",
+		type: "item",
+		items: [{
+			item: "botania:rune 1 15"
+		}]
+	}]
+}

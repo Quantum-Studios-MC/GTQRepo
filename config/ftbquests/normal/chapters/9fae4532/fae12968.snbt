@@ -1,6 +1,6 @@
 {
 	x: 1.7d,
-	y: 1.1d,
+	y: 1.6d,
 	text: [
 		"Food Overhaul makes it so that bigger meals like Steak don't give you as much hunger, but can also grant the Well Fed buff which",
 		"increases your stats, sort of like in terraria.",

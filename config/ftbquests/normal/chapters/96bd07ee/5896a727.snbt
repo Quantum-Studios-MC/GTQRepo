@@ -5,7 +5,9 @@
 	text: [
 		"Diesel (or gasoline) is a very good fuel source for MV.",
 		"",
-		"It requires both light fuel and heavy fuel."
+		"It requires both light fuel and heavy fuel.",
+		"",
+		"NOTE: It can also be used as fuel for Galacticraft Rockets!"
 	],
 	dependencies: [
 		"d9dc8be5"

@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "MUSHROOM",
-    "NETHER",
     "DENSE",
+    "NETHER",
     "HOT"
   ],
   "BiomeManager Entries": {},
@@ -100,12 +100,6 @@
       "Weight": 8,
       "Min Group Count": 4,
       "Max Group Count": 6
-    },
-    {
-      "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
-      "Weight": 0,
-      "Min Group Count": 1,
-      "Max Group Count": 2
     }
   ],
   "Spawnable Water Creatures": [],

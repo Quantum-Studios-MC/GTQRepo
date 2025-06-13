@@ -14,8 +14,20 @@
 	tasks: [{
 		uid: "f2735b21",
 		type: "item",
+		icon: "gregtech:meta_ingot 1 260",
 		items: [{
-			item: "gregtech:meta_ingot 1 260"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotBronze"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotBronze"
+				}
+			}
 		}],
 		count: 32L
 	}],

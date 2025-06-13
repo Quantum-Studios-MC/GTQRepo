@@ -1,0 +1,18 @@
+{
+	x: 3.5d,
+	y: -3.5d,
+	text: [
+		"Used in Arcane Archives, also used to make the Runic Shears.",
+		"Later unlocks XU2."
+	],
+	dependencies: [
+		"4f3adbba"
+	],
+	tasks: [{
+		uid: "8a72be29",
+		type: "item",
+		items: [{
+			item: "roots:pereskia"
+		}]
+	}]
+}

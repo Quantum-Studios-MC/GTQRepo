@@ -27,6 +27,4 @@ recipemap('chemical_reactor').recipeBuilder()
         .duration(80).EUt(12).buildAndRegister()
 
           
-                 
-// to-do- 
-// Register SGS, Chorus Fluid, End Stone Dust, Fix Starlight val, Endogenic Coat)
+                

@@ -8,6 +8,7 @@
 	dependencies: [
 		"c49c4c02"
 	],
+	dependency_requirement: "all_started",
 	optional: true,
 	tasks: [{
 		uid: "bdd0bfda",

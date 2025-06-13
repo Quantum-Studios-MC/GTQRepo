@@ -1,0 +1,17 @@
+{
+	x: 2.1d,
+	y: -8.1d,
+	dependencies: [
+		"718dcbf7"
+	],
+	tasks: [{
+		uid: "0709a929",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "ba_snow_flower"
+			}
+		}]
+	}]
+}

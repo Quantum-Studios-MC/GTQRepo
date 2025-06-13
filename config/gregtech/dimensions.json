@@ -13,12 +13,8 @@
       "dimName": "Nether"
     },   
     {
-      "dimID": 82,
-      "dimName": "Titania"
-    },    
-    {
-      "dimID": 103,
-      "dimName": "Taintaer"
+      "dimID": -23,
+      "dimName": "Moon"
     }
   ]
 }

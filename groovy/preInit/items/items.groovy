@@ -290,14 +290,6 @@ materialBuilder(31759, 'quartz_soldering_mixture_2')
             .flags('generate_plate', 'generate_rod')
             .build()
 
-    // Thaumic Tinkerer
-     materialBuilder(31792,'ichorium')
-            .ingot()
-            .color(0xD37806).iconSet('SHINY')
-            .flags('generate_plate', 'generate_rod')
-            .components(material("dawnimythrkite"), material("void") * 2, material("skadiite"))
-            .build()
-
 
      materialBuilder(31791,'knightslime')
             .ingot()
@@ -341,6 +333,46 @@ materialBuilder(31759, 'quartz_soldering_mixture_2')
             .components(material("dawnimythrkite"), material("void") * 2, material("skadiite"))
             .build()
 
+     materialBuilder(31801,'livingrock')
+            .ingot()
+            .color(0xe7e7e1).iconSet('CERTUS')
+            .flags('generate_plate', 'generate_rod')
+                .components(material("plant_matter"), material("manasteel") * 2, material("stone"))
+            .build()
+ 
+      materialBuilder(31802,'meteoric_iron')
+            .ingot()
+            .colorAverage().iconSet('SHINY')
+            .flags('generate_plate', 'generate_rod')
+                .components(material("iron") * 9, material("desh") * 2, material("stone"))
+            .build()
     
+      materialBuilder(31804,'silicon_germanium')
+            .ingot()
+            .colorAverage().iconSet('DULL')
+            .flags('generate_plate', 'generate_rod')
+            .blastTemp(2001, "HIGH")
+                .components(material("silicon") * 9, material("germanium"))
+            .build()
+    
+      materialBuilder(31803,'germanite')
+            .ore()
+            .dust()
+            .colorAverage().iconSet('DULL')
+            .components(material('germanium') * 9, material('copper') * 3, material('iron'))
+            .build()
+    
+          materialBuilder(31805,'trichlorosilane')
+            .dust()
+            .colorAverage().iconSet('DULL')
+            .components(material('hydrogen'), material('chlorine') * 3, material('silicon'))
+            .build()
+        
+        materialBuilder(31806,'ultrapure_silicon')
+            .dust()
+            .colorAverage().iconSet('NETHERSTAR')
+            .gem()
+            .components(material('silicon'))
+            .build()
 }
 

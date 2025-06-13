@@ -22,5 +22,11 @@
 		uid: "4ae9c56d",
 		type: "ftbmoney:money",
 		ftb_money: 15L
+	},
+	{
+		uid: "b52e70de",
+		type: "item",
+		item: "minecraft:furnace",
+		count: 4
 	}]
 }
