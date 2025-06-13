@@ -1,0 +1,12 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Welcome to the Market! This is your place to trade goods for FTB Shop coins."
+	],
+	tasks: [{
+		uid: "38df235a",
+		type: "checkmark",
+		title: "The Market"
+	}]
+}

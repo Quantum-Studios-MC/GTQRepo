@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -8.6d,
+	tasks: [{
+		uid: "c8d7f5b8",
+		type: "item",
+		items: [{
+			item: "botania:fertilizer"
+		}]
+	}]
+}

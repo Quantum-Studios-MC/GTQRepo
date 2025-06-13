@@ -1,7 +1,7 @@
 {
 	title: "Amperage",
-	x: -1.5d,
-	y: 2.0d,
+	x: 0.0d,
+	y: 2.5d,
 	text: [
 		"Every generator in LV (single-block ones specifically) produces 1 amp of its voltage tier.",
 		"",

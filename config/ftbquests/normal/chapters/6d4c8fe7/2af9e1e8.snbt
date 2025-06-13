@@ -1,4 +1,5 @@
 {
+	title: "Rubber",
 	icon: "gregtech:meta_ingot 1 1068",
 	x: 5.1d,
 	y: 2.5d,
@@ -27,5 +28,11 @@
 		uid: "38f81459",
 		type: "ftbmoney:money",
 		ftb_money: 15L
+	},
+	{
+		uid: "b4482736",
+		type: "item",
+		item: "gregtech:meta_ingot 1 1068",
+		count: 9
 	}]
 }

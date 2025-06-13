@@ -1,0 +1,23 @@
+{
+	x: 6.5d,
+	y: -0.6d,
+	text: [
+		"Runestone is incredibly important for early-game. It unlocks many new things, and it can also be used to make Runic Dust. ",
+		"Runic Dust has a lot of recipes and is a key component for the next tier."
+	],
+	dependencies: [
+		"1dde3b23"
+	],
+	tasks: [{
+		uid: "d6018faf",
+		type: "item",
+		items: [{
+			item: "roots:runestone"
+		}]
+	}],
+	rewards: [{
+		uid: "738c0786",
+		type: "item",
+		item: "projectred-exploration:stone"
+	}]
+}

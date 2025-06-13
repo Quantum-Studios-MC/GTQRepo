@@ -1,0 +1,19 @@
+{
+	title: "Crafters",
+	x: 0.0d,
+	y: 1.6d,
+	text: [
+		"Crafters come in a few tiers, 1-3. ",
+		"They are very, very fast and can be used for non-ae2 passive lines.."
+	],
+	dependencies: [
+		"04407b8a"
+	],
+	tasks: [{
+		uid: "a92bbcd1",
+		type: "item",
+		items: [{
+			item: "rftools:crafter1"
+		}]
+	}]
+}

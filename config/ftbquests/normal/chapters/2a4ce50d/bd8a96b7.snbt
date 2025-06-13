@@ -1,0 +1,17 @@
+{
+	x: 8.0d,
+	y: 4.5d,
+	text: [
+		"This is the key to the Blood path of Harken Scythe. Use the Blunt Dagger on it to make a Harken Athame."
+	],
+	dependencies: [
+		"08c2d265"
+	],
+	tasks: [{
+		uid: "03a57080",
+		type: "item",
+		items: [{
+			item: "harkenscythe:blood_altar"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: 10.6d,
+	y: 0.8d,
+	text: [
+		"Bellows are an extremely useful block that speed up the processing of stone machines by many times when being actively used."
+	],
+	dependencies: [
+		"fec4c687"
+	],
+	tasks: [{
+		uid: "ed265274",
+		type: "item",
+		items: [{
+			item: "pyrotech:bellows"
+		}]
+	}]
+}

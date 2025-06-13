@@ -1,0 +1,16 @@
+{
+	icon: "minecraft:yellow_flower",
+	x: 2.1d,
+	y: -3.5d,
+	text: [
+		"These three flowers unlock many new mods! So i suggest you make them as soon as you can."
+	],
+	dependencies: [
+		"4e42cba2"
+	],
+	tasks: [{
+		uid: "30ca6b55",
+		type: "checkmark",
+		title: "Flowers"
+	}]
+}

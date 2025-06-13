@@ -1,5 +1,6 @@
 {
 	title: "Malkuth",
+	icon: "roots:wildroot",
 	always_invisible: false,
 	group: 460858873,
 	default_quest_shape: ""

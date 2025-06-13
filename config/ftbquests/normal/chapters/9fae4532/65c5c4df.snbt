@@ -3,7 +3,7 @@
 	y: 2.0d,
 	description: "RLCraft is GREGGY",
 	text: [
-		"This modpack also contains §4Tough As Nails§f, which is a survival mod that adds a §6thirst§f and §4temperature§f bar.",
+		"This modpack also contains §4Simple Difficultys§f, which is a survival mod that adds a §6thirst§f and §4temperature§f bar.",
 		"",
 		"These bars are very difficult to maintain in the earlygame, so that is why i highly recommend getting the Canteen as soon as possible.",
 		"",
@@ -16,11 +16,16 @@
 		"0f4a510b"
 	],
 	tasks: [{
-		uid: "c16b999e",
+		uid: "e07b2119",
 		type: "item",
 		items: [{
-			item: "toughasnails:canteen"
+			id: "simpledifficulty:canteen",
+			tag: {
+				CanteenType: 0,
+				Doses: 0
+			}
 		}],
+		ignore_damage: true,
 		ignore_nbt: 1b
 	}]
 }

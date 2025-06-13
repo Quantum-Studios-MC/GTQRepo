@@ -1,0 +1,17 @@
+{
+	x: 0.7d,
+	y: -3.5d,
+	text: [
+		"Grants access to the Petal Apothecary- I.E Botania"
+	],
+	dependencies: [
+		"4f3adbba"
+	],
+	tasks: [{
+		uid: "45dac245",
+		type: "item",
+		items: [{
+			item: "roots:moonglow_leaf"
+		}]
+	}]
+}

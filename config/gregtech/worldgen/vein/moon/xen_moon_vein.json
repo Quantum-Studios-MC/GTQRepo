@@ -1,0 +1,37 @@
+{
+  "name": "gtaurora.veins.ore.moon_xen",
+  "weight": 80,
+  "density": 0.1,
+  "max_height": 60,
+  "min_height": 40,
+    "dimension_filter": [
+    "dimension_id:-28"],
+  "vein_populator": {
+    "type": "surface_rock",
+    "material": "xen"
+  },
+  "generator": {
+    "type": "layered",
+    "radius": [
+      17,
+      24
+    ]
+  },
+  "filler": {
+    "type": "layered",
+    "values": [
+      {
+        "primary": "ore:xen"
+      },
+      {
+        "secondary": "ore:lunarsapphire"
+      },
+      {
+        "between": "ore:dilithium"
+      },
+      {
+        "sporadic": "ore:germanite"
+      }
+    ]
+  }
+}

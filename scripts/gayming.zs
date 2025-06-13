@@ -54,10 +54,7 @@ recipes.addShaped(<rftools:level_emitter>, [[null, <gregtech:meta_item_1:232>, n
 recipes.addShaped(<rftools:machine_base> * 2, [[<gregtech:meta_plate_dense:32108>, <gregtech:meta_bolt:32109>, <ore:plateDenseDarkSteel>], [<gregtech:meta_plate_dense:32108>, <ore:plateRedstoneAlloy>, <ore:plateDenseDarkSteel>]]);
 recipes.addShapeless(<rftools:storage_module:2>, [<hbm:ducttape>, <ore:circuitHv>, <ore:plateStainlessSteel>, <rftools:storage_module:1>]);
 recipes.addShapeless(<rftools:storage_module>, [<hbm:ducttape>, <ore:circuitLv>, <ore:plateSteel>, <ore:chest>]);
-recipes.addShaped(<advancedrocketry:warpcore>, [[<gregtech:meta_screw:32117>, <ore:gemDilithium>, <gregtech:meta_screw:32117>], [<ore:gemDilithium>, <ore:circuitEv>, <ore:gemDilithium>], [<gregtech:meta_screw:32117>, <gregtech:machine:989>, <gregtech:meta_screw:32117>]]);
-recipes.addShaped(<advancedrocketry:vacuumlaser>, [[<ore:screwTungstenCarbide>, <ore:craftingLensRed>, <ore:screwTungstenCarbide>], [<ore:plateTitaniumCarbide>, <ore:lensSchrabidium>, <ore:plateTitaniumCarbide>], [<ore:screwTungsten>, <gregtech:machine:989>, <ore:screwTungsten>]]);
-recipes.addShaped(<advancedrocketry:forcefieldprojector>, [[<gregtech:meta_item_1:219>, <gregtech:meta_item_1:219>, <gregtech:meta_item_1:219>], [<ore:gearSmallTitanium>, <hbm:circuit_targeting_tier5>, <ore:gearSmallTitanium>], [<gregtech:cable_single:113>, <ore:plateDenseTitanium>, <gregtech:cable_single:113>]]);
-recipes.addShaped(<advancedrocketry:spacelaser>, [[<ore:billetSchrabidium>, <ore:circuitEv>, <ore:billetSchrabidium>], [<ore:wireGtSingleTungsten>, <advancedrocketry:misc>, <ore:wireGtSingleTungsten>], [<gregtech:meta_item_1:235>, <gregtech:machine:989>, <gregtech:meta_item_1:235>]]);
+
 recipes.addShaped(<gtaurora:magic.arcane_vat>, [[<pyrotech:material:16>, <ore:blockGlass>, <pyrotech:material:16>], [<pyrotech:material:16>, <ore:blockGlass>, <pyrotech:material:16>], [<pyrotech:material:16>, <pyrotech:masonry_brick_block>, <pyrotech:material:16>]]);
 recipes.addShaped(<cuisine:wok>, [[<pyrotech:material:16>, null, <cuisine:material:1>], [<pyrotech:material:16>, <pyrotech:material:16>, <pyrotech:material:16>]]);
 recipes.addShaped(<cuisine:wooden_basin>, [[<pyrotech:material:16>, null, <pyrotech:material:16>], [<pyrotech:material:16>, <pyrotech:material:16>, <pyrotech:material:16>]]);

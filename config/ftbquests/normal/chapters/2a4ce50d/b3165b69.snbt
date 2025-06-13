@@ -1,0 +1,14 @@
+{
+	x: 1.1d,
+	y: -2.5d,
+	dependencies: [
+		"4f3adbba"
+	],
+	tasks: [{
+		uid: "199ae213",
+		type: "item",
+		items: [{
+			item: "roots:stalicripe"
+		}]
+	}]
+}

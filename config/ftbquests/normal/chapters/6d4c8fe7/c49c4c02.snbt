@@ -50,5 +50,10 @@
 		uid: "604839a4",
 		type: "ftbmoney:money",
 		ftb_money: 150L
+	},
+	{
+		uid: "242b0ce5",
+		type: "item",
+		item: "bonsaitrees:bonsaipot"
 	}]
 }

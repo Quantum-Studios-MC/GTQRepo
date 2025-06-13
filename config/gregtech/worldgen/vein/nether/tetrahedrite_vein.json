@@ -1,21 +1,20 @@
 {
   "name": "gregtech.veins.ore.tetrahedrite",
-  "weight": 70,
-  "density": 0.2,
-  "min_height": 80,
+  "weight": 80,
+  "density": 0.4,
+  "min_height": 10,
   "max_height": 120,
+  "dimension_filter": ["dimension_id:-1"],
   "vein_populator": {
     "type": "surface_rock",
     "material": "tetrahedrite"
   },
-  "dimension_filter": [
-    "is_nether"
-  ],
+
   "generator": {
     "type": "layered",
     "radius": [
-      17,
-      24
+      24,
+      34
     ]
   },
   "filler": {

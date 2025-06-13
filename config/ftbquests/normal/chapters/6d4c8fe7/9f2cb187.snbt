@@ -1,0 +1,45 @@
+{
+	x: 2.3d,
+	y: 2.4d,
+	text: [
+		"This took 23h for me to get.. try to beat my time!!!!!!!"
+	],
+	dependencies: [
+		"3b32626e"
+	],
+	tasks: [{
+		uid: "037581dd",
+		type: "item",
+		icon: "gregtech:meta_ingot 1 324",
+		items: [{
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any ingotSteel"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotSteel"
+				}
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "5bbf470f",
+		type: "item",
+		item: "gregtech:meta_ingot 1 260",
+		count: 64
+	},
+	{
+		uid: "176cdd8c",
+		type: "ftbmoney:money",
+		ftb_money: 500L
+	},
+	{
+		uid: "084d4d21",
+		type: "random",
+		table: 4
+	}]
+}

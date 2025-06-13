@@ -45,5 +45,11 @@
 		uid: "056a2131",
 		type: "ftbmoney:money",
 		ftb_money: 100L
+	},
+	{
+		uid: "467a4fb6",
+		type: "item",
+		item: "minecraft:beetroot",
+		count: 3
 	}]
 }

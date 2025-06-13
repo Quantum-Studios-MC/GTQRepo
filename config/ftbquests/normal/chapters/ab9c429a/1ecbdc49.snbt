@@ -1,0 +1,14 @@
+{
+	x: -1.0d,
+	y: -1.7d,
+	dependencies: [
+		"91d5b27f"
+	],
+	tasks: [{
+		uid: "c4d3cd5e",
+		type: "item",
+		items: [{
+			item: "spartanweaponry:material"
+		}]
+	}]
+}

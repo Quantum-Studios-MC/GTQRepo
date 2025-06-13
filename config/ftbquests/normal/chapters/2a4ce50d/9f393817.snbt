@@ -1,0 +1,25 @@
+{
+	title: "The Root(s) Of Magic",
+	icon: "roots:wildroot",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Welcome to the Magic questline! ",
+		"The \"eras\" of magic are gated by the chapter groups sequentially. So, after this chapter, move on to the next in the sequence.",
+		"Anyway! Now that you have gathered the basic magic materials, it is time to start Roots."
+	],
+	tasks: [{
+		uid: "5c234ecc",
+		type: "item",
+		items: [{
+			item: "roots:wildroot"
+		}]
+	},
+	{
+		uid: "e05d20ad",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}]
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	x: 6.5d,
+	y: -1.8d,
+	text: [
+		"Nether access. Refill it with obsidian!",
+		"I suggest you also make an overworld cake or apple so you can come back easily."
+	],
+	dependencies: [
+		"8c0352dc"
+	],
+	tasks: [{
+		uid: "b46be74d",
+		type: "item",
+		items: [{
+			item: "dimensionaledibles:nether_cake"
+		}]
+	}]
+}

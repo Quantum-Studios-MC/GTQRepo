@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "NETHER",
-    "WET",
-    "HOT"
+    "HOT",
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -99,12 +99,6 @@
       "Weight": 8,
       "Min Group Count": 4,
       "Max Group Count": 6
-    },
-    {
-      "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
-      "Weight": 0,
-      "Min Group Count": 1,
-      "Max Group Count": 2
     }
   ],
   "Spawnable Water Creatures": [],

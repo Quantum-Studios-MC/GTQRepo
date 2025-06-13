@@ -23,5 +23,11 @@
 		items: [{
 			item: "gregtech:meta_ingot 1 31753"
 		}]
+	}],
+	rewards: [{
+		uid: "a800c1b7",
+		type: "item",
+		item: "gregtech:item_pipe_normal 1 31753",
+		count: 3
 	}]
 }

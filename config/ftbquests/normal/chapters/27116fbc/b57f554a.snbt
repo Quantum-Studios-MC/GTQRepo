@@ -1,0 +1,17 @@
+{
+	x: 3.3d,
+	y: 0.0d,
+	text: [
+		"Modules can be inserted into screens to change the displayed data."
+	],
+	dependencies: [
+		"f558843a"
+	],
+	tasks: [{
+		uid: "37475230",
+		type: "item",
+		items: [{
+			item: "rftools:text_module"
+		}]
+	}]
+}

@@ -1,0 +1,25 @@
+{
+	x: 2.1d,
+	y: -0.6d,
+	text: [
+		"The Pyre is the main way of conducting rituals.",
+		"",
+		"NOTE: Before getting a Flint and Steel, simply lighting a block around the Pyre with your Bow Drill/Flint and Tinder will work."
+	],
+	dependencies: [
+		"9f393817"
+	],
+	tasks: [{
+		uid: "831e354e",
+		type: "item",
+		items: [{
+			item: "roots:pyre"
+		}]
+	}],
+	rewards: [{
+		uid: "1363d6c3",
+		type: "item",
+		item: "minecraft:wooden_door",
+		count: 3
+	}]
+}

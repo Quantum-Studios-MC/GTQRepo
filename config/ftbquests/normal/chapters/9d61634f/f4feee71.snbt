@@ -41,5 +41,10 @@
 				Charge: 25000L
 			}
 		}
+	},
+	{
+		uid: "d7ea7481",
+		type: "item",
+		item: "pyrotech:obsidian_hammer"
 	}]
 }

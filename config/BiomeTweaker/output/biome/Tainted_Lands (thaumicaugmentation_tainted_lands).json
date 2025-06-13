@@ -1,6 +1,6 @@
 
 {
-  "ID": 123,
+  "ID": 153,
   "Name": "Tainted Lands",
   "Resource Location": "thaumicaugmentation:tainted_lands",
   "Class": "thecodex6824.thaumicaugmentation.common.world.biome.BiomeTaintedLands",
@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
+    "VOID",
     "COLD",
-    "SPOOKY",
-    "VOID"
+    "SPOOKY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [],
@@ -49,12 +49,6 @@
       "Entity Class": "net.minecraft.entity.monster.EntityEnderman",
       "Weight": 1,
       "Min Group Count": 2,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
-      "Weight": 0,
-      "Min Group Count": 1,
       "Max Group Count": 2
     }
   ],

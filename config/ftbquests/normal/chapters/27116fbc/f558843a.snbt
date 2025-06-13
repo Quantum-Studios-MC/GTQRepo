@@ -1,0 +1,22 @@
+{
+	x: 2.2d,
+	y: 0.0d,
+	text: [
+		"Screens are a useful way of displaying information. They need to be linked to a Screen Controller."
+	],
+	dependencies: [
+		"04407b8a"
+	],
+	tasks: [{
+		uid: "3eaf4fcb",
+		type: "item",
+		items: [{
+			item: "rftools:screen_controller"
+		}]
+	}],
+	rewards: [{
+		uid: "7c4f1d1f",
+		type: "item",
+		item: "rftools:screen"
+	}]
+}

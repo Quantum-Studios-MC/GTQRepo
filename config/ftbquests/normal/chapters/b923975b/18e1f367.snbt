@@ -19,9 +19,9 @@
 		}]
 	}],
 	rewards: [{
-		uid: "14cb7f31",
+		uid: "1b0accb1",
 		type: "item",
-		item: "gregtech:ore_redstone_0",
-		count: 12
+		item: "gregtech:ore_iron_0",
+		count: 9
 	}]
 }

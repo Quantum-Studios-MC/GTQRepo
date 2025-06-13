@@ -18,5 +18,16 @@
 		uid: "1913cf7a",
 		type: "ftbmoney:money",
 		ftb_money: 15L
+	},
+	{
+		uid: "fc680aea",
+		type: "item",
+		item: "gregtech:fluid_pipe_normal 1 260",
+		count: 3
+	},
+	{
+		uid: "e02c95b9",
+		type: "item",
+		item: "minecraft:piston"
 	}]
 }

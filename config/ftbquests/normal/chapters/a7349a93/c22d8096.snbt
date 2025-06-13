@@ -14,8 +14,9 @@
 		}]
 	}],
 	rewards: [{
-		uid: "3d16b2a5",
+		uid: "7a6f90ff",
 		type: "item",
-		item: "binniecore:storage 1 1"
+		item: "minecraft:chest",
+		count: 2
 	}]
 }

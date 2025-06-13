@@ -1,15 +1,16 @@
 {
 	title: "Cupronickel Coils",
-	x: -3.5d,
-	y: -8.5d,
+	x: -3.9d,
+	y: -9.6d,
 	description: "\"That's as hot as Hilton\" - Abel102389 (Disclaimer: that's not very hot)",
 	text: [
 		"All of the coils cost 128 cupronickel, 32 bronze, and 16 tin alloy in total.",
 		"",
 		"Use the alloy smelter for the alloys."
 	],
+	hide_dependency_lines: true,
 	dependencies: [
-		"00ceac31"
+		"b74dae8f"
 	],
 	tasks: [{
 		uid: "fdd94456",

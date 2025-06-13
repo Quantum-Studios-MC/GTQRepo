@@ -27,5 +27,10 @@
 		type: "item",
 		item: "gregtech:meta_ingot 1 335",
 		count: 12
+	},
+	{
+		uid: "49649f05",
+		type: "ftbmoney:money",
+		ftb_money: 100L
 	}]
 }

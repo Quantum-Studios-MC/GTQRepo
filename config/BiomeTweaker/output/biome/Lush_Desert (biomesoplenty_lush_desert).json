@@ -20,12 +20,12 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "SANDY",
-    "LUSH",
-    "DRY",
     "SAVANNA",
-    "SPARSE",
-    "HOT"
+    "LUSH",
+    "SANDY",
+    "HOT",
+    "DRY",
+    "SPARSE"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -144,18 +144,6 @@
       "Weight": 7,
       "Min Group Count": 1,
       "Max Group Count": 1
-    },
-    {
-      "Entity Class": "flaxbeard.cyberware.common.entity.EntityCyberZombie",
-      "Weight": 15,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "matteroverdrive.entity.monster.EntityRangedRogueAndroidMob",
-      "Weight": 0,
-      "Min Group Count": 1,
-      "Max Group Count": 2
     }
   ],
   "Spawnable Water Creatures": [

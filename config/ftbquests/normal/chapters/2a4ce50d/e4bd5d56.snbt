@@ -1,0 +1,17 @@
+{
+	x: 2.1d,
+	y: -4.8d,
+	text: [
+		"Grants access to Arcane Archives."
+	],
+	dependencies: [
+		"4f3adbba"
+	],
+	tasks: [{
+		uid: "aa32f44f",
+		type: "item",
+		items: [{
+			item: "roots:cloud_berry"
+		}]
+	}]
+}

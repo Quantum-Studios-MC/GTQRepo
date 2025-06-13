@@ -15,5 +15,11 @@
 		uid: "e55e4a5b",
 		type: "ftbmoney:money",
 		ftb_money: 15L
+	},
+	{
+		uid: "ea111957",
+		type: "item",
+		item: "gregtech:ore_tetrahedrite_0 1 1",
+		count: 16
 	}]
 }

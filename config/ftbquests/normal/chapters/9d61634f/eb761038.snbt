@@ -18,8 +18,9 @@
 		}]
 	}],
 	rewards: [{
-		uid: "1932a9c9",
+		uid: "fbb787a1",
 		type: "item",
-		item: "rusticthaumaturgy:cindermote_seeds"
+		item: "minecraft:iron_ingot",
+		count: 2
 	}]
 }

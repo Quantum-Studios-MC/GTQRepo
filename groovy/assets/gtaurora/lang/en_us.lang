@@ -271,4 +271,44 @@ gtaurora.material.poisoned_hive_field=Poisoned Hive Field
 gtaurora.material.gourmet_hive_field=Gourmet Hive Field
 gtaurora.material.scorching_hive_field=Scorching Hive Field
 gtaurora.material.laponergium_solution=Laponergium Solution
-gtaurora.material.laponergium_solution=Laponergium Solution
+gtaurora.material.lossless_superconductive_field=Lossless Superconductive Field
+gtaurora.material.nanomachinery=Nanomachinery
+
+gtaurora.material.fluorene=Fluorene
+gtaurora.material.polyfluorene_solvent=Polyfluorene Solvent
+gtaurora.material.bio_gel=Bio Gel
+gtaurora.material.naqneutron_flux=Naq-Neutron Flux
+gtaurora.material.nanotube_suspension=Nanotube Suspension
+gtaurora.material.smart_gel_matrix=Smart Gel Matrix
+gtaurora.material.nano_connector=Nano Connector
+gtaurora.material.nano_superconductor=Nano Superconductor
+gtaurora.material.iron_nanocatalyst=Iron Nanocatalyst
+gtaurora.material.carbon_nanotube_suspension=Carbon Nanotube Suspension
+gtaurora.material.carbon_nanotube=Carbon Nanotube
+gtaurora.material.intermediate_gel=Intermediate Gel
+gtaurora.material.poor_neutronium=Poor Neutronium
+
+gtaurora.material.meteoric_iron=Meteoric Iron
+gtaurora.material.germanite=Germanite
+gtaurora.material.trichlorosilane=Trichlorosilane
+gtaurora.material.ultrapure_silicon=Ultrapure Silicon
+gtaurora.material.silicon_germanium=SiGe (Silicon-Germanium)
+
+gtaurora.material.dilithium=Dilithium
+gtaurora.material.lunarsapphire=Lunar Sapphire
+
+gtaurora.material.hot_sugarcane_juice=Hot Sugarcane Juice
+gtaurora.material.molasses=Molasses
+gtaurora.material.cane_sugar=Cane Sugar
+
+gtaurora.material.lignin_slurry=Lignin Slurry
+gtaurora.material.white_rot_culture=White Rot Culture
+gtaurora.material.aromatic_sludge=Aromatic Compound Sludge
+gtaurora.material.vanillin=Vanillin
+gtaurora.material.syringaldehyde=Syringaldehyde
+gtaurora.material.hydroxybenzoic_acid=Hydroxybenzoic Acid
+gtaurora.material.bio_aromatic_mix=Bio-Aromatic Mixture
+gtaurora.material.fungal_extract=Fungal Extract
+gtaurora.material.lignin=Lignin
+
+gtaurora.material.livingrock=Livingrock

@@ -1,0 +1,18 @@
+{
+	x: 10.5d,
+	y: 3.4000000000000004d,
+	text: [
+		"To actually USE the altars for crafting, you will have to store the respective essences in the crucible first. The crucible type and the altar type must match.",
+		"They must be within a few blocks of the Altar. To input the respective essence into the altar, right click with an Essence Keeper."
+	],
+	dependencies: [
+		"497678fb"
+	],
+	tasks: [{
+		uid: "c4cb975e",
+		type: "item",
+		items: [{
+			item: "harkenscythe:blood_crucible"
+		}]
+	}]
+}

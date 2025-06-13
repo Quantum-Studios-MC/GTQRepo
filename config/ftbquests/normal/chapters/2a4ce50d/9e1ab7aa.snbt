@@ -1,0 +1,14 @@
+{
+	x: 11.5d,
+	y: 4.5d,
+	dependencies: [
+		"2de695e0"
+	],
+	tasks: [{
+		uid: "30fffb1c",
+		type: "item",
+		items: [{
+			item: "harkenscythe:livingmetal_ingot"
+		}]
+	}]
+}

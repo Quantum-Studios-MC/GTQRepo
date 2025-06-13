@@ -1,0 +1,44 @@
+{
+	title: "Spells",
+	icon: {
+		id: "roots:staff",
+		tag: {}
+	},
+	x: 0.0d,
+	y: 1.2d,
+	text: [
+		"Roots also has a Spell System. Spells are like tiny rituals; they cost a certain amount of herbs, which must be placed in a Component Pouch.",
+		"Spells are indexed in a Gramary, and cast by a Staff."
+	],
+	dependencies: [
+		"9f393817"
+	],
+	tasks: [{
+		uid: "7351ede0",
+		type: "item",
+		items: [{
+			item: "roots:gramary"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0f4bc390",
+		type: "item",
+		items: [{
+			id: "roots:component_pouch",
+			tag: {}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "15968e69",
+		type: "item",
+		items: [{
+			id: "roots:staff",
+			tag: {}
+		}],
+		ignore_nbt: 1b
+	}]
+}

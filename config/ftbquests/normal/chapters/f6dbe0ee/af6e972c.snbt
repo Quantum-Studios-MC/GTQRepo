@@ -1,0 +1,17 @@
+{
+	x: 3.4d,
+	y: -5.7d,
+	dependencies: [
+		"fda1b67e"
+	],
+	tasks: [{
+		uid: "3d62c0d0",
+		type: "item",
+		items: [{
+			id: "botania:specialflower",
+			tag: {
+				type: "thermalily"
+			}
+		}]
+	}]
+}

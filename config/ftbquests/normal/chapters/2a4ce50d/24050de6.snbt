@@ -1,0 +1,22 @@
+{
+	title: "Rituals",
+	icon: "roots:ritual_transmutation",
+	x: 0.0d,
+	y: -1.3d,
+	text: [
+		"Many kinds of rituals exist in Roots. To view them all, look at the Roots patchouli book."
+	],
+	dependencies: [
+		"4e42cba2"
+	],
+	tasks: [{
+		uid: "d8da73ba",
+		type: "checkmark",
+		title: "Transmutation"
+	}],
+	rewards: [{
+		uid: "dc5261c5",
+		type: "item",
+		item: "roots:roots_guide"
+	}]
+}

@@ -1,0 +1,40 @@
+{
+	title: "Runed Leaves",
+	x: 0.0d,
+	y: -2.1d,
+	text: [
+		""
+	],
+	can_repeat: true,
+	dependencies: [
+		"9c1a4019"
+	],
+	tasks: [{
+		uid: "898b5d04",
+		type: "item",
+		items: [{
+			item: "roots:dewgonia"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "cd92095a",
+		type: "item",
+		items: [{
+			item: "roots:pereskia"
+		}],
+		consume_items: true
+	},
+	{
+		uid: "bae7a7bb",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}]
+	}],
+	rewards: [{
+		uid: "495480ee",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	}]
+}

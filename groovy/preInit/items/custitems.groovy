@@ -36,6 +36,7 @@ content.createItem('circuit_board.amped_wetware').register()
 content.createItem('contraschrabidic_core').register()
 content.createItem('etched_draconic_plate').register()
 content.createItem('space_data_t1').register()
+content.createItem('token_lucifer').register()
 // blocks
 content.createBlock('deco_computer').register()
 content.createBlock('machine_casing_ampridge').register()

@@ -16,7 +16,8 @@
 				FluidStored: 0,
 				TimeStart: 100,
 				ForgeEnergy: 0
-			}
+			},
+			Count: 1b
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

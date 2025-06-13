@@ -1,0 +1,32 @@
+{
+	x: 2.7d,
+	y: 1.0d,
+	text: [
+		"Any items with [Coal Dust] in the desc. are TOXIC and can cause mesothelioma (lung cancer) which can kill you. Mining ores like Lignite or Coal Blocks",
+		"causes it too- wear masks like this to avoid getting lung cancer."
+	],
+	dependencies: [
+		"d7172183"
+	],
+	tasks: [{
+		uid: "7b0a6cce",
+		type: "item",
+		items: [{
+			item: "hbm:mask_piss"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7860ce75",
+		type: "item",
+		item: "hbm:siox",
+		count: 3
+	},
+	{
+		uid: "fd81376e",
+		type: "item",
+		item: "roots:bark_birch",
+		count: 4
+	}]
+}
