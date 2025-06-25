@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+    <lines at="topleft">
+        <line>
+            <str>{pingicon} Player Info: {green}{username} {white}FPS: {aqua}{FPS}</str>
+        </line>
+            <line>
+        <str>{green}GT Quantum v1.0.8</str>
+    </line>
+        <line>
+            <icon>
+                <str>minecraft:clock</str>
+            </icon>
+            <str> Minecraft Year {green}</str>
+            <add>
+                <round>
+                    <div>
+                        <sub>
+                            <var>day</var>
+                            <modi>
+                                <var>day</var>
+                                <num>365</num>
+                            </modi>
+                        </sub>
+                        <num>365</num>
+                    </div>
+                    <num>0</num>
+                </round>
+                <num>1</num>
+            </add>
+            <str> {white}Day {green}</str>
+            <modi>
+                <var>day</var>
+                <num>365</num>
+            </modi>
+            <str>{white} Time: {green}{mctime12} </str>
+            <if>
+                <var>daytime</var>
+                <str>{yellow}(day)</str>
+                <str>{gray}(night)</str>
+            </if>
+        </line>
+        <line>
+            <icon>
+                <str>twilightforest:miniature_structure</str>
+            </icon>
+            <str> Dimension: {green}{dimension} ({dimensionid})</str>
+        </line>
+        <line>
+            <icon>
+                <str>minecraft:sapling</str>
+                <num>4</num>
+            </icon>
+            <str> Biome: {green}{biome} {green}</str>
+            <round>
+                <var>localtemperature</var>
+                <num>0</num>
+            </round>
+            <str>{white}°F {green}</str>
+            <round>
+                <div>
+                    <sub>
+                        <var>localtemperature</var>
+                        <num>32</num>
+                    </sub>
+                    <num>1.8</num>
+                </div>
+                <num>0</num>
+            </round>
+            <str>{white}°C {green}</str>
+            <round>
+                <add>
+                    <div>
+                        <sub>
+                            <var>localtemperature</var>
+                            <num>32</num>
+                        </sub>
+                        <num>1.8</num>
+                    </div>
+                    <num>273.15</num>
+                </add>
+                <num>0</num>
+            </round>
+            <str>{white}K</str>
+            <str> {green}{humidity}{white}% Humidity</str>
+        </line>
+        <line>
+            <icon>
+                <str>minecraft:skull</str>
+                <num>4</num>
+            </icon>
+            <str> Entities: {green}{entitiesrendered} {white}Rendered / {green}{entitiestotal} {white}Loaded  </str>
+        </line>
+        <line>
+            <icon>
+                <str>minecraft:compass</str>
+                <num>0</num>
+            </icon>
+            <str> Chunk X: {green}{chunkx} {white}Z: {green}{chunkz} {white}Off: {green}{chunkoffsetx} {white}: {green}{chunkoffsetz} {white}Facing {green}{finedirection}</str>
+        </line>
+        <line>
+            <if>
+                <not>
+                <equal>
+                    <var>nextrain</var>
+                    <str>?</str>
+                </equal>
+                </not>
+                <if>
+                    <or>
+                        <equal>
+                            <var>raining</var>
+                            <str>true</str>
+                        </equal>
+                        <equal>
+                            <var>snowing</var>
+                            <str>true</str>
+                        </equal>
+                    </or>
+                    <if>
+                        <or>
+                            <greater>
+                                <var>localtemperature</var>
+                                <num>15</num>
+                            </greater>
+                            <equal>
+                                <var>localtemperature</var>
+                                <num>15</num>
+                            </equal>
+                        </or>
+                        <if>
+                            <equal>
+                                <var>thundering</var>
+                                <str>false</str>
+                            </equal>
+                            <concat>
+                                <icon>
+                                    <str>minecraft:bucket</str>
+                                </icon>
+                                <str> It is {green}Raining{reset} for another {aqua}{nextrain}{reset}.</str>
+                            </concat>
+                        </if>
+                        <if>
+                            <equal>
+                                <var>thundering</var>
+                                <str>true</str>
+                            </equal>
+                            <concat>
+                                <icon>
+                                    <str>minecraft:bucket</str>
+                                </icon>
+                                <str> It is {green}Raining{reset} and {green}Thundering{reset} for another {aqua}{nextrain}{reset}. </str>
+                            </concat>
+                        </if>
+                    </if>
+                </if>
+            </if>
+            <if>
+                <equal>
+                    <var>nextrain</var>
+                    <str>?</str>
+                </equal>
+                <if>
+                    <or>
+                        <equal>
+                            <var>raining</var>
+                            <str>true</str>
+                        </equal>
+                        <equal>
+                            <var>snowing</var>
+                            <str>true</str>
+                        </equal>
+                    </or>
+                    <if>
+                        <or>
+                            <greater>
+                                <var>localtemperature</var>
+                                <num>15</num>
+                            </greater>
+                            <equal>
+                                <var>localtemperature</var>
+                                <num>15</num>
+                            </equal>
+                        </or>
+                        <if>
+                            <equal>
+                                <var>thundering</var>
+                                <str>false</str>
+                            </equal>
+                            <concat>
+                                <icon>
+                                    <str>simpledifficulty:iron_canteen</str>
+                                </icon>
+                                <str> It is {green}Raining{reset}.</str>
+                            </concat>
+                        </if>
+                        <if>
+                            <equal>
+                                <var>thundering</var>
+                                <str>true</str>
+                            </equal>
+                            <concat>
+                                <icon>
+                                    <str>simpledifficulty:iron_canteen</str>
+                                </icon>
+                                <str> It is {green}Raining{reset} and {green}Thundering{reset}. </str>
+                            </concat>
+                        </if>
+                    </if>
+                </if>
+            </if>
+            <if>
+                <not>
+                <equal>
+                    <var>nextrain</var>
+                    <str>?</str>
+                </equal>
+                </not>
+                <if>
+                    <or>
+                        <equal>
+                            <var>raining</var>
+                            <str>true</str>
+                        </equal>
+                        <equal>
+                            <var>snowing</var>
+                            <str>true</str>
+                        </equal>
+                    </or>
+                    <if>
+                        <less>
+                            <var>localtemperature</var>
+                            <num>15</num>
+                        </less>
+                        <if>
+                            <equal>
+                                <var>thundering</var>
+                                <str>false</str>
+                            </equal>
+                            <concat>
+                                <icon>
+                                    <str>simpledifficulty:iron_canteen</str>
+                                </icon>
+                                <str> It is {green}Snowing{reset} for another {aqua}{nextrain}{reset}.</str>
+                            </concat>
+                        </if>
+                        <if>
+                            <equal>
+                                <var>thundering</var>
+                                <str>true</str>
+                            </equal>
+                            <concat>
+                                <icon>
+                                    <str>simpledifficulty:iron_canteen</str>
+                                </icon>
+                                <str> It is {green}Snowing{reset} and {green}Thundering{reset} for another {aqua}{nextrain}{reset}. </str>
+                            </concat>
+                        </if>
+                    </if>
+                </if>
+            </if>
+            <if>
+                <equal>
+                    <var>nextrain</var>
+                    <str>?</str>
+                </equal>
+                <if>
+                    <or>
+                        <equal>
+                            <var>raining</var>
+                            <str>true</str>
+                        </equal>
+                        <equal>
+                            <var>snowing</var>
+                            <str>true</str>
+                        </equal>
+                    </or>
+                    <if>
+                        <less>
+                            <var>localtemperature</var>
+                            <num>15</num>
+                        </less>
+                        <if>
+                            <equal>
+                                <var>thundering</var>
+                                <str>false</str>
+                            </equal>
+                            <concat>
+                                <icon>
+                                    <str>simpledifficulty:iron_canteen</str>
+                                </icon>
+                                <str> It is {green}Snowing{reset}.</str>
+                            </concat>
+                        </if>
+                        <if>
+                            <equal>
+                                <var>thundering</var>
+                                <str>true</str>
+                            </equal>
+                            <concat>
+                                <icon>
+                                    <str>simpledifficulty:iron_canteen</str>
+                                </icon>
+                                <str> It is {green}Snowing{reset} and {green}Thundering{reset}. </str>
+                            </concat>
+                        </if>
+                    </if>
+                </if>
+            </if>
+        </line>
+        <line>
+        <icon>
+            <str>bloodmagic:slate</str>
+        </icon>
+
+  <str>Current LP: {green}</str>
+  <var>bmcurrentlp</var>
+  <str> {white}(Orb Tier: {green}</str>
+  <var>bmorbtier</var>
+  <str>{white})</str>
+</line>
+  <line>
+<icon>
+    <str>thaumcraft:thaumometer</str>
+</icon>
+    <str>{white} Aura: {green}{thaumaura} {white}| Flux: {green}{thaumflux} </str>
+</line>
+    </lines>
+    <lines at = "middleleft">
+        <line>
+            <if>
+                <equal>
+                    <var>slimechunk</var>
+                    <str>true</str>
+                </equal>
+                <concat>
+                    <icon>
+                            <str>minecraft:slime_ball</str>
+                    </icon>
+                    <str> This is a {aqua}Slime {white}chunk.</str>
+                </concat>
+            </if>
+        </line>
+        <line>
+            <if>
+                <and>
+                    <or>
+                        <equal>
+                            <modi>
+                                <var>chunkx</var>
+                                <num>3</num>
+                            </modi>
+                            <num>-2</num>
+                        </equal>
+                        <equal>
+                            <modi>
+                                <var>chunkx</var>
+                                <num>3</num>
+                            </modi>
+                            <num>1</num>
+                        </equal>
+                    </or>
+                    <or>
+                        <equal>
+                            <modi>
+                                <var>chunkz</var>
+                                <num>3</num>
+                            </modi>
+                            <num>-2</num>
+                        </equal>
+                        <equal>
+                            <modi>
+                                <var>chunkz</var>
+                                <num>3</num>
+                            </modi>
+                            <num>1</num>
+                        </equal>
+                    </or>
+                </and>
+                <concat>
+                    <icon>
+                        <str>minecraft:diamond_pickaxe</str>
+                    </icon>
+                    <str>  This is an {aqua}Ore{white} chunk.</str>
+                </concat>
+            </if>
+        </line>
+        <line>
+            <if>
+                <and>
+                    <equal>
+                        <var>chunkoffsetx</var>
+                        <num>7</num>
+                    </equal>
+                    <equal>
+                        <var>chunkoffsetz</var>
+                        <num>7</num>
+                    </equal>
+                </and>
+                <concat>
+                        <icon>
+                                <str>minecraft:redstone</str>
+                        </icon>
+                <str> You are at the {aqua}center {white}of the chunk.</str>
+                </concat>
+            </if>
+        </line>
+    </lines>
+<lines at="topcenter">
+        <line>
+            <icon>
+                <str>sereneseasons:ss_icon</str>
+            </icon>
+            <op>
+                <str>eq</str>
+                <var>sereneseasonscurrentseasonord</var>
+                <num>0</num>
+                <num>1</num>
+                <num>2</num>
+                <num>3</num>
+                <str> {aqua}Spring{white}</str>
+                <str> {aqua}Summer{white}</str>
+                <str> {aqua}Autumn{white}</str>
+                <str> {aqua}Winter{white}</str>
+                <str> {aqua}Error{white}</str>
+            </op>
+
+            <str>, Day {aqua}</str>
+            <add>
+                <var>sereneseasonsdayofseason</var>
+                <num>1</num>
+            </add>
+        </line>
+    </lines>
+</config>

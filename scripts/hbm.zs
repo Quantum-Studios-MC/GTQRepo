@@ -23,6 +23,5 @@ mods.ntm.Assembler.removeRecipe(<hbm:warhead_incendiary_medium>);
 mods.ntm.Assembler.removeRecipe(<hbm:warhead_cluster_medium>);
 mods.ntm.Assembler.removeRecipe(<hbm:warhead_buster_medium>);
 
-mods.ntm.SILEX.addRecipe(2, 900, 100, <minecraft:cooked_beef>, [<hbm:billet_nuclear_waste>, <minecraft:beef>, <minecraft:beef>], [70,20,10]);
 recipes.addShaped(<arcanearchives:gemcutters_table>, [[<ore:stoneMarble>, <roots:pereskia>, <ore:paper>], [<arcanearchives:raw_quartz>, <roots:cloud_berry>, <arcanearchives:raw_quartz>], [<ore:runestone>, <arcanearchives:raw_quartz>, <ore:runestone>]]);
 recipes.addShaped(<arcanearchives:radiant_resonator>, [[null, <roots:runestone_brick_slab>, null], [<roots:cloud_berry>, <roots:pereskia>, <roots:cloud_berry>], [<ore:runestone>, <roots:cooked_pereskia>, <ore:runestone>]]);

@@ -1,0 +1,30 @@
+{
+	x: 5.9d,
+	y: 4.6d,
+	text: [
+		"Nitric Acid is used in a multitude of different applications.",
+		"",
+		"You use it in-",
+		"",
+		"Cetane-Boosted Diesel",
+		"Nitrobenzene",
+		"PBI (IV)",
+		"PGS (IV)"
+	],
+	dependencies: [
+		"d2d30b84"
+	],
+	tasks: [{
+		uid: "fdad82fc",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "nitric_acid",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

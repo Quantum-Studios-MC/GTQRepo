@@ -1,0 +1,26 @@
+{
+	title: "More SMDs",
+	x: 5.9d,
+	y: 3.0d,
+	text: [
+		"SMD Components are much cheaper than their regular counterparts but need more advanced infrastructure to use.",
+		"These are the Diodes and Inductors, unlocked slightly later."
+	],
+	dependencies: [
+		"9feebe85"
+	],
+	tasks: [{
+		uid: "d57c22ce",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 526"
+		}]
+	},
+	{
+		uid: "08bc5568",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 527"
+		}]
+	}]
+}

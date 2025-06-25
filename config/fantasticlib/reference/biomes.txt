@@ -142,16 +142,6 @@ thaumcraft:eldritch
 galacticraftcore:outer space
 galacticraftplanets:outer space 1
 galacticraftplanets:outer space 2
-extraplanets:outer space 3
-extraplanets:outer space 4
-extraplanets:outer space 5
-extraplanets:outer space 6
-extraplanets:outer space 7
-extraplanets:outer space 8
-extraplanets:outer space 9
-extraplanets:outer space 10
-extraplanets:outer space 11
-extraplanets:outer space 12
 galaxyspace:space
 galaxyspace:spacelowplains
 galaxyspace:spacemidplains
@@ -159,19 +149,32 @@ galaxyspace:spacelowhills
 galaxyspace:spacemidhills
 asmodeuscore:-=|worldengine|=-
 asmodeuscore:-=|worldengine 2|=-
-mahoutsukai:realitymarble
+twilightforest:twilight_lake
+twilightforest:twilight_forest
+twilightforest:dense_twilight_forest
+twilightforest:twilight_highlands
+twilightforest:mushroom_forest
+twilightforest:twilight_swamp
+twilightforest:twilight_stream
+twilightforest:snowy_forest
+twilightforest:twilight_glacier
+twilightforest:twilight_clearing
+twilightforest:oak_savannah
+twilightforest:firefly_forest
+twilightforest:deep_mushroom_forest
+twilightforest:dark_forest
+twilightforest:enchanted_forest
+twilightforest:fire_swamp
+twilightforest:dark_forest_center
+twilightforest:highlands_center
+twilightforest:thornlands
+twilightforest:spooky_forest
+nuclearcraft:nuclear_wasteland
 yurtmod:tent
 srparasites:biome_parasite
 thaumicaugmentation:emptiness
 thaumicaugmentation:tainted_lands
 thaumicaugmentation:emptiness_highlands
-theaurorian:aurorianforest
-theaurorian:aurorianforesthills
-theaurorian:aurorianplains
-theaurorian:weepingwillowforest
-theaurorian:aurorianlakes
-vampirism:vampireforest
-immersiveintelligence:wasteland
 aether_legacy:aether_highlands
 stygian:stygian_growth
 stygian:acidic_plains

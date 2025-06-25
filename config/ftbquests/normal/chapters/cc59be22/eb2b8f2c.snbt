@@ -1,0 +1,20 @@
+{
+	x: 4.2d,
+	y: 0.0d,
+	text: [
+		"Remember those chemical dyes you could make using Sulfuric Acid? Well, now you can use those to dye lenses.",
+		"Lenses will be useful as each different color gives you a unique output!",
+		"",
+		"NOTE: If you are uninterested in Magic or Exploring so far, your only way to make endereyes is in this machine."
+	],
+	dependencies: [
+		"5f162cfd"
+	],
+	tasks: [{
+		uid: "326e073f",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 202"
+		}]
+	}]
+}

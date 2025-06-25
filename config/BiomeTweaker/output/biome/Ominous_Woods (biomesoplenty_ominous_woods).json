@@ -20,13 +20,13 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
-    "FOREST",
-    "DEAD",
-    "MAGICAL",
-    "DENSE",
     "RARE",
-    "SPOOKY",
-    "WET"
+    "WET",
+    "DEAD",
+    "DENSE",
+    "FOREST",
+    "MAGICAL",
+    "SPOOKY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -59,12 +59,6 @@
       "Weight": 9,
       "Min Group Count": 1,
       "Max Group Count": 3
-    },
-    {
-      "Entity Class": "stepsword.mahoutsukai.entity.fae.FaeEntity",
-      "Weight": 40,
-      "Min Group Count": 0,
-      "Max Group Count": 6
     }
   ],
   "Spawnable Monsters": [
@@ -125,18 +119,6 @@
     {
       "Entity Class": "mod.emt.harkenscythe.entity.HSEntitySpectralMiner",
       "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityBasicVampire",
-      "Weight": 75,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityAdvancedVampire",
-      "Weight": 7,
       "Min Group Count": 1,
       "Max Group Count": 1
     },

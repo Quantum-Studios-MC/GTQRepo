@@ -312,3 +312,7 @@ recipemap('mixer').recipeBuilder()
         .inputs(ore('dustAnnealedCopper'))
         .outputs(metaitem('dustMingrade'))
         .duration(60).EUt(120).buildAndRegister()
+
+// RBMK TIME!!!!!!!!!!!!!!!!!!!
+
+// i did all rbmk in 

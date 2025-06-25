@@ -1,0 +1,19 @@
+{
+	title: "Doping",
+	x: 5.9d,
+	y: -3.2d,
+	text: [
+		"Boules have a property in which if you dope them with certain impurities they will make a better yield. A prime example is the P-Doped Boule,",
+		"Yielding 8x more components per wafer! As you go on, you will NEED to dope boules in order to get certain components."
+	],
+	dependencies: [
+		"c954dd51"
+	],
+	tasks: [{
+		uid: "961c7290",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 362"
+		}]
+	}]
+}

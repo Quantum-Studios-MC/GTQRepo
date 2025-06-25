@@ -1,0 +1,27 @@
+{
+	icon: "gregtech:machine 1 1213",
+	x: 5.9d,
+	y: 0.0d,
+	text: [
+		"To unlock the next tier of energy hatch, you'll need to make LPIC (Low-Power IC) which take an Orange Lens made only from Chemical Dye."
+	],
+	dependencies: [
+		"c954dd51",
+		"eb2b8f2c",
+		"8ac9d34a"
+	],
+	tasks: [{
+		uid: "5998c1dc",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1213"
+		}]
+	},
+	{
+		uid: "a8901eb0",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 603"
+		}]
+	}]
+}

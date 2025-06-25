@@ -33,13 +33,12 @@
         "hbm:tile.cluster_aluminium",
         "hbm:tile.ore_aluminium",
         "hbm:tile.ore_meteor_aluminium",
-        "immersiveengineering:tile.immersiveengineering.ore.aluminum",
-        "libvulpes:material.Aluminum",
+        "tconstruct:tile.tconstruct.common_ore.aluminum",
         "thermalfoundation:tile.thermalfoundation.ore.aluminum"
       ],
       "output": [
-        "immersiveengineering:metal:21",
-        "libvulpes:productnugget:9",
+        "serendustry:meta_nugget:17",
+        "tconstruct:common_nuggets:2",
         "thermalfoundation:material:196"
       ],
       "bloomYieldMinMax": [
@@ -98,26 +97,6 @@
     "oreCopper": {
       "slagColor": "ffaa1c",
       "langKey": [
-        "extraplanets:tile.callisto.ore_copper",
-        "extraplanets:tile.ceres.ore_copper",
-        "extraplanets:tile.deimos.ore_copper",
-        "extraplanets:tile.eris.ore_copper",
-        "extraplanets:tile.europa.ore_copper",
-        "extraplanets:tile.ganymede.ore_copper",
-        "extraplanets:tile.iapetus.ore_copper",
-        "extraplanets:tile.io.ore_copper",
-        "extraplanets:tile.jupiter.ore_copper",
-        "extraplanets:tile.kepler22b.ore_copper",
-        "extraplanets:tile.mercury.ore_copper",
-        "extraplanets:tile.neptune.ore_copper",
-        "extraplanets:tile.oberon.ore_copper",
-        "extraplanets:tile.phobos.ore_copper",
-        "extraplanets:tile.pluto.ore_copper",
-        "extraplanets:tile.rhea.ore_copper",
-        "extraplanets:tile.saturn.ore_copper",
-        "extraplanets:tile.titan.ore_copper",
-        "extraplanets:tile.titania.ore_copper",
-        "extraplanets:tile.triton.ore_copper",
         "forestry:tile.for.resources.copper",
         "galacticraftcore:tile.basic_block_core.ore_copper_gc",
         "galacticraftcore:tile.basic_block_moon.coppermoon",
@@ -131,17 +110,13 @@
         "hbm:tile.ore_copper",
         "hbm:tile.ore_gneiss_copper",
         "hbm:tile.ore_meteor_copper",
-        "immersiveengineering:tile.immersiveengineering.ore.copper",
-        "libvulpes:material.Copper",
-        "lucraftcore:tile.ore_copper",
-        "projectred-exploration:tile.projectred.exploration.ore|3",
+        "nuclearcraft:tile.nuclearcraft.ore.copper",
+        "tconstruct:tile.tconstruct.common_ore.copper",
         "thermalfoundation:tile.thermalfoundation.ore.copper"
       ],
       "output": [
         "gregtech:meta_nugget:25",
-        "immersiveengineering:metal:20",
-        "libvulpes:productnugget:4",
-        "lucraftcore:nugget_copper:0",
+        "tconstruct:common_nuggets:0",
         "thaumcraft:nugget:1",
         "thermalfoundation:material:192"
       ],
@@ -179,14 +154,10 @@
     "oreIridium": {
       "slagColor": "d5d4e7",
       "langKey": [
-        "libvulpes:material.Iridium",
-        "lucraftcore:tile.ore_iridium",
         "thermalfoundation:tile.thermalfoundation.ore.iridium"
       ],
       "output": [
         "gregtech:meta_nugget:50",
-        "libvulpes:productnugget:10",
-        "lucraftcore:nugget_iridium:0",
         "thermalfoundation:material:199"
       ],
       "bloomYieldMinMax": [
@@ -201,26 +172,6 @@
     "oreIron": {
       "slagColor": "d8af93",
       "langKey": [
-        "extraplanets:tile.callisto.ore_iron",
-        "extraplanets:tile.ceres.ore_iron",
-        "extraplanets:tile.deimos.ore_iron",
-        "extraplanets:tile.eris.ore_iron",
-        "extraplanets:tile.europa.ore_iron",
-        "extraplanets:tile.ganymede.ore_iron",
-        "extraplanets:tile.iapetus.ore_iron",
-        "extraplanets:tile.io.ore_iron",
-        "extraplanets:tile.jupiter.ore_iron",
-        "extraplanets:tile.kepler22b.ore_iron",
-        "extraplanets:tile.mercury.ore_iron",
-        "extraplanets:tile.neptune.ore_iron",
-        "extraplanets:tile.oberon.ore_iron",
-        "extraplanets:tile.phobos.ore_iron",
-        "extraplanets:tile.pluto.ore_iron",
-        "extraplanets:tile.rhea.ore_iron",
-        "extraplanets:tile.saturn.ore_iron",
-        "extraplanets:tile.titan.ore_iron",
-        "extraplanets:tile.titania.ore_iron",
-        "extraplanets:tile.triton.ore_iron",
         "galacticraftplanets:tile.asteroids_block.ore_iron_asteroids",
         "galacticraftplanets:tile.mars.ironmars",
         "galaxyspace:tile.iron_ore",
@@ -235,7 +186,6 @@
         "minecraft:tile.oreIron"
       ],
       "output": [
-        "immersiveengineering:metal:29",
         "minecraft:iron_nugget:0",
         "thaumcraft:nugget:0"
       ],
@@ -251,20 +201,16 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
-        "extraplanets:tile.ore_lead",
         "galacticraftplanets:tile.venus.venus_ore_galena",
         "gregtech:tile.ore_block",
         "hbm:tile.ore_lead",
         "hbm:tile.ore_meteor_lead",
-        "immersiveengineering:tile.immersiveengineering.ore.lead",
-        "lucraftcore:tile.ore_lead",
+        "nuclearcraft:tile.nuclearcraft.ore.lead",
         "thermalfoundation:tile.thermalfoundation.ore.lead"
       ],
       "output": [
         "gregtech:meta_nugget:55",
         "hbm:nugget:26",
-        "immersiveengineering:metal:22",
-        "lucraftcore:nugget_lead:0",
         "thaumcraft:nugget:4",
         "thermalfoundation:material:195"
       ],
@@ -297,39 +243,16 @@
     "oreNickel": {
       "slagColor": "e4e5d8",
       "langKey": [
-        "extraplanets:tile.jupiter.ore_nickel",
         "galaxyspace:tile.mercury_nickel_ore",
         "galaxyspace:tile.miranda_nickel_ore",
         "galaxyspace:tile.nickel_ore",
         "galaxyspace:tile.nickel_ore",
         "gregtech:tile.ore_block",
-        "immersiveengineering:tile.immersiveengineering.ore.nickel",
-        "lucraftcore:tile.ore_nickel",
         "thermalfoundation:tile.thermalfoundation.ore.nickel"
       ],
       "output": [
         "gregtech:meta_nugget:69",
-        "immersiveengineering:metal:24",
-        "lucraftcore:nugget_nickel:0",
         "thermalfoundation:material:197"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
-    "oreOsmium": {
-      "slagColor": "9babc4",
-      "langKey": [
-        "lucraftcore:tile.ore_osmium"
-      ],
-      "output": [
-        "gregtech:meta_nugget:75",
-        "lucraftcore:nugget_osmium:0"
       ],
       "bloomYieldMinMax": [
         12,
@@ -343,14 +266,11 @@
     "orePlatinum": {
       "slagColor": "55f3ff",
       "langKey": [
-        "extraplanets:tile.kepler22b.ore_platinum",
         "gregtech:tile.ore_block",
-        "immersiveintelligence:tile.immersiveintelligence.ore.platinum",
         "thermalfoundation:tile.thermalfoundation.ore.platinum"
       ],
       "output": [
         "gregtech:meta_nugget:80",
-        "immersiveintelligence:material_nugget:2",
         "thermalfoundation:material:198"
       ],
       "bloomYieldMinMax": [
@@ -367,16 +287,11 @@
       "langKey": [
         "bewitchment:tile.bewitchment.silver_ore",
         "gregtech:tile.ore_block",
-        "immersiveengineering:tile.immersiveengineering.ore.silver",
-        "lucraftcore:tile.ore_silver",
-        "projectred-exploration:tile.projectred.exploration.ore|5",
         "thermalfoundation:tile.thermalfoundation.ore.silver"
       ],
       "output": [
         "bewitchment:silver_nugget:0",
         "gregtech:meta_nugget:100",
-        "immersiveengineering:metal:23",
-        "lucraftcore:nugget_silver:0",
         "thaumcraft:nugget:3",
         "thermalfoundation:material:194"
       ],
@@ -392,26 +307,6 @@
     "oreTin": {
       "slagColor": "c3e9ff",
       "langKey": [
-        "extraplanets:tile.callisto.ore_tin",
-        "extraplanets:tile.ceres.ore_tin",
-        "extraplanets:tile.deimos.ore_tin",
-        "extraplanets:tile.eris.ore_tin",
-        "extraplanets:tile.europa.ore_tin",
-        "extraplanets:tile.ganymede.ore_tin",
-        "extraplanets:tile.iapetus.ore_tin",
-        "extraplanets:tile.io.ore_tin",
-        "extraplanets:tile.jupiter.ore_tin",
-        "extraplanets:tile.kepler22b.ore_tin",
-        "extraplanets:tile.mercury.ore_tin",
-        "extraplanets:tile.neptune.ore_tin",
-        "extraplanets:tile.oberon.ore_tin",
-        "extraplanets:tile.phobos.ore_tin",
-        "extraplanets:tile.pluto.ore_tin",
-        "extraplanets:tile.rhea.ore_tin",
-        "extraplanets:tile.saturn.ore_tin",
-        "extraplanets:tile.titan.ore_tin",
-        "extraplanets:tile.titania.ore_tin",
-        "extraplanets:tile.triton.ore_tin",
         "forestry:tile.for.resources.tin",
         "galacticraftcore:tile.basic_block_core.ore_tin_gc",
         "galacticraftcore:tile.basic_block_moon.tinmoon",
@@ -420,15 +315,13 @@
         "galaxyspace:tile.proxima_b_tin_ore",
         "galaxyspace:tile.tin_ore",
         "gregtech:tile.ore_block",
-        "libvulpes:material.Tin",
-        "lucraftcore:tile.ore_tin",
-        "projectred-exploration:tile.projectred.exploration.ore|4",
+        "nuclearcraft:tile.nuclearcraft.ore.tin",
+        "tconstruct:tile.tconstruct.common_ore.tin",
         "thermalfoundation:tile.thermalfoundation.ore.tin"
       ],
       "output": [
         "gregtech:meta_nugget:112",
-        "libvulpes:productnugget:5",
-        "lucraftcore:nugget_tin:0",
+        "tconstruct:common_nuggets:1",
         "thaumcraft:nugget:2",
         "thermalfoundation:material:193"
       ],
@@ -444,7 +337,6 @@
     "oreUranium": {
       "slagColor": "5c734b",
       "langKey": [
-        "extraplanets:tile.ceres.ore_uranium",
         "galaxyspace:tile.uranium_ore",
         "hbm:tile.ore_gneiss_uranium",
         "hbm:tile.ore_gneiss_uranium_scorched",
@@ -453,14 +345,11 @@
         "hbm:tile.ore_nether_uranium_scorched",
         "hbm:tile.ore_uranium",
         "hbm:tile.ore_uranium_scorched",
-        "immersiveengineering:tile.immersiveengineering.ore.uranium",
-        "lucraftcore:tile.ore_uranium"
+        "nuclearcraft:tile.nuclearcraft.ore.uranium"
       ],
       "output": [
         "gregtech:meta_nugget:116",
-        "hbm:nugget:0",
-        "immersiveengineering:metal:25",
-        "lucraftcore:nugget_uranium:0"
+        "hbm:nugget:0"
       ],
       "bloomYieldMinMax": [
         12,

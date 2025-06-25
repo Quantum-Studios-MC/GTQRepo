@@ -1,0 +1,18 @@
+{
+	title: "HV Chemistry",
+	x: 2.7d,
+	y: 1.5d,
+	text: [
+		"The HV Chemical Reactor unlocks many more recipes, to feed into HV."
+	],
+	dependencies: [
+		"5f162cfd"
+	],
+	tasks: [{
+		uid: "d0326ff2",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 217"
+		}]
+	}]
+}

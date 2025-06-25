@@ -97,7 +97,7 @@ recipemap('mixer').recipeBuilder()
         .inputs(ore('dustIron'))
         .inputs(ore('dustCarbon'))
         .outputs(metaitem('dustDarkSteel'))
-        .duration(60).EUt(200).buildAndRegister()
+        .duration(60).EUt(120).buildAndRegister()
 
 recipemap('mixer').recipeBuilder()
         .inputs(ore('dustEndSteel'))

@@ -1,0 +1,18 @@
+{
+	title: "Nichrome",
+	x: 6.7d,
+	y: 1.2d,
+	text: [
+		"Nichrome Coils are the new coil tier. They require cooling down in the VF, as will most metals in higher tiers."
+	],
+	dependencies: [
+		"0f8d5f79"
+	],
+	tasks: [{
+		uid: "ea6e435d",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil 1 2"
+		}]
+	}]
+}

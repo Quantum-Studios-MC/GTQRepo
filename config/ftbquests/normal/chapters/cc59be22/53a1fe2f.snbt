@@ -1,0 +1,18 @@
+{
+	x: 8.3d,
+	y: 1.2d,
+	text: [
+		"The material for the next tier!"
+	],
+	dependencies: [
+		"0f8d5f79",
+		"229671b3"
+	],
+	tasks: [{
+		uid: "c2c9c0b2",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 113"
+		}]
+	}]
+}

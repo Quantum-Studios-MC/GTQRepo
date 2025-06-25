@@ -1,0 +1,17 @@
+{
+	x: 7.5d,
+	y: -3.2d,
+	text: [
+		"The new Circuit Assembler will allow you to make your first Mainframe- or the first IV Circuit!"
+	],
+	dependencies: [
+		"53e30916"
+	],
+	tasks: [{
+		uid: "68ef1b97",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 637"
+		}]
+	}]
+}

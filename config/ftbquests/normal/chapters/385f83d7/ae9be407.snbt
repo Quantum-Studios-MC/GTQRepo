@@ -1,0 +1,18 @@
+{
+	x: 0.0d,
+	y: -3.9d,
+	text: [
+		"The TIER 1 rocket will only allow you to go to the Moon."
+	],
+	dependencies: [
+		"ca90de0e"
+	],
+	tasks: [{
+		uid: "87c3e8b6",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_t1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

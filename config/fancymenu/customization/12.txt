@@ -24,11 +24,6 @@ customization {
 }
 
 customization {
-  identifier = %id=376346%
-  action = hidebutton
-}
-
-customization {
   orientation = top-left
   hidden = true
   x = 322
@@ -43,21 +38,21 @@ customization {
   orientation = top-left
   hidden = false
   x = 2
-  width = 139
+  width = 169
   action = deep_customization_element:title_screen_branding
   actionid = 8afa54ae-a25c-407f-80c2-77069073c3691719494364643
-  y = 418
+  y = 298
   height = 60
 }
 
 customization {
   orientation = top-left
   hidden = false
-  x = 668
-  width = 185
+  x = 411
+  width = 228
   action = deep_customization_element:title_screen_forge_copyright
   actionid = 53ee14d2-c4e3-40dd-832d-a3808eb5a88e1719494364644
-  y = 460
+  y = 340
   height = 9
 }
 
@@ -120,6 +115,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
+  backgroundhovered = groovy/ejadghovered.png
   backgroundnormal = groovy/ejadg.png
 }
 
@@ -128,7 +124,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundnormal = groovy/ejadg.png
+  backgroundhovered = groovy/ejadgsmallhovered.png
+  backgroundnormal = groovy/ejadgsmall.png
 }
 
 customization {
@@ -136,7 +133,8 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
-  backgroundnormal = groovy/ejadg.png
+  backgroundhovered = groovy/ejadgsmallhovered.png
+  backgroundnormal = groovy/ejadgsmall.png
 }
 
 customization {
@@ -144,6 +142,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
+  backgroundhovered = groovy/ejadghovered.png
   backgroundnormal = groovy/ejadg.png
 }
 
@@ -152,6 +151,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture
+  backgroundhovered = groovy/ejadghovered.png
   backgroundnormal = groovy/ejadg.png
 }
 

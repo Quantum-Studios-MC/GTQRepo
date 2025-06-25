@@ -39,7 +39,6 @@ gtaurora.material.dark_steel=Dark Steel
 gtaurora.material.energetic_alloy=Energetic Alloy
 gtaurora.material.electrical_steel=Electrical Steel
 gtaurora.material.vitalium=Vitalium
-gtaurora.material.draconium=Draconium
 gtaurora.material.energetic_silver=Energetic Silver
 gtaurora.material.vivid_alloy=Vivid Alloy
 gtaurora.material.pulsating_iron=Pulsating Iron
@@ -294,7 +293,7 @@ gtaurora.material.trichlorosilane=Trichlorosilane
 gtaurora.material.ultrapure_silicon=Ultrapure Silicon
 gtaurora.material.silicon_germanium=SiGe (Silicon-Germanium)
 
-gtaurora.material.dilithium=Dilithium
+gtaurora.material.=Dilithium
 gtaurora.material.lunarsapphire=Lunar Sapphire
 
 gtaurora.material.hot_sugarcane_juice=Hot Sugarcane Juice
@@ -312,3 +311,13 @@ gtaurora.material.fungal_extract=Fungal Extract
 gtaurora.material.lignin=Lignin
 
 gtaurora.material.livingrock=Livingrock
+
+gtaurora.material.tough=Tough Alloy
+gtaurora.material.hard_carbon=Hard Carbon
+gtaurora.material.ferroboron=Ferroboron
+
+gtaurora.material.extreme=Extreme Alloy
+gtaurora.material.thermoconducting=Thermoconducting Alloy
+
+
+gtaurora.veins.ore.essentia_deposit_2=Alternate Essentia Deposit

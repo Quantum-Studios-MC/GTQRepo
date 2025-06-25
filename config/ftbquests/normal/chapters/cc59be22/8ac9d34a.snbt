@@ -1,0 +1,17 @@
+{
+	x: 4.2d,
+	y: 1.5d,
+	text: [
+		"This is the next step in progression- and also required for many HV recipes such as the Energy Hatch."
+	],
+	dependencies: [
+		"5f162cfd"
+	],
+	tasks: [{
+		uid: "1f4ed977",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 112"
+		}]
+	}]
+}

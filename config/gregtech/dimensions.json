@@ -15,6 +15,14 @@
     {
       "dimID": -23,
       "dimName": "Moon"
+    },
+    {
+      "dimID": 4,
+      "dimName": "Aether"
+    },
+        {
+      "dimID": 7,
+      "dimName": "Twilight Forest"
     }
   ]
 }

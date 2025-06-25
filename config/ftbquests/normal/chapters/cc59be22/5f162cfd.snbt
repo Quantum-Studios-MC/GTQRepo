@@ -1,0 +1,22 @@
+{
+	title: "HV Machines",
+	x: 2.7d,
+	y: 0.0d,
+	text: [
+		"Ahh.. wait, POLYETHYLENE??!",
+		"",
+		"Yes, Polyethylene. If you haven't somehow done it already go do it!",
+		"",
+		"Anyway, HV machines take almost 4x the power of MV machines, so upgrading your power grid is ESSENTIAL!"
+	],
+	dependencies: [
+		"048c9e6b"
+	],
+	tasks: [{
+		uid: "b256f39e",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 988"
+		}]
+	}]
+}

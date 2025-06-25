@@ -1,0 +1,41 @@
+{
+	icon: "gregtech:machine 1 1023",
+	x: 4.2d,
+	y: 4.6d,
+	text: [
+		"the LCR is a Multiblock that can do multistep Chemical Reactor recipes in one go. It can also do certain exclusive recipes (mainly Radon)",
+		"Using 2 Energy Hatches makes it run at the next tier."
+	],
+	dependencies: [
+		"17152788"
+	],
+	tasks: [{
+		uid: "2149f022",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1023"
+		}]
+	},
+	{
+		uid: "45faf0d9",
+		type: "item",
+		items: [{
+			item: "gregtech:boiler_casing 1 4"
+		}]
+	},
+	{
+		uid: "ea04bf43",
+		type: "item",
+		items: [{
+			item: "gregtech:metal_casing 1 9"
+		}],
+		count: 10L
+	},
+	{
+		uid: "fa05f04d",
+		type: "item",
+		items: [{
+			item: "gregtech:wire_coil"
+		}]
+	}]
+}

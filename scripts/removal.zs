@@ -40,8 +40,7 @@ recipes.removeByRecipeName("enderio:tweak_chest_from_wood");
 recipes.removeByRecipeName("extrautils2:shortcut_stick");
 recipes.removeByRecipeName("enderio:tweak_stick_from_wood");
 
-val blockSteel = <ore:blockSteel>;
-blockSteel.remove(<lucraftcore:block_steel>); 
+
 
 recipes.removeByRecipeName("roots:paper");
 recipes.removeByRecipeName("endercore:shapeless_paper");
@@ -56,7 +55,6 @@ recipes.remove(<hbm:hull_small_steel>);
 recipes.remove(<hbm:brick_compound> * 8);
 
 recipes.removeByRecipeName("gtwp:stick_normal");
-recipes.remove(<lucraftcore:dust_bronze>);
-recipes.remove(<lucraftcore:hammer>);
-recipes.removeByRecipeName("lucraftcore:dust_bronze_alt");
+
 recipes.remove(<thermalfoundation:material:99>);
+

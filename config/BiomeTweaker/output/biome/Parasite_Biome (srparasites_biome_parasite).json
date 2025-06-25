@@ -1,6 +1,6 @@
 
 {
-  "ID": 150,
+  "ID": 173,
   "Name": "Parasite Biome",
   "Resource Location": "srparasites:biome_parasite",
   "Class": "com.dhanantry.scapeandrunparasites.world.biome.BiomeInfestedPlain",

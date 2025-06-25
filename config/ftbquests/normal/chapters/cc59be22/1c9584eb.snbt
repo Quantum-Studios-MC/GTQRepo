@@ -1,0 +1,54 @@
+{
+	title: "We call this Fun",
+	x: 1.3d,
+	y: 0.0d,
+	text: [
+		"Though the quest says \"Optional\", sadly, these are very much NOT optional."
+	],
+	dependencies: [
+		"048c9e6b"
+	],
+	optional: true,
+	tasks: [{
+		uid: "59b0c8e4",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 129"
+		}]
+	},
+	{
+		uid: "ecb835bc",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 144"
+		}]
+	},
+	{
+		uid: "d10390ff",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 249"
+		}]
+	},
+	{
+		uid: "8e2f1a1c",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 189"
+		}]
+	},
+	{
+		uid: "193b1299",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 234"
+		}]
+	},
+	{
+		uid: "c9caf1e3",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 219"
+		}]
+	}]
+}
