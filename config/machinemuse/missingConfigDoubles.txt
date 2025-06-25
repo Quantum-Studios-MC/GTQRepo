@@ -5,5 +5,3 @@ put( "chisel.chiselHarvSpd.base", 8.0D );
 put( "chisel.chiselHarvSpd.overclock.multiplier", 22.0D );
 put( "chisel.slotPoints.base", 1.0D );
 put( "omniProbe.slotPoints.base", 1.0D );
-put( "pressure_module_0.slotPoints.base", 1.0D );
-put( "radiation_module_0.slotPoints.base", 1.0D );

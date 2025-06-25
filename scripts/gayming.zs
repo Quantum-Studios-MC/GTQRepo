@@ -3,7 +3,6 @@
 recipes.addShaped(<rftools:charged_porter>, [[<draconicevolution:dislocator_advanced>, <ore:batteryEv>], [<hbm:ducttape>, <hbm:ducttape>]]);
 recipes.addShaped(<rftoolsdim:time_absorber>, [[<ore:screwNaquadahAlloy>, null, <gregtech:meta_screw:2042>], [<hbm:battery_spark_cell_10000>, <hbm:singularity_spark>, <hbm:battery_spark_cell_10000>], [<gregtech:meta_screw:2042>, null, <ore:screwNaquadahAlloy>]]);
 recipes.addShaped(<rftoolsdim:feature_absorber>, [[null, <rftoolsdim:liquid_absorber>, null], [<rftoolsdim:biome_absorber>, <rftoolsdim:terrain_absorber>, <rftoolsdim:time_absorber>], [null, <rftoolsdim:material_absorber>, null]]);
-recipes.addShaped(<rftoolsdim:liquid_absorber>, [[<gregtech:meta_item_1:149>, <industrialforegoing:black_hole_tank>, <gregtech:meta_item_1:149>], [<industrialforegoing:black_hole_tank>, <rftools:machine_frame>, <industrialforegoing:black_hole_tank>], [<gregtech:meta_item_1:149>, <industrialforegoing:black_hole_tank>, <gregtech:meta_item_1:149>]]);
 recipes.addShaped(<rftoolsdim:biome_absorber>, [[<biomesoplenty:crystal_shard>, <biomesoplenty:terrarium:1>, <biomesoplenty:gem>], [<biomesoplenty:terrarium:15>, <rftools:machine_frame>, <biomesoplenty:terrarium:13>], [<biomesoplenty:gem>, <biomesoplenty:terrarium:14>, <biomesoplenty:crystal_shard>]]);
 recipes.addShaped(<rftoolsdim:terrain_absorber>, [[<hbm:capsule_hole_tiny>, <hbm:particle_amat>, <hbm:capsule_hole_tiny>], [<hbm:cell>, <rftools:machine_frame>, <hbm:cell>], [<hbm:capsule_hole_tiny>, <hbm:particle_amat>, <hbm:capsule_hole_tiny>]]);
 recipes.addShaped(<rftoolscontrol:programmer>, [[<rs_ctr:trigger>, <rftoolscontrol:card_base>, <rs_ctr:trigger>], [<ore:circuitLv>, <rftools:machine_frame>, <ore:circuitLv>], [<rs_ctr:offset>, <rftoolscontrol:program_card>, <rs_ctr:scale>]]);
@@ -62,3 +61,4 @@ recipes.addShaped(<cuisine:jar> * 2, [[null, <pyrotech:material:16>, null], [<py
 recipes.addShaped(<cuisine:kitchen_knife>, [[<ore:shard>, <pyrotech:material:16>], [<ore:shard>, <pyrotech:flint_butchers_knife>], [null, <cuisine:material:1>]]);
 recipes.addShaped(<cuisine:earthen_basin>, [[<pyrotech:material:16>, null, <pyrotech:material:16>], [<pyrotech:material:20>, <pyrotech:material:16>, <pyrotech:material:20>]]);
 recipes.addShaped(<minecraft:speckled_melon>, [[<minecraft:golden_carrot>], [<roots:runic_dust>]]);
+

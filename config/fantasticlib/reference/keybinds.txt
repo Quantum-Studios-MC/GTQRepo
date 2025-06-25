@@ -9,16 +9,8 @@ key.forward
 
 key.categories.gameplay
 key.attack
-key.immersiveengineering.magnetEquip
-key.immersiveintelligence.manualReload
 key.pickItem
-key.immersiveengineering.chemthrowerSwitch
-key.immersiveintelligence.armorExosuit
-key.immersiveintelligence.armorHelmet
-key.immersiveintelligence.motorbikeTowing
 key.use
-key.immersiveintelligence.mgScope
-key.immersiveintelligence.motorbikeEngine
 
 key.categories.inventory
 keybind.baublesinventory
@@ -69,6 +61,9 @@ key.toggle_focus.desc
 arcanearchives.gui.keygroup
 arcanearchives.gui.keybinds.socket
 arcanearchives.gui.keybinds.manifest
+
+Better Questing Unofficial
+key.betterquesting.quests
 
 Binnie's Mods
 binniecore.key.hold.for.help.tooltips
@@ -130,16 +125,8 @@ key.gui.weapon_interface
 Extra Utilities 2
 key.xu2.searchforitems
 
-ExtraPlanets
-Open Module Manager
-Open Portable NASA Workbench GUI
-Open Powered Vehicle Inventory
-Open Pre Launch Checklist GUI
-
 key.categories.ftbmods
 key.ftbutilities.nbt
-key.ftbquests.quests
-key.ftbmoney.shop
 key.ftbutilities.trash
 
 FancyMenu
@@ -166,12 +153,6 @@ gregtech.key.tool_aoe_change
 key.categories.groovyscript
 key.groovyscript.reload
 
-HT's TreeChop
-treechop.key.cycle_sneak_behavior
-treechop.key.open_settings_overlay
-treechop.key.toggle_chopping
-treechop.key.toggle_felling
-
 key.categories.hbm
 key.categories.hbm.craneLoad
 key.categories.hbm.craneMoveDown
@@ -186,9 +167,8 @@ key.jetpack_activate
 key.jetpack_hud
 key.jetpack_hover
 
-Immersive Vehicles (MTS)
-Import Packs (Developers Only)
-Open configuration screen
+ingameinfoxml.key.category
+ingameinfoxml.key.toggle
 
 invtweaks.key.category
 invtweaks.key.sort
@@ -198,15 +178,6 @@ key.jeiutilities.displayRecipe
 key.jeiutilities.pickBookmark
 key.jeiutilities.transferRecipeMax
 key.jeiutilities.transferRecipe
-
-Lucraft: Core
-lucraftcore.abilitybar.1
-lucraftcore.abilitybar.2
-lucraftcore.abilitybar.3
-lucraftcore.abilitybar.4
-lucraftcore.abilitybar.5
-lucraftcore.abilitybar.down
-lucraftcore.abilitybar.up
 
 key.powersuits.category.moduleToggle
 module.powersuits.invisibility.name
@@ -238,10 +209,6 @@ module.powersuits.transparentArmor.name
 module.powersuits.climbAssist.name
 module.powersuits.waterElectrolyzer.name
 
-key.categories.mahoutsukai
-key.changeMysticCode
-key.drawMahoujin
-
 Modular Powersuits
 key.powersuits.cycleToolBackward
 key.powersuits.cycleToolForward
@@ -264,12 +231,6 @@ openblocks.keybind.vario_vol_up
 OpenComputers
 key.clipboardPaste
 
-key.categories.openglasses
-key.interact
-
-key.overlast
-key.switchhud
-
 key.categories.plustic
 key.plustic_brown_magic.desc
 key.plustic_toggle_tool.desc
@@ -278,13 +239,6 @@ key.plustic_mots.desc
 key.plustic_release_entity.desc
 key.plustic_set_portal.desc
 key.plustic_toggle_gui.desc
-
-key.pneumaticcraft.category
-pneumaticcraft.armor.options
-pneumaticcraft.boots.kick
-pneumaticcraft.chestplate.launcher
-pneumaticcraft.helmet.debugging.drone
-pneumaticcraft.helmet.hack
 
 Project Intelligence
 pi.key.et_world
@@ -334,20 +288,14 @@ key.travelersbackpack.toggle_tank
 Universal Tweaks
 keybind.universaltweaks.clear_toasts
 
-keys.vampirism.category
-keys.vampirism.blood_potion_crafting
-keys.vampirism.select_skills
-keys.vampirism.suck
-keys.vampirism.vision
-keys.vampirism.action1
-keys.vampirism.action2
-keys.vampirism.action
+key.vaultopic.category
+key.vaultopic.vice
+key.vaultopic.view
 
 visualores.keycategory
 visualores.key.action
 visualores.button.neromantic
 visualores.button.aura_flux
-visualores.button.excavator
 visualores.button.oreveins
 visualores.button.starlight
 visualores.button.undergroundfluid

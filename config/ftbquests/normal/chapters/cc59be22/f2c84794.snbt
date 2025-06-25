@@ -1,0 +1,19 @@
+{
+	x: 2.7d,
+	y: 3.0d,
+	text: [
+		"Before you unlock the LCR, the way to get PTFE involves a few steps.",
+		"",
+		"You'll need Chloroform and Hydrofluoric Acid, both of which are relatively simple.",
+		"Chloroform is just Methane and Chlorine (With a byproduct of HCl, Yeah!)",
+		"Hydrofluoric Acid is just Hydrogen and Fluorine. Very easy."
+	],
+	dependencies: [
+		"7e1d7afc"
+	],
+	tasks: [{
+		uid: "5b691511",
+		type: "checkmark",
+		title: "PTFE Guide"
+	}]
+}

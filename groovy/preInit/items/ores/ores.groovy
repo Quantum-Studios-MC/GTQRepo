@@ -3,14 +3,6 @@
 
 mods.gregtech.materialEvent {
 
- materialBuilder(32160,'demetarite')
-    .color(0xb0f542)
-    .ore(true)
-    .flags()
-    .components(material('caesium'), material('germanium'))
-    .separatedInto(material('gallium'), material('demetarium'))
-.build()
-
  materialBuilder(31900,'aridium')
     .colorAverage()
     .ore(true)
@@ -323,11 +315,6 @@ materialBuilder(31731, 'perditionite')
     .flags()
 .build();
 
-materialBuilder(31732, 'dilithium')
-    .color(0x000000)
-    .ore()
-    .flags()
-.build();
 
 materialBuilder(31733, 'lunarsapphire')
     .colorAverage()

@@ -107,12 +107,6 @@ mods.roots.transmutation.recipeBuilder()
     .condition(mods.roots.predicates.stateBuilder().blockstate(blockstate('botania:livingrock')).below().register())
     .register()
 
-    mods.roots.transmutation.recipeBuilder()
-    .name('im_marking_it')
-    .start(blockstate('botania:livingrock'))
-    .output(item('theaurorian:aurorianstone'))
-    .condition(mods.roots.predicates.stateBuilder().blockstate(blockstate('appliedenergistics2:sky_stone_block')).below().register())
-    .register()
 
 mods.roots.fey_crafter.recipeBuilder()
     .name('say_gex1')

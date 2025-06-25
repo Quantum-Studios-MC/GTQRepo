@@ -1,0 +1,23 @@
+{
+	title: "The Horsemen",
+	icon: "gregtech:meta_item_1 1 625",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"To Enter HV, You'll need these two things. So, that is why i have added these two in one Quest!"
+	],
+	tasks: [{
+		uid: "38f2c74b",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 625"
+		}]
+	},
+	{
+		uid: "ba799423",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_ingot 1 323"
+		}]
+	}]
+}

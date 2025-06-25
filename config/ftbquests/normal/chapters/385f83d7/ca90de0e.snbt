@@ -1,0 +1,22 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Welcome to the Space chapter! Here we will be covering all things related to Galacticraft and Space.",
+		"",
+		"First thing you'll need is your tier-1 rocket.. to get that, you'll need a NASA Workbench."
+	],
+	tasks: [{
+		uid: "ec44dfef",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:rocket_workbench"
+		}]
+	}],
+	rewards: [{
+		uid: "c1db9c83",
+		type: "item",
+		item: "gregtech:meta_item_1 1 188",
+		count: 3
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "SMDs",
+	x: 4.2d,
+	y: 3.0d,
+	text: [
+		"SMD Components are much cheaper than their regular counterparts but need more advanced infrastructure to use."
+	],
+	dependencies: [
+		"8ac9d34a"
+	],
+	tasks: [{
+		uid: "c33f23fe",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 523"
+		}]
+	},
+	{
+		uid: "ad160192",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 524"
+		}]
+	},
+	{
+		uid: "b5d1985b",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 525"
+		}]
+	}]
+}

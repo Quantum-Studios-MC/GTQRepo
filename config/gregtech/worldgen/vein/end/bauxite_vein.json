@@ -25,13 +25,13 @@
         "primary": "ore:bauxite"
       },
       {
-        "secondary": "ore:ilmenite"
+        "secondary": "ore:plutonium"
       },
       {
         "between": "ore:aluminium"
       },
       {
-        "sporadic": "ore:ilmenite"
+        "sporadic": "ore:naquadah"
       }
     ]
   }

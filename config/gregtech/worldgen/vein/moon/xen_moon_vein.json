@@ -1,20 +1,21 @@
 {
-  "name": "gtaurora.veins.ore.moon_xen",
-  "weight": 80,
-  "density": 0.1,
-  "max_height": 60,
-  "min_height": 40,
-    "dimension_filter": [
-    "dimension_id:-28"],
+  "weight": 12,
+  "density": 0.45,
+  "max_height": 20,
+  "min_height": 5,
   "vein_populator": {
     "type": "surface_rock",
-    "material": "xen"
+    "material": "xen",
+    "min_amount": 4,
+    "max_amount": 6
   },
+  "generation_predicate": {"block": "galacticraftcore:basic_block_moon:4", "ore_dict": ["ore:stoneMoon"]},
+  "dimension_filter": ["dimension_id:-28"],
   "generator": {
     "type": "layered",
     "radius": [
-      17,
-      24
+      16,
+      18
     ]
   },
   "filler": {
@@ -27,10 +28,10 @@
         "secondary": "ore:lunarsapphire"
       },
       {
-        "between": "ore:dilithium"
+        "between": "ore:monazite"
       },
       {
-        "sporadic": "ore:germanite"
+        "sporadic": "ore:bastnasite"
       }
     ]
   }

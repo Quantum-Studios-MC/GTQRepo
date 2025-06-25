@@ -21,7 +21,7 @@ recipemap('chemical_reactor').recipeBuilder()
 // Advanced Polypeptide Synthesis
 recipemap('large_chemical_reactor').recipeBuilder()
     .inputs(ore('dustGlycine'), ore('dustAlanine'), ore('dustSerine'))
-    .fluidInputs(fluid('liquid_nitrogen') * 1000)
+    .fluidInputs(fluid('nitrogen') * 1000)
     .outputs(item('gregtech:meta_ingot', 30012))
     .duration(1200).EUt(8192).buildAndRegister();
 

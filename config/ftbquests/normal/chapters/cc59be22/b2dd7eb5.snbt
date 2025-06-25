@@ -1,0 +1,20 @@
+{
+	x: 9.1d,
+	y: -1.6d,
+	text: [
+		"Rutile is made through processing Bauxite! Bauxite is an aluminium based ore and can be found in the End..",
+		"",
+		"However, an even better source of Rutile is Ilmenite, found on the Moon! The moon contains very large and dense Ilmenite deposits."
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"5f162cfd"
+	],
+	tasks: [{
+		uid: "3b7a4874",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_dust 1 285"
+		}]
+	}]
+}

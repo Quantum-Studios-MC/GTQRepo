@@ -1,0 +1,33 @@
+{
+	title: "Fuel",
+	icon: "galacticraftcore:fuel_loader",
+	x: -1.3d,
+	y: -1.5d,
+	text: [
+		"In order to actually run your rocket, you'll need fuel. and a lot of it at that!",
+		"Fuel is made in MV, and its in the questline. You'll also need a fuel loader to load the fuel onto the rocket!"
+	],
+	dependencies: [
+		"ca90de0e"
+	],
+	tasks: [{
+		uid: "d2ff21dc",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "fuel",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "0616673e",
+		type: "item",
+		items: [{
+			item: "galacticraftcore:fuel_loader"
+		}]
+	}]
+}

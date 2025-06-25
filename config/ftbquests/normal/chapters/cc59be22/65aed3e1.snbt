@@ -1,0 +1,17 @@
+{
+	x: 1.3d,
+	y: -1.6d,
+	text: [
+		"The Macerator is pretty good in early game, but the HV Macerator unlocks 3 extra slots for additional byproducts."
+	],
+	dependencies: [
+		"5f162cfd"
+	],
+	tasks: [{
+		uid: "5a8ee3c1",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 67"
+		}]
+	}]
+}

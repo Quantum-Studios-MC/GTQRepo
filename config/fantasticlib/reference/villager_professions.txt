@@ -6,16 +6,12 @@ minecraft:butcher
 minecraft:nitwit
 openblocks:radio
 roots:wild_mage
-heroesexpansion:scientist
-pneumaticcraft:mechanic
 totemic:totemist
-vampirism:hunter_expert
-vampirism:vampire_expert
 actuallyadditions:jamguy
 bewitchment:hedge_witch
 bewitchment:alchemist
-forestry:apiarist
 forestry:arborist
+forestry:apiarist
 extrautils2:alchemist
 extrautils2:red_mechanic
 extrautils2:shady_merchant

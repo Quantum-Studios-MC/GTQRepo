@@ -1,0 +1,19 @@
+{
+	x: 2.7d,
+	y: -1.6d,
+	text: [
+		"The Multismelter is basically a better Steam Oven. It's a furnace with many more parallels.. ",
+		"",
+		"The coil tier also increases the amount of max parallels!"
+	],
+	dependencies: [
+		"5f162cfd"
+	],
+	tasks: [{
+		uid: "b6914001",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1006"
+		}]
+	}]
+}

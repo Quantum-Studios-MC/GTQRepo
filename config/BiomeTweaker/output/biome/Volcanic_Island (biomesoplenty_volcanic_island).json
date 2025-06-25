@@ -20,12 +20,12 @@
   "Enable Rain": true,
   "Enable Snow": false,
   "Dictionary Types": [
+    "MOUNTAIN",
     "DEAD",
     "WASTELAND",
-    "MOUNTAIN",
+    "WATER",
     "HOT",
-    "DRY",
-    "WATER"
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -34,15 +34,16 @@
       "Weight": 9,
       "Min Group Count": 1,
       "Max Group Count": 3
-    },
-    {
-      "Entity Class": "stepsword.mahoutsukai.entity.fae.FaeEntity",
-      "Weight": 40,
-      "Min Group Count": 0,
-      "Max Group Count": 6
     }
   ],
-  "Spawnable Monsters": [],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "cofh.thermalfoundation.entity.monster.EntityBasalz",
+      "Weight": 10,
+      "Min Group Count": 1,
+      "Max Group Count": 4
+    }
+  ],
   "Spawnable Water Creatures": [
     {
       "Entity Class": "net.minecraft.entity.passive.EntitySquid",

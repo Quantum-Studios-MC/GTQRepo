@@ -1,0 +1,36 @@
+{
+  "name": "gtaurora.veins.ore.essentia_deposit_2",
+  "weight": 40,
+  "density": 0.25,
+  "max_height": 45,
+  "min_height": 5,
+  "dimension_filter": ["dimension_id:7"],
+  "vein_populator": {
+    "type": "surface_rock",
+    "material": "perditionite"
+  },
+  "generator": {
+    "type": "layered",
+    "radius": [
+      14,
+      16
+    ]
+  },
+  "filler": {
+    "type": "layered",
+    "values": [
+      {
+        "primary": "ore:perditionite"
+      },
+      {
+        "secondary": "ore:ordominite"
+      },
+      {
+        "between": "ore:aeratite"
+      },
+      {
+        "sporadic": "ore:aquivite"
+      }
+    ]
+  }
+}

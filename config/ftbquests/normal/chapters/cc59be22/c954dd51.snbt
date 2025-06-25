@@ -1,0 +1,45 @@
+{
+	icon: "gregtech:machine 1 1035",
+	x: 5.9d,
+	y: -1.6d,
+	text: [
+		"The Cleanroom is a multiblock structure, that is similar to a real cleanroom; ",
+		"",
+		"Some recipes may require a clean and non-contaminated environment. The Cleanroom is the source of this environment.",
+		"Providing power to it will clean the insides over time, and at a point it will be 100% functional, and Muffler hatches/Generators are NOT allowed.",
+		"",
+		"To do logistics, the best way is to use passthrough hatches.",
+		"For energy, Diodes may be used.",
+		"",
+		"(Note: When you reach AE2, you can use Machine Hulls for passing ME signals through.",
+		"",
+		"Check JEI for the structure!"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"5f162cfd"
+	],
+	tasks: [{
+		uid: "1a611783",
+		type: "item",
+		items: [{
+			item: "gregtech:machine 1 1035"
+		}]
+	},
+	{
+		uid: "f29d3b81",
+		type: "item",
+		items: [{
+			item: "gregtech:cleanroom_casing"
+		}],
+		count: 25L
+	},
+	{
+		uid: "9cd2a7f9",
+		type: "item",
+		items: [{
+			item: "gregtech:cleanroom_casing 1 1"
+		}],
+		count: 8L
+	}]
+}

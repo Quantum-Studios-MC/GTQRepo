@@ -1,0 +1,19 @@
+{
+	title: "EV Circuits",
+	x: 7.5d,
+	y: -1.6d,
+	text: [
+		"Workstations will be your first EV Circuits, made in the Cleanroom. Technically, these can be made with an MV Circuit Assembler, but the Cleanroom is",
+		"HV, so it is customary to make them at this point."
+	],
+	dependencies: [
+		"c954dd51"
+	],
+	tasks: [{
+		uid: "bc6fbe4e",
+		type: "item",
+		items: [{
+			item: "gregtech:meta_item_1 1 630"
+		}]
+	}]
+}

@@ -74,22 +74,7 @@ mods.thaumcraft.infusion_crafting.recipeBuilder()
     .input(ore('ingotBloodInfusedIron'))
     .instability(40)
     .register()
-    
 
-mods.thaumcraft.arcane_workbench.shapedBuilder()
-    .researchKey('UNLOCKALCHEMY@3')
-    .output(item('industrialforegoing:enchantment_refiner'))
-    .matrix('EEE',
-            'MSM',
-            'EXE')
-    .key('S', item('gregtech:machine', 988))
-    .key('E', ore('plateStainlessSteel'))
-    .key('M', ore('circuitHv'))
-    .key('X', item('gregtech:meta_item_1', 129))
-    .aspect(aspect('ignis'))
-    .aspect(aspect('terra'))
-    .vis(200)
-    .register()
 
 mods.thaumcraft.arcane_workbench.shapedBuilder()
     .researchKey('MANALENS')
@@ -123,5 +108,52 @@ mods.thaumcraft.crucible.recipeBuilder()
     .register()
 
 mods.thaumcraft.infusion_crafting.removeByOutput(item('thaumictinkerer:ichor_block'))
+ 
+recipemap('centrifuge').recipeBuilder()
+        .inputs(ore('dustAquivite'))
+        .outputs(item('serendustry:meta_dust', 177))
+        .fluidOutputs(fluid('magic_2') * 10)
+        .duration(120).EUt(12).buildAndRegister()
+ 
+recipemap('centrifuge').recipeBuilder()
+        .inputs(ore('dustPerditionite'))
+        .outputs(item('serendustry:meta_dust', 181))
+        .fluidOutputs(fluid('magic_2') * 10)
+        .duration(120).EUt(12).buildAndRegister()
 
+recipemap('centrifuge').recipeBuilder()
+        .inputs(ore('dustIgnivite'))
+        .outputs(item('serendustry:meta_dust', 176))
+        .fluidOutputs(fluid('magic_2') * 10)
+        .duration(120).EUt(12).buildAndRegister()
 
+recipemap('centrifuge').recipeBuilder()
+        .inputs(ore('dustTerratite'))
+        .outputs(item('serendustry:meta_dust', 178))
+        .fluidOutputs(fluid('magic_2') * 10)
+        .duration(120).EUt(12).buildAndRegister()
+
+recipemap('centrifuge').recipeBuilder()
+        .inputs(ore('dustAeratite'))
+        .outputs(item('serendustry:meta_dust', 179))
+        .fluidOutputs(fluid('magic_2') * 10)
+        .duration(120).EUt(12).buildAndRegister()
+
+recipemap('centrifuge').recipeBuilder()
+        .inputs(ore('dustOrdominite'))
+        .outputs(item('serendustry:meta_dust', 180))
+        .fluidOutputs(fluid('magic_2') * 10)
+        .duration(120).EUt(12).buildAndRegister()
+
+// Ignis Crystal Dust * 1
+mods.gregtech.chemical_bath.removeByInput(30, [metaitem('dustDiamond')], [fluid('lava') * 100 * 100])
+// Aqua Crystal Dust * 1
+mods.gregtech.chemical_bath.removeByInput(30, [metaitem('dustDiamond')], [fluid('distilled_water') * 100 * 100])
+// Terra Crystal Dust * 1
+mods.gregtech.chemical_bath.removeByInput(30, [metaitem('dustDiamond')], [fluid('plastic') * 100 * 100])
+// Aer Crystal Dust * 1
+mods.gregtech.chemical_bath.removeByInput(30, [metaitem('dustDiamond')], [fluid('air') * 100 * 100])
+// Ordo Crystal Dust * 1
+mods.gregtech.chemical_bath.removeByInput(30, [metaitem('dustDiamond')], [fluid('antimony') * 100 * 100])
+// Perditio Crystal Dust * 1
+mods.gregtech.chemical_bath.removeByInput(30, [metaitem('dustDiamond')], [fluid('tin_alloy') * 100 * 100])

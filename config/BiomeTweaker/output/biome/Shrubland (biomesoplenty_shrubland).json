@@ -21,8 +21,8 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "PLAINS",
-    "DRY",
-    "SPARSE"
+    "SPARSE",
+    "DRY"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [
@@ -85,12 +85,6 @@
       "Weight": 5,
       "Min Group Count": 2,
       "Max Group Count": 4
-    },
-    {
-      "Entity Class": "stepsword.mahoutsukai.entity.fae.FaeEntity",
-      "Weight": 40,
-      "Min Group Count": 0,
-      "Max Group Count": 6
     }
   ],
   "Spawnable Monsters": [
@@ -151,18 +145,6 @@
     {
       "Entity Class": "mod.emt.harkenscythe.entity.HSEntitySpectralMiner",
       "Weight": 2,
-      "Min Group Count": 1,
-      "Max Group Count": 1
-    },
-    {
-      "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityBasicVampire",
-      "Weight": 75,
-      "Min Group Count": 1,
-      "Max Group Count": 2
-    },
-    {
-      "Entity Class": "de.teamlapen.vampirism.entity.vampire.EntityAdvancedVampire",
-      "Weight": 7,
       "Min Group Count": 1,
       "Max Group Count": 1
     }
@@ -253,8 +235,8 @@
   },
   "BOP Owner": "BIOMESOPLENTY",
   "BOP Weight Map": {
-    "DRY_TEMPERATE": 10,
-    "MEDITERANEAN": 7
+    "MEDITERANEAN": 7,
+    "DRY_TEMPERATE": 10
   },
   "BOP Climate Weights": {
     "DRY_TEMPERATE": [

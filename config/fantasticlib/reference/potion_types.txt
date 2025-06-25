@@ -67,11 +67,11 @@ hbm:strong_potion.hbm_telekinesis
 hbm:long_potion.hbm_telekinesis
 enderio:confusion
 enderio:long_confusion
-enderio:withering
-enderio:long_withering
 enderio:floating
 enderio:strong_floating
 enderio:long_floating
+enderio:withering
+enderio:long_withering
 srparasites:coth
 srparasites:fear
 srparasites:res
@@ -88,10 +88,10 @@ simpledifficulty:cold_resist_type
 simpledifficulty:long_cold_resist_type
 simpledifficulty:heat_resist_type
 simpledifficulty:long_heat_resist_type
-cuisine:cuisine.hot
 cuisine:cuisine.dispersal
-cuisine:cuisine.toughness
+cuisine:cuisine.hot
 cuisine:cuisine.cold_blood
+cuisine:cuisine.toughness
 cofhcore:haste
 cofhcore:haste+
 cofhcore:haste2

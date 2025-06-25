@@ -1,0 +1,26 @@
+{
+	title: "TiCl4",
+	x: 9.1d,
+	y: 0.0d,
+	text: [
+		"Titanium Tetrachloride is acquired by reducing Rutile down in a HV Chemical Reactor. It must be smelted with Magnesium to get the Titanium Ingots!",
+		"",
+		"All the byproducts of this reaction can be 100% recycled, allowing you to infnitely process Rutile without any loss of chemicals!"
+	],
+	dependencies: [
+		"b2dd7eb5"
+	],
+	tasks: [{
+		uid: "5d2ecb06",
+		type: "item",
+		items: [{
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "titanium_tetrachloride",
+				Amount: 1000
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
