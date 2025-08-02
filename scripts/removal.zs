@@ -45,7 +45,6 @@ recipes.removeByRecipeName("enderio:tweak_stick_from_wood");
 recipes.removeByRecipeName("roots:paper");
 recipes.removeByRecipeName("endercore:shapeless_paper");
 recipes.removeByRecipeName("endercore:book_to_paper");
-recipes.removeByRecipeName("actuallyadditions:recipes23");
 
 recipes.remove(<hbm:coil_tungsten>);
 recipes.remove(<hbm:motor>);
@@ -58,3 +57,12 @@ recipes.removeByRecipeName("gtwp:stick_normal");
 
 recipes.remove(<thermalfoundation:material:99>);
 
+recipes.removeByRecipeName("techguns:thompson_alt");
+recipes.removeByRecipeName("techguns:thompson_alt");
+recipes.removeByRecipeName("techguns:flamethrower_alt");
+recipes.removeByRecipeName("techguns:chainsaw_alt");
+recipes.removeByRecipeName("techguns:boltaction");
+recipes.removeByRecipeName("techguns:ak47_alt");
+
+recipes.removeByRecipeName("techguns:m4_alt");
+recipes.removeByRecipeName("techguns:rocketlauncher_alt");

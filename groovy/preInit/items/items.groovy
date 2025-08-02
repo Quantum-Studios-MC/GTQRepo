@@ -374,5 +374,31 @@ materialBuilder(31759, 'quartz_soldering_mixture_2')
             .gem()
             .components(material('silicon'))
             .build()
+
+        materialBuilder(31807,'monocrystalline_certus_quartz')
+            .dust()
+            .colorAverage().iconSet('CERTUS')
+            .gem()
+            .components(material('certus_quartz'))
+            .build()
+
+        materialBuilder(31808,'glistening_diamond')
+            .dust()
+            .ore()
+            .colorAverage().iconSet('DIAMOND')
+            .gem()
+            .components(material('diamond'))
+            .build()
+
+        materialBuilder(31809,'ionized_gold')
+            .colorAverage().iconSet('MAGNETIC')
+            .ingot()
+            .fluid()
+            .components(material('gold'))
+             .flags('generate_plate','generate_foil', 'generate_fine_wire')
+            .build()
+        
+
 }
+
 

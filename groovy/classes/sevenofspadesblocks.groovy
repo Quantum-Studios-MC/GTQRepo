@@ -3,7 +3,7 @@ import gregtech.api.metatileentity.SimpleMachineMetaTileEntity;
 import gregtech.api.GTValues
 import gregtech.api.recipes.RecipeMaps;
 import gregtech.client.renderer.texture.Textures;
-import gregtech.client.renderer.ICubeRenderer;
+import gregtech.client.rerer.ICubeRenderer;
 import gregtech.api.recipes.RecipeMap;
 import gregtech.api.util.GTUtility;
 

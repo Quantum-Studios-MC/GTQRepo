@@ -1,0 +1,79 @@
+{
+  "recipes": [
+    {
+      "input": ["dict","nuggetGold"],
+      "solidOutput": ["hbm:nugget_au198"]
+    },
+    {
+      "input": ["dict","ingotThorium232"],
+      "solidOutput": ["hbm:ingot_thorium_fuel"]
+    },
+    {
+      "input": ["item","hbm:oil_tar",1,4],
+      "fluidOutput": ["RADIOSOLVENT",100]
+    },
+    {
+      "input": ["dict","blockLithium"],
+      "fluidOutput": ["TRITIUM",10000]
+    },
+    {
+      "input": ["item","minecraft:red_mushroom"],
+      "solidOutput": ["hbm:mush"]
+    },
+    {
+      "input": ["item","hbm:oil_tar",1,2],
+      "fluidOutput": ["COALOIL",100]
+    },
+    {
+      "input": ["dict","ingotGold"],
+      "solidOutput": ["hbm:ingot_au198"]
+    },
+    {
+      "input": ["item","minecraft:brown_mushroom"],
+      "solidOutput": ["hbm:mush"]
+    },
+    {
+      "input": ["dict","nuggetThorium232"],
+      "solidOutput": ["hbm:nugget_thorium_fuel"]
+    },
+    {
+      "input": ["dict","dustCoal"],
+      "solidOutput": ["hbm:oil_tar",1,2],
+      "fluidOutput": ["SYNGAS",50]
+    },
+    {
+      "input": ["dict","blockCoal"],
+      "solidOutput": ["hbm:oil_tar",9,2],
+      "fluidOutput": ["SYNGAS",500]
+    },
+    {
+      "input": ["item","minecraft:mushroom_stew"],
+      "solidOutput": ["hbm:glowing_stew"]
+    },
+    {
+      "input": ["dict","dustTinyLithium"],
+      "fluidOutput": ["TRITIUM",100]
+    },
+    {
+      "input": ["dict","billetThorium232"],
+      "solidOutput": ["hbm:billet_thorium_fuel"]
+    },
+    {
+      "input": ["dict","gemCoal"],
+      "solidOutput": ["hbm:oil_tar",1,2],
+      "fluidOutput": ["SYNGAS",50]
+    },
+    {
+      "input": ["dict","dustLithium"],
+      "fluidOutput": ["TRITIUM",1000]
+    },
+    {
+      "input": ["dict","ingotLithium"],
+      "fluidOutput": ["TRITIUM",1000]
+    },
+    {
+      "input": ["dict","dustGold"],
+      "solidOutput": ["hbm:powder_au198"]
+    }
+  ]
+}

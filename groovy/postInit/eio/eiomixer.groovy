@@ -27,7 +27,6 @@ recipemap('mixer').recipeBuilder()
         .outputs(metaitem('dustArcanum') * 3)
         .duration(120).EUt(80).buildAndRegister()
 
-
 recipemap('mixer').recipeBuilder()
         .inputs(ore('dustEndStone'))
         .inputs(ore('dustDarkSteel'))

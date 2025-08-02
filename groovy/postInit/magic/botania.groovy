@@ -5,10 +5,6 @@ mods.botania.mana_infusion.recipeBuilder()
     .catalyst(blockstate('thaumcraft:metal_alchemical'))
     .register()
 
-mods.botania.elven_trade.recipeBuilder()
-    .input(ore('manaString'), ore('manapearl'))
-    .output(item('bloodmagic:soul_snare'))
-    .register()
 
 mods.botania.mana_infusion.recipeBuilder()
     .input(ore('ingotSteel'))
@@ -31,3 +27,4 @@ mods.botania.mana_infusion.recipeBuilder()
     .register()
 
 mods.botania.orechid.removeAll()
+

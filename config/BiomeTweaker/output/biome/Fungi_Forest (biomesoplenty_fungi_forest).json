@@ -20,9 +20,9 @@
   "Enable Rain": false,
   "Enable Snow": false,
   "Dictionary Types": [
-    "MUSHROOM",
-    "DENSE",
     "NETHER",
+    "DENSE",
+    "MUSHROOM",
     "HOT"
   ],
   "BiomeManager Entries": {},
@@ -76,6 +76,24 @@
       "Weight": 10,
       "Min Group Count": 1,
       "Max Group Count": 3
+    },
+    {
+      "Entity Class": "net.minecraft.entity.monster.EntityBlaze",
+      "Weight": 5,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "vazkii.quark.world.entity.EntityFoxhound",
+      "Weight": 4,
+      "Min Group Count": 1,
+      "Max Group Count": 2
+    },
+    {
+      "Entity Class": "vazkii.quark.world.entity.EntityWraith",
+      "Weight": 60,
+      "Min Group Count": 4,
+      "Max Group Count": 6
     },
     {
       "Entity Class": "thaumcraft.common.entities.monster.EntityFireBat",

@@ -1,0 +1,12 @@
+{
+  "addonId": 255389,
+  "fileId": 3507523,
+      "fileName": "EnhancedVisuals_v1.4.4_mc1.12.2.jar",
+          "installationPolicy": {
+       "continueOnFailedDownload": true,
+       "optionalKey": "$",
+       "selectedByDefault": true,
+       "name": "EnhancedVisuals",
+       "description": "Client-Side Mod for visual and audio screen effects."
+    }
+}

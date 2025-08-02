@@ -51,7 +51,7 @@
             "sol": 10,
             "metallum": 15
         },
-        "icon": "minecraft:textures/items/seeds.png",
+        "icon": "minecraft:textures/items/nether_star.png",
         "background": "thaumcraft:textures/gui/gui_research_back_4.jpg",
         "backgroundOverlay": "thaumcraft:textures/gui/gui_research_back_over.png"
     },

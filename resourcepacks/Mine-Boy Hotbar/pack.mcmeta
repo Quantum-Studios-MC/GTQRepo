@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Make the hotbar look like the pip boy from fallout", 
+    "supported_formats": {
+      "min_inclusive": 15,
+      "max_inclusive": 55
+    }
+  }
+}
