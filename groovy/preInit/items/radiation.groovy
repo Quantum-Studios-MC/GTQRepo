@@ -41,17 +41,18 @@ HazardSystem.register("plateUranium235", makeData(RADIATION, 1.0F));
 HazardSystem.register("stickUranium235", makeData(RADIATION, 0.5F));
 
 HazardSystem.register("nuggetRadium", makeData(RADIATION, 0.83F));
-
 HazardSystem.register("dustRadium", makeData(RADIATION, 7.5F));
 HazardSystem.register("ingotRadium", makeData(RADIATION, 7.5F));
 HazardSystem.register("blockRadium", makeData(RADIATION, 67.5F));
-HazardSystem.register("nuggetActinium", makeData(RADIATION, 3.33F));
 
+HazardSystem.register("nuggetActinium", makeData(RADIATION, 3.33F));
 HazardSystem.register("dustActinium", makeData(RADIATION, 30.0F));
 HazardSystem.register("ingotActinium", makeData(RADIATION, 30.0F));
 HazardSystem.register("blockActinium", makeData(RADIATION, 270.0F));
+
 HazardSystem.register("dustTinyNeptunium", makeData(RADIATION, 0.83F));
 HazardSystem.register("dustSmallNeptunium", makeData(RADIATION, 1.88F));
+
 HazardSystem.register("dustTinyAmericium", makeData(RADIATION, 0.94F));
 HazardSystem.register("dustSmallAmericium", makeData(RADIATION, 2.12F));
 HazardSystem.register("dustImpureAmericium", makeData(RADIATION, 8.5F));
@@ -61,12 +62,11 @@ HazardSystem.register("crushedPurifiedAmericium", makeData(RADIATION, 8.5F));
 HazardSystem.register("crushedCentrifugedAmericium", makeData(RADIATION, 8.5F));
 HazardSystem.register("plateAmericium", makeData(RADIATION, 8.5F));
 HazardSystem.register("stickAmericium", makeData(RADIATION, 4.25F));
-
 HazardSystem.register("nuggetAmericium", makeData(RADIATION, 0.94F));
-
 HazardSystem.register("dustAmericium", makeData(RADIATION, 8.5F));
 HazardSystem.register("ingotAmericium", makeData(RADIATION, 8.5F));
 HazardSystem.register("blockAmericium", makeData(RADIATION, 76.5F));
+
 HazardSystem.register("dustTinyPlutonium239", makeData(RADIATION, 0.56F));
 HazardSystem.register("dustSmallPlutonium239", makeData(RADIATION, 1.25F));
 HazardSystem.register("dustImpurePlutonium239", makeData(RADIATION, 5.0F));
@@ -88,7 +88,6 @@ HazardSystem.register("plateThorium", makeData(RADIATION, 0.1F));
 HazardSystem.register("stickThorium", makeData(RADIATION, 0.05F));
 
 HazardSystem.register("nuggetTechnetium", makeData(RADIATION, 0.31F));
-
 HazardSystem.register("dustTechnetium", makeData(RADIATION, 2.75F));
 HazardSystem.register("ingotTechnetium", makeData(RADIATION, 2.75F));
 HazardSystem.register("blockTechnetium", makeData(RADIATION, 24.75F));

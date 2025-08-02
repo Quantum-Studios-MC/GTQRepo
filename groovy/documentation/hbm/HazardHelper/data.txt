@@ -1,0 +1,9 @@
+dustTinyTechnetium : 0.31 : cs
+dustSmallTechnetium : 0.69 : cs
+blockPlutonium241 : 225.0 : cs
+stickLongPlutonium241 : 25.0 : cs
+foilPlutonium241 : 6.25 : cs
+plateDensePlutonium239 : 45.0 : cs
+plateDoublePlutonium241 : 50.0 : cs
+dustPlutonium241 : 25.0 : cs
+dustUranium235 : 1.0 : cs
