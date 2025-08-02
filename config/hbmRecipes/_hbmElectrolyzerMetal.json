@@ -1,0 +1,327 @@
+{
+  "recipes": [
+    {
+      "input": ["item","hbm:crystal_gold"],
+      "output1": ["Gold",432],
+      "output2": ["Lead",144],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3],
+        ["hbm:nugget_mercury",2]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:crystal_beryllium"],
+      "output1": ["Beryllium",432],
+      "output2": ["Lead",32],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3],
+        ["hbm:powder_quartz",2]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:crystal_rare"],
+      "output1": ["Zirconium",48],
+      "output2": ["Boron",16],
+      "byproducts": [
+        ["hbm:powder_desh_mix",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:crystal_thorium"],
+      "output1": ["Thorium232",432],
+      "output2": ["Uranium",144],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:crystal_uranium"],
+      "output1": ["Uranium",432],
+      "output2": ["Radium226",32],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:crystal_plutonium"],
+      "output1": ["Plutonium",432],
+      "output2": ["Polonium210",144],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:crystal_schraranium"],
+      "output1": ["Schrabidium",40],
+      "output2": ["Uranium",16],
+      "byproducts": [
+        ["hbm:nugget_neptunium",2]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:crystal_copper"],
+      "output1": ["Copper",432],
+      "output2": ["Lead",32],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3],
+        ["hbm:sulfur",2]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,197],
+      "output1": ["Redstone",288],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",32,8001],
+        ["hbm:bedrock_ore_new",1,213]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,195],
+      "output1": ["Uranium",128],
+      "output2": ["Thorium232",256],
+      "byproducts": [
+        ["hbm:bedrock_ore_new",1,211]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_titanium"],
+      "output1": ["Titanium",432],
+      "output2": ["Iron",144],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:crystal_lithium"],
+      "output1": ["Lithium",432],
+      "output2": ["Boron",144],
+      "byproducts": [
+        ["hbm:powder_quartz",2],
+        ["hbm:fluorite",2]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,193],
+      "output1": ["Tungsten",288],
+      "output2": ["Lead",576],
+      "byproducts": [
+        ["hbm:bedrock_ore_new",1,209]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,176],
+      "output1": ["Iron",576],
+      "output2": ["Copper",288],
+      "byproducts": [
+        ["hbm:bedrock_ore_new",1,208]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,178],
+      "output1": ["Cobalt",320],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",20,20000],
+        ["hbm:bedrock_ore_new",1,210]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_aluminium"],
+      "output1": ["Aluminum",144],
+      "output2": ["Iron",144],
+      "byproducts": [
+        ["hbm:chunk_ore",4,2],
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,180],
+      "output1": ["Slag",144],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",64,600],
+        ["hbm:bedrock_ore_fragment",36,1600],
+        ["hbm:bedrock_ore_new",1,212]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_iron"],
+      "output1": ["Iron",432],
+      "output2": ["Titanium",144],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,213],
+      "output1": ["Redstone",144],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",8,8001]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,211],
+      "output1": ["Uranium",64],
+      "output2": ["Thorium232",64],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_lead"],
+      "output1": ["Lead",432],
+      "output2": ["Gold",144],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,209],
+      "output1": ["Tungsten",144],
+      "output2": ["Lead",144],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_trixite"],
+      "output1": ["Plutonium",216],
+      "output2": ["Cobalt",288],
+      "byproducts": [
+        ["hbm:powder_niobium",4],
+        ["hbm:powder_nitan_mix",2]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,196],
+      "output1": ["Slag",144],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",36,600],
+        ["hbm:bedrock_ore_fragment",64,1600],
+        ["hbm:bedrock_ore_new",1,212]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_tungsten"],
+      "output1": ["Tungsten",432],
+      "output2": ["Iron",144],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,194],
+      "output1": ["Cobalt",160],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",40,20000],
+        ["hbm:bedrock_ore_new",1,210]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,192],
+      "output1": ["Iron",288],
+      "output2": ["Copper",576],
+      "byproducts": [
+        ["hbm:bedrock_ore_new",1,208]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,177],
+      "output1": ["Tungsten",576],
+      "output2": ["Lead",288],
+      "byproducts": [
+        ["hbm:bedrock_ore_new",1,209]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_starmetal"],
+      "output1": ["DuraSteel",288],
+      "output2": ["Cobalt",288],
+      "byproducts": [
+        ["hbm:powder_astatine",3],
+        ["hbm:nugget_mercury",8]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,179],
+      "output1": ["Uranium",256],
+      "output2": ["Thorium232",128],
+      "byproducts": [
+        ["hbm:bedrock_ore_new",1,211]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,181],
+      "output1": ["Redstone",576],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",16,8001],
+        ["hbm:bedrock_ore_new",1,213]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_cobalt"],
+      "output1": ["Cobalt",216],
+      "output2": ["Iron",288],
+      "byproducts": [
+        ["hbm:powder_copper",4],
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,212],
+      "output1": ["Slag",144],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",18,600],
+        ["hbm:bedrock_ore_fragment",18,1600]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:crystal_schrabidium"],
+      "output1": ["Schrabidium",432],
+      "output2": ["Plutonium",144],
+      "byproducts": [
+        ["hbm:powder_lithium_tiny",3]
+      ],
+      "duration": 600
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,210],
+      "output1": ["Cobalt",80],
+      "byproducts": [
+        ["hbm:bedrock_ore_fragment",10,20000]
+      ],
+      "duration": 20
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,208],
+      "output1": ["Iron",144],
+      "output2": ["Copper",144],
+      "duration": 20
+    }
+  ]
+}

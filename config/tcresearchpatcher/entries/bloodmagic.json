@@ -1,0 +1,314 @@
+{
+  "entries": [
+    {
+      "key": "BEGINNINGBLOODMAGIC",
+      "name": "The Nature of the Soul",
+      "icons": ["bewitchment:pentacle"],
+      "category": "BLOODMAGIC",
+      "location": [0, 0],
+      "stages": [
+        {
+          "text": "Recently, I have begun to delve into some.. Taboo arts. Experiments and research with the Human Soul reveal two extraordinary things: Vis exists inside the human body, in the form of a Soul. Secondly, certain Aspects may layer themselves ontop of the Soul.. this, this is called Mana. However, certain aspects linked to the concept of Life can layer themselves ontop of the Soul.. Now, i wonder what they might be?",
+          "required_knowledge": ["THEORY;ARTIFICE;4"]
+        },
+        {
+          "text": "After examining my own Soul, i have gained more knowledge about the properties of the Soul. There are a few aspects that can layer themselves ontop of the soul, but all i have found for now are Victus and Mortuus. These represent the mortality of the soul within, so i have decided to name it Life Essence."
+        }
+      ]
+    },
+    {
+      "key": "DAGGER",
+      "name": "The Sacrificial Dagger",
+      "icons": ["bloodmagic:sacrificial_dagger"],
+      "category": "BLOODMAGIC",
+      "location": [6, 1],
+      "parents": ["BEGINNINGBLOODMAGIC"],
+      "stages": [
+        {
+          "text": "To extract this life essence from oneself, a sacrificial dagger is required to extract the Essence from my soul. Now, i wonder how would i go about doing that..?",
+          "required_item": ["botania:terrasword"],
+          "required_knowledge": ["THEORY;ARTIFICE;3"],
+          "warp": 1
+        },
+        {
+          "text": "I have made The Sacrifical Dagger, fashioned from runes of Wrath and with a blade made of Terrasteel."
+        }
+      ]
+    },
+    {
+      "key": "BLOODALTAR",
+      "name": "The Blood Altar",
+      "icons": ["bloodmagic:altar"],
+      "category": "BLOODMAGIC",
+      "location": [-6, 1],
+      "parents": ["BEGINNINGBLOODMAGIC"],
+      "stages": [
+        {
+          "text": "To extract this life essence from oneself, a sacrificial altar is required to hold the Essence stably. Now, i wonder how would i go about doing that..?",
+          "required_item": ["thaumcraft:crucible"],
+          "required_knowledge": ["THEORY;ALCHEMY;3"],
+          "warp": 1
+        },
+        {
+          "text": "I have made The Blood Altar, fashioned from Arcane Stone, enchanted with runes, and with Victus and Mortuus flowing through it. I also believe this may have capacity for improvement, but how..?"
+        }
+      ]
+    },
+    {
+      "key": "LIFEESSENCE",
+      "name": "Life Essence",
+      "icons": ["bloodmagic:slate"],
+      "category": "BLOODMAGIC",
+      "location": [0, 3],
+      "parents": ["DAGGER", "BLOODALTAR"],
+      "stages": [
+        {
+          "text": "After only lightly injuring myself in proximity of the Altar, i've successfully been able to extract some Life Essence! Wonderful! Now, I would like to enchant some Stone that i had laying around for a start..",
+          "required_item": ["bloodmagic:slate"],
+          "required_knowledge": ["THEORY;ALCHEMY;2"],
+          "warp": 1
+        },
+        {
+          "text": "Success, this fast? Splendid! So, after i treated the Stone block with the Life Essence, it morphed into a Slate! I can feel the magical properties of this simmering into my very veins.."
+        }
+      ]
+    },
+    {
+      "key": "LIFEESSENCE2",
+      "name": "Blood Orbs and the LP Network",
+      "icons": ["minecraft:ender_pearl"],
+      "category": "BLOODMAGIC",
+      "location": [0, 5],
+      "parents": ["LIFEESSENCE"],
+      "stages": [
+        {
+          "text": "After inputting a Diamond into the Altar, I've noticed it generates an Orb. When i click this orb, it seems to drain my vitality a little.. what could this mean?",
+          "required_item": ["bloodmagic:slate"],
+          "required_knowledge": ["THEORY;ALCHEMY;2"],
+          "warp": 1
+        },
+        {
+          "text": "It seems this orb is bound to me.. and that it forms the link to a Life Essence storage system of sorts, situated on-top of my very Soul. With a large enough orb, one could perhaps store an entire lifetime’s worth of power."
+        }
+      ]
+    },
+      {
+      "key": "LIFEESSENCE3",
+      "name": "Stronger Slates",
+      "icons": ["bloodmagic:slate;1;1"],
+      "category": "BLOODMAGIC",
+      "location": [0, 7],
+      "parents": ["LIFEESSENCE2"],
+      "stages": [
+        {
+          "text": "After inputting my old slate into the Altar, i found that re-infusing it with blood might have some.. unforeseen effects.. if only i could gain some more insight on the subject.",
+          "required_item": ["bloodmagic:slate;1;1"],
+          "required_knowledge": ["THEORY;ALCHEMY;2"],
+          "warp": 1
+        },
+        {
+          "text": "Re-Infusing the Slate on an Upgraded altar has lead me to discover that by re-infusing slates repeatedly i can add even more magic power to them. Curious."
+        }
+      ]
+    },
+    {
+      "key": "BLOODRUNECRAFT",
+      "name": "The Craft of Blood Runes",
+      "icons": ["bloodmagic:blood_rune"],
+      "category": "BLOODMAGIC",
+      "location": [-6, 3],
+      "parents": ["BLOODALTAR"],
+      "stages": [
+        {
+          "text": "The structure of the altar seems to resonate with strange frequencies when built atop various stone foundations. I believe these 'runes' may alter the flow and efficiency of the Life Essence.",
+          "required_knowledge": ["THEORY;ALCHEMY;4"],
+          "warp": 1
+        },
+        {
+          "text": "I was correct — the use of specialized Runes, when inscribed and placed beneath or around the altar, greatly increases its capacity, efficiency, or speed. There must be dozens of ways to configure them..."
+        }
+      ]
+    },
+    {
+      "key": "RITUALSTONES",
+      "name": "Ritual Stones",
+      "icons": ["bloodmagic:ritual_stone"],
+      "category": "BLOODMAGIC",
+      "location": [6, 5],
+      "parents": ["LIFEESSENCE3"],
+      "stages": [
+        {
+          "text": "The Blood Altar is not the only construct capable of channeling Life Essence. I have found that arranging specific stones in a ritualistic pattern allows for complex effects to take place when infused with LP.",
+          "required_knowledge": ["THEORY;INFUSION;4"],
+          "warp": 2
+        },
+        {
+          "text": "These Ritual Stones, placed precisely, can automate and replicate great feats of thaumaturgy. From summoning to rejuvenation, I sense limitless potential." 
+        }
+      ]
+    },
+    {
+      "key": "INSCRIPTIONTOOLS",
+      "name": "Inscription Tools",
+      "icons": ["bloodmagic:ritual_diviner"],
+      "category": "BLOODMAGIC",
+      "location": [6, 3],
+      "parents": ["RITUALSTONES"],
+      "stages": [
+        {
+          "text": "Rituals are complex and finicky to construct manually. I require a means to automate the placement of Ritual Stones.",
+          "required_item": ["botania:thirdeye"],
+          "required_knowledge": ["THEORY;INFUSION;3"]
+        },
+        {
+          "text": "Using an Inscription Tool, I may draw forth the layout of powerful rituals with ease. The device even remembers multiple ritual patterns. Most curious." 
+        }
+      ]
+    },
+    {
+      "key": "RITUALOFBINDING",
+      "name": "Ritual of Binding",
+      "icons": ["bloodmagic:bound_sword"],
+      "category": "BLOODMAGIC",
+      "location": [4, -6],
+      "parents": ["REAGENTCRAFT"],
+      "stages": [
+        {
+          "text": "I have deciphered a ritual involving a sword and immense LP. When completed, it appears to transform the item into something greater — bound to me through essence.",
+          "required_knowledge": ["THEORY;INFUSION;5"],
+          "warp": 2
+        },
+        {
+          "text": "It is done. The blade has taken a new form — one that feeds on the network itself to attack and kill. I shall call it the Bound Blade."
+        }
+      ]
+    },
+    {
+      "key": "BLOODSHARDS",
+      "name": "Demonic Will & Shards",
+      "icons": ["bloodmagic:demon_crystal"] ,
+      "category": "BLOODMAGIC",
+      "location": [7, 4],
+      "parents": ["RITUALSTONES"],
+      "stages": [
+        {
+          "text": "Further experimentation has revealed a strange substance that coalesces from demonic entities. This 'Demonic Will' seems to carry its own type of energy.",
+          "required_knowledge": ["THEORY;ELDRITCH;4"],
+          "warp": 2
+        },
+        {
+          "text": "These Crystals, extracted from Will, seem attuned to rituals and automation. A new branch of thaumaturgy begins here." 
+        }
+      ]
+    },
+    {
+      "key": "LIVINGARMOR",
+      "name": "Living Armor",
+      "icons": ["bloodmagic:living_armour_helmet"],
+      "category": "BLOODMAGIC",
+      "location": [4, -4],
+      "parents": ["REAGENTCRAFT"],
+      "stages": [
+        {
+          "text": "Through binding LP and Will to armor, I can produce something that lives — that *grows*.",
+          "required_knowledge": ["THEORY;ARTIFICE;3"],
+          "warp": 2
+        },
+        {
+          "text": "The armor has adapted to my movements, becoming lighter, stronger, and more resilient. It is unlike any mundane suit I’ve worn."
+        }
+      ]
+    },
+    {
+      "key": "SOULFORGE",
+      "name": "Hellfire Forge",
+      "icons": ["bloodmagic:soul_forge"],
+      "category": "BLOODMAGIC",
+      "location": [0, -5],
+      "parents": ["RUDIMENTARYSNARE"],
+      "stages": [
+        {
+          "text": "To properly refine Demonic Will, I must use a more infernal crafting method. The Hellfire Forge burns essence and desire into powerful reagents.",
+          "required_knowledge": ["THEORY;ALCHEMY;5"],
+          "warp": 2
+        },
+        {
+          "text": "It consumes not only materials, but intent. Will fuels every reaction. I must collect and guide it carefully." 
+        }
+      ]
+    },
+    {
+      "key": "REAGENTCRAFT",
+      "name": "Reagent Concoctions",
+      "icons": ["bloodmagic:component"],
+      "category": "BLOODMAGIC",
+      "location": [2, -5],
+      "parents": ["SOULFORGE"],
+      "stages": [
+        {
+          "text": "The Forge can craft alchemical reagents, each imbued with a purpose. Some shield, others destroy. All of them consume Will and LP.",
+          "required_knowledge": ["THEORY;ALCHEMY;6"]
+        },
+        {
+          "text": "With proper control, I can now craft and use reagents to empower rituals, items, and even projectiles."
+        }
+      ]
+    },
+    {
+      "key": "NETWORKAUTOMATION",
+      "name": "Network Automation",
+      "icons": ["bloodmagic:teleposer"],
+      "category": "BLOODMAGIC",
+      "location": [5, 4],
+      "parents": ["RITUALSTONES"],
+      "stages": [
+        {
+          "text": "My network can be expanded and automated. Devices like the Teleposer and Routing nodes let me control essence flow and teleport items.",
+          "required_knowledge": ["THEORY;ARTIFICE;5"]
+        },
+        {
+          "text": "With enough LP and precision, the entire world can be shaped through the veins of this magical circuitry."
+        }
+      ]
+    },
+{
+  "key": "RUDIMENTARYSNARE",
+  "name": "The Rudimentary Snare",
+  "icons": ["bloodmagic:soul_snare"],
+  "category": "BLOODMAGIC",
+  "location": [0, -2],
+  "parents": ["BEGINNINGBLOODMAGIC"],
+  "stages": [
+    {
+      "text": "To begin manipulating Will — a raw force excreted by demonic beings — I require a method to extract it. I have devised a simple magical trap, a 'snare', that marks entities for a brief moment. Upon their demise, a shard of Will is left behind.",
+      "required_item": ["bloodmagic:soul_snare"],
+      "required_knowledge": ["THEORY;ALCHEMY;2"],
+      "warp": 1
+    },
+    {
+      "text": "The snare itself is rudimentary, true to its name, but effective. When thrown, it clings to hostile creatures. If they are slain while ensnared, their soul shatters and Demonic Will is left behind — a curious but invaluable substance."
+    }
+  ]
+},
+  
+{
+  "key": "TARTARICGEM",
+  "name": "Tartaric Gem",
+  "icons": ["bloodmagic:soul_gem"],
+  "category": "BLOODMAGIC",
+  "location": [-2, -5],
+  "parents": ["SOULFORGE"],
+  "stages": [
+    {
+      "text": "Though I've managed to extract Demonic Will, it remains unstable and uncontainable for long. I must find a vessel to hold it — a soulstone of sorts. With the Hellfire Forge and the right reagents, I may be able to crystallize and store Will.",
+      "required_item": ["bloodmagic:soul_gem"],
+      "required_knowledge": ["THEORY;ALCHEMY;3"],
+      "warp": 2
+    },
+    {
+      "text": "It worked. This crystalline gem stores Will and feeds it into my rituals or items as needed. I can feel it pulse faintly when full — and with time, perhaps I can forge stronger gems with greater capacity."
+    }
+  ]
+}
+]
+}

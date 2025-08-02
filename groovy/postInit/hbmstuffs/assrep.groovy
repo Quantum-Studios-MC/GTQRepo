@@ -224,33 +224,7 @@ recipemap('assembler').recipeBuilder()
         .inputs(ore('stickSteel') * 3)
         .outputs(item('hbm:steel_scaffold') * 8)
         .duration(120).EUt(8).buildAndRegister()
-                        
-recipemap('assembler').recipeBuilder()
-        .inputs(ore('wireFineAdvancedAlloy') * 3)
-        .inputs(ore('plateSteel') * 3)
-        .inputs(ore('rodSteelMagnetic'))
-        .inputs(item('gregtech:meta_item_1', 128))
-        .outputs(item('hbm:motor'))
-        .duration(120).EUt(120).buildAndRegister()
-
-recipemap('assembler').recipeBuilder()
-        .inputs(ore('wireFineAdvancedAlloy') * 3)
-        .inputs(ore('plateIron') * 6)
-        .inputs(ore('rodSteelMagnetic'))
-        .inputs(item('gregtech:meta_item_1', 128))
-        .outputs(item('hbm:motor'))
-        .duration(120).EUt(120).buildAndRegister()
-
-
-recipemap('assembler').recipeBuilder()
-        .inputs(ore('wireFineAdvancedAlloy') * 3)
-        .inputs(ore('plateTungsten'))
-        .inputs(ore('rodSteelMagnetic'))
-        .inputs(item('gregtech:meta_item_1', 128))
-        .outputs(item('hbm:motor'))
-        .duration(120).EUt(120).buildAndRegister()
-
-        
+                
 recipemap('chemical_reactor').recipeBuilder()
         .inputs(ore('ingotRubber') * 9)
         .fluidInputs(fluid('glue') * 72)

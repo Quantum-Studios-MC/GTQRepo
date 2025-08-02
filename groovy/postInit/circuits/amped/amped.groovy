@@ -20,7 +20,7 @@ recipemap('chemical_reactor').recipeBuilder()
 // Recipe 3: Seventeena-Hydroxypregnenolone Synthesis
 recipemap('chemical_reactor').recipeBuilder()
         .fluidInputs(fluid('pregnenolone') * 400)
-        .fluidInputs(fluid('acid') * 200)
+        .fluidInputs(fluid('peroxide') * 200)
         .notConsumable(ore('dustChrome'))
         .fluidOutputs(fluid('seventeena_hydroxypregnenolone') * 300)
         .duration(300).EUt(960).buildAndRegister();
@@ -35,7 +35,7 @@ recipemap('chemical_reactor').recipeBuilder()
 // Recipe 5: Elevendeoxycortisol Synthesis
 recipemap('chemical_reactor').recipeBuilder()
         .fluidInputs(fluid('seventeena_hydroxyprogesterone') * 250)
-        .fluidInputs(fluid('acid') * 200)
+        .fluidInputs(fluid('peroxide') * 200)
         .notConsumable(ore('dustCobalt'))
         .fluidOutputs(fluid('elevendeoxycortisol') * 200)
         .duration(400).EUt(1440).buildAndRegister();
@@ -43,7 +43,7 @@ recipemap('chemical_reactor').recipeBuilder()
 // Recipe 6: Cortisol Synthesis
 recipemap('chemical_reactor').recipeBuilder()
         .fluidInputs(fluid('elevendeoxycortisol') * 200)
-        .fluidInputs(fluid('acid') * 200)
+        .fluidInputs(fluid('peroxide') * 200)
         .notConsumable(ore('dustPalladium'))
         .fluidOutputs(fluid('cortisol') * 150)
         .duration(500).EUt(1920).buildAndRegister();

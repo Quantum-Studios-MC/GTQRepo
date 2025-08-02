@@ -90,6 +90,4 @@ Bloomery.createBloomeryBuilder(
 
 // big oreBasalticMineralsand
 
-recipes.addShaped(<actuallyadditions:block_misc:4>, [[<ore:screwWood>, <gregtech:meta_plate:1617>, <ore:screwWood>], [<gregtech:meta_plate:1617>, <ore:logWood>, <gregtech:meta_plate:1617>], [<ore:screwWood>, <gregtech:meta_plate:1617>, <ore:screwWood>]]);
-recipes.addShaped(<actuallyadditions:block_misc:4>, [[<ore:stickWood>, <pyrotech:material:20>, <ore:stickWood>], [<pyrotech:material:20>, <ore:logWood>, <pyrotech:material:20>], [<ore:stickWood>, <pyrotech:material:20>, <ore:stickWood>]]);
 recipes.addShaped(<hbm:coil_tungsten>, [[<ore:stickIronMagnetic>, <ore:foilCupronickel>, null], [<ore:foilCupronickel>, <ore:stickLongIronMagnetic>, <ore:foilCupronickel>], [null, <ore:foilCupronickel>, <ore:stickIronMagnetic>]]);

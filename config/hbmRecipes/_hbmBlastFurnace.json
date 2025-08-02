@@ -1,0 +1,170 @@
+{
+  "comment": "Inputs can use the unique 'dictframe' type which is an ore dictionary material suffix. The recipes will accept most ore dictionary entries equivalent to one ingot (gems, dust, plates, etc).\nThis file also contains fuel definitions for the blast furnace.",
+  "recipes": [
+    {
+      "output": ["hbm:ingot_steel"],
+      "input1": ["dictframe","Iron"],
+      "input2": ["dictframe","Coal"]
+    },
+    {
+      "output": ["hbm:ingot_steel"],
+      "input1": ["dictframe","Iron"],
+      "input2": ["dictframe","AnyCoke"]
+    },
+    {
+      "output": ["hbm:ingot_steel",2],
+      "input1": ["dict","oreIron"],
+      "input2": ["dictframe","Coal"]
+    },
+    {
+      "output": ["hbm:ingot_steel",3],
+      "input1": ["dict","oreIron"],
+      "input2": ["dictframe","AnyCoke"]
+    },
+    {
+      "output": ["hbm:ingot_steel",3],
+      "input1": ["dict","oreIron"],
+      "input2": ["item","hbm:powder_flux"]
+    },
+    {
+      "output": ["hbm:ingot_red_copper",2],
+      "input1": ["dictframe","Copper"],
+      "input2": ["dictframe","Redstone"]
+    },
+    {
+      "output": ["hbm:ingot_advanced_alloy",2],
+      "input1": ["dictframe","Steel"],
+      "input2": ["dictframe","Mingrade"]
+    },
+    {
+      "output": ["hbm:neutron_reflector",2],
+      "input1": ["dictframe","Tungsten"],
+      "input2": ["dictframe","Coal"]
+    },
+    {
+      "output": ["hbm:neutron_reflector",2],
+      "input1": ["dictframe","Tungsten"],
+      "input2": ["dictframe","AnyCoke"]
+    },
+    {
+      "output": ["hbm:ingot_magnetized_tungsten"],
+      "input1": ["dictframe","Tungsten"],
+      "input2": ["dict","nuggetSchrabidium"]
+    },
+    {
+      "output": ["hbm:ingot_tcalloy"],
+      "input1": ["dictframe","Steel"],
+      "input2": ["dict","nuggetTechnetium99"]
+    },
+    {
+      "output": ["hbm:plate_paa",2],
+      "input1": ["dict","plateGold"],
+      "input2": ["item","hbm:plate_mixed"]
+    },
+    {
+      "output": ["hbm:ingot_starmetal",2],
+      "input1": ["dictframe","Saturnite"],
+      "input2": ["item","hbm:powder_meteorite"]
+    },
+    {
+      "output": ["hbm:ingot_meteorite"],
+      "input1": ["dictframe","Cobalt"],
+      "input2": ["item","hbm:block_meteor"]
+    },
+    {
+      "output": ["hbm:meteorite_sword_alloyed"],
+      "input1": ["item","hbm:meteorite_sword_hardened"],
+      "input2": ["dictframe","Cobalt"],
+      "hidden": true
+    },
+    {
+      "output": ["hbm:ingot_meteorite"],
+      "input1": ["item","hbm:block_meteor"],
+      "input2": ["dictframe","Cobalt"]
+    },
+    {
+      "fuel": ["dict","gemCoal"],
+      "power": 200
+    },
+    {
+      "fuel": ["dict","dustCoal"],
+      "power": 220
+    },
+    {
+      "fuel": ["dict","blockCoal"],
+      "power": 2000
+    },
+    {
+      "fuel": ["dict","gemLignite"],
+      "power": 150
+    },
+    {
+      "fuel": ["dict","dustLignite"],
+      "power": 150
+    },
+    {
+      "fuel": ["dict","blockLignite"],
+      "power": 1500
+    },
+    {
+      "fuel": ["item","hbm:briquette"],
+      "power": 200
+    },
+    {
+      "fuel": ["dict","gemCharcoal"],
+      "power": 150
+    },
+    {
+      "fuel": ["dict","blockCharcoal"],
+      "power": 1500
+    },
+    {
+      "fuel": ["dict","fuelCoke"],
+      "power": 400
+    },
+    {
+      "fuel": ["dict","gemAnyCoke"],
+      "power": 400
+    },
+    {
+      "fuel": ["dict","blockAnyCoke"],
+      "power": 4000
+    },
+    {
+      "fuel": ["item","minecraft:lava_bucket"],
+      "power": 12800
+    },
+    {
+      "fuel": ["item","minecraft:blaze_rod"],
+      "power": 1000
+    },
+    {
+      "fuel": ["item","minecraft:blaze_powder"],
+      "power": 300
+    },
+    {
+      "fuel": ["item","minecraft:coal",1,1],
+      "power": 200
+    },
+    {
+      "fuel": ["dict","gemInfernalCoal"],
+      "power": 300
+    },
+    {
+      "fuel": ["dict","blockInfernalCoal"],
+      "power": 3000
+    },
+    {
+      "fuel": ["item","hbm:solid_fuel"],
+      "power": 400
+    },
+    {
+      "fuel": ["item","hbm:solid_fuel_presto"],
+      "power": 800
+    },
+    {
+      "fuel": ["item","hbm:solid_fuel_presto_triplet"],
+      "power": 2400
+    }
+  ]
+}

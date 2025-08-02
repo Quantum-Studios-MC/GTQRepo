@@ -1,0 +1,28 @@
+
+recipemap('chemical_reactor').recipeBuilder()
+        .fluidInputs(fluid('water') * 100 )
+        .fluidInputs(fluid('hydrogen_sulfide') * 100 )
+        .fluidOutputs(fluid('le_water') * 100 )
+        .fluidOutputs(fluid('depleted_hydrogen_sulfide') * 100 )
+        .duration(600).EUt(120).buildAndRegister()
+
+recipemap('chemical_reactor').recipeBuilder()
+        .fluidInputs(fluid('le_water') * 100 )
+        .fluidInputs(fluid('hydrogen_sulfide') * 100 )
+        .fluidOutputs(fluid('he_water') * 100 )
+        .fluidOutputs(fluid('depleted_hydrogen_sulfide') * 100 )
+        .duration(600).EUt(120).buildAndRegister()
+
+recipemap('chemical_reactor').recipeBuilder()
+        .fluidInputs(fluid('he_water') * 100 )
+        .fluidInputs(fluid('hydrogen_sulfide') * 100 )
+        .fluidOutputs(fluid('heavy_water') * 100 )
+        .fluidOutputs(fluid('depleted_hydrogen_sulfide') * 100 )
+        .duration(600).EUt(120).buildAndRegister()
+
+recipemap('chemical_reactor').recipeBuilder()
+        .fluidInputs(fluid('water') * 100 )
+        .fluidInputs(fluid('depleted_hydrogen_sulfide') * 100 )
+        .fluidOutputs(fluid('preheated_water') * 100 )
+        .fluidOutputs(fluid('hydrogen_sulfide') * 100 )
+        .duration(800).EUt(120).buildAndRegister()
