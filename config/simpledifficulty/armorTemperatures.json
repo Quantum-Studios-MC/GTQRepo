@@ -39,14 +39,6 @@
       "temperature": 2.0
     }
   ],
-  "baubles:ring": [
-    {
-      "identity": {
-        "metadata": -1
-      },
-      "temperature": -0.25
-    }
-  ],
   "simpledifficulty:wool_leggings": [
     {
       "identity": {
