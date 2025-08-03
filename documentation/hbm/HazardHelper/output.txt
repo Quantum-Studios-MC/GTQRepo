@@ -1,9 +1,0 @@
-HazardSystem.register("dustTinyTechnetium", makeData(RADIATION, 0.31F));
-HazardSystem.register("dustSmallTechnetium", makeData(RADIATION, 0.69F));
-HazardSystem.register("blockPlutonium241", makeData(RADIATION, 225.0F));
-HazardSystem.register("stickLongPlutonium241", makeData(RADIATION, 25.0F));
-HazardSystem.register("foilPlutonium241", makeData(RADIATION, 6.25F));
-HazardSystem.register("plateDensePlutonium239", makeData(RADIATION, 45.0F));
-HazardSystem.register("plateDoublePlutonium241", makeData(RADIATION, 50.0F));
-HazardSystem.register("dustPlutonium241", makeData(RADIATION, 25.0F));
-HazardSystem.register("dustUranium235", makeData(RADIATION, 1.0F));

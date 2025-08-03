@@ -65,6 +65,7 @@ Source: [Hazard System HBM:NTMCE](https://github.com/MisterNorwood/Hbm-s-Nuclear
 
 
 ## The Hazard Helper
+### Info on Hazard Helper is Old, need to update
 The [Hazard Helper](../hbm/HazardHelper/HazardHelper.py) is a Python Script written by me, to help with Generating a lot of Hazards at Once that share the same Name.
 
 An Example of what the Hazard Helper does can be seen in [Radtiation.groovy](../../preInit/items/radiation.groovy)
@@ -82,5 +83,5 @@ oreDict : floatValue : modifier
 
 Example Adding Radiation of 5.0F to Iron Ingot 
 ```
-ingotIron : 5.0F : cs
+ingotIron : 5.0 : cs
 ```
