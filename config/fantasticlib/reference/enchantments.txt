@@ -48,13 +48,13 @@ scalingfeast:deprivationcurse
 thaumicbases:thaumicbases.eldritchbane
 thaumicbases:thaumicbases.elderknowledge
 thaumicbases:thaumicbases.tainted
-endercore:xpboost
 endercore:autosmelt
-enderio:soulbound
+endercore:xpboost
 enderio:witherweapon
+enderio:witherarrow
+enderio:soulbound
 enderio:repellent
 enderio:shimmer
-enderio:witherarrow
 bettercombat:gourmand
 bettercombat:lightning
 bettercombat:revitalize

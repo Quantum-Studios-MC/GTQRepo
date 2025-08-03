@@ -359,12 +359,6 @@ materialBuilder(29973, 'mirabilite')
     .components(material('sodium'), material('sulfur') * 1, material('oxygen') * 4)
 .build();
 
-materialBui lder(29972, 'thenardite')
-    .colorAverage().ore()
-    .iconSet("FINE")
-    .components(material('sodium'), material('sulfur') * 1, material('oxygen') * 4)
-.build();
-
 materialBuilder(29971, 'chilesite')
     .colorAverage().ore()
     .iconSet("FINE")

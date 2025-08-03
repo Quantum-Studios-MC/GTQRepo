@@ -31,7 +31,7 @@ recipemap('large_chemical_reactor').recipeBuilder()
     .duration(600).EUt(GTValues.VA[GTValues.MV]).buildAndRegister();
 
 recipemap('macerator').recipeBuilder()
-    .inputs(ore('mushroom'))
+    .inputs(ore('foodMushroomPowder'))
     .outputs(metaitem('dustFungalExtract') * 1)
     .duration(20).EUt(GTValues.VA[GTValues.LV]).buildAndRegister();
 

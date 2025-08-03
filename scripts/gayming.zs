@@ -1,10 +1,6 @@
 #reloadable
 
 recipes.addShaped(<rftools:charged_porter>, [[<draconicevolution:dislocator_advanced>, <ore:batteryEv>], [<hbm:ducttape>, <hbm:ducttape>]]);
-recipes.addShaped(<rftoolsdim:time_absorber>, [[<ore:screwNaquadahAlloy>, null, <gregtech:meta_screw:2042>], [<hbm:battery_spark_cell_10000>, <hbm:singularity_spark>, <hbm:battery_spark_cell_10000>], [<gregtech:meta_screw:2042>, null, <ore:screwNaquadahAlloy>]]);
-recipes.addShaped(<rftoolsdim:feature_absorber>, [[null, <rftoolsdim:liquid_absorber>, null], [<rftoolsdim:biome_absorber>, <rftoolsdim:terrain_absorber>, <rftoolsdim:time_absorber>], [null, <rftoolsdim:material_absorber>, null]]);
-recipes.addShaped(<rftoolsdim:biome_absorber>, [[<biomesoplenty:crystal_shard>, <biomesoplenty:terrarium:1>, <biomesoplenty:gem>], [<biomesoplenty:terrarium:15>, <rftools:machine_frame>, <biomesoplenty:terrarium:13>], [<biomesoplenty:gem>, <biomesoplenty:terrarium:14>, <biomesoplenty:crystal_shard>]]);
-recipes.addShaped(<rftoolsdim:terrain_absorber>, [[<hbm:capsule_hole_tiny>, <hbm:particle_amat>, <hbm:capsule_hole_tiny>], [<hbm:cell>, <rftools:machine_frame>, <hbm:cell>], [<hbm:capsule_hole_tiny>, <hbm:particle_amat>, <hbm:capsule_hole_tiny>]]);
 recipes.addShaped(<rftoolscontrol:programmer>, [[<rs_ctr:trigger>, <rftoolscontrol:card_base>, <rs_ctr:trigger>], [<ore:circuitLv>, <rftools:machine_frame>, <ore:circuitLv>], [<rs_ctr:offset>, <rftoolscontrol:program_card>, <rs_ctr:scale>]]);
 recipes.addShaped(<rftoolscontrol:tank>, [[null, <rftoolscontrol:card_base>, null], [<gregtech:machine:1610>, <rftools:machine_frame>, <gregtech:machine:1610>], [null, <rftoolscontrol:card_base>, null]]);
 recipes.addShaped(<rftoolscontrol:workbench>, [[<rftoolscontrol:crafting_card>], [<rftools:machine_frame>], [<rftoolscontrol:card_base>]]);
@@ -15,10 +11,6 @@ recipes.addShaped(<rftoolscontrol:vectorart_module>, [[<rs_ctr:offset>, <rs_ctr:
 recipes.addShaped(<rftoolscontrol:variable_module>, [[<rs_ctr:oscilloscope>], [<rftoolscontrol:card_base>], [<ore:circuitLv>]]);
 recipes.addShaped(<rftoolscontrol:program_card>, [[<ore:circuitLv>], [<rftoolscontrol:card_base>]]);
 recipes.addShaped(<rftoolscontrol:processor>, [[null, <ore:circuitLv>, null], [<rftoolscontrol:program_card>, <rftools:machine_frame>, <rftoolscontrol:program_card>], [null, <gregtech:meta_item_1:461>, null]]);
-recipes.addShaped(<rftoolsdim:material_absorber>, [[null, <hbm:pellet_antimatter>, null], [<hbm:pellet_antimatter>, <hbm:black_hole>, <hbm:pellet_antimatter>], [null, <hbm:pellet_antimatter>, null]]);
-recipes.addShaped(<rftoolsdim:energy_extractor>, [[<gregtech:machine:1738>], [<rftools:machine_frame>], [<gregtech:machine:312>]]);
-recipes.addShaped(<rftoolsdim:activity_probe>, [[<gregtech:meta_stick:32012>], [<rftools:machine_frame>], [<hbm:plate_desh>]]);
-recipes.addShaped(<rftoolsdim:dimlet_workbench>, [[null, <rftoolsdim:dimlet_base>, null], [<gregtech:meta_wire_fine:32128>, <rftools:machine_frame>, <gregtech:meta_wire_fine:32128>], [<gregtech:wire_hex:32012>, <gregtech:meta_plate:32012>, <gregtech:wire_hex:32012>]]);
 recipes.addShaped(<rftools:dialing_device>, [[<gregtech:meta_item_1:307>], [<rftools:machine_frame>], [<enderio:block_dialing_device>]]);
 recipes.addShaped(<rftools:matter_receiver>, [[null, <gregtech:meta_item_1:219>, null], [<modularrouters:module:13>, <rftools:machine_frame>, <modularrouters:module:13>], [null, <gregtech:meta_item_1:234>, null]]);
 recipes.addShaped(<rftools:matter_transmitter>, [[null, <gregtech:meta_item_1:234>, null], [<modularrouters:module:13>, <rftools:machine_frame>, <modularrouters:module:13>], [null, <gregtech:meta_item_1:219>, null]]);
