@@ -1468,8 +1468,6 @@ rftools:elevator_stop
 rftools:scan
 rftools:teleport_whoosh
 rftools:teleport_error
-rftoolsdim:deep_rumble
-rftoolsdim:wolfhowl
 rlmixins:flare_shoot
 rlmixins:flare_burn
 rlmixins:cow
@@ -1480,6 +1478,7 @@ spartanweaponry:throwing_weapon_hit
 spartanweaponry:throwing_weapon_return
 spartanweaponry:boomerang_throw
 spartanweaponry:boomerang_flight
+survivaltools:easter_egg
 techguns:guns.assaultriflefire
 techguns:guns.assaultriflereload
 techguns:guns.silencedm4fire

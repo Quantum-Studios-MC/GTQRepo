@@ -1,6 +1,12 @@
 {
   "recipes": [
     {
+      "input": "OIL",
+      "hydrogen": ["HYDROGEN",5,1],
+      "output1": ["OIL_DS",90],
+      "output2": ["SOURGAS",15]
+    },
+    {
       "input": "DIESEL_CRACK_REFORM",
       "hydrogen": ["HYDROGEN",10,1],
       "output1": ["DIESEL_REFORM",80],
@@ -11,12 +17,6 @@
       "hydrogen": ["HYDROGEN",5,1],
       "output1": ["CRACKOIL_DS",90],
       "output2": ["SOURGAS",15]
-    },
-    {
-      "input": "DIESEL_CRACK",
-      "hydrogen": ["HYDROGEN",10,1],
-      "output1": ["DIESEL",80],
-      "output2": ["SOURGAS",30]
     },
     {
       "input": "GAS",
@@ -31,10 +31,10 @@
       "output2": ["SOURGAS",15]
     },
     {
-      "input": "OIL",
-      "hydrogen": ["HYDROGEN",5,1],
-      "output1": ["OIL_DS",90],
-      "output2": ["SOURGAS",15]
+      "input": "DIESEL_CRACK",
+      "hydrogen": ["HYDROGEN",10,1],
+      "output1": ["DIESEL",80],
+      "output2": ["SOURGAS",30]
     }
   ]
 }
