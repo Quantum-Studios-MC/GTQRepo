@@ -1,4 +1,11 @@
 {
   "url": "https://github.com/iristhepianist/GTQRepo/releases/download/HBMNTM-1/NTM-Extended-1.12.2-2.0.2.jar",
-    "fileName": "NTM-Extended-1.12.2-2.0.2.jar"
+    "fileName": "NTM-Extended-1.12.2-2.0.2.jar",
+        "installationPolicy": {
+       "continueOnFailedDownload": false,
+       "optionalKey": "$",
+       "selectedByDefault": true,
+       "name": "HBM-NTM Extended",
+       "description": "Fork of NTM-EXTENDED For use in the modpack."
+    }
 }

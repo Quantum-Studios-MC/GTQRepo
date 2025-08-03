@@ -1,0 +1,12 @@
+{
+  "addonId": 238891,
+  "fileId": 3497269,
+        "fileName": "DynamicSurroundings-1.12.2-3.6.3.jar",
+    "installationPolicy": {
+       "continueOnFailedDownload": true,
+       "optionalKey": "$",
+       "selectedByDefault": true,
+       "name": "Dynamic Surroundings",
+       "description": "Client-Side Mod for visual and audio enhancements."
+    }
+}

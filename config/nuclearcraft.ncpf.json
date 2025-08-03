@@ -5578,6 +5578,7 @@
             },
             {
               "name": "hbm:block_graphite",
+              "metadata": 0,
               "blockstate": {},
               "type": "legacy_block",
               "modules": {
@@ -5725,8 +5726,7 @@
               }
             },
             {
-              "name": "hbm:ingot",
-              "metadata": 93,
+              "name": "hbm:ingot_u235",
               "type": "legacy_item",
               "modules": {
                 "plannerator:tags": {
@@ -5749,8 +5749,7 @@
               }
             },
             {
-              "name": "hbm:ingot",
-              "metadata": 25,
+              "name": "hbm:ingot_co60",
               "type": "legacy_item",
               "modules": {
                 "plannerator:tags": {
@@ -5845,8 +5844,18 @@
               }
             },
             {
-              "name": "hbm:ingot",
-              "metadata": 26,
+              "name": "apocalypse_craft:cobaltingot",
+              "type": "legacy_item",
+              "modules": {
+                "plannerator:tags": {
+                  "tags": [
+                    "ingotCobalt"
+                  ]
+                }
+              }
+            },
+            {
+              "name": "hbm:ingot_cobalt",
               "type": "legacy_item",
               "modules": {
                 "plannerator:tags": {
@@ -10434,6 +10443,7 @@
             },
             {
               "name": "hbm:block_graphite",
+              "metadata": 0,
               "blockstate": {},
               "type": "legacy_block",
               "modules": {
@@ -11589,8 +11599,7 @@
               }
             },
             {
-              "name": "hbm:ingot",
-              "metadata": 93,
+              "name": "hbm:ingot_u235",
               "type": "legacy_item",
               "modules": {
                 "plannerator:tags": {
@@ -11613,8 +11622,7 @@
               }
             },
             {
-              "name": "hbm:ingot",
-              "metadata": 25,
+              "name": "hbm:ingot_co60",
               "type": "legacy_item",
               "modules": {
                 "plannerator:tags": {
@@ -12717,8 +12725,18 @@
               }
             },
             {
-              "name": "hbm:ingot",
-              "metadata": 26,
+              "name": "apocalypse_craft:cobaltingot",
+              "type": "legacy_item",
+              "modules": {
+                "plannerator:tags": {
+                  "tags": [
+                    "ingotCobalt"
+                  ]
+                }
+              }
+            },
+            {
+              "name": "hbm:ingot_cobalt",
               "type": "legacy_item",
               "modules": {
                 "plannerator:tags": {

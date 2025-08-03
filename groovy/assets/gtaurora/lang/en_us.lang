@@ -305,7 +305,7 @@ gtaurora.material.white_rot_culture=White Rot Culture
 gtaurora.material.aromatic_sludge=Aromatic Compound Sludge
 gtaurora.material.vanillin=Vanillin
 gtaurora.material.syringaldehyde=Syringaldehyde
-gtaurora.material.hydroxybenzoic_acid=Hydroxybenzoic Acid
+gtaurora.material.hydroxybenzoic_acid=Hydroxybenzoic peroxide
 gtaurora.material.bio_aromatic_mix=Bio-Aromatic Mixture
 gtaurora.material.fungal_extract=Fungal Extract
 gtaurora.material.lignin=Lignin
@@ -321,3 +321,117 @@ gtaurora.material.thermoconducting=Thermoconducting Alloy
 
 
 gtaurora.veins.ore.essentia_deposit_2=Alternate Essentia Deposit
+
+gtaurora.material.glistening_diamond=Glistening Diamond
+gtaurora.material.monocrystalline_certus_quartz=Monocrystalline Certus Quartz
+gtaurora.material.certus_quartz_sand=Certus Quartz Sand
+
+gtaurora.material.aer=Aer
+gtaurora.material.ignis=Ignis
+gtaurora.material.terra=Terra
+gtaurora.material.aqua=Aqua
+gtaurora.material.ordo=Ordo
+gtaurora.material.perditio=Perditio
+gtaurora.material.vacuos=Vacuos
+gtaurora.material.lux=Lux
+gtaurora.material.motus=Motus
+gtaurora.material.gelum=Gelum
+gtaurora.material.vitreus=Vitreus
+gtaurora.material.metallum=Metallum
+gtaurora.material.victus=Victus
+gtaurora.material.mortuus=Mortuus
+gtaurora.material.potentia=Potentia
+gtaurora.material.permutatio=Permutatio
+gtaurora.material.praecantatio=Praecantatio
+gtaurora.material.auram=Auram
+gtaurora.material.alkimia=Alkimia
+gtaurora.material.vitium=Vitium
+gtaurora.material.tenebrae=Tenebrae
+gtaurora.material.alienis=Alienis
+gtaurora.material.volatus=Volatus
+gtaurora.material.herba=Herba
+gtaurora.material.instrumentum=Instrumentum
+gtaurora.material.fabrico=Fabrico
+gtaurora.material.machina=Machina
+gtaurora.material.vinculum=Vinculum
+gtaurora.material.spiritus=Spiritus
+gtaurora.material.cognitio=Cognitio
+gtaurora.material.sensus=Sensus
+gtaurora.material.aversio=Aversio
+gtaurora.material.praemunio=Praemunio
+gtaurora.material.desiderium=Desiderium
+gtaurora.material.exanimis=Exanimis
+gtaurora.material.bestia=Bestia
+gtaurora.material.humanus=Humanus
+gtaurora.material.sol=Sol
+gtaurora.material.luna=Luna
+gtaurora.material.stellae=Stellae
+gtaurora.material.diabolus=Diabolus
+gtaurora.material.fluctus=Fluctus
+gtaurora.material.sonus=Sonus
+gtaurora.material.exitium=Exitium
+gtaurora.material.caeles=Caeles
+gtaurora.material.draco=Draco
+gtaurora.material.infernum=Infernum
+gtaurora.material.ventus=Ventus
+gtaurora.material.visum=Visum
+gtaurora.material.imperium=Imperium
+gtaurora.material.fluixresidue=Fluix Residue
+
+gtaurora.material.ionized_gold=Ionized Gold
+
+gtaurora.material.life_essence=Life Essence
+
+gtaurora.material.ebony_psi=Ebony Psimetal
+gtaurora.material.psi=Psimetal
+gtaurora.material.ivory_psi=Ivory Psimetal
+gtaurora.material.manifested_mana=Manifested Mana
+gtaurora.material.knightslime=Knightslime
+
+gtaurora.material.will=Will
+gtaurora.material.indraic_water=Indraic Water
+gtaurora.material.pidginmetal=Pidginmetal
+gtaurora.material.pixiemetal=Pixiemetal
+
+gtaurora.material.cryotheum=Cryotheum
+gtaurora.material.aerotheum=Aerotheum
+gtaurora.material.pyrotheum=Pyrotheum
+
+gtaurora.material.urine=Urine A.K.A "Piss"
+
+gtaurora.material.pewter=Pewter
+gtaurora.material.cast_iron=Cast Iron
+gtaurora.material.babbitt_metal=Babbitt Metal
+gtaurora.material.nickel_steel=Nickel Steel
+gtaurora.material.german_silver=German Silver
+gtaurora.material.manganese_steel=Manganese Steel
+gtaurora.material.monel=Monel
+gtaurora.material.spiegeleisen=Spiegeleisen
+gtaurora.material.bell_metal=Bell Metal
+gtaurora.material.type_metal=Type Metal
+gtaurora.material.tombac=Tombac
+gtaurora.material.silicon_bronze=Silicon Bronze
+gtaurora.material.white_metal=White Metal
+
+gtaurora.material.halite=Halite
+gtaurora.material.sylvite=Sylvite
+gtaurora.material.carnallite=Carnallite
+gtaurora.material.langbeinite=Langbeinite
+gtaurora.material.bischofite=Bischofite
+gtaurora.material.trona=Trona
+gtaurora.material.mirabilite=Mirabilite
+gtaurora.material.thenardite=Thenardite
+gtaurora.material.chilesite=Chilesite
+
+gregtech.veins.ore.halite=Halite Vein
+gregtech.veins.ore.sylvite=Sylvite Vein
+gregtech.veins.ore.carnallite=Carnallite Vein
+gregtech.veins.ore.langbeinite=Langbeinite Vein
+gregtech.veins.ore.bischofite=Bischofite Vein
+gregtech.veins.ore.trona=Trona Vein
+gregtech.veins.ore.mirabilite=Mirabilite Vein
+gregtech.veins.ore.thenardite=Thenardite Vein
+gregtech.veins.ore.chilesite=Chilesite Vein
+
+gtaurora.material.graded_iron=Graded Iron
+gtaurora.material.dura_steel=Dura-Steel

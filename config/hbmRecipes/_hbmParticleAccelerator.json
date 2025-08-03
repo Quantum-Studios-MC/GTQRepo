@@ -1,0 +1,106 @@
+{
+  "recipes": [
+    {
+      "momentum": 300,
+      "inputs": [
+        ["item","hbm:particle_hydrogen"],
+        ["item","hbm:particle_copper"]
+      ],
+      "outputs": [
+        ["hbm:particle_amat"]
+      ]
+    },
+    {
+      "momentum": 400,
+      "inputs": [
+        ["item","hbm:particle_amat"],
+        ["item","hbm:particle_amat"]
+      ],
+      "outputs": [
+        ["hbm:particle_aschrab"]
+      ]
+    },
+    {
+      "momentum": 10000,
+      "inputs": [
+        ["item","hbm:particle_aschrab"],
+        ["item","hbm:particle_aschrab"]
+      ],
+      "outputs": [
+        ["hbm:particle_dark"]
+      ]
+    },
+    {
+      "momentum": 2500,
+      "inputs": [
+        ["item","hbm:particle_hydrogen"],
+        ["item","hbm:particle_amat"]
+      ],
+      "outputs": [
+        ["hbm:particle_muon"]
+      ]
+    },
+    {
+      "momentum": 6500,
+      "inputs": [
+        ["item","hbm:particle_hydrogen"],
+        ["item","hbm:particle_lead"]
+      ],
+      "outputs": [
+        ["hbm:particle_higgs"]
+      ]
+    },
+    {
+      "momentum": 5000,
+      "inputs": [
+        ["item","hbm:particle_muon"],
+        ["item","hbm:particle_higgs"]
+      ],
+      "outputs": [
+        ["hbm:particle_tachyon"]
+      ]
+    },
+    {
+      "momentum": 12500,
+      "inputs": [
+        ["item","hbm:particle_muon"],
+        ["item","hbm:particle_dark"]
+      ],
+      "outputs": [
+        ["hbm:particle_strange"]
+      ]
+    },
+    {
+      "momentum": 12500,
+      "inputs": [
+        ["item","hbm:particle_strange"],
+        ["item","hbm:powder_magic"]
+      ],
+      "outputs": [
+        ["hbm:particle_sparkticle"],
+        ["hbm:dust"]
+      ]
+    },
+    {
+      "momentum": 70000,
+      "inputs": [
+        ["item","hbm:particle_sparkticle"],
+        ["item","hbm:particle_higgs"]
+      ],
+      "outputs": [
+        ["hbm:particle_digamma"]
+      ]
+    },
+    {
+      "momentum": 100,
+      "inputs": [
+        ["item","minecraft:chicken"],
+        ["item","minecraft:chicken"]
+      ],
+      "outputs": [
+        ["hbm:nugget"],
+        ["hbm:nugget"]
+      ]
+    }
+  ]
+}

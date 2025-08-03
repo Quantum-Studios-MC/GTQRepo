@@ -22,17 +22,17 @@ import net.minecraft.util.ResourceLocation
 import net.minecraftforge.fml.relauncher.Side
 import net.minecraftforge.fml.relauncher.SideOnly
 
-public class MetaTileEntityBioreactor extends RecipeMapMultiblockController {
+public class MetaTileEntityManaManifestationPlant extends RecipeMapMultiblockController {
 
-    private static final RecipeMap<SimpleRecipeBuilder> BIOREACTOR_RECIPES = new RecipeMap<>("bioreactor", 3, 4, 1, 0, new SimpleRecipeBuilder(), false);
+    private static final RecipeMap<SimpleRecipeBuilder> MANA_MANIFESTER_RECIPES = new RecipeMap<>("mana_manifestation_plant", 3, 4, 1, 0, new SimpleRecipeBuilder(), false);
 
-    public MetaTileEntityBioreactor(ResourceLocation metaTileEntityId) {
-        super(metaTileEntityId, BIOREACTOR_RECIPES);
+    public MetaTileEntityManaManifestationPlant(ResourceLocation metaTileEntityId) {
+        super(metaTileEntityId, MANA_MANIFESTER_RECIPES);
     }
 
     @Override
     public MetaTileEntity createMetaTileEntity(IGregTechTileEntity tileEntity) {
-        return new MetaTileEntityBioreactor(metaTileEntityId);
+        return new MetaTileEntityManaManifestationPlant(metaTileEntityId);
     }
 
     @Override
@@ -44,12 +44,8 @@ public class MetaTileEntityBioreactor extends RecipeMapMultiblockController {
                 .aisle("GAAAG", "CDDDC", "C###C", "CGGGC")
                 .aisle(" GGG ", " CSC ", " CCC ", " CCC ")
                 .where('S' as char, selfPredicate())
-                .where('G' as char, states(blockstate("gtaurora:machine_casing_ampridge")))
+                .where('G' as char, states(blockstate("botania:livingrock")))
                 .where('D' as char, states(blockstate("minecraft:cobblestone")))
-
-                .where('A' as char, states(blockstate('gregtech:metal_casing', 'variant=steel_solid'))
-                        .setMinGlobalLimited(42)
-                        .or(autoAbilities()))
                 .where('#' as char, air())
                 .build();
     }

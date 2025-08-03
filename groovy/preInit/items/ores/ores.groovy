@@ -322,4 +322,53 @@ materialBuilder(31733, 'lunarsapphire')
     .flags()
     .components(material('sapphire'))
 .build();
+
+materialBuilder(29978, 'halite')
+    .colorAverage().ore()
+    .iconSet("FINE")
+    .components(material('salt'), material('rock_salt'))
+.build();
+
+materialBuilder(29977, 'sylvite')
+    .colorAverage().ore()
+    .iconSet("FINE")
+    .components(material('potassium'), material('chlorine'))
+.build();
+
+materialBuilder(29976, 'carnallite')
+    .colorAverage().ore()
+    .iconSet("FINE")
+    .components(material('potassium'), material('magnesium') * 1, material('chlorine') * 3)
+.build();
+
+materialBuilder(29975, 'langbeinite')
+    .colorAverage().ore()
+    .iconSet("FINE")
+    .components(material('potassium'), material('magnesium') * 2, material('sulfur') * 3, material('oxygen') * 12)
+.build();
+
+materialBuilder(29974, 'bischofite')
+    .colorAverage().ore()
+    .iconSet("FINE")
+    .components(material('magnesium'), material('chlorine') * 2)
+.build();
+
+materialBuilder(29973, 'mirabilite')
+    .colorAverage().ore()
+    .iconSet("FINE")
+    .components(material('sodium'), material('sulfur') * 1, material('oxygen') * 4)
+.build();
+
+materialBui lder(29972, 'thenardite')
+    .colorAverage().ore()
+    .iconSet("FINE")
+    .components(material('sodium'), material('sulfur') * 1, material('oxygen') * 4)
+.build();
+
+materialBuilder(29971, 'chilesite')
+    .colorAverage().ore()
+    .iconSet("FINE")
+    .components(material('copper'), material('copper') * 1, material('selenium'))
+.build();
+
 }

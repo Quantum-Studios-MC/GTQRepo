@@ -21,9 +21,9 @@
   "Enable Snow": false,
   "Dictionary Types": [
     "WET",
-    "JUNGLE",
-    "SANDY",
     "SPARSE",
+    "SANDY",
+    "JUNGLE",
     "LUSH",
     "HOT"
   ],

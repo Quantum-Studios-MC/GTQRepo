@@ -6,12 +6,10 @@ minecraft:butcher
 minecraft:nitwit
 openblocks:radio
 roots:wild_mage
-totemic:totemist
-actuallyadditions:jamguy
 bewitchment:hedge_witch
 bewitchment:alchemist
-forestry:arborist
 forestry:apiarist
+forestry:arborist
 extrautils2:alchemist
 extrautils2:red_mechanic
 extrautils2:shady_merchant

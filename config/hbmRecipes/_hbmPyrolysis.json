@@ -1,0 +1,391 @@
+{
+  "recipes": [
+    {
+      "inputFluid": ["SMEAR",8700],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["HEATINGOIL",1800],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["HEATINGOIL_VACUUM",540],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["RECLAIMED",6300],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["PETROIL",5500],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["NAPHTHA",6500],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["NAPHTHA_CRACK",8300],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["DIESEL",1300],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["DIESEL_REFORM",520],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["DIESEL_CRACK",1300],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["DIESEL_CRACK_REFORM",560],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["LIGHTOIL",490],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["LIGHTOIL_CRACK",780],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["LIGHTOIL_VACUUM",240],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["KEROSENE",280],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["KEROSENE_REFORM",110],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["SOURGAS",2800],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["REFORMGAS",68],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["SYNGAS",430],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["PETROLEUM",430],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["LPG",390],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["BIOFUEL",1400],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["AROMATICS",1500],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["UNSATURATEDS",190],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["REFORMATE",300],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["XYLENE",220],
+      "outputItem": ["hbm:solid_fuel"],
+      "duration": 60
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new"],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,16],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,48],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,64],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,224],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,240],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,288],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,304],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,352],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,368],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,1],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,17],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,49],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,65],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,225],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,241],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,289],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,305],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,353],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,369],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,2],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,18],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,50],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,66],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,226],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,242],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,290],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,306],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,354],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,370],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,3],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,19],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,51],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,67],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,227],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,243],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,291],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,307],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,355],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,371],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,4],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,20],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,52],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,68],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,228],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,244],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,292],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,308],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,356],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,372],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,5],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,21],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,53],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,69],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,229],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,245],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,293],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,309],
+      "duration": 10
+    },
+    {
+      "inputItem": ["item","hbm:bedrock_ore_new",1,357],
+      "outputFluid": ["VITRIOL",50],
+      "outputItem": ["hbm:bedrock_ore_new",1,373],
+      "duration": 10
+    },
+    {
+      "inputFluid": ["STEAM",500],
+      "inputItem": ["dict","gemCoal"],
+      "outputFluid": ["SYNGAS",1000],
+      "duration": 100
+    },
+    {
+      "inputFluid": ["STEAM",500],
+      "inputItem": ["dict","dustCoal"],
+      "outputFluid": ["SYNGAS",1000],
+      "duration": 100
+    },
+    {
+      "inputFluid": ["STEAM",250],
+      "inputItem": ["dict","gemAnyCoke"],
+      "outputFluid": ["SYNGAS",1000],
+      "duration": 100
+    },
+    {
+      "inputItem": ["item","hbm:biomass",4],
+      "outputFluid": ["SYNGAS",1000],
+      "outputItem": ["minecraft:coal",1,1],
+      "duration": 100
+    },
+    {
+      "inputItem": ["dict","unknownTar",4],
+      "outputFluid": ["CARBONDIOXIDE",1000],
+      "outputItem": ["hbm:powder_ash",1,4],
+      "duration": 40
+    },
+    {
+      "inputFluid": ["HYDROGEN",500],
+      "inputItem": ["dict","gemCoal"],
+      "outputFluid": ["HEAVYOIL",1000],
+      "duration": 100
+    },
+    {
+      "inputFluid": ["HYDROGEN",500],
+      "inputItem": ["dict","dustCoal"],
+      "outputFluid": ["HEAVYOIL",1000],
+      "duration": 100
+    },
+    {
+      "inputFluid": ["HYDROGEN",250],
+      "inputItem": ["dict","gemAnyCoke"],
+      "outputFluid": ["HEAVYOIL",1000],
+      "duration": 100
+    },
+    {
+      "inputFluid": ["HEAVYOIL",500],
+      "inputItem": ["dict","gemCoal"],
+      "outputFluid": ["COALGAS",1000],
+      "duration": 50
+    },
+    {
+      "inputFluid": ["HEAVYOIL",500],
+      "inputItem": ["dict","dustCoal"],
+      "outputFluid": ["COALGAS",1000],
+      "duration": 50
+    },
+    {
+      "inputFluid": ["HEAVYOIL",500],
+      "inputItem": ["dict","gemAnyCoke"],
+      "outputFluid": ["COALGAS",1000],
+      "duration": 50
+    },
+    {
+      "inputFluid": ["GAS_COKER",4000],
+      "outputFluid": ["REFORMGAS",100],
+      "duration": 60
+    },
+    {
+      "inputFluid": ["GAS",12000],
+      "outputFluid": ["HYDROGEN",8000],
+      "outputItem": ["hbm:ingot_graphite"],
+      "duration": 60
+    }
+  ]
+}

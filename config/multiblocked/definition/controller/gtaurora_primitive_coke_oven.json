@@ -83,6 +83,10 @@
           {
             "id": "multiblocked:fluid_output",
             "meta": 0
+          },
+          {
+            "id": "multiblocked:item_output",
+            "meta": 0
           }
         ],
         "type": "states"

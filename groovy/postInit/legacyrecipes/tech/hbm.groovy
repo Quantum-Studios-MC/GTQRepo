@@ -83,16 +83,6 @@ recipemap('assembler').recipeBuilder()
         .outputs(item('hbm:warhead_buster_small'))
         .duration(200).EUt(120).buildAndRegister()
 
-// Assembler recipe for HBM aluminum circuit
-recipemap('assembler').recipeBuilder()
-        .inputs(ore('plateAluminium') * 2)
-        .inputs(item('hbm:circuit_raw') * 4)
-        .inputs(ore('wireFineAluminium') * 4)
-        .inputs(item('gregtech:meta_item_1', 521))
-        .fluidInputs(fluid('tin') * 120)
-        .outputs(item('hbm:circuit_aluminium') * 2)
-        .duration(200).EUt(120).buildAndRegister()
-
 // MV.
 recipemap('assembler').recipeBuilder()
         .inputs(ore('plateAluminium') * 2)
@@ -234,7 +224,7 @@ recipemap('implosion_compressor').recipeBuilder()
 recipemap('chemical_reactor').recipeBuilder()
         .fluidInputs(fluid('hydrogen') * 200 )
         .fluidInputs(fluid('oxygen') * 200 )
-        .fluidOutputs(fluid('acid') * 300 )
+        .fluidOutputs(fluid('peroxide') * 300 )
         .duration(400).EUt(32).buildAndRegister()
 
         recipemap('chemical_reactor').recipeBuilder()

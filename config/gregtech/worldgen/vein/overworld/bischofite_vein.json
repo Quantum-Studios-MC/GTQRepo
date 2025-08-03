@@ -1,0 +1,33 @@
+{
+  "name": "gregtech.veins.ore.bischofite",
+  "weight": 18,
+  "density": 0.10,
+  "max_height": 40,
+  "min_height": 5,
+  "dimension_filter": ["dimension_id:0"],
+  "vein_populator": {
+    "type": "surface_rock",
+    "material": "bischofite"
+  },
+  "generator": {
+    "type": "layered",
+    "radius": [10, 12]
+  },
+  "filler": {
+    "type": "layered",
+    "values": [
+      {
+        "primary": "ore:bischofite"
+      },
+      {
+        "secondary": "ore:halite"
+      },
+      {
+        "between": "ore:mirabilite"
+      },
+      {
+        "sporadic": "ore:sylvite"
+      }
+    ]
+  }
+}
