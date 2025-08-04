@@ -22,6 +22,12 @@ mods.ntm.Assembler.removeRecipe(<hbm:warhead_generic_medium>);
 mods.ntm.Assembler.removeRecipe(<hbm:warhead_incendiary_medium>);
 mods.ntm.Assembler.removeRecipe(<hbm:warhead_cluster_medium>);
 mods.ntm.Assembler.removeRecipe(<hbm:warhead_buster_medium>);
+recipes.removeShaped(<hbm:rpa_boots>, [[<hbm:plate_armor_lunar>, null, <hbm:plate_armor_lunar>], [<hbm:plate_armor_lunar>, <hbm:cmb_boots>, <hbm:plate_armor_lunar>]]);
+recipes.removeShaped(<hbm:rpa_legs>, [[<hbm:motor_desh>, <hbm:circuit:10>, <hbm:motor_desh>], [<hbm:plate_kevlar>, <hbm:cmb_legs>, <hbm:plate_kevlar>], [<hbm:plate_armor_lunar>, null, <hbm:plate_armor_lunar>]]);
+recipes.removeShaped(<hbm:rpa_plate>, [[<hbm:motor_desh>, <hbm:circuit:11>, <hbm:motor_desh>], [<hbm:plate_kevlar>, <hbm:cmb_plate>, <hbm:plate_kevlar>], [<hbm:plate_armor_lunar>, <hbm:plate_armor_lunar>, <hbm:plate_armor_lunar>]]);
 
 recipes.addShaped(<arcanearchives:gemcutters_table>, [[<ore:stoneMarble>, <roots:pereskia>, <ore:paper>], [<arcanearchives:raw_quartz>, <roots:cloud_berry>, <arcanearchives:raw_quartz>], [<ore:runestone>, <arcanearchives:raw_quartz>, <ore:runestone>]]);
 recipes.addShaped(<arcanearchives:radiant_resonator>, [[null, <roots:runestone_brick_slab>, null], [<roots:cloud_berry>, <roots:pereskia>, <roots:cloud_berry>], [<ore:runestone>, <roots:cooked_pereskia>, <ore:runestone>]]);
+recipes.addShaped(<hbm:rpa_boots>, [[<ore:toolWrench>, <ore:circuitEv>, <ore:toolScrewdriver>], [<gregtech:meta_plate:31293>, <hbm:ajro_boots>, <gregtech:meta_plate:31293>], [<hbm:plate_kevlar>, <ore:batteryEv>, <hbm:plate_kevlar>]]);
+recipes.addShaped(<hbm:rpa_legs>, [[<ore:toolWrench>, <ore:circuitEv>, <ore:toolScrewdriver>], [<gregtech:meta_plate:31293>, <hbm:ajro_legs>, <gregtech:meta_plate:31293>], [<hbm:plate_kevlar>, <ore:batteryEv>, <hbm:plate_kevlar>]]);
+recipes.addShaped(<hbm:rpa_plate>, [[<ore:toolWrench>, <ore:circuitEv>, <ore:toolScrewdriver>], [<gregtech:meta_plate:31293>, <hbm:ajro_plate>, <gregtech:meta_plate:31293>], [<hbm:plate_kevlar>, <ore:batteryEv>, <hbm:plate_kevlar>]]);
