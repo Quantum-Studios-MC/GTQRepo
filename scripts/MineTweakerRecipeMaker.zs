@@ -66,6 +66,8 @@ recipes.addShapeless(<pyrotech:material:12> * 5, [<ore:treeSapling>]);
 recipes.addShapeless(<pyrotech:material:12> * 2, [<roots:wildroot>, <ore:wildroot>]);
 recipes.addShapeless(<gregtech:meta_dust:260> * 4, [<gregtech:meta_dust:25>, <gregtech:meta_dust:112>, <gregtech:meta_dust:25>, <gregtech:meta_dust:25>]);
 //#MARKER ADD SHAPED
+recipes.addShaped(<gregtech:machine:11011>, [[<ore:circuitLv>, <ore:circuitLv>, <ore:circuitLv>], [<gregtech:meta_item_1:172>, <gtquantumcore:gtqu_multiblock_casing>, <gregtech:meta_item_1:172>], [<ore:cableGtSingleCopper>, <gregtech:meta_item_1:172>, <ore:cableGtSingleCopper>]]);
+recipes.addShaped(<gtquantumcore:gtqu_multiblock_casing>, [[<ore:plateTombac>, <ore:toolHammer>, <ore:plateTombac>], [<ore:plateTombac>, <ore:frameGtBrass>, <ore:plateTombac>], [<ore:plateTombac>, <ore:toolHammer>, <ore:plateTombac>]]);
 recipes.addShaped(<qmd:accelerator_ion_collector>, [[<ore:plateNanoConnector>, <ore:toolHammer>, <ore:plateNanoConnector>], [<ore:lensSchrabidium>, <qmd:accelerator_casing>, <ore:lensSchrabidium>], [<ore:plateNanoConnector>, <ore:toolWrench>, <ore:plateNanoConnector>]]);
 recipes.addShaped(<qmd:vacuum_chamber_plasma_nozzle>, [[<ore:wireBSCCO>, <ore:toolHammer>, <ore:wireBSCCO>], [<qmd:part:9>, <hbm:pa_coil:2>, <qmd:part:9>], [<ore:wireBSCCO>, <ore:toolWrench>, <ore:wireBSCCO>]]);
 recipes.addShaped(<qmd:accelerator_laser_ion_source>, [[<ore:plateTripleSchrabidium>, <ore:toolHammer>, <ore:lensSchrabidium>], [<qmd:part:10>, <qmd:accelerator_casing>, <qmd:part:10>], [<ore:lensSchrabidium>, <ore:toolWrench>, <ore:plateTripleSchrabidium>]]);

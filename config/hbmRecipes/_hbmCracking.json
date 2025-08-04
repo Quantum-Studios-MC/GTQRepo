@@ -2,8 +2,13 @@
   "comment": "Inputs are always 100mB, set output quantities accordingly. The steam in/outputs are fixed, using 200mB of steam per 100mB of input.",
   "recipes": [
     {
-      "input": "OIL",
-      "output1": ["CRACKOIL",80],
+      "input": "BITUMEN",
+      "output1": ["OIL",80],
+      "output2": ["AROMATICS",20]
+    },
+    {
+      "input": "XYLENE",
+      "output1": ["AROMATICS",80],
       "output2": ["PETROLEUM",20]
     },
     {
@@ -12,14 +17,9 @@
       "output2": ["AROMATICS",10]
     },
     {
-      "input": "SMEAR",
-      "output1": ["NAPHTHA",60],
-      "output2": ["PETROLEUM",40]
-    },
-    {
-      "input": "DIESEL",
-      "output1": ["KEROSENE",40],
-      "output2": ["PETROLEUM",30]
+      "input": "HEATINGOIL_VACUUM",
+      "output1": ["HEATINGOIL",80],
+      "output2": ["REFORMGAS",20]
     },
     {
       "input": "GAS",
@@ -32,24 +32,24 @@
       "output2": ["NONE",0]
     },
     {
-      "input": "XYLENE",
-      "output1": ["AROMATICS",80],
-      "output2": ["PETROLEUM",20]
-    },
-    {
       "input": "DIESEL_CRACK",
       "output1": ["KEROSENE",40],
       "output2": ["PETROLEUM",30]
     },
     {
-      "input": "HEATINGOIL_VACUUM",
-      "output1": ["HEATINGOIL",80],
-      "output2": ["REFORMGAS",20]
+      "input": "OIL",
+      "output1": ["CRACKOIL",80],
+      "output2": ["PETROLEUM",20]
     },
     {
-      "input": "BITUMEN",
-      "output1": ["OIL",80],
-      "output2": ["AROMATICS",20]
+      "input": "DIESEL",
+      "output1": ["KEROSENE",40],
+      "output2": ["PETROLEUM",30]
+    },
+    {
+      "input": "SMEAR",
+      "output1": ["NAPHTHA",60],
+      "output2": ["PETROLEUM",40]
     },
     {
       "input": "REFORMATE",

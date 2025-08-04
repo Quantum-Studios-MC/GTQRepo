@@ -266,11 +266,11 @@ zettai_psi:magic_shielding
 zettai_psi:heating
 zettai_psi:freezing
 zettai_psi:slowfall
-cuisine:toughness
+cuisine:sustained_release
 cuisine:hot
 cuisine:effect_resistance
 cuisine:drunk
-cuisine:sustained_release
+cuisine:toughness
 cuisine:dispersal
 cuisine:cold_blood
 aether_legacy:inebriation

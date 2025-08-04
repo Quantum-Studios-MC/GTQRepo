@@ -1,44 +1,9 @@
 {
   "recipes": [
     {
-      "input": ["DIESEL_CRACK_REFORM",250],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["GAS_COKER",25]
-    },
-    {
-      "input": ["DIESEL_REFORM",230],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["NAPHTHA_COKER",23]
-    },
-    {
-      "input": ["SMEAR",7900],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["OIL_COKER",790]
-    },
-    {
-      "input": ["NAPHTHA",4900],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["NAPHTHA_COKER",490]
-    },
-    {
-      "input": ["NAPHTHA_CRACK",6400],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["NAPHTHA_COKER",640]
-    },
-    {
-      "input": ["HEATINGOIL",1600],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["OIL_COKER",160]
-    },
-    {
-      "input": ["LUBRICANT",12000],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["OIL_COKER",1200]
-    },
-    {
-      "input": ["HEAVYOIL_VACUUM",3500],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["REFORMATE",350]
+      "input": ["SOURGAS",1000],
+      "output": ["hbm:sulfur"],
+      "byproduct": ["GAS_COKER",150]
     },
     {
       "input": ["XYLENE",100],
@@ -46,29 +11,9 @@
       "byproduct": ["GAS_COKER",10]
     },
     {
-      "input": ["DIESEL_CRACK",640],
+      "input": ["LUBRICANT",12000],
       "output": ["hbm:coke",1,2],
-      "byproduct": ["GAS_COKER",64]
-    },
-    {
-      "input": ["SOURGAS",1000],
-      "output": ["hbm:sulfur"],
-      "byproduct": ["GAS_COKER",150]
-    },
-    {
-      "input": ["BITUMEN",16000],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["OIL_COKER",1600]
-    },
-    {
-      "input": ["HEAVYOIL",11000],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["OIL_COKER",1100]
-    },
-    {
-      "input": ["DIESEL",590],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["NAPHTHA_COKER",59]
+      "byproduct": ["OIL_COKER",1200]
     },
     {
       "input": ["AROMATICS",1700],
@@ -76,14 +21,14 @@
       "byproduct": ["GAS_COKER",170]
     },
     {
-      "input": ["SUNFLOWEROIL",16000],
+      "input": ["HEAVYOIL_VACUUM",3500],
       "output": ["hbm:coke",1,2],
-      "byproduct": ["GAS_COKER",1600]
+      "byproduct": ["REFORMATE",350]
     },
     {
-      "input": ["LIGHTOIL_VACUUM",180],
+      "input": ["DIESEL_REFORM",230],
       "output": ["hbm:coke",1,2],
-      "byproduct": ["GAS_COKER",18]
+      "byproduct": ["NAPHTHA_COKER",23]
     },
     {
       "input": ["REDMUD",1000],
@@ -91,14 +36,19 @@
       "byproduct": ["MERCURY",50]
     },
     {
-      "input": ["COALCREOSOTE",3200],
+      "input": ["HEAVYOIL",11000],
       "output": ["hbm:coke",1,2],
-      "byproduct": ["NAPHTHA_COKER",320]
+      "byproduct": ["OIL_COKER",1100]
     },
     {
-      "input": ["WOODOIL",3000],
-      "output": ["minecraft:coal",1,1],
-      "byproduct": ["GAS_COKER",300]
+      "input": ["NAPHTHA_CRACK",6400],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["NAPHTHA_COKER",640]
+    },
+    {
+      "input": ["DIESEL_CRACK_REFORM",250],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["GAS_COKER",25]
     },
     {
       "input": ["LIGHTOIL_CRACK",590],
@@ -106,29 +56,29 @@
       "byproduct": ["GAS_COKER",59]
     },
     {
-      "input": ["NAPHTHA_DS",2400],
+      "input": ["BITUMEN",16000],
       "output": ["hbm:coke",1,2],
-      "byproduct": ["NAPHTHA_COKER",240]
+      "byproduct": ["OIL_COKER",1600]
     },
     {
-      "input": ["LIGHTOIL",370],
-      "output": ["hbm:coke",1,2],
-      "byproduct": ["GAS_COKER",37]
+      "input": ["WOODOIL",3000],
+      "output": ["minecraft:coal",1,1],
+      "byproduct": ["GAS_COKER",300]
     },
     {
-      "input": ["VITRIOL",4000],
-      "output": ["hbm:powder_iron"],
-      "byproduct": ["SULFURIC_ACID",500]
+      "input": ["COALCREOSOTE",3200],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["NAPHTHA_COKER",320]
     },
     {
-      "input": ["HEATINGOIL_VACUUM",500],
+      "input": ["SMEAR",7900],
       "output": ["hbm:coke",1,2],
-      "byproduct": ["OIL_COKER",50]
+      "byproduct": ["OIL_COKER",790]
     },
     {
-      "input": ["RECLAIMED",5800],
+      "input": ["LIGHTOIL_DS",180],
       "output": ["hbm:coke",1,2],
-      "byproduct": ["NAPHTHA_COKER",580]
+      "byproduct": ["GAS_COKER",18]
     },
     {
       "input": ["BIOFUEL",650],
@@ -136,9 +86,59 @@
       "byproduct": ["GAS_COKER",65]
     },
     {
+      "input": ["SUNFLOWEROIL",16000],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["GAS_COKER",1600]
+    },
+    {
+      "input": ["NAPHTHA",4900],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["NAPHTHA_COKER",490]
+    },
+    {
+      "input": ["HEATINGOIL",1600],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["OIL_COKER",160]
+    },
+    {
+      "input": ["NAPHTHA_DS",2400],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["NAPHTHA_COKER",240]
+    },
+    {
       "input": ["REFORMATE",130],
       "output": ["hbm:coke",1,2],
       "byproduct": ["GAS_COKER",13]
+    },
+    {
+      "input": ["HEATINGOIL_VACUUM",500],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["OIL_COKER",50]
+    },
+    {
+      "input": ["VITRIOL",4000],
+      "output": ["hbm:powder_iron"],
+      "byproduct": ["SULFURIC_ACID",500]
+    },
+    {
+      "input": ["LIGHTOIL",370],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["GAS_COKER",37]
+    },
+    {
+      "input": ["RECLAIMED",5800],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["NAPHTHA_COKER",580]
+    },
+    {
+      "input": ["DIESEL_CRACK",640],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["GAS_COKER",64]
+    },
+    {
+      "input": ["DIESEL",590],
+      "output": ["hbm:coke",1,2],
+      "byproduct": ["NAPHTHA_COKER",59]
     },
     {
       "input": ["FISHOIL",10000],
@@ -146,7 +146,7 @@
       "byproduct": ["MERCURY",1000]
     },
     {
-      "input": ["LIGHTOIL_DS",180],
+      "input": ["LIGHTOIL_VACUUM",180],
       "output": ["hbm:coke",1,2],
       "byproduct": ["GAS_COKER",18]
     }

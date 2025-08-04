@@ -49,14 +49,6 @@
       "duration": 200
     },
     {
-      "output": ["hbm:clip_revolver_schrabidium"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_revolver_schrabidium_ammo",12]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:pellet_mercury",2],
       "input": [
         ["item","hbm:nugget_mercury"],
@@ -96,14 +88,6 @@
         ["item","hbm:circuit",4,14]
       ],
       "duration": 500
-    },
-    {
-      "output": ["hbm:clip_hp"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_hp_ammo",12]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:machine_battery"],
@@ -393,14 +377,6 @@
       ]
     },
     {
-      "output": ["hbm:clip_mp"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_mp_ammo",40]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:machine_radspice_battery"],
       "input": [
         ["item","hbm:ingot_radspice",32],
@@ -488,14 +464,6 @@
       "duration": 400
     },
     {
-      "output": ["hbm:clip_immolator"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_immolator_ammo",64]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:fleija_propellant"],
       "input": [
         ["dict","ingotAnyHighexplosive",3],
@@ -514,22 +482,6 @@
       "duration": 300
     },
     {
-      "output": ["hbm:clip_revolver_pip"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_44_pip",6]
-      ],
-      "duration": 40
-    },
-    {
-      "output": ["hbm:clip_jack"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_jack_ammo",12]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:wire_fine",6,7400],
       "input": [
         ["dict","ingotTungsten"]
@@ -542,7 +494,7 @@
         ["dict","plateLead",3],
         ["dict","plateAdvancedAlloy"],
         ["item","hbm:coil_advanced_torus"],
-        ["item","hbm:gun_xvl1456_ammo"]
+        ["item","hbm:nothing"]
       ],
       "duration": 300
     },
@@ -580,19 +532,6 @@
         ["item","hbm:board_copper",3]
       ],
       "duration": 100
-    },
-    {
-      "output": ["hbm:ammo_75bolt",2],
-      "input": [
-        ["dict","plateSteel",2],
-        ["dict","plateCopper"],
-        ["item","hbm:primer_50",5],
-        ["item","hbm:casing_50",5],
-        ["dict","ingotAnyHighexplosive",5],
-        ["item","hbm:cordite",5],
-        ["dict","dustRedstone",3]
-      ],
-      "duration": 60
     },
     {
       "output": ["hbm:ammo_himars",1,2],
@@ -760,14 +699,6 @@
       "duration": 200
     },
     {
-      "output": ["hbm:clip_stinger"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_stinger_ammo",6]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:warhead_nuclear"],
       "input": [
         ["item","hbm:boy_shielding"],
@@ -865,19 +796,6 @@
       "duration": 500
     },
     {
-      "output": ["hbm:ammo_75bolt_he",2],
-      "input": [
-        ["dict","plateSteel",2],
-        ["dict","plateCopper"],
-        ["item","hbm:primer_50",5],
-        ["item","hbm:casing_50",5],
-        ["dict","ingotAnyPlasticexplosive",5],
-        ["item","hbm:cordite",5],
-        ["item","minecraft:redstone",3]
-      ],
-      "duration": 60
-    },
-    {
       "output": ["hbm:solinium_core"],
       "input": [
         ["dict","ingotSolinium",3],
@@ -897,15 +815,6 @@
         ["item","hbm:circuit",6,8]
       ],
       "duration": 100
-    },
-    {
-      "output": ["hbm:gun_osipr_ammo",24],
-      "input": [
-        ["dict","plateSteel",2],
-        ["item","minecraft:redstone"],
-        ["item","minecraft:glowstone_dust"]
-      ],
-      "duration": 50
     },
     {
       "output": ["hbm:mp_warhead_10_he"],
@@ -979,19 +888,6 @@
       "duration": 100
     },
     {
-      "output": ["hbm:ammo_75bolt_incendiary",2],
-      "input": [
-        ["dict","plateSteel",2],
-        ["dict","plateCopper"],
-        ["item","hbm:primer_50",5],
-        ["item","hbm:casing_50",5],
-        ["dict","ingotAnyPlasticexplosive",3],
-        ["item","hbm:cordite",3],
-        ["dict","ingotWhitePhosphorus",3]
-      ],
-      "duration": 60
-    },
-    {
       "output": ["hbm:nuke_fstbmb"],
       "input": [
         ["item","hbm:sphere_steel"],
@@ -1003,8 +899,8 @@
       ],
       "duration": 600,
       "folders": [
-        "hbm:journal_pip",
-        "hbm:journal_bj"
+        "hbm:journal_bj",
+        "hbm:journal_pip"
       ]
     },
     {
@@ -1226,14 +1122,6 @@
         ["dict","ingotLead",6]
       ],
       "duration": 250
-    },
-    {
-      "output": ["hbm:clip_cryolator"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_cryolator_ammo",64]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:mp_thruster_20_solid"],
@@ -1662,22 +1550,6 @@
       "duration": 2000
     },
     {
-      "output": ["hbm:clip_bf"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_bf_ammo",2]
-      ],
-      "duration": 40
-    },
-    {
-      "output": ["hbm:clip_bolt_action"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_20gauge_slug",24]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:mp_thruster_20_solid_multier"],
       "input": [
         ["item","hbm:seg_20"],
@@ -1766,14 +1638,6 @@
       "duration": 20
     },
     {
-      "output": ["hbm:clip_uboinik"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_12gauge",24]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:small_hatch"],
       "input": [
         ["dict","plateLead",4],
@@ -1797,14 +1661,6 @@
         ["item","hbm:circuit",4,6]
       ],
       "duration": 200
-    },
-    {
-      "output": ["hbm:clip_revolver_nopip"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_44",12]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:machine_epress"],
@@ -1878,14 +1734,6 @@
       "duration": 1200
     },
     {
-      "output": ["hbm:clip_mp40"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_9mm",32]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:mp_thruster_20_solid_multi"],
       "input": [
         ["item","hbm:seg_20"],
@@ -1935,14 +1783,6 @@
       "duration": 150
     },
     {
-      "output": ["hbm:clip_revolver_nightmare2"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_revolver_nightmare2_ammo",6]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:chopper_blades"],
       "input": [
         ["dict","plateCMBSteel",8],
@@ -1971,14 +1811,6 @@
         ["dict","plateAluminum",6]
       ],
       "duration": 200
-    },
-    {
-      "output": ["hbm:clip_mirv"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_mirv",3]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:block_cap",1,3],
@@ -2080,14 +1912,6 @@
       "duration": 300
     },
     {
-      "output": ["hbm:clip_osipr"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_osipr_ammo",30]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:machine_diesel"],
       "input": [
         ["item","hbm:hull_small_steel",4],
@@ -2170,15 +1994,6 @@
       "duration": 30
     },
     {
-      "output": ["hbm:gun_osipr_ammo2"],
-      "input": [
-        ["dict","plateCMBSteel",4],
-        ["item","minecraft:redstone",7],
-        ["item","hbm:powder_power",3]
-      ],
-      "duration": 200
-    },
-    {
       "output": ["hbm:fusion_shield_chlorophyte"],
       "input": [
         ["dict","blockTungsten",16],
@@ -2201,14 +2016,6 @@
         ["item","hbm:circuit",1,11]
       ],
       "duration": 200
-    },
-    {
-      "output": ["hbm:clip_defabricator"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_defabricator_ammo",16]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:fleija_igniter"],
@@ -2256,14 +2063,6 @@
       "duration": 250
     },
     {
-      "output": ["hbm:clip_revolver"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_revolver_ammo",12]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:block_cap",1,4],
       "input": [
         ["item","hbm:cap_korl",64],
@@ -2292,14 +2091,6 @@
         ["item","hbm:chopper_wing",2]
       ],
       "duration": 300
-    },
-    {
-      "output": ["hbm:clip_fatman"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_nuke",6]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:turret_tauon"],
@@ -2609,14 +2400,6 @@
         ["item","hbm:wire_fine",6,31]
       ],
       "duration": 250
-    },
-    {
-      "output": ["hbm:clip_lever_action"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_20gauge",24]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:gadget_core"],
@@ -3009,14 +2792,6 @@
       "duration": 30
     },
     {
-      "output": ["hbm:clip_xvl1456"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_xvl1456_ammo",64]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:mp_fuselage_10_15_balefire"],
       "input": [
         ["item","hbm:seg_10"],
@@ -3111,14 +2886,6 @@
       "duration": 200
     },
     {
-      "output": ["hbm:clip_spark"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_spark_ammo",4]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:fusion_shield_desh"],
       "input": [
         ["dict","blockWorkersAlloy",16],
@@ -3196,28 +2963,12 @@
       "duration": 4800
     },
     {
-      "output": ["hbm:clip_revolver_lead"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_revolver_lead_ammo",12]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:warhead_incendiary_medium"],
       "input": [
         ["item","hbm:warhead_generic_medium"],
         ["dict","dustRedPhosphorus",8]
       ],
       "duration": 150
-    },
-    {
-      "output": ["hbm:clip_revolver_gold"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_revolver_gold_ammo",12]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:filter_coal"],
@@ -3305,14 +3056,6 @@
         ["dict","ntmpipeSteel",8]
       ],
       "duration": 400
-    },
-    {
-      "output": ["hbm:clip_revolver_iron"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_revolver_iron_ammo",24]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:grenade_schrabidium"],
@@ -3429,14 +3172,6 @@
       "duration": 600
     },
     {
-      "output": ["hbm:clip_emp"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_emp_ammo",6]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:rbmk_blank"],
       "input": [
         ["item","hbm:concrete_asbestos",4],
@@ -3472,14 +3207,6 @@
         ["item","minecraft:glass",4]
       ],
       "duration": 200
-    },
-    {
-      "output": ["hbm:clip_uzi"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_22lr",32]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:grenade_electric"],
@@ -3560,14 +3287,6 @@
       "duration": 30
     },
     {
-      "output": ["hbm:clip_revolver_cursed"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_revolver_cursed_ammo",17]
-      ],
-      "duration": 40
-    },
-    {
       "output": ["hbm:machine_arc_furnace"],
       "input": [
         ["dict","unknownConcrete",12],
@@ -3600,14 +3319,6 @@
         ["dict","ingotFiberglass",2]
       ],
       "duration": 100
-    },
-    {
-      "output": ["hbm:clip_rpg"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:ammo_rocket",6]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:block_cap",1,5],
@@ -3742,14 +3453,6 @@
         ["item","hbm:fragment_meteorite",36]
       ],
       "duration": 500
-    },
-    {
-      "output": ["hbm:clip_euthanasia"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_euthanasia_ammo",16]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:vault_door"],
@@ -3942,14 +3645,6 @@
         ["item","hbm:circuit",16,9]
       ],
       "duration": 200
-    },
-    {
-      "output": ["hbm:clip_revolver_nightmare"],
-      "input": [
-        ["item","hbm:plate_polymer"],
-        ["item","hbm:gun_revolver_nightmare_ammo",6]
-      ],
-      "duration": 40
     },
     {
       "output": ["hbm:warhead_thermo_endo"],

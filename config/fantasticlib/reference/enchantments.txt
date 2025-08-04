@@ -51,8 +51,8 @@ thaumicbases:thaumicbases.tainted
 endercore:autosmelt
 endercore:xpboost
 enderio:witherweapon
-enderio:witherarrow
 enderio:soulbound
+enderio:witherarrow
 enderio:repellent
 enderio:shimmer
 bettercombat:gourmand

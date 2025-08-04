@@ -69,12 +69,16 @@ arcanearchives.gui.keybinds.manifest
 key.categories.astikorcarts
 key.astikorcarts.desc
 
+BQUTweaker
+bqutweaker.key.pageback
+
 bbw.key.category
 bbw.key.fluidmode
 bbw.key.mode
 
 Better Questing Unofficial
 key.betterquesting.quests
+key.betterquesting.back
 
 Binnie's Mods
 binniecore.key.hold.for.help.tooltips
