@@ -11,6 +11,7 @@
 //     Removes come first, then stuff is added.
 //
 //#MARKER REMOVE
+recipes.remove(<gregtech:machine:1648>);
 recipes.remove(<qmd:vacuum_chamber_plasma_nozzle>);
 recipes.remove(<qmd:accelerator_synchrotron_port>);
 recipes.remove(<qmd:part:10>);
@@ -66,6 +67,19 @@ recipes.addShapeless(<pyrotech:material:12> * 5, [<ore:treeSapling>]);
 recipes.addShapeless(<pyrotech:material:12> * 2, [<roots:wildroot>, <ore:wildroot>]);
 recipes.addShapeless(<gregtech:meta_dust:260> * 4, [<gregtech:meta_dust:25>, <gregtech:meta_dust:112>, <gregtech:meta_dust:25>, <gregtech:meta_dust:25>]);
 //#MARKER ADD SHAPED
+recipes.addShaped(<hbm:steamsuit_plate>, [[<ore:plateDoubleBronze>, <ore:craftingToolWrench>, <ore:plateDoubleBronze>], [<ore:plateDoubleBronze>, <ore:plateDoubleBronze>, <ore:plateDoubleBronze>], [<ore:pipeHugeFluidBronze>, <ulv_covers:ulv_cover_meta_item:3>, <ore:pipeHugeFluidBronze>]]);
+recipes.addShaped(<hbm:steamsuit_helmet>, [[<ore:plateDoubleBronze>, <ore:plateDoubleBronze>, <ore:plateDoubleBronze>], [<ore:plateDoubleBronze>, <ulv_covers:ulv_cover_meta_item:3>, <ore:plateDoubleBronze>], [<ore:pipeSmallFluidBronze>, <ore:toolHammer>, <ore:pipeSmallFluidBronze>]]);
+recipes.addShaped(<hbm:steamsuit_legs>, [[<ore:pipeHugeFluidBronze>, <ore:pipeHugeFluidBronze>, <ore:pipeHugeFluidBronze>], [<ore:plateDoubleBronze>, <ulv_covers:ulv_cover_meta_item:3>, <ore:plateDoubleBronze>], [<ore:plateDoubleBronze>, <ore:toolHammer>, <ore:plateDoubleBronze>]]);
+recipes.addShaped(<hbm:steamsuit_boots>, [[<ore:pipeHugeFluidBronze>, <ulv_covers:ulv_cover_meta_item:3>, <ore:pipeHugeFluidBronze>], [<ore:plateDoubleBronze>, <ore:pipeHugeFluidBronze>, <ore:plateDoubleBronze>], [<ore:plateDoubleBronze>, <ore:toolHammer>, <ore:plateDoubleBronze>]]);
+recipes.addShaped(<hbm:envsuit_boots>, [[<ore:circuitEv>, <ore:plateTripleTitanium>, <ore:circuitEv>], [<ore:boltTungsten>, <ore:circuitEv>, <ore:boltTungsten>], [<ore:plateTripleTitanium>, <ore:toolHammer>, <ore:plateTripleTitanium>]]);
+recipes.addShaped(<hbm:envsuit_legs>, [[<ore:plateTripleTitanium>, <ore:plateTripleTitanium>, <ore:plateTripleTitanium>], [<ore:boltTungsten>, <ore:circuitEv>, <ore:boltTungsten>], [<ore:plateTripleTitanium>, <ore:toolHammer>, <ore:plateTripleTitanium>]]);
+recipes.addShaped(<hbm:envsuit_plate>, [[<ore:plateTripleTitanium>, <ore:circuitEv>, <ore:plateTripleTitanium>], [<ore:boltTungsten>, <ore:plateTripleTitanium>, <ore:boltTungsten>], [<ore:plateTripleTitanium>, <ore:toolHammer>, <ore:plateTripleTitanium>]]);
+recipes.addShaped(<hbm:envsuit_helmet>, [[<ore:plateTripleTitanium>, <ore:circuitEv>, <ore:plateTripleTitanium>], [<ore:boltTungsten>, <ore:blockGlassHardened>, <ore:boltTungsten>], [<ore:plateTripleTitanium>, <ore:toolHammer>, <ore:plateTripleTitanium>]]);
+recipes.addShaped(<hbm:trenchmaster_boots>, [[<ore:craftingToolScrewdriver>, <ore:electronTube>, <ore:toolHammer>], [<ore:leatherDurable>, <apocalypse_craft:survivorgearboots>, <ore:leatherDurable>], [<apocalypse_craft:scrapgirder>, <apocalypse_craft:clothscrap>, <apocalypse_craft:scrapgirder>]]);
+recipes.addShaped(<hbm:trenchmaster_legs>, [[<ore:craftingToolScrewdriver>, <ore:electronTube>, <ore:toolHammer>], [<ore:leatherDurable>, <apocalypse_craft:survivorgearlegs>, <ore:leatherDurable>], [<ore:leatherDurable>, <apocalypse_craft:clothscrap>, <ore:leatherDurable>]]);
+recipes.addShaped(<hbm:trenchmaster_plate>, [[<ore:craftingToolScrewdriver>, <ore:electronTube>, <ore:toolHammer>], [<apocalypse_craft:scrapgirder>, <apocalypse_craft:survivorgearbody>, <apocalypse_craft:scrapgirder>], [<apocalypse_craft:scrapgirder>, <apocalypse_craft:radio>, <apocalypse_craft:scrapgirder>]]);
+recipes.addShaped(<hbm:trenchmaster_helmet>, [[<ore:craftingToolScrewdriver>, <ore:electronTube>, <ore:toolHammer>], [<ore:plateCastIron>, <hbm:gas_mask_m65>, <ore:plateCastIron>], [<ore:screwSteel>, <hbm:mask_piss>, <ore:screwSteel>]]);
+recipes.addShaped(<hbm:trenchmaster_helmet>, [[<ore:craftingToolScrewdriver>, <ore:electronTube>, <ore:toolHammer>], [<ore:plateCastIron>, <hbm:gas_mask_m65>, <ore:plateCastIron>], [<ore:screwSteel>, <hbm:mask_piss>, <ore:screwSteel>]]);
 recipes.addShaped(<gregtech:machine:11011>, [[<ore:circuitLv>, <ore:circuitLv>, <ore:circuitLv>], [<gregtech:meta_item_1:172>, <gtquantumcore:gtqu_multiblock_casing>, <gregtech:meta_item_1:172>], [<ore:cableGtSingleCopper>, <gregtech:meta_item_1:172>, <ore:cableGtSingleCopper>]]);
 recipes.addShaped(<gtquantumcore:gtqu_multiblock_casing>, [[<ore:plateTombac>, <ore:toolHammer>, <ore:plateTombac>], [<ore:plateTombac>, <ore:frameGtBrass>, <ore:plateTombac>], [<ore:plateTombac>, <ore:toolHammer>, <ore:plateTombac>]]);
 recipes.addShaped(<qmd:accelerator_ion_collector>, [[<ore:plateNanoConnector>, <ore:toolHammer>, <ore:plateNanoConnector>], [<ore:lensSchrabidium>, <qmd:accelerator_casing>, <ore:lensSchrabidium>], [<ore:plateNanoConnector>, <ore:toolWrench>, <ore:plateNanoConnector>]]);
