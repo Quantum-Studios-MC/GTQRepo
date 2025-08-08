@@ -22,7 +22,6 @@ mods.ntm.Assembler.removeRecipe(<hbm:warhead_generic_medium>);
 mods.ntm.Assembler.removeRecipe(<hbm:warhead_incendiary_medium>);
 mods.ntm.Assembler.removeRecipe(<hbm:warhead_cluster_medium>);
 mods.ntm.Assembler.removeRecipe(<hbm:warhead_buster_medium>);
-recipes.removeShaped(<hbm:rpa_plate>, [[<hbm:motor_desh>, <hbm:circuit:11>, <hbm:motor_desh>], [<hbm:plate_kevlar>, <hbm:cmb_plate>, <hbm:plate_kevlar>], [<hbm:plate_armor_lunar>, <hbm:plate_armor_lunar>, <hbm:plate_armor_lunar>]]);
 
 recipes.addShaped(<arcanearchives:gemcutters_table>, [[<ore:stoneMarble>, <roots:pereskia>, <ore:paper>], [<arcanearchives:raw_quartz>, <roots:cloud_berry>, <arcanearchives:raw_quartz>], [<ore:runestone>, <arcanearchives:raw_quartz>, <ore:runestone>]]);
 recipes.addShaped(<arcanearchives:radiant_resonator>, [[null, <roots:runestone_brick_slab>, null], [<roots:cloud_berry>, <roots:pereskia>, <roots:cloud_berry>], [<ore:runestone>, <roots:cooked_pereskia>, <ore:runestone>]]);
