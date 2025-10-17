@@ -65,6 +65,8 @@ gtaurora.material.stellar_alloy=Stellar Alloy
 item.gtaurora.data.nuclear.name=Nuclear Data Module
 item.gtaurora.data.elementary.name=Elementary Data Module
 item.gtaurora.data.subatomic.name=Subatomic Data Module
+item.gtaurora.menril_sticky_resin.name=Menril Resin
+item.gtaurora.circuit.vacuum_tube_double.name=Advanced Vacuum Tube (Triode)
 item.gtaurora.data.neutrino.name=Neutrino Data Module
 gtaurora.material.antiferrachloric_dineutronium_draconium_schrabidate=Antiferrachloric Dineutronium Draconium Schrabidate
 gtaurora.material.supercooled_afcdnds=Supercooled Antiferrachloric Dineutronium Draconium Schrabidate
@@ -435,3 +437,15 @@ gregtech.veins.ore.chilesite=Chilesite Vein
 
 gtaurora.material.graded_iron=Graded Iron
 gtaurora.material.dura_steel=Dura-Steel
+
+gtaurora.material.menril=Menril
+gtaurora.material.menril_steel=Menril-Steel
+gtaurora.material.twilight_coal=Twilight Coal
+gtaurora.material.raw_menril=Raw Menril
+gtaurora.material.twilight_coal=Twilight Coal
+gtaurora.material.twilight_coke=Twilight Coke
+
+
+gtaurora.material.artificial_glowstone=Artificial Glowstone
+gtaurora.material.menril_extract=Menril Extract
+gtaurora.material.menril_waste=Menril Waste

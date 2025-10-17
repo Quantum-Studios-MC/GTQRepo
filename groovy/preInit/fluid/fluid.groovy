@@ -243,6 +243,120 @@ materialBuilder(30155, "indraic_water").liquid(fluidBuilder()).gem().color(0xbaf
 materialBuilder(30156, "cryotheum").liquid(fluidBuilder()).gem().color(0x5eb1ff).components(material('gelum') * 4, material('indraic_water')).build();
 materialBuilder(30157, "aerotheum").liquid(fluidBuilder()).gem().colorAverage().components(material('aer') * 4, material('visum')).build();
 materialBuilder(30158, "pyrotheum").liquid(fluidBuilder()).gem().colorAverage().components(material('infernum') * 4, material('blaze')).build();
+materialBuilder(30159, "menril").liquid(fluidBuilder()).gem().color(0x2596be).element("Menril").build();
+materialBuilder(30160, "raw_menril").dust().color(0xbafff9).build();
+materialBuilder(30161, "artificial_glowstone").dust().components(material('menril'), material('lux')).colorAverage().build();
+materialBuilder(30162, "menril_extract").components(material("menril")).dust().color(0x6B7989).build();
+materialBuilder(30163, "menril_waste").dust().color(0xbafff9).build();
+
+
+materialBuilder(29993, 'pewter')
+    .ingot().fluid()
+    .components(material('tin'), material('lead') * 2, material('antimony'))
+    .color(0xC0C0C0).iconSet('SHINY')
+    .flags('generate_plate', 'generate_rod')
+.build()
+
+materialBuilder(29992, 'cast_iron')
+    .ingot().fluid()
+    .components(material('iron'), material('carbon') * 2, material('silicon'))
+    .color(0x2E2E2E).iconSet('DULL')
+    .flags('generate_plate', 'generate_gear')
+.build()
+
+materialBuilder(29991, 'babbitt_metal')
+    .ingot().fluid()
+    .components(material('tin'), material('antimony') * 2, material('copper'))
+    .color(0xD6CDC4).iconSet('SHINY')
+    .flags('generate_plate', 'generate_rod')
+.build()
+
+materialBuilder(29990, 'nickel_steel')
+    .ingot().fluid()
+    .components(material('steel'), material('nickel') * 2)
+    .color(0x6B7989).iconSet('METALLIC')
+    .flags('generate_plate', 'generate_rod', 'generate_gear', 'generate_dense')
+.build()
+
+materialBuilder(29989, 'german_silver')
+    .ingot().fluid()
+    .components(material('copper'), material('nickel') * 2, material('zinc') * 2)
+    .color(0xB0C4DE).iconSet('SHINY')
+    .flags('generate_plate', 'generate_rod', 'generate_gear')
+.build()
+
+materialBuilder(29988, 'manganese_steel')
+    .ingot().fluid()
+    .components(material('steel'), material('manganese') * 3)
+    .color(0x444C5C).iconSet('METALLIC')
+    .flags('generate_plate', 'generate_rod', 'generate_gear', 'generate_dense')
+.build()
+
+materialBuilder(29987, 'monel')
+    .ingot().fluid()
+    .components(material('copper'), material('nickel') * 3, material('iron') * 2, material('manganese') * 2)
+    .colorAverage().iconSet('SHINY')
+    .flags('generate_plate', 'generate_rod', 'generate_gear', 'generate_dense', 'generate_spring')
+.build()
+
+materialBuilder(29986, 'spiegeleisen')
+    .ingot().fluid()
+    .components(material('iron'), material('manganese') * 3, material('carbon'))
+    .color(0x3B3B3B).iconSet('DULL')
+    .flags('generate_plate', 'generate_rod')
+.build()
+
+materialBuilder(29985, 'bell_metal')
+    .ingot().fluid()
+    .components(material('copper'), material('tin') * 3)
+    .color(0xB87333).iconSet('METALLIC')
+    .flags('generate_plate', 'generate_rod')
+.build()
+
+materialBuilder(29984, 'type_metal')
+    .ingot().fluid()
+    .components(material('lead'), material('antimony') * 2, material('tin'))
+    .color(0xA8A8A8).iconSet('DULL')
+    .flags('generate_plate', 'generate_rod')
+.build()
+
+materialBuilder(29983, 'tombac')
+    .ingot().fluid()
+    .components(material('copper'), material('zinc'))
+    .color(0xD6A662).iconSet('METALLIC')
+    .flags('generate_plate', 'generate_rod')
+.build()
+
+materialBuilder(29982, 'silicon_bronze')
+    .ingot().fluid()
+    .components(material('copper'), material('silicon'), material('zinc'))
+    .color(0xCD7F32).iconSet('METALLIC')
+    .flags('generate_plate', 'generate_rod')
+.build()
+
+materialBuilder(29981, 'white_metal')
+    .ingot().fluid()
+    .components(material('tin'), material('antimony'), material('copper'))
+    .color(0xDCDCDC).iconSet('SHINY')
+    .flags('generate_plate', 'generate_rod')
+.build()
+
+ materialBuilder(29980, 'dura_steel')
+    .ingot().fluid()
+    .blastTemp(2001, "HIGH")
+    .components(material('cast_iron'), material('manganese_steel'), material('nickel_steel'))
+    .colorAverage().iconSet('METALLIC')
+    .flags('generate_plate', 'generate_rod', 'generate_frame', 'generate_foil', 'generate_fine_wire', 'generate_lens','generate_rod')
+    .fluidPipeProperties(100, 10, true)
+.build()
+
+ materialBuilder(29979, 'menril_steel')
+    .ingot().fluid()
+    .blastTemp(450, "HIGH")
+    .components(material('steel'), material('menril') * 2)
+    .colorAverage().iconSet('SHINY')
+    .flags('generate_plate', 'generate_rod', 'generate_frame', 'generate_foil', 'generate_fine_wire', 'generate_bolt_screw','generate_rod')
+.build()
 }
 
 // ribhyas hair looks

@@ -37,6 +37,8 @@ content.createItem('contraschrabidic_core').register()
 content.createItem('etched_draconic_plate').register()
 content.createItem('space_data_t1').register()
 content.createItem('token_lucifer').register()
+content.createItem('menril_sticky_resin').register()
+content.createItem('circuit.vacuum_tube_double').register()
 // blocks
 content.createBlock('deco_computer').register()
 content.createBlock('machine_casing_ampridge').register()

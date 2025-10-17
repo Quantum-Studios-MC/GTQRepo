@@ -1,0 +1,28 @@
+
+recipemap('alloy_smelter').recipeBuilder()
+        .inputs(ore('ingotZinc') * 2)
+        .inputs(ore('ingotCopper'))
+        .outputs(metaitem('ingotTombac'))
+        .duration(50).EUt(16).buildAndRegister()
+
+recipemap('primitive_blast_furnace').recipeBuilder()
+        .inputs(ore('ingotSteel') * 1)
+        .inputs(ore('ingotNickel') * 2)
+        .inputs(ore('gemCoke') * 2)
+        .outputs(metaitem('ingotNickelSteel'))
+        .duration(50).EUt(16).buildAndRegister()
+
+recipemap('mixer').recipeBuilder()
+        .inputs(ore('dustCopper'))
+        .inputs(ore('dustNickel') * 3)
+        .inputs(ore('iron') * 2)
+        .inputs(ore('manganese') * 2)
+        .outputs(metaitem('dustMonel'))
+        .duration(50).EUt(16).buildAndRegister()
+
+recipemap('primitive_blast_furnace').recipeBuilder()
+        .inputs(ore('ingotSteel') * 1)
+        .inputs(ore('dustMenril') * 2)
+        .inputs(ore('gemTwilightCoal') * 2)
+        .outputs(metaitem('ingotMenrilSteel'))
+        .duration(300).EUt(16).buildAndRegister()

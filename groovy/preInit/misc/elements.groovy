@@ -88,3 +88,5 @@ def Infernum = Elements.add(35, 35, -1, null, "Infernum", "§4☢If§e", false)
 def Ventus = Elements.add(12, 12, -1, null, "Ventus", "§f〰Vt§e", false)
 def Visum = Elements.add(20, 18, -1, null, "Visum", "§a◍Vm§e", false)
 def Imperium = Elements.add(34, 34, -1, null, "Imperium", "§6⚑Ip§e", false)
+
+def Menril = Elements.add(34, 34, -1, null, "Menril", "§bMrl§e", false)

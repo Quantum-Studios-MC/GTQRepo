@@ -20,6 +20,9 @@ HazardSystem.register("batteryLuv", makeData(EXPLOSIVE, 3.0F).addEntry(HYDROACTI
 HazardSystem.register("batteryZpm", makeData(EXPLOSIVE, 3.5F).addEntry(HYDROACTIVE, 3.5F));
 HazardSystem.register("batteryUv", makeData(EXPLOSIVE, 4.0F).addEntry(HYDROACTIVE, 4.0F));
 
+HazardSystem.register("dustMenrilWaste", makeData(RADIATION, 0.1F).addEntry(HYDROACTIVE, 1.0F));
+
+
 private static HazardData makeData(HazardTypeBase hazard, float level) 
 {
     return new HazardData().addEntry(hazard, level); 
