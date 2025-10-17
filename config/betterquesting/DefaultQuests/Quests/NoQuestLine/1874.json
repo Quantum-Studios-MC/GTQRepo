@@ -1,0 +1,59 @@
+{
+  "preRequisites:11": [
+    1895
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Batteries are items that are used for storing energy and creating hardware.\n\nBatteries can be put into Battery buffers to add to their energy storage; Batteries can also be used to charge EU-using items in your\ninventory.\n\nThere are 3 different types of batteries to choose from (limited to LV, MV, and HV)\nYou can create any type based on the resources you have.\n\nLithium has the most capacity, then Cadmium, then Sodium.\n\nCheck JEI for the recipes, but i suggest just electrolyzing salt for Sodium and if you want you can process Lepidolite in the Ore Washer for\nlithium.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 732,
+        "id:8": "gregtech:meta_item_1",
+        "tag:10": {
+          "Charge:4": 0
+        }
+      },
+      "name:8": "Batteries",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1874,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 101,
+          "id:8": "gregtech:meta_dust"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "entryLogic:8": "OR",
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 732,
+          "id:8": "gregtech:meta_item_1",
+          "tag:10": {
+            "Charge:4": 0
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 735,
+          "id:8": "gregtech:meta_item_1",
+          "tag:10": {
+            "Charge:4": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

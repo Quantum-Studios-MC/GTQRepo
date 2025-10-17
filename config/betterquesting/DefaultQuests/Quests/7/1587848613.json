@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    638078016
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "More efficient than regular coal, and Glistening Diamond is a useful material for §aAE2§f later!",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gregtech:ore_twilight_coal_0"
+      },
+      "ismain:1": 1,
+      "name:8": "Twilight Coal"
+    }
+  },
+  "questID:3": 1587848613,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:ore_twilight_coal_0"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

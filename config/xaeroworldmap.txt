@@ -30,8 +30,8 @@ closeWaypointsWhenHopping:true
 adjustHeightForCarpetLikeBlocks:true
 onlyCurrentMapWaypoints:false
 minZoomForLocalWaypoints:0.0
-arrowColour:-2
-minimapRadar:false
+arrowColour:1
+minimapRadar:true
 renderWaypoints:true
 partialYTeleportation:true
 displayStainedGlass:true

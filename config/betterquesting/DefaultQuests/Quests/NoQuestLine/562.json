@@ -1,0 +1,131 @@
+{
+  "preRequisites:11": [
+    571
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "After you get Masonry bricks, you can carve those on a chopping block to get Carved Masonry. \n\nThese are your FIRST §2GT Tools!§f They will be very useful for making plates, rods, bolts, screws, etc.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gregtech:pickaxe",
+        "tag:10": {
+          "DisallowContainerItem:1": 0,
+          "GT.Behaviours:10": {
+            "TorchPlacing:1": 1
+          },
+          "GT.Tool:10": {
+            "AttackDamage:5": 5.0,
+            "AttackSpeed:5": -2.8,
+            "Durability:3": 0,
+            "HarvestLevel:3": 1,
+            "Material:8": "gtaurora:carved_masonry",
+            "MaxDurability:3": 149,
+            "ToolSpeed:5": 5.0
+          },
+          "HideFlags:3": 2
+        }
+      },
+      "name:8": "Carved Masonry Set",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 562,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 31753,
+          "id:8": "gregtech:meta_ingot"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:xp"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:pickaxe",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {
+              "TorchPlacing:1": 1
+            },
+            "GT.Tool:10": {
+              "AttackDamage:5": 5.0,
+              "AttackSpeed:5": -2.8,
+              "Durability:3": 0,
+              "HarvestLevel:3": 1,
+              "Material:8": "gtaurora:carved_masonry",
+              "MaxDurability:3": 149,
+              "ToolSpeed:5": 5.0
+            },
+            "HideFlags:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:axe",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "EA_ENABLED:1": 1,
+            "GT.Behaviours:10": {
+              "DisableShields:1": 1,
+              "TreeFelling:1": 1
+            },
+            "GT.Tool:10": {
+              "AttackDamage:5": 9.0,
+              "AttackSpeed:5": -3.2,
+              "Durability:3": 0,
+              "HarvestLevel:3": 1,
+              "Material:8": "gtaurora:carved_masonry",
+              "MaxDurability:3": 149,
+              "ToolSpeed:5": 3.0
+            },
+            "HideFlags:3": 2,
+            "RARITY:3": 1
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:shovel",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {},
+            "GT.Tool:10": {
+              "AttackDamage:5": 5.5,
+              "AttackSpeed:5": -3.0,
+              "Durability:3": 0,
+              "HarvestLevel:3": 1,
+              "Material:8": "gtaurora:carved_masonry",
+              "MaxDurability:3": 149,
+              "ToolSpeed:5": 5.0
+            },
+            "HideFlags:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    378
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Tungsten is a VERY VERY VERY important metal that is REQUIRED for HBM\u0027s Nuclear Tech Mod. It is also needed for the next tier, AKA IV.\n(Tungstensteel) \n\nTungsten can be obtained from Tungstate or Scheelite which are End Ores. This can also be looped for infinite tungsten.\n\nYou will need Tungstic Acid and an Electrolyser for the base setup, but you can use a Chem Reactor to loop this chain.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 115,
+        "id:8": "gregtech:meta_dust"
+      },
+      "name:8": "Tungsten",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 395,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "gregtech:ore_scheelite_0"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 115,
+          "id:8": "gregtech:meta_dust"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

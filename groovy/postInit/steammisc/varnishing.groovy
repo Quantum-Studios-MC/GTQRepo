@@ -1,0 +1,11 @@
+recipemap('wood_varnishing').recipeBuilder()
+        .inputs(ore('plankWood') * 1)
+        .fluidInputs(fluid('wood_varnish') * 100)
+        .outputs(metaitem('plateVarnishedWood'))
+        .duration(120).EUt(32).buildAndRegister()
+
+recipemap('wood_varnishing').recipeBuilder()
+        .inputs(ore('plankWood') * 1)
+        .fluidInputs(fluid('menril') * 100)
+        .outputs(metaitem('plateMenrilVarnishedWood'))
+        .duration(120).EUt(32).buildAndRegister()

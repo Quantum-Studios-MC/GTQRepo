@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    49892317
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Need more steel? Well, look no further. The §bSteam Molten Steel Furnace§f is used to process §aSteel§f much easier and faster than a §9PBF§f but you must run the liquid steel as an input into a §aStrand Caster§e to get the actual products.\n\n§fThe main drawback of this machine is that you need §cbriquettes§f as fuel, which can be a power-intensive process.\n\n§9Additionally, the inputs must be in Dust form.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11031,
+        "id:8": "gregtech:machine"
+      },
+      "ismain:1": 1,
+      "name:8": "Steam Molten Steel Furnace"
+    }
+  },
+  "questID:3": 783796625,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11031,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

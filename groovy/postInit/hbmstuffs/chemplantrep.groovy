@@ -66,15 +66,7 @@ recipemap('chemical_reactor').recipeBuilder()
         .fluidInputs(fluid('coolant') * 1200 )
         .fluidOutputs(fluid('cryogel') * 16)
         .duration(60).EUt(6).buildAndRegister()
-
-recipemap('large_chemical_reactor').recipeBuilder()
-        .inputs(item('hbm:circuit_gold'))
-        .inputs(ore('plateDesh'))
-        .inputs(ore('dustSchrabidium'))
-        .fluidInputs(fluid('peroxide') * 1200 )
-        .outputs(item('hbm:circuit_schrabidium'))
-        .duration(60).EUt(510).buildAndRegister()
-
+        
 recipemap('chemical_reactor').recipeBuilder()
         .fluidInputs(fluid('nitric_acid') * 100 )
         .fluidInputs(fluid('glycerol') * 1200 )

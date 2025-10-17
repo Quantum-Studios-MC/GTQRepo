@@ -1,0 +1,66 @@
+{
+  "preRequisites:11": [
+    2208
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "As soon as you can mine gravel, switch to these. These tools will be able to get you till Masonry. They also give §2better drops§f from Gravel and other blocks.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:flint_pickaxe"
+      },
+      "name:8": "Flint Set",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2212,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 10,
+          "id:8": "pyrotech:material"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:xp"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:flint_pickaxe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:flint_axe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:flint_shovel"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

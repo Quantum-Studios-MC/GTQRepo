@@ -1,0 +1,19 @@
+{
+  "preRequisites:11": [
+    1634,
+    1631
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 381,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "Coated Circuit Board"
+    }
+  },
+  "questID:3": 1654,
+  "tasks:9": {}
+}

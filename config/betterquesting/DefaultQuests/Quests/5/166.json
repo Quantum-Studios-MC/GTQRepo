@@ -1,0 +1,43 @@
+{
+  "preRequisites:11": [
+    172
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This is your first means of crafting. You will need to keep a few things in mind.\n\nFirst of all, this block requires you to right-click it with a Hammer to work.\nSecond, this block has durability. You can see it in WAILA.\nFinally, this block has a few storage slots for tools underneath the main crafting area.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:worktable"
+      },
+      "name:8": "Worktable",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 166,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "rosatech:rt_item"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:worktable"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

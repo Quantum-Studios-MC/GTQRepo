@@ -1,0 +1,18 @@
+{
+  "preRequisites:11": [
+    1976
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The HV Assembling Machine is the next step in progress, unlocking many new recipes as well as\nsome utility items.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 112,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "HV Assembling"
+    }
+  },
+  "questID:3": 2217,
+  "tasks:9": {}
+}

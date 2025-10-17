@@ -1,0 +1,51 @@
+{
+  "preRequisites:11": [
+    1891
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Basic Extractor is an upgraded version of the regular extractor but with fluid capabilities. it can convert items into fluids-\nuseful for Liquid Glass for the Diodes.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 305,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Extractor",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1863,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "thermalexpansion:florb",
+            "orig_meta:3": 1,
+            "orig_tag:10": {
+              "Fluid:8": "glass"
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 305,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

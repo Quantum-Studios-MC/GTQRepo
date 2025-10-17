@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    605,
+    607,
+    597
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To unlock the next tier of energy hatch, you\u0027ll need to make LPIC (Low-Power IC) which take an Orange Lens made only from Chemical Dye.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1213,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "HV Energy Hatch",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 588,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1213,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 603,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

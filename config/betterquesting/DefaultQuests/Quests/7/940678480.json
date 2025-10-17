@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    2093730609
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "While §bVariable Cards§f store data, we need something to actually §9program§f the data into the Cards. This is by the Variable Programmer.\n\nEach variable can do different things depending on which machine they\u0027re put into.\n\nList variables can store a list of items or fluids, recipes can act like patterns for autocrafting..",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "integrateddynamics:portable_logic_programmer"
+      },
+      "ismain:1": 1,
+      "name:8": "Programming"
+    }
+  },
+  "questID:3": 940678480,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "integrateddynamics:portable_logic_programmer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

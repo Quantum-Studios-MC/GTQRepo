@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    612
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The TIER 1 rocket will only allow you to go to the Moon.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "galacticraftcore:rocket_t1"
+      },
+      "name:8": "Tier 1 Rocket",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 611,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "galacticraftcore:rocket_t1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

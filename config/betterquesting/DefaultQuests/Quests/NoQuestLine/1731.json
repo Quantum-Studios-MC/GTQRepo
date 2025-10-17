@@ -1,0 +1,70 @@
+{
+  "preRequisites:11": [
+    1674,
+    1693,
+    1675
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1013,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Large Bronze Boiler",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1731,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1013,
+          "id:8": "gregtech:machine"
+        },
+        "1:10": {
+          "Count:3": 4,
+          "Damage:2": 1195,
+          "id:8": "gregtech:machine"
+        },
+        "2:10": {
+          "Count:3": 2,
+          "Damage:2": 1180,
+          "id:8": "gregtech:machine"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 1150,
+          "id:8": "gregtech:machine"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "Damage:2": 1657,
+          "id:8": "gregtech:machine"
+        },
+        "5:10": {
+          "Count:3": 1,
+          "Damage:2": 1654,
+          "id:8": "gregtech:machine"
+        },
+        "6:10": {
+          "Count:3": 20,
+          "id:8": "gregtech:metal_casing"
+        },
+        "7:10": {
+          "Count:3": 4,
+          "id:8": "gregtech:boiler_firebox_casing"
+        },
+        "8:10": {
+          "Count:3": 2,
+          "id:8": "gregtech:boiler_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

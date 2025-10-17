@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    69754892
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Wood Dust, made from Macerating wood, can be recycled in the paper line.\n\nUsing a §9paper mill§f boosts the production of paper from wood dust §eMASSIVELY,§f so you are recommended to use it!",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1617,
+        "id:8": "gregtech:meta_dust"
+      },
+      "name:8": "Wood Pulp"
+    }
+  },
+  "questID:3": 69632183,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1617,
+          "id:8": "gregtech:meta_dust"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

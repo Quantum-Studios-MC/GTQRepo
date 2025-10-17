@@ -1,0 +1,55 @@
+{
+  "preRequisites:11": [
+    1145
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Nether in GTQU§f requires you to get the Nether Cake... Go check the §bMagic§f questlines for more information!",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:netherrack"
+      },
+      "ismain:1": 1,
+      "name:8": "The Nether",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1150,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:pickaxe",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {
+              "TorchPlacing:1": 1
+            },
+            "GT.Tool:10": {
+              "AttackDamage:5": 7.0,
+              "AttackSpeed:5": -2.7,
+              "Durability:3": 0,
+              "HarvestLevel:3": 3,
+              "Material:8": "red_steel",
+              "MaxDurability:3": 2560,
+              "ToolSpeed:5": 11.0
+            },
+            "HideFlags:3": 2
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "dimension:3": -1,
+      "index:3": 0,
+      "name:8": "New Location",
+      "taskID:8": "bq_standard:location"
+    }
+  }
+}

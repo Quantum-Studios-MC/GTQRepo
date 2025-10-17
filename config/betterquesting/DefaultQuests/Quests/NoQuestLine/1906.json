@@ -1,0 +1,24 @@
+{
+  "preRequisites:11": [
+    1884
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Every generator in LV (single-block ones specifically) produces 1 amp of its voltage tier.\n\nlike one amp in LV is 32 EU/t.\n\nIf a machine requests 24 EU/t, let\u0027s say, one \u0027packet\u0027 of EU is sent to the machine, which in LV results in 32 EU/t being sent to the machine.\n\nSome machines require more than one amp, like the Electric Blast Furnace. Batteries come into play here; a battery buffer with 4 batteries can\noutput 4 amps or 128 EU/t in terms of LV.\n\nCables have limits on how many amps they can carry, e.g a 1x tin cable can only carry 1 amp. That is why there are 2x and 4x cables to \ntransmit more than 1 amp at a time. \n\nTrying to carry more than one amp at a time will result in the cable burning.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 252,
+        "id:8": "gregtech:wire_double"
+      },
+      "name:8": "Amperage",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1906,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

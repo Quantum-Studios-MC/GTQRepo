@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1324
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Welcome to AE2! This modpack has gated AE2 behind a decently involved line in HV, so you probably won\u0027t be able to access this till HV.\n\nAnyway, to begin with, you will need Highly Impure Fluix Slurry. This has 2 requirements;\n\n§6Distilled Water§f and §4Thermally Expanded Redstone§f.\nThey are on their own pretty easy to get.\n\nAnyway, to purify this impure slurry, we have to centrifuge it. Finally we have the Pure Fluix Slurry, which gives us Gem-Grade Fluix. This can be directly processed into Fluix in an §4Autoclave,§f or electrolyse it to reclaim the Indium!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 32141,
+        "id:8": "gregtech:meta_gem"
+      },
+      "name:8": "Line of Fluix, Toe of Frog"
+    }
+  },
+  "questID:3": 1223,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 32141,
+          "id:8": "gregtech:meta_gem"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

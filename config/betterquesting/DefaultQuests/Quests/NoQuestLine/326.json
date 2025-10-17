@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    331
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The MV Mixer is the gate for a lot of mods; Ender IO, Forestry, and Modular Routers.\n\nModular Routers is especially OP as it can do item and fluid logistics very easily which eliminates the need for pipes in most cases.\n\nIt makes 2 important things in this tier; Kanthal and Vanadiumsteel.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 471,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Advanced Mixer",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 326,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 471,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    2126
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This modpack also contains §4Simple Difficultys§f, which is a survival mod that adds a §6thirst§f and §4temperature§f bar.\n\nThese bars are very difficult to maintain in the earlygame, so that is why i highly recommend getting the Canteen as soon as possible.\n\nHeat is also an issue earlygame, standing near a furnace or other machines in an enclosed cave will make it very hot and thus hard to\nsurvive in.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "simpledifficulty:canteen",
+        "tag:10": {
+          "CanteenType:3": 0,
+          "Doses:3": 0
+        }
+      },
+      "name:8": "Empty Canteen",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2132,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "simpledifficulty:canteen",
+          "tag:10": {
+            "CanteenType:3": 0,
+            "Doses:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

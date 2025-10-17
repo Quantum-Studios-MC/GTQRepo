@@ -131,6 +131,11 @@
       "duration": 60
     },
     {
+      "inputFluid": ["BALEFIRE",46],
+      "outputItem": ["hbm:solid_fuel_bf"],
+      "duration": 60
+    },
+    {
       "inputItem": ["item","hbm:bedrock_ore_new"],
       "outputFluid": ["VITRIOL",50],
       "outputItem": ["hbm:bedrock_ore_new",1,16],

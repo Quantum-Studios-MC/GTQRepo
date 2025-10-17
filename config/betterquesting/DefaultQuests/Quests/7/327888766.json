@@ -1,0 +1,24 @@
+{
+  "preRequisites:11": [
+    1444430353
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Charcoal Roasting can be done in 2 ways;\n\n1: You §9recycle§f the byproduct of Wood Varnish into more charcoal dust, convert the dust back into a block, and farm infinite §6Purified Carbon§f.\n\n2: You can use the Wood Varnish to make §6Varnished Wood§f, necessary for §9Circuit Boards.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forestry:charcoal"
+      },
+      "ismain:1": 1,
+      "name:8": "Charcoal Roasting"
+    }
+  },
+  "questID:3": 327888766,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

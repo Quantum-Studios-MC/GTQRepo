@@ -1,0 +1,36 @@
+{
+  "preRequisites:11": [
+    46
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1017,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Coke Oven",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 51,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1017,
+          "id:8": "gregtech:machine"
+        },
+        "1:10": {
+          "Count:3": 25,
+          "Damage:2": 8,
+          "id:8": "gregtech:metal_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

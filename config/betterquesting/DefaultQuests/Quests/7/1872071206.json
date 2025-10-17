@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1587848613
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Twilight Coal is required for §9Menril-Steel§f and is §bWAY§f more efficient than regular coal and even coke!",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 32221,
+        "id:8": "gregtech:meta_gem"
+      },
+      "ismain:1": 1,
+      "name:8": "Twilight Coal"
+    }
+  },
+  "questID:3": 1872071206,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 32221,
+          "id:8": "gregtech:meta_gem"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

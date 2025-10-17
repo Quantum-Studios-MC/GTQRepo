@@ -47,6 +47,11 @@
       "input2": ["dictframe","AnyCoke"]
     },
     {
+      "output": ["hbm:canister_napalm"],
+      "input1": ["item","hbm:canister_fuel",1,46],
+      "input2": ["dict","slimeball"]
+    },
+    {
       "output": ["hbm:ingot_magnetized_tungsten"],
       "input1": ["dictframe","Tungsten"],
       "input2": ["dict","nuggetSchrabidium"]

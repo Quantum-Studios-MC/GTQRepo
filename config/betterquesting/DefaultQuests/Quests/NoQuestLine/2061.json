@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    2034
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The §bNight§f in this modpack is something you do NOT want to deal with! \n\nSleeping is very easy- Just make a single-use Straw Bed, or find a bed in a Shack or any other structure.\n\n§6Sleeping restores your limbs by 7%!\n\n§9Sleeping sets your spawnpoint, but when you die, you can spawn up to 120 blocks away from it.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 15,
+        "id:8": "minecraft:bed"
+      },
+      "name:8": "Sweet Dreams"
+    }
+  },
+  "questID:3": 2061,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11,
+          "id:8": "minecraft:bed"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

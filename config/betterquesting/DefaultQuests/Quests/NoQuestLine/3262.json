@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    2034
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Structures and Structure Loot have been §9changed,§f now having large quantities of §efood!§f\nSo, exploring structures allows you to find §6guns§f as well as §dfood.§f",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "openblocks:village_highlighter"
+      },
+      "name:8": "Structures"
+    }
+  },
+  "questID:3": 3262,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

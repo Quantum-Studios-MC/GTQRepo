@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    1905994191,
+    1872071206
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Venturing into the§6 Twilight Forest§f will reward you with some new resources; §bTwilight Coal §fis even  more efficient than §9Coke,§f and is §brequired§f for creating the new steel variant- §9Menril-Steel.§f\n\nMenril-Steel is useful for making LV easier to progress through!\n\nIt can serve as an alternative for §6Steel§f in a few different recipes.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 29979,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "ismain:1": 1,
+      "name:8": "Menril-Steel"
+    }
+  },
+  "questID:3": 1858308520,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 29979,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

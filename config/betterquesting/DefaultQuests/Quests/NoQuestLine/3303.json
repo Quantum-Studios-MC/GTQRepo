@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    2781,
+    3293,
+    3295
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§6Menril§f is an important resource required for unlocking §bIntegrated Dynamics§f, which\u0027ll act as a §5counterpart§f to AE2 for Steam-HV.\n\nIt has §bautocrafting,§f §astorage management,§f and more!\n\n§6Menril gems are also going to be an important component in many new Alloys, possibly even required for LV!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 30159,
+        "id:8": "gregtech:meta_dust"
+      },
+      "name:8": "Menril"
+    }
+  },
+  "questID:3": 3303,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 30159,
+          "OreDict:8": "gemMenril",
+          "id:8": "gregtech:meta_gem"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

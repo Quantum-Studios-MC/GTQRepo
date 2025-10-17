@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1099263212
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Steam Wiremill is the early version of the regular wiremill. It can be used to get §9mesh§f and §bdense wire§f for crafting.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11016,
+        "id:8": "gregtech:machine"
+      },
+      "ismain:1": 1,
+      "name:8": "Steam Wiremill"
+    }
+  },
+  "questID:3": 306097354,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11016,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

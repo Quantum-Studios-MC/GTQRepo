@@ -1,0 +1,42 @@
+{
+  "preRequisites:11": [
+    2236
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "SMD Components are much cheaper than their regular counterparts but need more advanced infrastructure to use.\nThese are the Diodes and Inductors, unlocked slightly later.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 526,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "More SMDs",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2238,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 526,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 527,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

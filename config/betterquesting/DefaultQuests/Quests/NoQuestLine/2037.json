@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    2035
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Grove Stones serve as a nexus for Fey energy, which can be used in the Fey Crafter.\nThis unlocks access to Amethyst tools, and also Runestone, which is the most important recipe.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:fey_crafter"
+      },
+      "name:8": "Fey Crafter",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2037,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "simpledifficulty:chiller"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:fey_crafter"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

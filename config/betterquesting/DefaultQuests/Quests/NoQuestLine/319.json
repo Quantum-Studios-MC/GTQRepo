@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    295
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Is your rig too far from your base? Pipes too expensive? The solution: Long-Distance Fluid Pipes.\nThey are connected via 2 endpoints and MUST be atleast 50 blocks long.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1750,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "LD Fluid Pipeline",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 319,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1750,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

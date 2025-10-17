@@ -1,0 +1,77 @@
+{
+  "preRequisites:11": [
+    527
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This has nothing to do with either of them.\nFrames act as Apiary and Alveary upgrades.\nThere are many variants of Frames, each with different effects and durabilities.\nCheck JEI for further info.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forestry:frame_untreated"
+      },
+      "name:8": "Being Framed Has 2 Meanings",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 536,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:frame_proven"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "entryLogic:8": "OR",
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:frame_untreated"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "forestry:frame_impregnated"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "forestry:frame_proven"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "entryLogic:8": "OR",
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "extrabees:hive_frame.cocoa"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "extrabees:hive_frame.cage"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "extrabees:hive_frame.soul"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "extrabees:hive_frame.clay"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "extrabees:hive_frame.debug"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

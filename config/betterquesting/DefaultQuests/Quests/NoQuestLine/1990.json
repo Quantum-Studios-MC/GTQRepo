@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    1985
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Wood vinegar is a good way to get acetone early on, but the yield is low compared to the Acetic Acid recipe.\n\nAcetic Acid is acquired in the chemical reactor, it can be made with Ethylene and Oxygen.\n\nMethanol and Carbon Monoxide is worth it too.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forge:bucketfilled",
+        "tag:10": {
+          "Amount:3": 1000,
+          "FluidName:8": "acetone"
+        }
+      },
+      "name:8": "Acetone Bucket",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1990,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forge:bucketfilled",
+          "tag:10": {
+            "Amount:3": 1000,
+            "FluidName:8": "acetone"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

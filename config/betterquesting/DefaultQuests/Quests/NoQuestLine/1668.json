@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    1659
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:netherrack"
+      },
+      "name:8": "The Nether",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1668,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

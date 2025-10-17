@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    2044
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Many kinds of rituals exist in Roots. To view them all, look at the Roots patchouli book.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:ritual_transmutation"
+      },
+      "name:8": "Rituals",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2038,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:roots_guide"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1879
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This is basically a more expensive but more useful and advanced Conveyor Module. it can transfer items in certain amounts/rates and\ncan also keep items stocked like an ME interface.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 187,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "LV Robot Arm",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1904,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 187,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

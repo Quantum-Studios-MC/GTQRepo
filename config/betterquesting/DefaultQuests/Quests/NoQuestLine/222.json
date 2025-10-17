@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    257
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The chemical bath is a machine that has uses in and outside of ore processing;\n\nIn Ore Processing some variants of Crushed Ores can be turned into purified ores using this machine by bathing them in either\nmercury or Sodium Persulfate. This is not too necessary unless you want to make specific byproducts.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 200,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Chemical Bath",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 222,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 200,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

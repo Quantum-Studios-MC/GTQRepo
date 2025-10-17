@@ -1,0 +1,26 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Welcome to RFTools! I assume you\u0027ve read the quest in the LV Chapter, but to get started, you will need to be in LV, and also have access\nto the Assembling Machine.\n\nMachine Bases are in MV, so don\u0027t think about doing Redstone till then.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rftools:machine_frame"
+      },
+      "name:8": "RFTools",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 537,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rftools:machine_frame"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

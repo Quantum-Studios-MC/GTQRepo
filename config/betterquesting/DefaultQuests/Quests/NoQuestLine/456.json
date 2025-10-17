@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    473
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "With Tungstensteel, you can make the most peak multiblock in all of gregtech; The Processing Array. \n\nIt can do machine processes in parallel, and it can do multiple at once with the Machine Access Interface.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1030,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Processing Array",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 456,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1030,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

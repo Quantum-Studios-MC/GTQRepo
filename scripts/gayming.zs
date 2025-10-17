@@ -25,7 +25,6 @@ recipes.addShaped(<rftools:powercell>, [[<gregtech:cable_single:252>], [<rftools
 recipes.addShaped(<rftools:powercell_advanced>, [[<gregtech:cable_single:277>], [<rftools:powercell>], [<gregtech:machine:1318>]]);
 recipes.addShaped(<rftools:powercell_simple>, [[<ore:cableGtSingleTin>], [<rftools:machine_frame>], [<gregtech:machine:1316>]]);
 recipes.addShaped(<rftools:relay>, [[null, <ore:cableGtSingleTin>, null], [<gregtech:meta_item_1:232>, <rftools:machine_frame>, <ore:cableGtSingleTin>], [null, <ore:cableGtSingleTin>, null]]);
-recipes.addShaped(<rftools:rf_monitor>, [[<gregtech:meta_item_1:232>], [<rftools:machine_frame>], [<thermalfoundation:material:513>]]);
 recipes.addShaped(<rftools:liquid_monitor>, [[<gregtech:meta_item_1:304>], [<rftools:machine_frame>], [<gregtech:meta_item_1:232>]]);
 recipes.addShaped(<rftools:shield_block1>, [[null, <gregtech:meta_item_1:219>, null], [<ore:skullGuardianDiode>, <rftools:machine_frame>, <ore:skullGuardianDiode>], [null, <rftools:shape_card>, null]]);
 recipes.addShaped(<rftools:environmental_controller>, [[<gregtech:meta_item_1:217>, <gregtech:meta_item_1:218>, <gregtech:meta_item_1:217>], [<gregtech:meta_item_1:219>, <rftools:machine_frame>, <gregtech:meta_item_1:219>], [<gregtech:meta_item_1:217>, <gregtech:meta_item_1:218>, <gregtech:meta_item_1:217>]]);

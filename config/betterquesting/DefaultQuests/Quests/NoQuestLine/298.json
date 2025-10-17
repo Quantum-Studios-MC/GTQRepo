@@ -1,0 +1,87 @@
+{
+  "preRequisites:11": [
+    303
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The components are basically the same, except there is a new one; the MV Emitter. It required for the Laser Engraver which is \nincredibly important later on.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 143,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "MV Covers and Components",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 298,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:ore_nickel_0"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 143,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 158,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 128,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 188,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "4:10": {
+      "index:3": 4,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 173,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

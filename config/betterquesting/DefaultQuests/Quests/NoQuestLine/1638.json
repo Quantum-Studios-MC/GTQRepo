@@ -1,0 +1,18 @@
+{
+  "preRequisites:11": [
+    1629
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 7,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Steam Extractor"
+    }
+  },
+  "questID:3": 1638,
+  "tasks:9": {}
+}

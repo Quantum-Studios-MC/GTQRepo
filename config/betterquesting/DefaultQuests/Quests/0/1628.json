@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "You might have noticed your §6weapons§f have \"rarities\". \nThis is not a coincidence! Weapons and Armor now have multiple §brarities§f at random, affecting stats like §1damage,§f§2§2 use speed,§f and others.\n\nWeapons can also be assigned special \u0027abilities\u0027, unlocked via the §cEnhanced Abilties Menu. §f§e(check keybinds!)",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "spartanweaponry:dagger_stone"
+      },
+      "name:8": "Apotheosis?"
+    }
+  },
+  "questID:3": 1628,
+  "tasks:9": {
+    "0:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:crude_axe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

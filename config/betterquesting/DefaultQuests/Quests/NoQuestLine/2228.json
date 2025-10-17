@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2242
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Workstations will be your first EV Circuits, made in the Cleanroom. Technically, these can be made with an MV Circuit Assembler, but the Cleanroom is\nHV, so it is customary to make them at this point.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 630,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "EV Circuits",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2228,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 630,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

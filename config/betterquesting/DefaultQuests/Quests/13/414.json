@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    415
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Petal Apothecary is the gate to Botania, and you can move onto the next questline!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:altar"
+      },
+      "name:8": "Key to the Next Tier",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 414,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botania:altar"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

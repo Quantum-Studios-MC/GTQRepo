@@ -1,0 +1,10 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	tasks: [{
+		uid: "ec63869b",
+		type: "checkmark",
+		title: "The Beginning",
+		icon: "biomesoplenty:terrarium 1 12"
+	}]
+}

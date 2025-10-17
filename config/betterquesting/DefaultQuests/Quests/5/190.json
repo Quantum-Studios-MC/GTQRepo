@@ -1,0 +1,85 @@
+{
+  "preRequisites:11": [
+    174
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Stone Machines. Fuel is to be placed in lower slot and to be ignited.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:stone_kiln"
+      },
+      "name:8": "Stone Kiln",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 190,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "thermalfoundation:storage_resource",
+            "orig_meta:3": 0
+          }
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:beetroot"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:stone_kiln"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:stone_sawmill"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:soaking_pot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:stone_crucible"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

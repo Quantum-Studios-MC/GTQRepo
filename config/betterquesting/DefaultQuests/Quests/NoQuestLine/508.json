@@ -1,0 +1,60 @@
+{
+  "preRequisites:11": [
+    507
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "As i mentioned before, §2Rustic§f not only has Alcohol, it has §5Alchemy§f as well! the Alchemic Condenser is used for this very purpose;\nto distill and use different ingredients to produce §8Elixirs§f for buffs!\n\nThere is also an §5Advanced§f version which requires steel.\n\nYou need to attach the §2Retort§f in order for the condenser to function.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rustic:condenser"
+      },
+      "name:8": "Alchemic Condenser",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 508,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rustic:elixir",
+          "tag:10": {
+            "ElixirEffects:9": {
+              "0:10": {
+                "Amplifier:3": 1,
+                "Duration:3": 1800,
+                "Effect:8": "rustic:ironskin"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rustic:condenser"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rustic:retort"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

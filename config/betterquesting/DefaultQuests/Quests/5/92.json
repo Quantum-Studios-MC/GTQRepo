@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    163
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Another machine.\nThis is your key to unlocking Masonry, a very useful new material made by turning stone brick slabs into masonry bricks.. and, to do that, you need this\nanvil.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:anvil_granite"
+      },
+      "name:8": "Granite Anvil",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 92,
+  "tasks:9": {
+    "0:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:anvil_granite"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

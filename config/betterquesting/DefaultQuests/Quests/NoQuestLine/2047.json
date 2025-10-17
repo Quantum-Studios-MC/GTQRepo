@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    2034
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "In this modpack, you can not only increase your max §6health,§f but §ehunger§f as well.\nLife Crystals and consuming varieties of foods increases your Max HP, and §aconsuming Hearty Shanks §f(only craftable through quests and other methods!) increase your §6Max Hunger.§f",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "scalingfeast:heartyshank"
+      },
+      "name:8": "Hunger and Health"
+    }
+  },
+  "questID:3": 2047,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

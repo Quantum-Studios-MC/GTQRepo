@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    3310
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "NTM Fluids are.. special. Things like §eLow-Pressure Steam§f require §bNTM Fluid§f containers and vessels to use!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:barrel_iron"
+      },
+      "name:8": "NTMF"
+    }
+  },
+  "questID:3": 3301,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:barrel_plastic"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

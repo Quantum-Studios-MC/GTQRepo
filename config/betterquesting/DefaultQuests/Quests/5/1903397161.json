@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    1470662454
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§4Remnants of a lost civilisation. They stretch for miles in each direction, broken houses and untold stories, with no lack of desecrated corpses..",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "apocalypse_craft:canalconcrete"
+      },
+      "name:8": "Cities"
+    }
+  },
+  "questID:3": 1903397161,
+  "tasks:9": {
+    "0:10": {
+      "advancement_id:8": "apocalypse_craft:cityachievement",
+      "index:3": 0,
+      "taskID:8": "bq_standard:advancement"
+    }
+  }
+}

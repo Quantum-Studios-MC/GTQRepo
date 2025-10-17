@@ -1,0 +1,42 @@
+{
+  "preRequisites:11": [
+    247
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "EU is the main energy unit of GT. \n\nIn LV the only practical way to generate energy is the Steam Turbine. It converts 2L Steam -\u003e 1 EU.\n\nThere are 2 ways to transport power- Wires and Cables. Wires are uninsulated and will lose more energy compared to the insulated Cables.\nWires and Cables need to be connected to machines with Wire Cutters.\n\nHow energy loss works is that the farther apart your machines are the more energy is lost- that\u0027s why keeping your machines close together\nin one room is a must. You can also use Superconductors farther on which have no energy loss.\n\nIf you are using cables to transport energy, you will have to keep in mind the Amperage mechanic;\n\nThat is that one machine \u003d one amp, and the more machines you have the more amps you will need to sufficiently power them all.\n\nif you have more than one steam turbine it is recommended to make 2x or 4x cables so that your cables do not burn from excessive amperage.",
+      "icon:10": {
+        "Count:3": 1,
+        "OreDict:8": "wireGtSingleTin",
+        "id:8": "gregtech:wire_single"
+      },
+      "name:8": "Transporting Power",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 250,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "wireGtSingleTin",
+          "id:8": "gregtech:wire_single"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 112,
+          "id:8": "gregtech:cable_single"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

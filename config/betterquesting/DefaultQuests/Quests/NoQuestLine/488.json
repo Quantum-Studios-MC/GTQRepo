@@ -1,0 +1,43 @@
+{
+  "preRequisites:11": [
+    513
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Can be used to cook meats. I generally recommend you process your meat here.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "id:8": "cuisine:fire_pit"
+      },
+      "name:8": "Barbecue Rack",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 488,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:chicken"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "cuisine:fire_pit"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

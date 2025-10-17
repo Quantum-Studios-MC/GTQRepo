@@ -1,0 +1,43 @@
+{
+  "preRequisites:11": [
+    1905994191
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To farm§e Menril Logs§f you need an efficient tree farm. Some suggestions i have are;\n\n- Bonsai Pots\n- Engineer\u0027s Decor Low-tech Machines\n- TiCon Lumberaxes\n- [BIG SHOT]\n- GT Axes\n",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "integrateddynamics:menril_sapling"
+      },
+      "ismain:1": 1,
+      "name:8": "Trees"
+    }
+  },
+  "questID:3": 1404758433,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "bonsaitrees:bonsaipot"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "integrateddynamics:menril_sapling"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

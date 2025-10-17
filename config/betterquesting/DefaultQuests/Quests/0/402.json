@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Food may spoil over time §b(as indicated in the tooltip)§f making it riskier to eat and making it possible to §close stockpiles of food to rot.\n\n§fIn the early game (§9Stone Age§f) You are recommended to forage for Pam\u0027s Gardens in order to find sufficient food in order to survive.\n\nLater, you can craft§b chests§f or find §aStructures§f for good food sources.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "cookingforblockheads:fridge"
+      },
+      "name:8": "Food Spoiling"
+    }
+  },
+  "questID:3": 402,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

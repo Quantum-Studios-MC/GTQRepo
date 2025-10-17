@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    554
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Some legend ported Sophisticated Backpacks, so here you are! These have a multitude of upgrades and can be very OP. I recommend these over \nTraveller\u0027s.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterquesting:placeholder",
+        "tag:10": {
+          "orig_id:8": "retro_sophisticated_backpacks:backpack_leather",
+          "orig_meta:3": 0
+        }
+      },
+      "name:8": "Leather Backpack",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 548,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "retro_sophisticated_backpacks:backpack_leather",
+            "orig_meta:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

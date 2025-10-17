@@ -1,0 +1,57 @@
+{
+  "preRequisites:11": [
+    1838
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Wirecutters are gonna be used a decent amount in Pre-LV, so get them.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gregtech:wire_cutter",
+        "tag:10": {
+          "DisallowContainerItem:1": 0,
+          "GT.Behaviours:10": {},
+          "GT.Tool:10": {
+            "AttackDamage:5": 1.0,
+            "AttackSpeed:5": -2.4,
+            "Durability:3": 0,
+            "HarvestLevel:3": 2,
+            "Material:8": "gregtech:iron",
+            "MaxDurability:3": 255,
+            "ToolSpeed:5": 6.0
+          },
+          "HideFlags:3": 2
+        }
+      },
+      "name:8": "Wirecutters",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1834,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:wire_cutter",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {},
+            "GT.Tool:10": {
+              "AttackDamage:5": 1.0,
+              "AttackSpeed:5": -2.4,
+              "Durability:3": 0,
+              "HarvestLevel:3": 2,
+              "Material:8": "gregtech:iron",
+              "MaxDurability:3": 255,
+              "ToolSpeed:5": 6.0
+            },
+            "HideFlags:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

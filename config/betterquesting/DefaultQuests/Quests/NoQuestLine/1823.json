@@ -1,0 +1,65 @@
+{
+  "preRequisites:11": [
+    1799
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Congrats! If you complete this quest you\u0027re well on your way to the smeltery, and getting actual useful ore processing setup.\nNow, i suggest you start magic and head to the Aurorian to find some diamonds in the structures, or loot blacksmiths, or whatevers- diamonds are your\nnext most important project. You need them to unlock the smeltery, after all!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:bloomery"
+      },
+      "name:8": "Bloomery",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1823,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 466,
+          "id:8": "gregtech:meta_item_1",
+          "tag:10": {
+            "Charge:4": 25000
+          }
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:obsidian_hammer"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:bloomery"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:tongs_flint"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

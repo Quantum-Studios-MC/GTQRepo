@@ -1,0 +1,17 @@
+{
+  "preRequisites:11": [
+    3277
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gregtech:ore_terratite_0"
+      },
+      "name:8": "New Quest"
+    }
+  },
+  "questID:3": 3308,
+  "tasks:9": {}
+}

@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1155532891
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The §6Roaster§f is a castiron-based multiblock which can smelt a few resources into constituent dusts with §6free extra byproducts. §fFor Steam progression, it is mainly used to process Cinnabar into§2 Mercury§e§e§f for making Vacuum Tubes.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11022,
+        "id:8": "gregtech:machine"
+      },
+      "ismain:1": 1,
+      "name:8": "Roaster"
+    }
+  },
+  "questID:3": 1444430353,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11022,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

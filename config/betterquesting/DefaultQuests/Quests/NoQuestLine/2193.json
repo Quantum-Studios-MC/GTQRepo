@@ -1,0 +1,53 @@
+{
+  "preRequisites:11": [
+    2191
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This is Post-Iron, but arguably even better than crates, and MODULAR! how cool is that?",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterquesting:placeholder",
+        "tag:10": {
+          "orig_id:8": "industrialrenewal:storage_chest",
+          "orig_meta:3": 0
+        }
+      },
+      "name:8": "Storage Rack (Chest)",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2193,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "industrialrenewal:storage_rack",
+            "orig_meta:3": 0
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "industrialrenewal:storage_chest",
+            "orig_meta:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

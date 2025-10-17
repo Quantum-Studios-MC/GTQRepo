@@ -1,0 +1,40 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Where are you? Who are you? \n\nWelcome to this pack. I am going to be guiding you throughout the progression.\n\nFirst, we all start somewhere- which, in your case, is wood.\nChop down a tree with your hands to get wood.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:log"
+      },
+      "name:8": "The Beginning",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 182,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 54,
+          "id:8": "gregtechfoodoption:gtfo_meta_item"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "logWood",
+          "id:8": "minecraft:log"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

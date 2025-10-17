@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    303
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "You may unlock this in MV, but there is a long way to go for Space...",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "galacticraftcore:rocket_workbench"
+      },
+      "name:8": "NASA Workbench"
+    }
+  },
+  "questID:3": 581,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "galacticraftcore:rocket_workbench"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

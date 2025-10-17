@@ -1,0 +1,18 @@
+{
+  "preRequisites:11": [
+    1649
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 103,
+        "id:8": "gregtech:meta_dust"
+      },
+      "name:8": "Sulfur"
+    }
+  },
+  "questID:3": 1650,
+  "tasks:9": {}
+}

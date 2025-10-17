@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    576
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Most gear has a Rarity attached to it. Basic, Uncommon, Rare, Epic, etc. with their own buffs. (Similar to apotheosis)\n\nGear also has Experience, which levels up to how much you use it. You can spend the experience points on Abilities, which grant you passive buffs unique\nto the tool.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "Note",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 563,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

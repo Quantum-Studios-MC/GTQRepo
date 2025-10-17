@@ -1,0 +1,39 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To Enter HV, You\u0027ll need these two things. So, that is why i have added these two in one Quest!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 625,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "The Horsemen",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2219,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 625,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 323,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

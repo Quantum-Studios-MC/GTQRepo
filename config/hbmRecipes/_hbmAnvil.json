@@ -1,0 +1,2612 @@
+{
+  "recipes": [
+    {
+      "inputs": [
+        ["dict","ingotIron"]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotGold"]
+      ],
+      "outputs": [
+        ["hbm:plate_gold",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotTitanium"]
+      ],
+      "outputs": [
+        ["hbm:plate_titanium",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotAluminum"]
+      ],
+      "outputs": [
+        ["hbm:plate_aluminium",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotSteel"]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotLead"]
+      ],
+      "outputs": [
+        ["hbm:plate_lead",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotCopper"]
+      ],
+      "outputs": [
+        ["hbm:plate_copper",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotAdvancedAlloy"]
+      ],
+      "outputs": [
+        ["hbm:plate_advanced_alloy",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotGunMetal"]
+      ],
+      "outputs": [
+        ["hbm:plate_gunmetal",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotWeaponSteel"]
+      ],
+      "outputs": [
+        ["hbm:plate_weaponsteel",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotSaturnite"]
+      ],
+      "outputs": [
+        ["hbm:plate_saturnite",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotDuraSteel"]
+      ],
+      "outputs": [
+        ["hbm:plate_dura_steel",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotSchrabidium"]
+      ],
+      "outputs": [
+        ["hbm:plate_schrabidium",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotCMBSteel"]
+      ],
+      "outputs": [
+        ["hbm:plate_combine_steel",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotCarbon"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,699,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotGold"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,7900,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotSchrabidium"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,12626,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotCopper"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,2900,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotTungsten"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,7400,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotAluminum"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,1300,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotLead"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,8200,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotZirconium"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,4000,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotSteel"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,30,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotMingrade"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,31,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotAdvancedAlloy"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,32,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotMagnetizedTungsten"]
+      ],
+      "outputs": [
+        ["hbm:wire_fine",8,38,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","dustCoal"]
+      ],
+      "outputs": [
+        ["minecraft:coal",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","dustNetherQuartz"]
+      ],
+      "outputs": [
+        ["minecraft:quartz",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","dustLapis"]
+      ],
+      "outputs": [
+        ["minecraft:dye",1,4,1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","dustDiamond"]
+      ],
+      "outputs": [
+        ["minecraft:diamond",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","dustEmerald"]
+      ],
+      "outputs": [
+        ["minecraft:emerald",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","ingotAluminum"]
+      ],
+      "outputs": [
+        ["hbm:deco_aluminium",4,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotBeryllium"]
+      ],
+      "outputs": [
+        ["hbm:deco_beryllium",4,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotLead"]
+      ],
+      "outputs": [
+        ["hbm:deco_lead",4,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotMingrade"]
+      ],
+      "outputs": [
+        ["hbm:deco_red_copper",4,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotSteel"]
+      ],
+      "outputs": [
+        ["hbm:deco_steel",4,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotTitanium"]
+      ],
+      "outputs": [
+        ["hbm:deco_titanium",4,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotTungsten"]
+      ],
+      "outputs": [
+        ["hbm:deco_tungsten",4,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotDineutronium",4],
+        ["item","hbm:depth_brick"]
+      ],
+      "outputs": [
+        ["hbm:depth_dnt",1.0]
+      ],
+      "tierLower": 1916169,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateTitanium",4]
+      ],
+      "outputs": [
+        ["hbm:shell",1,2200,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateCopper",4]
+      ],
+      "outputs": [
+        ["hbm:shell",1,2900,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateAluminum",4]
+      ],
+      "outputs": [
+        ["hbm:shell",1,1300,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateSteel",4]
+      ],
+      "outputs": [
+        ["hbm:shell",1,30,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateWeaponSteel",4]
+      ],
+      "outputs": [
+        ["hbm:shell",1,50,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateSaturnite",4]
+      ],
+      "outputs": [
+        ["hbm:shell",1,34,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron",3]
+      ],
+      "outputs": [
+        ["hbm:pipe",1,2600,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateCopper",3]
+      ],
+      "outputs": [
+        ["hbm:pipe",1,2900,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateAluminum",3]
+      ],
+      "outputs": [
+        ["hbm:pipe",1,1300,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateLead",3]
+      ],
+      "outputs": [
+        ["hbm:pipe",1,8200,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateSteel",3]
+      ],
+      "outputs": [
+        ["hbm:pipe",1,30,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateDuraSteel",3]
+      ],
+      "outputs": [
+        ["hbm:pipe",1,33,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateRubber",3]
+      ],
+      "outputs": [
+        ["hbm:pipe",1,20003,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:coil_copper",2]
+      ],
+      "outputs": [
+        ["hbm:coil_copper_torus",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:coil_advanced_alloy",2]
+      ],
+      "outputs": [
+        ["hbm:coil_advanced_torus",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:coil_gold",2]
+      ],
+      "outputs": [
+        ["hbm:coil_gold_torus",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron",2],
+        ["item","hbm:coil_copper"],
+        ["item","hbm:coil_copper_torus"]
+      ],
+      "outputs": [
+        ["hbm:motor",2,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:motor"],
+        ["dict","ingotAnyPlastic",2],
+        ["dict","ingotWorkersAlloy",2],
+        ["item","hbm:coil_gold_torus"]
+      ],
+      "outputs": [
+        ["hbm:motor_desh",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","minecraft:stonebrick",4],
+        ["item","hbm:ingot_firebrick",4],
+        ["dict","plateCopper",4]
+      ],
+      "outputs": [
+        ["hbm:machine_difurnace_off",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotSteel",8],
+        ["dict","plateCopper",4],
+        ["item","hbm:motor",2],
+        ["item","hbm:circuit",4]
+      ],
+      "outputs": [
+        ["hbm:machine_assembly_machine",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","cobblestone",8],
+        ["dict","plankWood",16],
+        ["dict","plateCopper",8],
+        ["dict","ntmpipeLead",2]
+      ],
+      "outputs": [
+        ["hbm:pump_steam",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","minecraft:stonebrick",8],
+        ["dict","plateSteel",16],
+        ["dict","ntmpipeLead",4],
+        ["item","hbm:motor",2],
+        ["item","hbm:circuit",4]
+      ],
+      "outputs": [
+        ["hbm:pump_electric",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","minecraft:furnace"],
+        ["dict","plateSteel",8],
+        ["dict","ingotCopper",8]
+      ],
+      "outputs": [
+        ["hbm:heater_firebox",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:ingot_firebrick",16],
+        ["dict","plateSteel",4],
+        ["dict","ingotCopper",8]
+      ],
+      "outputs": [
+        ["hbm:heater_oven",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","minecraft:stone",8],
+        ["dict","plateSteel",2],
+        ["dict","ingotIron",4]
+      ],
+      "outputs": [
+        ["hbm:machine_ashpit",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tank_steel",4],
+        ["dict","ntmpipeSteel",3],
+        ["dict","ingotTitanium",12],
+        ["dict","ingotCopper",8]
+      ],
+      "outputs": [
+        ["hbm:heater_oilburner",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotAnyPlastic",4],
+        ["dict","ingotCopper",8],
+        ["dict","plateSteel",8],
+        ["item","hbm:coil_tungsten",8],
+        ["item","hbm:circuit",1,8]
+      ],
+      "outputs": [
+        ["hbm:heater_electric",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotRubber",4],
+        ["dict","ingotCopper",16],
+        ["dict","plateSteel",16],
+        ["dict","ntmpipeSteel",3]
+      ],
+      "outputs": [
+        ["hbm:heater_heatex",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rtg_unit",5],
+        ["dict","plateTungCar",8],
+        ["dict","ingotCopper",16],
+        ["dict","ingotTcAlloy",6],
+        ["dict","plateSteel",8]
+      ],
+      "outputs": [
+        ["hbm:heater_rt",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","minecraft:stonebrick",16],
+        ["dict","ingotIron",4],
+        ["dict","plateSteel",16],
+        ["dict","ingotCopper",8],
+        ["item","hbm:steel_grate",16]
+      ],
+      "outputs": [
+        ["hbm:furnace_steel",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","minecraft:stonebrick",8],
+        ["dict","logWood",16],
+        ["dict","plateTripleCopper",2],
+        ["dict","ingotBrick",16]
+      ],
+      "outputs": [
+        ["hbm:furnace_combination",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","minecraft:stonebrick",8],
+        ["item","hbm:ingot_firebrick",16],
+        ["dict","ingotIron",4],
+        ["dict","plateCopper",8]
+      ],
+      "outputs": [
+        ["hbm:machine_rotary_furnace",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plankWood",16],
+        ["dict","plateSteel",6],
+        ["dict","ingotCopper",8],
+        ["item","hbm:coil_copper",4],
+        ["item","hbm:gear_large"]
+      ],
+      "outputs": [
+        ["hbm:machine_stirling",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateSteel",16],
+        ["dict","ingotBeryllium",6],
+        ["dict","ingotCopper",8],
+        ["item","hbm:coil_gold",16],
+        ["item","hbm:gear_large",1,1]
+      ],
+      "outputs": [
+        ["hbm:machine_stirling_steel",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:reinforced_stone",16],
+        ["dict","plateSteel",12],
+        ["dict","shellSteel",2],
+        ["item","hbm:coil_copper",4],
+        ["item","hbm:gear_large"]
+      ],
+      "outputs": [
+        ["hbm:machine_steam_engine",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plankWood",16],
+        ["dict","plateSteel",6],
+        ["dict","ingotCopper",8],
+        ["dict","ingotIron",4],
+        ["item","hbm:sawblade"]
+      ],
+      "outputs": [
+        ["hbm:machine_sawmill",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:ingot_firebrick",20],
+        ["dict","ingotCopper",8],
+        ["dict","plateSteel",8]
+      ],
+      "outputs": [
+        ["hbm:machine_crucible",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotSteel",4],
+        ["dict","plateCopper",16],
+        ["item","hbm:plate_polymer",8]
+      ],
+      "outputs": [
+        ["hbm:heat_boiler",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateTripleSteel",2],
+        ["item","hbm:coil_copper",4],
+        ["dict","boltTungsten",4],
+        ["item","hbm:circuit",2]
+      ],
+      "outputs": [
+        ["hbm:machine_soldering_station",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateTripleSteel",4],
+        ["dict","ingotTungsten",8],
+        ["item","hbm:machine_transformer"],
+        ["item","hbm:arc_electrode",2]
+      ],
+      "outputs": [
+        ["hbm:machine_arc_welder",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateTripleSteel",8],
+        ["dict","ingotCopper",8],
+        ["dict","ingotAnyPlastic",4]
+      ],
+      "outputs": [
+        ["hbm:machine_industrial_boiler",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateSteel",4],
+        ["dict","ingotIron",12],
+        ["dict","ingotCopper",2],
+        ["item","hbm:circuit",2],
+        ["item","hbm:sawblade"]
+      ],
+      "outputs": [
+        ["hbm:machine_autosaw",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:brick_concrete",64],
+        ["item","minecraft:iron_bars",128],
+        ["item","hbm:machine_condenser",4]
+      ],
+      "outputs": [
+        ["hbm:machine_tower_small",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:concrete_smooth",128],
+        ["item","hbm:steel_scaffold",32],
+        ["item","hbm:machine_condenser",16],
+        ["dict","ntmpipeSteel",8]
+      ],
+      "outputs": [
+        ["hbm:machine_tower_large",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","minecraft:bone",16],
+        ["item","minecraft:leather",4],
+        ["item","minecraft:feather",24]
+      ],
+      "outputs": [
+        ["hbm:wings_limp",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:sulfur",12],
+        ["dict","shellSteel",4],
+        ["dict","plateTripleCopper",6],
+        ["item","hbm:circuit",2,8]
+      ],
+      "outputs": [
+        ["hbm:machine_deuterium_extractor",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deuterium_filter",2],
+        ["dict","shellSteel",5],
+        ["dict","ntmpipeSteel",12],
+        ["item","hbm:concrete_asbestos",8],
+        ["item","hbm:steel_scaffold",16],
+        ["dict","container1000sourgas",8]
+      ],
+      "outputs": [
+        ["hbm:machine_deuterium_tower",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","unknownConcrete",2],
+        ["item","hbm:steel_scaffold",8],
+        ["item","hbm:plate_polymer",8],
+        ["item","hbm:coil_copper",4]
+      ],
+      "outputs": [
+        ["hbm:red_pylon_large",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","unknownConcrete",8],
+        ["dict","ingotSteel",8],
+        ["item","hbm:plate_polymer",12],
+        ["item","hbm:coil_copper",8]
+      ],
+      "outputs": [
+        ["hbm:substation",2,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateSteel",4],
+        ["item","minecraft:brick_block",16],
+        ["item","hbm:steel_grate",2]
+      ],
+      "outputs": [
+        ["hbm:chimney_brick",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:steel_wall",2],
+        ["dict","dustRedstone",4],
+        ["item","minecraft:lever",2],
+        ["item","hbm:wire_dense",3,32]
+      ],
+      "outputs": [
+        ["hbm:bm_power_box",1.0]
+      ],
+      "tierLower": 5,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateSteel",16],
+        ["dict","unknownConcrete",64],
+        ["item","hbm:steel_grate",4],
+        ["item","hbm:filter_coal",4]
+      ],
+      "outputs": [
+        ["hbm:chimney_industrial",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tank_steel"],
+        ["dict","plateLead",2],
+        ["item","hbm:nuclear_waste",10]
+      ],
+      "outputs": [
+        ["hbm:yellow_barrel",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tank_steel"],
+        ["dict","plateLead",2],
+        ["item","hbm:nuclear_waste_vitrified",10]
+      ],
+      "outputs": [
+        ["hbm:vitrified_barrel",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:man_core"],
+        ["dict","ingotBeryllium",4],
+        ["item","hbm:screwdriver"]
+      ],
+      "outputs": [
+        ["hbm:demon_core_open",1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotWorkersAlloy",4],
+        ["dict","dustAnyPlastic",2],
+        ["dict","ingotDuraSteel"]
+      ],
+      "outputs": [
+        ["hbm:plate_desh",4,1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:nugget_bismuth",2],
+        ["dict","billetUranium238",2],
+        ["dict","dustNiobium"]
+      ],
+      "outputs": [
+        ["hbm:plate_bismuth",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotEuphemium",4],
+        ["dict","dustAstatine",3],
+        ["dict","dustBismuth"],
+        ["dict","gemVolcanic"],
+        ["item","hbm:ingot_osmiridium"]
+      ],
+      "outputs": [
+        ["hbm:plate_euphemium",4,1.0]
+      ],
+      "tierLower": 6,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","ingotDineutronium",4],
+        ["item","hbm:powder_spark_mix",2],
+        ["dict","ingotWorkersAlloy"]
+      ],
+      "outputs": [
+        ["hbm:plate_dineutronium",4,1.0]
+      ],
+      "tierLower": 7,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateTitanium",2],
+        ["dict","ingotSteel"],
+        ["dict","boltSteel",4]
+      ],
+      "outputs": [
+        ["hbm:plate_armor_titanium",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron",6],
+        ["dict","ingotNiobium"],
+        ["item","hbm:plate_armor_titanium"]
+      ],
+      "outputs": [
+        ["hbm:plate_armor_ajr",2,1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateAdvancedAlloy",4],
+        ["item","hbm:plate_armor_titanium"],
+        ["dict","wireFineTungsten",8]
+      ],
+      "outputs": [
+        ["hbm:plate_armor_hev",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateTungCar",4],
+        ["dict","ingotStarmetal"],
+        ["dict","wireFineMagnetizedTungsten",8]
+      ],
+      "outputs": [
+        ["hbm:plate_armor_lunar",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:ingot_meteorite_forged",4],
+        ["dict","ingotWorkersAlloy"],
+        ["item","hbm:billet_yharonite"]
+      ],
+      "outputs": [
+        ["hbm:plate_armor_fau",1.0]
+      ],
+      "tierLower": 6,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:plate_dineutronium",4],
+        ["item","hbm:particle_sparkticle"],
+        ["item","hbm:plate_armor_fau",6]
+      ],
+      "outputs": [
+        ["hbm:plate_armor_dnt",1.0]
+      ],
+      "tierLower": 7,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:ingot_u233"]
+      ],
+      "outputs": [
+        ["hbm:plate_fuel_u233",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:ingot_u235"]
+      ],
+      "outputs": [
+        ["hbm:plate_fuel_u235",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:ingot_mox_fuel"]
+      ],
+      "outputs": [
+        ["hbm:plate_fuel_mox",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:ingot_pu239"]
+      ],
+      "outputs": [
+        ["hbm:plate_fuel_pu239",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:ingot_schrabidium"]
+      ],
+      "outputs": [
+        ["hbm:plate_fuel_sa326",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:billet_ra226be"]
+      ],
+      "outputs": [
+        ["hbm:plate_fuel_ra226be",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:billet_pu238be"]
+      ],
+      "outputs": [
+        ["hbm:plate_fuel_pu238be",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "SMITHING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateCopper"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,1,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateAluminum"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,2,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box"]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,1]
+      ],
+      "outputs": [
+        ["hbm:plate_copper",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,2]
+      ],
+      "outputs": [
+        ["hbm:plate_aluminium",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"],
+        ["item","hbm:plate_polymer"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_exhaust",8,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_exhaust",8]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0],
+        ["hbm:plate_polymer",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,3,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateCopper"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,4,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateAluminum"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,5,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,3]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,4]
+      ],
+      "outputs": [
+        ["hbm:plate_copper",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,5]
+      ],
+      "outputs": [
+        ["hbm:plate_aluminium",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"],
+        ["item","hbm:plate_polymer"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_exhaust",8,3,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_exhaust",8,3]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0],
+        ["hbm:plate_polymer",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,6,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateCopper"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,7,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateAluminum"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,8,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,6]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,7]
+      ],
+      "outputs": [
+        ["hbm:plate_copper",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,8]
+      ],
+      "outputs": [
+        ["hbm:plate_aluminium",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"],
+        ["item","hbm:plate_polymer"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_exhaust",8,6,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_exhaust",8,6]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0],
+        ["hbm:plate_polymer",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,9,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateCopper"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,10,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateAluminum"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,11,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,9]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,10]
+      ],
+      "outputs": [
+        ["hbm:plate_copper",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,11]
+      ],
+      "outputs": [
+        ["hbm:plate_aluminium",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"],
+        ["item","hbm:plate_polymer"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_exhaust",8,9,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_exhaust",8,9]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0],
+        ["hbm:plate_polymer",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,12,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateCopper"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,13,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["dict","plateAluminum"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_box",1,14,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,12]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,13]
+      ],
+      "outputs": [
+        ["hbm:plate_copper",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_box",1,14]
+      ],
+      "outputs": [
+        ["hbm:plate_aluminium",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["dict","plateIron"],
+        ["item","hbm:plate_polymer"]
+      ],
+      "outputs": [
+        ["hbm:fluid_duct_exhaust",8,12,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:fluid_duct_exhaust",8,12]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",1.0],
+        ["hbm:plate_polymer",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:stamp_iron_flat"],
+        ["dict","ingotGunMetal",2]
+      ],
+      "outputs": [
+        ["hbm:stamp_9",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:stamp_iron_flat"],
+        ["dict","ingotGunMetal",2]
+      ],
+      "outputs": [
+        ["hbm:stamp_50",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:stamp_desh_flat"],
+        ["dict","ingotWeaponSteel",4]
+      ],
+      "outputs": [
+        ["hbm:stamp_desh_9",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:stamp_desh_flat"],
+        ["dict","ingotWeaponSteel",4]
+      ],
+      "outputs": [
+        ["hbm:stamp_desh_50",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotIron",2]
+      ],
+      "outputs": [
+        ["hbm:mold",1,16,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotIron",2]
+      ],
+      "outputs": [
+        ["hbm:mold",1,17,1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotSteel",4]
+      ],
+      "outputs": [
+        ["hbm:mold",1,22,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotSteel",4]
+      ],
+      "outputs": [
+        ["hbm:mold",1,23,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotSteel",4]
+      ],
+      "outputs": [
+        ["hbm:mold",1,24,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotSteel",4]
+      ],
+      "outputs": [
+        ["hbm:mold",1,25,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotSteel",4]
+      ],
+      "outputs": [
+        ["hbm:mold",1,26,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotSteel",4]
+      ],
+      "outputs": [
+        ["hbm:mold",1,27,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:mold_base"],
+        ["dict","ingotSteel",4]
+      ],
+      "outputs": [
+        ["hbm:mold",1,28,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "CONSTRUCTION"
+    },
+    {
+      "inputs": [
+        ["item","hbm:chunk_ore"]
+      ],
+      "outputs": [
+        ["hbm:fragment_boron",1.0],
+        ["hbm:fragment_boron",0.5],
+        ["hbm:fragment_lanthanium",0.1],
+        ["hbm:fragment_cobalt",1.0],
+        ["hbm:fragment_cobalt",0.5],
+        ["hbm:fragment_cerium",0.1],
+        ["hbm:fragment_neodymium",0.5],
+        ["hbm:fragment_niobium",0.5]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_titanium",4]
+      ],
+      "outputs": [
+        ["hbm:ingot_titanium",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_red_copper",4]
+      ],
+      "outputs": [
+        ["hbm:ingot_red_copper",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_tungsten",4]
+      ],
+      "outputs": [
+        ["hbm:ingot_tungsten",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_aluminium",4]
+      ],
+      "outputs": [
+        ["hbm:ingot_aluminium",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_steel",4]
+      ],
+      "outputs": [
+        ["hbm:ingot_steel",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_rusty_steel",8]
+      ],
+      "outputs": [
+        ["hbm:ingot_steel",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_lead",4]
+      ],
+      "outputs": [
+        ["hbm:ingot_lead",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_beryllium",4]
+      ],
+      "outputs": [
+        ["hbm:ingot_beryllium",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_asbestos",4]
+      ],
+      "outputs": [
+        ["hbm:ingot_asbestos",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:heater_firebox"]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",8,1.0],
+        ["hbm:ingot_copper",6,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:heater_oven"]
+      ],
+      "outputs": [
+        ["hbm:ingot_firebrick",16,1.0],
+        ["hbm:ingot_copper",8,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:machine_stirling"]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",6,1.0],
+        ["hbm:ingot_copper",8,1.0],
+        ["hbm:coil_copper",4,1.0],
+        ["hbm:gear_large",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:machine_stirling",1,1]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",6,1.0],
+        ["hbm:ingot_copper",8,1.0],
+        ["hbm:coil_copper",4,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:machine_stirling_steel"]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",16,1.0],
+        ["hbm:ingot_beryllium",6,1.0],
+        ["hbm:ingot_copper",8,1.0],
+        ["hbm:coil_gold",16,1.0],
+        ["hbm:gear_large",1,1,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:gear_large",1,1]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",8,1.0],
+        ["hbm:ingot_titanium",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:gear_large"]
+      ],
+      "outputs": [
+        ["hbm:plate_iron",8,1.0],
+        ["hbm:ingot_copper",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:machine_stirling_steel",1,1]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",16,1.0],
+        ["hbm:ingot_beryllium",6,1.0],
+        ["hbm:ingot_copper",8,1.0],
+        ["hbm:coil_gold",16,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:barrel_tcalloy"]
+      ],
+      "outputs": [
+        ["hbm:ingot_titanium",2,1.0],
+        ["hbm:ingot_tcalloy",4,1.0],
+        ["hbm:ingot_tcalloy",0.5],
+        ["hbm:ingot_tcalloy",0.25]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:deco_computer"]
+      ],
+      "outputs": [
+        ["hbm:crt_display",1.0],
+        ["hbm:scrap",3,1.0],
+        ["hbm:wire_fine",4,2900,1.0],
+        ["hbm:circuit",2,3,1.0],
+        ["hbm:circuit",0.5],
+        ["hbm:circuit",1,1,0.75],
+        ["hbm:circuit",1,1,0.5],
+        ["hbm:circuit",1,7,0.1]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:filing_cabinet"]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",2,1.0],
+        ["hbm:plate_steel",2,0.5],
+        ["hbm:plate_polymer",2,0.25],
+        ["hbm:scrap",1.0]
+      ],
+      "tierLower": 1,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:radiorec"]
+      ],
+      "outputs": [
+        ["hbm:plate_steel",4,1.0],
+        ["hbm:wire_fine",1,2900,1.0],
+        ["hbm:circuit",0.5],
+        ["hbm:ingot_polymer",0.25]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:tape_recorder"]
+      ],
+      "outputs": [
+        ["hbm:ingot_steel",1.0],
+        ["hbm:ingot_tungsten",0.25]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pole_top"]
+      ],
+      "outputs": [
+        ["hbm:ingot_tungsten",3,1.0],
+        ["hbm:ingot_red_copper",1.0],
+        ["hbm:ingot_beryllium",2,1.0],
+        ["hbm:ingot_beryllium",0.5]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pole_satellite_receiver"]
+      ],
+      "outputs": [
+        ["hbm:ingot_steel",3,1.0],
+        ["hbm:ingot_steel",2,0.5],
+        ["hbm:circuit",0.5],
+        ["hbm:wire_fine",1,31,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pile_rod_uranium"]
+      ],
+      "outputs": [
+        ["hbm:billet_uranium",3,1.0],
+        ["hbm:plate_iron",2,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pile_rod_source"]
+      ],
+      "outputs": [
+        ["hbm:billet_ra226be",3,1.0],
+        ["hbm:plate_iron",2,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pile_rod_boron"]
+      ],
+      "outputs": [
+        ["hbm:ingot_boron",2,1.0],
+        ["minecraft:stick",2,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pile_rod_detector"]
+      ],
+      "outputs": [
+        ["hbm:ingot_boron",2,1.0],
+        ["hbm:motor",1.0],
+        ["hbm:circuit",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pile_rod_lithium"]
+      ],
+      "outputs": [
+        ["hbm:lithium",1.0],
+        ["hbm:cell",1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_moderator"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:block_graphite",4,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_absorber"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:ingot_boron",8,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_reflector"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:neutron_reflector",8,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_control"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_absorber",1.0],
+        ["hbm:ingot_graphite",2,1.0],
+        ["hbm:motor",2,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_control_mod"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_control",1.0],
+        ["hbm:block_graphite",4,1.0],
+        ["hbm:nugget_bismuth",4,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_control_auto"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_control",1.0],
+        ["hbm:circuit",1,9,1.0],
+        ["hbm:crt_display",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_rod_reasim"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:ingot_zirconium",4,1.0],
+        ["hbm:shell",2,30,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_rod_reasim_mod"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_rod_reasim",1.0],
+        ["hbm:block_graphite",4,1.0],
+        ["hbm:ingot_tcalloy",4,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_outgasser"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:steel_grate",6,1.0],
+        ["hbm:tank_steel",1.0],
+        ["minecraft:hopper",1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_storage"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:crate_steel",2,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_rod"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:shell",2,30,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_rod_mod"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_rod",1.0],
+        ["hbm:block_graphite",4,1.0],
+        ["hbm:nugget_bismuth",4,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_boiler"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:pipe",6,2900,1.0],
+        ["hbm:shell",2,2900,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:rbmk_cooler"]
+      ],
+      "outputs": [
+        ["hbm:rbmk_blank",1.0],
+        ["hbm:steel_grate",4,1.0],
+        ["hbm:plate_polymer",4,1.0]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:machine_reactor_small_new"]
+      ],
+      "outputs": [
+        ["hbm:ingot_steel",8,1.0],
+        ["hbm:ingot_tcalloy",4,1.0],
+        ["hbm:motor_desh",2,1.0],
+        ["hbm:ingot_boron",5,1.0],
+        ["hbm:plate_lead",8,1.0],
+        ["hbm:crt_display",3,1.0],
+        ["hbm:circuit",1,8,1.0],
+        ["hbm:circuit",1,8,0.5]
+      ],
+      "tierLower": 4,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pile_rod_plutonium"]
+      ],
+      "outputs": [
+        ["hbm:billet_pu_mix",2,1.0],
+        ["hbm:billet_uranium",1.0],
+        ["hbm:plate_iron",2,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:pile_rod_pu239"]
+      ],
+      "outputs": [
+        ["hbm:billet_pu239",1.0],
+        ["hbm:billet_pu_mix",1.0],
+        ["hbm:billet_uranium",1.0],
+        ["hbm:plate_iron",2,1.0]
+      ],
+      "tierLower": 2,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:machine_turbine"]
+      ],
+      "outputs": [
+        ["hbm:turbine_titanium",1.0],
+        ["hbm:coil_copper",2,1.0],
+        ["hbm:ingot_steel",4,1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:yellow_barrel"]
+      ],
+      "outputs": [
+        ["hbm:tank_steel",1.0],
+        ["hbm:plate_lead",2,1.0],
+        ["hbm:nuclear_waste",10,1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    },
+    {
+      "inputs": [
+        ["item","hbm:vitrified_barrel"]
+      ],
+      "outputs": [
+        ["hbm:tank_steel",1.0],
+        ["hbm:plate_lead",2,1.0],
+        ["hbm:nuclear_waste_vitrified",10,1.0]
+      ],
+      "tierLower": 3,
+      "tierUpper": -1,
+      "overlay": "RECYCLING"
+    }
+  ]
+}

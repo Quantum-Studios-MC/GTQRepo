@@ -1,0 +1,55 @@
+{
+  "preRequisites:11": [
+    247
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Electric machines have a feature known as overclocking: This is applied to multiblocks as well. basically if you have 2 energy hatches\nof the same voltage on a multiblock machine, the machine will be able to do the next voltage tier of recipes to the energy hatches.\n\ne.g 2 lv energy inputs -\u003e mv power",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "gregtech:machine_casing"
+      },
+      "name:8": "LV Machine Casing",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 254,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 335,
+          "id:8": "gregtech:meta_ingot"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "gregtech:machine_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 986,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

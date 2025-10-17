@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    2061
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Clicking the carrot icon in your §aInventory§k§f will reveal a Nutrient menu.\n\nEach category does not expressly §e§ohave§f to be fulfilled; However, if you do, you will gain a multitude of §bbuffs§f like extra health, speed, strength, and more!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:milk_bucket"
+      },
+      "name:8": "Nutrients"
+    }
+  },
+  "questID:3": 3075,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

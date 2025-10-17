@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2126
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Cooking for Blockheads is a utility mod that helps you cook food easier. It can help you craft complex foods like Pizzas or Sausage rolls\nin §2one click!§f essential for the time leading up to the midgame.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "cookingforblockheads:recipe_book"
+      },
+      "name:8": "Cooking For Blockheads",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2147,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "cookingforblockheads:recipe_book"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

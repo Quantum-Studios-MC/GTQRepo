@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1827
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Refractory machinery is the LAST tier of pyrotech. The first machine to make is the Bloomery, which is how you get your first metals.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 4,
+        "id:8": "pyrotech:material"
+      },
+      "name:8": "Refractory Clay",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1799,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "id:8": "pyrotech:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

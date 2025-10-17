@@ -1,0 +1,26 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Thirst is relatively simple. You can drink water from a variety of sources, but any water from §6Oceans§f (or rivers connected to the oceans!) can actually §4DRAIN§f your thirst instead of quenching it!\n\nYou can also drink from the rain.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "simpledifficulty:iron_canteen",
+        "tag:10": {
+          "CanteenType:3": 0,
+          "Doses:3": 0
+        }
+      },
+      "name:8": "A Thirst For Glory"
+    }
+  },
+  "questID:3": 406,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

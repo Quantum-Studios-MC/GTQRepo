@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    274
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Oxygen Gas can be acquired in many Electrolysis recipes.\n\nThere are 2 main ways i say you could get it:\n\nElectrolysing Water for Oxygen and Hydrogen, but this produces more Oxygen than Hydrogen. This still can be used to automate easily\nas Water is basically infinite.\n\nYou can also get oxygen as a byproduct from processing ores, so i recommend not voiding any oxygen after ore processing.\n\nthe Arc Furnace is used for a lot of convenient recipes like Sand -\u003e Glass, and it can easily make Wrought Iron as well.\n\nIt also unlocks Annealed Copper which can be used for making the Temperature Maintainer which means you don\u0027t have to worry about\ntemperature anymore.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 95,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Arc Furnace and Oxygen Gas",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 225,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 255,
+          "id:8": "gregtech:meta_dust"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 95,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

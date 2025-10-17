@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    237
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Drills are basically convenient pickaxes. you can use these for mining.. obviously.\n\nA diamond drill tip is recommended.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 446,
+        "id:8": "gregtech:meta_item_1",
+        "tag:10": {
+          "Charge:4": 0
+        }
+      },
+      "name:8": "Drills",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 246,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 446,
+          "id:8": "gregtech:meta_item_1",
+          "tag:10": {
+            "Charge:4": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

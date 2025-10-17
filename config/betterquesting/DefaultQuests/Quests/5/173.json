@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    189
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Coke (No, not the coal tar drink) is acquired from various sources.\nFirst, we have the GT Coke Oven. This is quite hard to get in this pack, so expect it to take a while. Though you can upgrade this to an IE coke oven later.\n\nSecondly, refractory burning (when you make an indoor method for Pile burning, using refractory bricks/igniters/glass/collectors etc.) can yield\ncoke as well.\n\nCoke is used for Steel and is a great fuel source.\n\nPlus, you can easily infinitely dupe it using Thaumcraft....",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 319,
+        "id:8": "gregtech:meta_gem"
+      },
+      "name:8": "Resources: Coke",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 173,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "fuelCoke",
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "thermalfoundation:material",
+            "orig_meta:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

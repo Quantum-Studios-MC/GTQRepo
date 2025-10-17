@@ -1,0 +1,51 @@
+{
+  "preRequisites:11": [
+    520
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Forestry is an old school mod - everything needs its own crafting table!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forestry:carpenter"
+      },
+      "name:8": "Crafting Tables",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 530,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:sturdy_machine"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:carpenter"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:fabricator"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

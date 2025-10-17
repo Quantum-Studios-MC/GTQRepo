@@ -31,7 +31,7 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",4,5],
+        ["item","hbm:circuit",16,5],
         ["item","hbm:circuit",4,1]
       ],
       "pcb": [
@@ -64,8 +64,8 @@
     {
       "toppings": [
         ["item","hbm:circuit",4,6],
-        ["item","hbm:circuit",4,5],
-        ["item","hbm:circuit",8,1]
+        ["item","hbm:circuit",16,5],
+        ["item","hbm:circuit",24,1]
       ],
       "pcb": [
         ["item","hbm:circuit",12,3],
@@ -82,8 +82,8 @@
     {
       "toppings": [
         ["item","hbm:circuit",4,16],
-        ["item","hbm:circuit",4,6],
-        ["item","hbm:circuit",1,18]
+        ["item","hbm:circuit",16,6],
+        ["item","hbm:circuit",4,18]
       ],
       "pcb": [
         ["item","hbm:circuit",16,3],
@@ -99,9 +99,9 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",8,5],
-        ["item","hbm:circuit",8,1],
-        ["item","hbm:circuit",8,2]
+        ["item","hbm:circuit",32,5],
+        ["item","hbm:circuit",32,1],
+        ["item","hbm:circuit",16,2]
       ],
       "pcb": [
         ["item","hbm:circuit",1,12],
@@ -117,8 +117,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",8,6],
-        ["item","hbm:circuit",16,2],
+        ["item","hbm:circuit",16,6],
+        ["item","hbm:circuit",48,2],
         ["item","hbm:circuit",1,18]
       ],
       "pcb": [
@@ -135,9 +135,9 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",8,16],
-        ["item","hbm:circuit",16,6],
-        ["item","hbm:circuit",1,18]
+        ["item","hbm:circuit",16,16],
+        ["item","hbm:circuit",48,6],
+        ["item","hbm:circuit",8,18]
       ],
       "pcb": [
         ["item","hbm:circuit",2,14],
@@ -251,8 +251,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",4,5],
-        ["item","hbm:circuit",2,1]
+        ["item","hbm:circuit",8,5],
+        ["item","hbm:circuit",4,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_speed_1"],
@@ -265,8 +265,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",6,5],
-        ["item","hbm:circuit",4,1]
+        ["item","hbm:circuit",16,5],
+        ["item","hbm:circuit",16,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_speed_2"],
@@ -280,8 +280,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",4,5],
-        ["item","hbm:circuit",2,1]
+        ["item","hbm:circuit",8,5],
+        ["item","hbm:circuit",4,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_effect_1"],
@@ -294,8 +294,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",6,5],
-        ["item","hbm:circuit",4,1]
+        ["item","hbm:circuit",16,5],
+        ["item","hbm:circuit",16,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_effect_2"],
@@ -309,8 +309,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",4,5],
-        ["item","hbm:circuit",2,1]
+        ["item","hbm:circuit",8,5],
+        ["item","hbm:circuit",4,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_power_1"],
@@ -323,8 +323,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",6,5],
-        ["item","hbm:circuit",4,1]
+        ["item","hbm:circuit",16,5],
+        ["item","hbm:circuit",16,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_power_2"],
@@ -338,8 +338,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",4,5],
-        ["item","hbm:circuit",2,1]
+        ["item","hbm:circuit",8,5],
+        ["item","hbm:circuit",4,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_fortune_1"],
@@ -352,8 +352,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",6,5],
-        ["item","hbm:circuit",4,1]
+        ["item","hbm:circuit",16,5],
+        ["item","hbm:circuit",16,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_fortune_2"],
@@ -367,8 +367,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",4,5],
-        ["item","hbm:circuit",2,1]
+        ["item","hbm:circuit",8,5],
+        ["item","hbm:circuit",4,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_afterburn_1"],
@@ -381,8 +381,8 @@
     },
     {
       "toppings": [
-        ["item","hbm:circuit",6,5],
-        ["item","hbm:circuit",4,1]
+        ["item","hbm:circuit",16,5],
+        ["item","hbm:circuit",16,1]
       ],
       "pcb": [
         ["item","hbm:upgrade_afterburn_2"],

@@ -1,34 +1,10 @@
 {
   "recipes": [
     {
-      "input": "SOURGAS",
-      "output1": ["SULFURIC_ACID",75],
-      "output2": ["PETROLEUM",10],
-      "output3": ["HYDROGEN",15]
-    },
-    {
-      "input": "LIGHTOIL",
-      "output1": ["AROMATICS",50],
-      "output2": ["REFORMGAS",10],
-      "output3": ["HYDROGEN",15]
-    },
-    {
       "input": "NAPHTHA_COKER",
       "output1": ["REFORMATE",50],
       "output2": ["REFORMGAS",10],
       "output3": ["HYDROGEN",5]
-    },
-    {
-      "input": "NAPHTHA",
-      "output1": ["REFORMATE",50],
-      "output2": ["PETROLEUM",15],
-      "output3": ["HYDROGEN",10]
-    },
-    {
-      "input": "HEATINGOIL",
-      "output1": ["NAPHTHA",50],
-      "output2": ["PETROLEUM",15],
-      "output3": ["HYDROGEN",10]
     },
     {
       "input": "PETROLEUM",
@@ -53,6 +29,30 @@
       "output1": ["AROMATICS",50],
       "output2": ["REFORMGAS",5],
       "output3": ["HYDROGEN",20]
+    },
+    {
+      "input": "HEATINGOIL",
+      "output1": ["NAPHTHA",50],
+      "output2": ["PETROLEUM",15],
+      "output3": ["HYDROGEN",10]
+    },
+    {
+      "input": "NAPHTHA",
+      "output1": ["REFORMATE",50],
+      "output2": ["PETROLEUM",15],
+      "output3": ["HYDROGEN",10]
+    },
+    {
+      "input": "SOURGAS",
+      "output1": ["SULFURIC_ACID",75],
+      "output2": ["PETROLEUM",10],
+      "output3": ["HYDROGEN",15]
+    },
+    {
+      "input": "LIGHTOIL",
+      "output1": ["AROMATICS",50],
+      "output2": ["REFORMGAS",10],
+      "output3": ["HYDROGEN",15]
     }
   ]
 }

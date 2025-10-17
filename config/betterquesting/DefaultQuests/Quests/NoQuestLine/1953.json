@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1968
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The pyrolyse oven is an electric version of the Coke Oven. It can convert wood into charcoal and creosote, but it can also make very important\nbyproducts.\n\nIf you don\u0027t want to find fluid veins, this is for you.\n\nSome important byproducts you can get are Wood Tar and Biomass.\n\nRead the distillation questline for further information.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1004,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Pyrolyse Oven",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1953,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1004,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

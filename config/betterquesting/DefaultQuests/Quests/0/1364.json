@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    424
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The GUI you see is called §ein-game XML info!§f \nIt shows you important information about your §cchunk,§f§e surroundings,§b world, §fand more!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 307,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "What are those Numbers?"
+    }
+  },
+  "questID:3": 1364,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

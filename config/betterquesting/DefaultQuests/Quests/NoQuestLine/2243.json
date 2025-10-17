@@ -1,0 +1,63 @@
+{
+  "preRequisites:11": [
+    2221
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "the LCR is a Multiblock that can do multistep Chemical Reactor recipes in one go. It can also do certain exclusive recipes (mainly Radon)\nUsing 2 Energy Hatches makes it run at the next tier.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1023,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Large Chemical Reactor",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2243,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1023,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "id:8": "gregtech:boiler_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 10,
+          "Damage:2": 9,
+          "id:8": "gregtech:metal_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:wire_coil"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

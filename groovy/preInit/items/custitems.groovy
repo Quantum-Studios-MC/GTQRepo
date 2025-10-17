@@ -39,6 +39,15 @@ content.createItem('space_data_t1').register()
 content.createItem('token_lucifer').register()
 content.createItem('menril_sticky_resin').register()
 content.createItem('circuit.vacuum_tube_double').register()
+
+content.createItem('shape.billet').register()
+content.createItem('shape.ntmpipe').register()
+content.createItem('shape.shell').register()
+
+content.createItem('mold.billet').register()
+content.createItem('mold.ntmpipe').register()
+content.createItem('mold.shell').register()
+
 // blocks
 content.createBlock('deco_computer').register()
 content.createBlock('machine_casing_ampridge').register()

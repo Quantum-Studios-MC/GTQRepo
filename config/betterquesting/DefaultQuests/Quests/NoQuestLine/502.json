@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    507
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Alcohol! perfect for washing away your troubles after a bad day at the industrial complex.\n\nDon\u0027t drink *too* much though, or you\u0027ll die of liver poisoning..",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rustic:brewing_barrel"
+      },
+      "name:8": "Brewing Barrel",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 502,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rustic:brewing_barrel"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

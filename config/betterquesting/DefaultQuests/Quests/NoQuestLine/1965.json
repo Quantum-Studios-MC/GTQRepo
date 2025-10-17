@@ -1,0 +1,42 @@
+{
+  "preRequisites:11": [
+    1955
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Cutting Machine and Engraving Machine are both required to get cut wafers and chips.\n\nFirst, a silicon boule is acquired from the EBF. Then, the boule is cut in the Cutting Machine.\n\nThen, to turn them into usable wafers, a Lens of your preferred choice must be used. This will make an Engraved wafer. To finally use this, cut it again\nin a Cutting Machine.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 246,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Wafers",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1965,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 246,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 561,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "preRequisites:11": [
+    2826
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Techguns has plenty of weapons, however scrounging for the ammo may prove to be difficult.\n\nThe Assembling Machine allows you to §6craft§f ammo on your own. Very useful for mass-producing ammo for turrets!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "betterquesting:placeholder",
+        "tag:10": {
+          "orig_id:8": "techguns:itemshared",
+          "orig_meta:3": 1
+        }
+      },
+      "name:8": "Ammo, Ammo, and more Ammo"
+    }
+  },
+  "questID:3": 2981,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "techguns:itemshared",
+            "orig_meta:3": 1
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

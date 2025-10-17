@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    337
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Ahh.. wait, POLYETHYLENE??!\n\nYes, Polyethylene. If you haven\u0027t somehow done it already go do it!\n\nAnyway, HV machines take almost 4x the power of MV machines, so upgrading your power grid is ESSENTIAL!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 988,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "HV Machine Hull",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 339,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 988,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

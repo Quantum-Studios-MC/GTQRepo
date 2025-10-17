@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    235355620,
+    327888766
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Purified Carbon is the replacement for regular coal/charcoal resistor materials. You can get it infinitely via §6Charcoal§f, check the quests for more info.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 30168,
+        "id:8": "gregtech:meta_dust"
+      },
+      "ismain:1": 1,
+      "name:8": "Purified Carbon",
+      "questlogic:8": "OR",
+      "tasklogic:8": "OR"
+    }
+  },
+  "questID:3": 1357742683,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 30168,
+          "id:8": "gregtech:meta_dust"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

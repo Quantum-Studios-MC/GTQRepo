@@ -1,0 +1,83 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Welcome to Cuisine! This mod is incredibly useful for early-game food and is HIGHLY recommended *by me, the packdev!~*\n\nTo get started, you need a Wok. This needs a heat source, so craft the Firepit and combine them to get your finished station.\nYou can input fluids and items in this, and when you get Iron you can make a Spatula to stir-fry it.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "cuisine:fire_pit"
+      },
+      "name:8": "Wok on a Fire Pit",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2150,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 16,
+          "id:8": "pyrotech:material"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "cuisine:spice_bottle",
+          "tag:10": {
+            "Items:9": {
+              "0:10": {
+                "Count:3": 1,
+                "Damage:2": 2,
+                "Slot:3": 0,
+                "id:8": "cuisine:material"
+              }
+            },
+            "Size:3": 1,
+            "volume:3": 10
+          }
+        }
+      }
+    },
+    "2:10": {
+      "index:3": 2,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "cuisine:chopping_board",
+          "tag:10": {
+            "BlockEntityTag:10": {
+              "cover:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "minecraft:log"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "cuisine:fire_pit"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

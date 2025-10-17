@@ -1,0 +1,55 @@
+{
+  "preRequisites:11": [
+    1891
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This is the first or second machine i reckon you should make. It reduces the cost of making wires heavily, and reduces the microcrafting\nissues as well. Can also make other types of wire.\n\nIt becomes one ingot -\u003e one wire, WHICH IS THREE TIMES more efficient and doesn\u0027t cost you precious durability.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 620,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Wiremills",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1902,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 324,
+          "id:8": "gregtech:meta_ingot"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 112,
+          "id:8": "gregtech:wire_single"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 620,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

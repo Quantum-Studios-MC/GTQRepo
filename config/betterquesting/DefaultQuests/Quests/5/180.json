@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    174
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "First steps toward the Smeltery!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "tconstruct:soil"
+      },
+      "name:8": "Grout",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 180,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:soil"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

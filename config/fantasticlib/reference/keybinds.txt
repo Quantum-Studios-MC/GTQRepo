@@ -112,9 +112,6 @@ key.carbon_config.key
 Chunk-Pregenerator
 Options Gui
 
-key.cofh.category
-key.cofh.multimode
-
 key.conarm.category
 key.conarm.toggle_chest.desc
 key.conarm.toggle_helm.desc
@@ -140,10 +137,6 @@ key.gui.weapon_interface
 
 Extra Utilities 2
 key.xu2.searchforitems
-
-key.categories.ftbmods
-key.ftbutilities.nbt
-key.ftbutilities.trash
 
 FancyMenu
 Reload Menu | CTRL + ALT + 
@@ -172,32 +165,42 @@ gregtech.key.tool_aoe_change
 key.categories.groovyscript
 key.groovyscript.reload
 
-key.categories.hbm
-key.categories.hbm.craneLoad
-key.categories.hbm.craneMoveDown
-key.categories.hbm.craneMoveLeft
-key.categories.hbm.craneMoveRight
-key.categories.hbm.craneMoveUp
-key.categories.hbm.reload
-key.categories.hbm.toggleHUD
-key.categories.hbm.toggleBack
-key.fsb_flashlight
-key.jetpack_activate
-key.jetpack_hud
-key.jetpack_hover
-key.categories.hbm.dash
-
 ingameinfoxml.key.category
 ingameinfoxml.key.toggle
+
+key.categories.integrateddynamics
+key.integrateddynamics.logic_programmer_focus_search
+key.integrateddynamics.logic_programmer_open_rename
+
+key.categories.integratedterminals
+key.integratedterminals.terminal.craftinggrid.balance
+key.integratedterminals.terminal.craftinggrid.clearplayer
+key.integratedterminals.terminal.craftinggrid.clearstorage
+key.integratedterminals.terminal.tab.next
+key.integratedterminals.terminal.tab.previous
 
 invtweaks.key.category
 invtweaks.key.sort
 
-JEI Utilities
-key.jeiutilities.displayRecipe
-key.jeiutilities.pickBookmark
-key.jeiutilities.transferRecipeMax
-key.jeiutilities.transferRecipe
+key.categories.hbm
+key.categories.hbm.abilityAlt
+key.categories.hbm.ability
+key.categories.hbm.dash
+key.categories.hbm.gunTertitary
+key.categories.hbm.craneLoad
+key.categories.hbm.craneMoveDown
+key.categories.hbm.craneMoveUp
+key.categories.hbm.craneMoveLeft
+key.categories.hbm.craneMoveRight
+key.categories.hbm.reload
+key.categories.hbm.gunSecondary
+key.fsb_flashlight
+key.categories.hbm.toggleHUD
+key.jetpack_activate
+key.categories.hbm.toggleBack
+key.jetpack_hud
+key.jetpack_hover
+key.categories.hbm.qmaw
 
 Numina
 Toggle Numina FOV fix 
@@ -301,13 +304,6 @@ smoothfont.key.guiOpen
 key.spartanweaponry:category.title
 key.spartanweaponry.access_quiver
 
-techguns.key.categories.techguns
-techguns.key.forceReload
-techguns.key.toggleJetpack
-techguns.key.toggleNightvision
-techguns.key.toggleSafemode
-techguns.key.toggleStepassist
-
 key.categories.thaumcraft
 Change Caster Focus
 Misc Caster Toggle
@@ -320,6 +316,12 @@ key.tg.open_gui
 key.categories.theoneprobe
 key.toggleLiquids
 key.toggleVisible
+
+key.toolbelt.category
+key.toolbelt.slot
+key.toolbelt.open
+key.toolbelt.cycle.left
+key.toolbelt.cycle.right
 
 Universal Tweaks
 keybind.universaltweaks.clear_toasts

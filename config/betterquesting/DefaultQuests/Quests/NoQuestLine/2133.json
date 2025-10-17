@@ -1,0 +1,48 @@
+{
+  "preRequisites:11": [
+    2126
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Some crops can only grow when in season; this means you can\u0027t just grow any crop at any time of the year.\n\nYou can view what season it is using the Season Clock.\n\nYou can also see what season a plant requires (if integrated) by looking at its tooltip.\n\nVanilla trees usually can grow in any season.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sereneseasons:season_clock"
+      },
+      "name:8": "Serene Seasons",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2133,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "forestry:can",
+          "tag:10": {
+            "Fluid:10": {
+              "Amount:3": 1000,
+              "FluidName:8": "stone"
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "sereneseasons:season_clock"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

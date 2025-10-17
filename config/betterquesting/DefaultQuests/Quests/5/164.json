@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    166
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "As you might have read before, a Drying rack is quintessential to getting further in Pyrotech. It can process up to 4 items at a time, and requires some \nspecific plants.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "pyrotech:drying_rack"
+      },
+      "name:8": "Drying Rack",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 164,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "pyrotech:drying_rack"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

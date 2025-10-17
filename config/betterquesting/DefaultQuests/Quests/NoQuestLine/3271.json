@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    3266
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To process even more §b§aore,§e you can find veins of raw §aMalachite§f and §6Hematite§f. Unlike GT Veins, these are more common but §aless dense.§f To process them, you need 2 things; §bFlux§e§e§f and a §9Crucible.§f\n\nNot much else. Enjoy your free iron!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "id:8": "hbm:stone_resource"
+      },
+      "name:8": "M(ore) Processing!"
+    }
+  },
+  "questID:3": 3271,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "hbm:stone_resource"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "hbm:stone_resource"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

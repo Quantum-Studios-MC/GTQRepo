@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2016
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The LCE runs at 2048 EU/t. You can also boost it with oxygen for 3x the energy output. \n\nOxygen is pretty easy to get from Distillation, so it\u0027s worth a shot.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1007,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Large Combustion Engine",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2017,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1007,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "preRequisites:11": [
+    1811
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Pile Burning is an interesting part of Pyrotech. It is mainly where you get your Charcoal from. To start it, make some Log Piles and put them \nunderground (make sure it is all covered) and light the one exposed log on fire (with your flint and tinder) make sure to cover it. Wait a bit,\nand eventually you will get Ash, with varying degrees of charcoal in them.\n\nYou can put Collectors made from Masonry/Refractory bricks on the bottom to collect the liquid byproduct for use. Drains allow you\nto route the fluids easily.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:log_pile"
+      },
+      "name:8": "Log Pile",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1824,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:tar_collector"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:tar_drain"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:log_pile"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 32,
+          "Damage:2": 15,
+          "id:8": "pyrotech:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

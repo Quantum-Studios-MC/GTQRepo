@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    537
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Remote Storage is an insanely OP system that can be used in MV onwards. How it works is that you take your regular storage module,\nand put a Remote Storage Module beside it. That will link it to the Remote Storage Module. Next, you leave the regular storage module\ninside the block, and then put the new Module in the Modular Storage; This will allow you to interact with it as far away as you want,\nand with 2 or more you can make interdimensional logistics networks, even better than AE2!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rftools:remote_storage"
+      },
+      "name:8": "Remote Storage",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 543,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rftools:remote_storage"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "id:8": "rftools:storage_module"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

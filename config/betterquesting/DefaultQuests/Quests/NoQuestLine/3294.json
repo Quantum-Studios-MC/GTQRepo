@@ -1,0 +1,56 @@
+{
+  "preRequisites:11": [
+    1819
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "In §5ApocalypseCraft§f you can scavenge §4Lootpiles§f in order to get free resources and scraps!\n\n§6Scraps§f come in a variety of different types, and a number of §cmiscallaneous§f objects can also be seen to make weapons and armor.\n\nYou can also mine blocks present in different structures to get new scraps.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "apocalypse_craft:plasticscrap"
+      },
+      "name:8": "Scavenging"
+    }
+  },
+  "questID:3": 3294,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "apocalypse_craft:gun_tinkering_scrap"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "apocalypse_craft:metalscrap"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "apocalypse_craft:woodscrap"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "apocalypse_craft:plasticscrap"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "apocalypse_craft:brickscrap"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "apocalypse_craft:clothscrap"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

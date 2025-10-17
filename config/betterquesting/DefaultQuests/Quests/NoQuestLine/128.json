@@ -1,0 +1,50 @@
+{
+  "preRequisites:11": [
+    108
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1032,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Fluid rig"
+    }
+  },
+  "questID:3": 128,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1032,
+          "id:8": "gregtech:machine"
+        },
+        "1:10": {
+          "Count:3": 3,
+          "Damage:2": 1210,
+          "id:8": "gregtech:machine"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 1195,
+          "id:8": "gregtech:machine"
+        },
+        "3:10": {
+          "Count:3": 15,
+          "Damage:2": 4,
+          "id:8": "gregtech:meta_block_frame_20"
+        },
+        "4:10": {
+          "Count:3": 7,
+          "Damage:2": 4,
+          "id:8": "gregtech:metal_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1822
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Finally! It has ended.\nNow you may start GT!\n\n§3 All GT quests from now on are from GCP, (GregTech Community Pack) by Tech22. I advise you go play it sometime!\n\n",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 260,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "End of the Primitive Age",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1670,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 32,
+          "OreDict:8": "ingotBronze",
+          "id:8": "forestry:ingot_bronze"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

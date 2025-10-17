@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1252120119
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Paper can be completely automated in Steam using §9Paper Mills.§f \nThe setup to automate paper requires a §broaster,§f too! \nAdditionally, the slurry can be re-used in later tiers for §9vanillin§f and for §alignin line.§f",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 31001,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Paper Milling"
+    }
+  },
+  "questID:3": 69754892,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 31001,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

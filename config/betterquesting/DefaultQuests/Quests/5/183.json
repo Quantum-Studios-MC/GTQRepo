@@ -1,0 +1,52 @@
+{
+  "preRequisites:11": [
+    184
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Crude Tools! Not very pretty or durable, but it\u0027ll get the job done.\n\nFirst agenda is to mine as much logs as possible and make a Chopping Block. Explained more later.\nNext, mine as much Gravel as you can, mentioned later too.\nFinally, the Hammer, which is good to make right now, as it will be required for 3x3 crafting later.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:crude_axe"
+      },
+      "name:8": "Crude Tools",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 183,
+  "tasks:9": {
+    "0:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:crude_axe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:crude_shovel"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:crude_hammer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

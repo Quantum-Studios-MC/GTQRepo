@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    1826
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Now, this is more leaning into magic, and is not.. strictly required.\nThough, if you want to head into the Nether anytime soon, Runic Dust and Runestone is a MUST.\nFirst, this is used for quite a lot of magic items, as you can imagine. Secondly, it is required to start Thaumcraft (Along with some other refined dusts)",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:runic_dust"
+      },
+      "name:8": "Resources: Runic Dust",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1825,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:runic_dust"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "preRequisites:11": [
+    571
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This only works on VANILLA ARMORS! sucks.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "armorunder:auto_chestplate_liner"
+      },
+      "name:8": "Ozzy Chestplate Liner",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 565,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "armorunder:flipflop_liner_material"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:xp"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "armorunder:auto_chestplate_liner"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "armorunder:auto_leggings_liner"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

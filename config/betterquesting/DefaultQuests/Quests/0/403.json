@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Temperature, the mechanic all RLCraft players know and love.\n\n\nTemperature is an environmental meter that depends on a few main things;\n\n§6Biome\nSeason\nEnvironmental Blocks\n§f\n\nIf your temperature reaches either of the extremes, you will gain either Hypothermia or Hyperthermia.\n\n§cHypothermia/Hyperthermia§f decreases your max health.\n\nIt should be known that things like §cfire§f can also affect heat, so in the early game, i suggest you keep your fire a bit away from your main base.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "armorunder:goopak_cool"
+      },
+      "name:8": "Temperature"
+    }
+  },
+  "questID:3": 403,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

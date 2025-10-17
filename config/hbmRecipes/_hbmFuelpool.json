@@ -1,0 +1,128 @@
+{
+  "recipes": [
+    {
+      "input": ["hbm:pwr_fuel_hot"],
+      "output": ["hbm:pwr_fuel_depleted"]
+    },
+    {
+      "input": ["hbm:waste_plate_pu238be",1,1],
+      "output": ["hbm:waste_plate_pu238be"]
+    },
+    {
+      "input": ["hbm:waste_mox",1,1],
+      "output": ["hbm:waste_mox"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,4],
+      "output": ["hbm:pwr_fuel_depleted",1,4]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,2],
+      "output": ["hbm:pwr_fuel_depleted",1,2]
+    },
+    {
+      "input": ["hbm:waste_thorium",1,1],
+      "output": ["hbm:waste_thorium"]
+    },
+    {
+      "input": ["hbm:waste_plutonium",1,1],
+      "output": ["hbm:waste_plutonium"]
+    },
+    {
+      "input": ["hbm:waste_uranium",1,1],
+      "output": ["hbm:waste_uranium"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,9],
+      "output": ["hbm:pwr_fuel_depleted",1,9]
+    },
+    {
+      "input": ["hbm:waste_plate_pu239",1,1],
+      "output": ["hbm:waste_plate_pu239"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,7],
+      "output": ["hbm:pwr_fuel_depleted",1,7]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,13],
+      "output": ["hbm:pwr_fuel_depleted",1,13]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,11],
+      "output": ["hbm:pwr_fuel_depleted",1,11]
+    },
+    {
+      "input": ["hbm:waste_schrabidium",1,1],
+      "output": ["hbm:waste_schrabidium"]
+    },
+    {
+      "input": ["hbm:waste_u235",1,1],
+      "output": ["hbm:waste_u235"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,1],
+      "output": ["hbm:pwr_fuel_depleted",1,1]
+    },
+    {
+      "input": ["hbm:waste_zfb_mox",1,1],
+      "output": ["hbm:waste_zfb_mox"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,5],
+      "output": ["hbm:pwr_fuel_depleted",1,5]
+    },
+    {
+      "input": ["hbm:waste_plate_u235",1,1],
+      "output": ["hbm:waste_plate_u235"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,3],
+      "output": ["hbm:pwr_fuel_depleted",1,3]
+    },
+    {
+      "input": ["hbm:waste_plate_u233",1,1],
+      "output": ["hbm:waste_plate_u233"]
+    },
+    {
+      "input": ["hbm:waste_plate_mox",1,1],
+      "output": ["hbm:waste_plate_mox"]
+    },
+    {
+      "input": ["hbm:waste_plate_sa326",1,1],
+      "output": ["hbm:waste_plate_sa326"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,14],
+      "output": ["hbm:pwr_fuel_depleted",1,14]
+    },
+    {
+      "input": ["hbm:waste_natural_uranium",1,1],
+      "output": ["hbm:waste_natural_uranium"]
+    },
+    {
+      "input": ["hbm:waste_plate_ra226be",1,1],
+      "output": ["hbm:waste_plate_ra226be"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,8],
+      "output": ["hbm:pwr_fuel_depleted",1,8]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,6],
+      "output": ["hbm:pwr_fuel_depleted",1,6]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,12],
+      "output": ["hbm:pwr_fuel_depleted",1,12]
+    },
+    {
+      "input": ["hbm:waste_u233",1,1],
+      "output": ["hbm:waste_u233"]
+    },
+    {
+      "input": ["hbm:pwr_fuel_hot",1,10],
+      "output": ["hbm:pwr_fuel_depleted",1,10]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    439
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:specialflower",
+        "tag:10": {
+          "type:8": "endoflame"
+        }
+      },
+      "name:8": "Endoflame",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 446,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botania:specialflower",
+          "tag:10": {
+            "type:8": "endoflame"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

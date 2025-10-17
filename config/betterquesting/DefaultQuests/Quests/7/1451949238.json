@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1140
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Steam ABF or sABF for short is one of the earliest ways to get access to some §aAlloys§f, which are not accessible normally via alloy smelter.\n\nFun Fact: It is based off of the §9ABF§f in GT++.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11012,
+        "id:8": "gregtech:machine"
+      },
+      "ismain:1": 1,
+      "name:8": "Steam Alloy Blast Furnace"
+    }
+  },
+  "questID:3": 1451949238,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11012,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

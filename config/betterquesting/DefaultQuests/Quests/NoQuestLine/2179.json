@@ -1,0 +1,39 @@
+{
+  "preRequisites:11": [
+    2174
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "RFTools has an excellent Digital Storage option, very similar to AE2.\nSince i am a kind soul, i made this available in LV. However, you will need a higher tier to get the T2 and T3 Storage Modules.\nFor now, you can worry about getting this; the Modular Storage.\n\nIt has a single slot for storage, and acts similar to an ME Chest. It can insert and export items, and it also has a useful crafting grid that works\nsimilar to Forestry\u0027s Worktable.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rftools:modular_storage"
+      },
+      "name:8": "Modular Storage",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2179,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rftools:modular_storage"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rftools:storage_module"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

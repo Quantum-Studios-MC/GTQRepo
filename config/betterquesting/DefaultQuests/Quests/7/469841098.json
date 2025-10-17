@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    1357742683,
+    1159
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "GT Quantum §9overhauls§f resistors, and now you need a few different machines to make it.\n\n§eMesh, from a Steam Wiremill.\nFine Wire, also from Steam Wiremill.\nPaper, from Chad processing.\nPurified Carbon, from Charcoal/Coal roasting.\n",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 519,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "ismain:1": 1,
+      "name:8": "Circuit Part 1:  Resistors"
+    }
+  },
+  "questID:3": 469841098,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 519,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Aluminium is the core component of the MV machines. If you have aluminium, you are able to make the machine hulls.. But the circuits are still\nrequired for the actual machinery.\n\nMV is also the age where a lot of different mods and mechanics are unlocked, Including HBM\u0027s Nuclear Tech-E, Ender IO, etc.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "Aluminium Ingot",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1940,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 521,
+          "id:8": "gregtech:meta_item_1"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

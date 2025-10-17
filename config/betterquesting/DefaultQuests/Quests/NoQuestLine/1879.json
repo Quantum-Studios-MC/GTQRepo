@@ -1,0 +1,21 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Covers are sort of like attachable upgrades that can be put on a face of a machine to do various functions.\n\nThey can be removed using a crowbar.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 322,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "Covers",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1879,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

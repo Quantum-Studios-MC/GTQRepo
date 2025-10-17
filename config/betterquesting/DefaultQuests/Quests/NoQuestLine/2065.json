@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    2045
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Grants access to Arcane Archives.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:cloud_berry"
+      },
+      "name:8": "Cloud Berry",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2065,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:cloud_berry"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

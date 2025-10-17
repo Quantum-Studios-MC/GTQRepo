@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1911
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Electrolysing air is also a good way to get Oxygen as well as Nitrogen.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 530,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Gas Collector",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1880,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 530,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

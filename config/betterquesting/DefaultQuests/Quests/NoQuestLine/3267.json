@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    3266
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Crucible needs a §cFirebox§f below it to function, or some sort of heater.\n\n§aTU§f is the unit of heat in HBM, and each fuel has its own unique TU. \nCurrently, there\u0027s only the §6Firebox§f, but later you can use §9Electric§f Heaters to power your Crucibles.\n\nThis is also §9Automatable.§f",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:heater_firebox"
+      },
+      "name:8": "Heating it Up"
+    }
+  },
+  "questID:3": 3267,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:heater_firebox"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    3303
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§bMenril Berries§f are a nutritious food source, and also the source of some.. helpful biochemical compounds. They can be used to make §bArtificial Glowstone,§f (or home-grown glowstone if you think about it!) Which can serve as an §9early-game§f automation strategy for §eGlowstone.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "integrateddynamics:menril_berries"
+      },
+      "name:8": "Berries"
+    }
+  },
+  "questID:3": 3278,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "integrateddynamics:menril_berries"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "While §7§6First-Aid§f disables your healing mechanics, there are also some better ways of healing!\n\nBandages and Plaster can be crafted easily, allowing for recovery of singular body parts.\n\n§eStimpaks, Super Stimpaks, Med-X, and Psycho§f are some §bchems§f you can take.\nStimpaks and Super Stimpaks regenerate your §awhole body!§f",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:syringe_metal_stimpak"
+      },
+      "name:8": "Methods of Healing"
+    }
+  },
+  "questID:3": 1456,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 5,
+          "id:8": "hbm:syringe_metal_stimpak"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "firstaid:bandage"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

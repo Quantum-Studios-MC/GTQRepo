@@ -248,7 +248,15 @@ materialBuilder(30160, "raw_menril").dust().color(0xbafff9).build();
 materialBuilder(30161, "artificial_glowstone").dust().components(material('menril'), material('lux')).colorAverage().build();
 materialBuilder(30162, "menril_extract").components(material("menril")).dust().color(0x6B7989).build();
 materialBuilder(30163, "menril_waste").dust().color(0xbafff9).build();
-
+materialBuilder(30164, "mercury_vapor").liquid(fluidBuilder()).components(material('mercury')).colorAverage().build();
+materialBuilder(30165, "zinc_vapor").liquid(fluidBuilder()).components(material('zinc')).colorAverage().build();
+materialBuilder(30166, "raw_latex").liquid(fluidBuilder()).colorAverage().build();
+materialBuilder(30167, "zinc_sulphate").dust().components(material('zinc'), material('sulfur'), material('oxygen') * 4).colorAverage().build();
+materialBuilder(30168, "pure_carbon").dust().components(material('carbon')).colorAverage().build();
+materialBuilder(30169, "wood_varnish").liquid(fluidBuilder()).components(material('charcoal')).colorAverage().build();
+materialBuilder(30170, "varnished_wood").wood().components(material('wood'), material('wood_varnish') * 4).flags("generate_plate").colorAverage().build();
+materialBuilder(30171, "menril_varnished_wood").wood().components(material('wood'), material('menril') * 4).flags("generate_plate").colorAverage().build();
+materialBuilder(30172, "wood_sludge").liquid(fluidBuilder()).components(material('wood')).colorAverage().build();
 
 materialBuilder(29993, 'pewter')
     .ingot().fluid()
@@ -358,5 +366,3 @@ materialBuilder(29981, 'white_metal')
     .flags('generate_plate', 'generate_rod', 'generate_frame', 'generate_foil', 'generate_fine_wire', 'generate_bolt_screw','generate_rod')
 .build()
 }
-
-// ribhyas hair looks

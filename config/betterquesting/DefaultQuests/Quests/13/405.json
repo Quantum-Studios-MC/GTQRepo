@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    408
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Grants access to the Petal Apothecary- I.E Botania",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:moonglow_leaf"
+      },
+      "name:8": "Moonglow Leaf",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 405,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:moonglow_leaf"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

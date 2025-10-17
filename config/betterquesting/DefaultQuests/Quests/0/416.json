@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This modpack contains §bSoL Carrot§f, which increases your max HP for how many different kinds of\nFood you consume!\n\n§6You are encouraged to forage for Pam\u0027s Gardens early game, as these can provide you with up to a full healthbar of health!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:carrot"
+      },
+      "name:8": "The Spice of Life"
+    }
+  },
+  "questID:3": 416,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

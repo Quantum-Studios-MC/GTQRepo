@@ -5,7 +5,7 @@
             <str>{pingicon} Player Info: {green}{username} {white}FPS: {aqua}{FPS}</str>
         </line>
             <line>
-        <str>{green}GT Quantum v1.0.8</str>
+        <str>{green}GT Quantum v1.0.9</str>
     </line>
         <line>
             <icon>

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    275
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "appliedenergistics2:fluid_storage_cell_4k",
+        "tag:10": {}
+      },
+      "name:8": "§e4k§r ME Fluid Storage Cell",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 280,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "appliedenergistics2:fluid_storage_cell_4k",
+          "tag:10": {}
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

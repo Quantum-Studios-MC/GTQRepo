@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    212
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Pipes are used to connect stuff, and this pack has Curvy Pipes! Which allows you to make.. Curvy pipes! Yeah!!!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1617,
+        "id:8": "gregtech:fluid_pipe_normal"
+      },
+      "name:8": "Wood Fluid Pipe",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 208,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1617,
+          "id:8": "gregtech:fluid_pipe_normal"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

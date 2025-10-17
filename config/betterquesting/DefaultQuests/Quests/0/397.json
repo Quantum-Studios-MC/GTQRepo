@@ -1,0 +1,19 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Hi! This questline shall explain some of the §acore mechanics§f of this modpack.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "Introduction"
+    }
+  },
+  "questID:3": 397,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 1,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

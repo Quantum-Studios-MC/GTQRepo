@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2787
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Red Phosphorus is an important item required for §bMenril Processing.§fTo actually create the §bMenril§f gem, vulcanising §bRaw Menril §fwith §d§cRed Phosphorus§f is important!\n\nTo make Red Phosphorus, your current option is to use the §9PBF§f to get it directly from Phosphorite dust. \nPhosphorite spawns in the overworld.\n\nYou can also get it from §6Ore§f commonly found in the Nether.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 30040,
+        "id:8": "gregtech:meta_dust"
+      },
+      "name:8": "Phosphorite"
+    }
+  },
+  "questID:3": 3293,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 30040,
+          "OreDict:8": "dustRedPhosphorus",
+          "id:8": "gregtech:meta_dust"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

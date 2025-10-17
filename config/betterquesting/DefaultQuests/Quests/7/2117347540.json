@@ -1,0 +1,102 @@
+{
+  "preRequisites:11": [
+    1140
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "An early §6power armor §fsuit which uses §5Steam§f for power!",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:steamsuit_helmet",
+        "tag:10": {
+          "EA_ENABLED:1": 1,
+          "Quality:10": {},
+          "RARITY:3": 1,
+          "fuel:3": 64000
+        }
+      },
+      "ismain:1": 1,
+      "name:8": "Steam Suit"
+    }
+  },
+  "questID:3": 2117347540,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:barrel_iron"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "hbm:fluid_barrel_full"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:steamsuit_helmet",
+          "tag:10": {
+            "EA_ENABLED:1": 1,
+            "Quality:10": {},
+            "RARITY:3": 1,
+            "fuel:3": 64000
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "hbm:steamsuit_plate",
+          "tag:10": {
+            "fuel:3": 64000
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "hbm:steamsuit_legs",
+          "tag:10": {
+            "EA_ENABLED:1": 1,
+            "Quality:10": {},
+            "RARITY:3": 3,
+            "fuel:3": 64000
+          }
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "hbm:steamsuit_boots",
+          "tag:10": {
+            "EA_ENABLED:1": 1,
+            "Quality:10": {
+              "AttributeModifiers:9": {
+                "0:10": {
+                  "Amount:6": 0.10000000149011612,
+                  "AttributeName:8": "generic.movementSpeed",
+                  "Name:8": "qualitytools",
+                  "Operation:3": 2,
+                  "UUIDLeast:4": -7451126752888097989,
+                  "UUIDMost:4": -5123736782963719399
+                }
+              },
+              "Color:8": "blue",
+              "Name:8": "quality.speedy.name",
+              "Slots:9": {
+                "0:8": "feet"
+              }
+            },
+            "RARITY:3": 2,
+            "fuel:3": 64000
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    2077
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "extrautils2:ingredients"
+      },
+      "name:8": "Resonating Redstone Crystal",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2081,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "extrautils2:ingredients"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1144
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Welcome to  the beginning of IntegratedDynamics! You will need to harvest some menril logs to make this.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gtaurora:menril_sticky_resin"
+      },
+      "ismain:1": 1,
+      "name:8": "Menril Resin"
+    }
+  },
+  "questID:3": 1440306357,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gtaurora:menril_sticky_resin"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -2,6 +2,10 @@
   "comment": "As with most handlers, stacksizes for the inputs are ignored and default to 1.",
   "recipes": [
     {
+      "input": ["item","hbm:glyphid_gland_empty"],
+      "output": ["BIOGAS",2000]
+    },
+    {
       "input": ["item","minecraft:cobblestone"],
       "output": ["LAVA",250]
     },
@@ -26,6 +30,10 @@
       "output": ["COALOIL",100]
     },
     {
+      "input": ["item","hbm:plant_flower",1,3],
+      "output": ["ETHANOL",150]
+    },
+    {
       "input": ["dict","logWood"],
       "output": ["MUG",100]
     },
@@ -42,6 +50,10 @@
       "output": ["ENDERJUICE",100]
     },
     {
+      "input": ["dict","dustSodium"],
+      "output": ["SODIUM",100]
+    },
+    {
       "input": ["item","minecraft:sugar"],
       "output": ["ETHANOL",100]
     },
@@ -50,12 +62,24 @@
       "output": ["LAVA",250]
     },
     {
+      "input": ["dict","dustLead"],
+      "output": ["LEAD",100]
+    },
+    {
       "input": ["dict","gemCoal"],
       "output": ["COALOIL",100]
     },
     {
       "input": ["item","minecraft:snow"],
       "output": ["WATER",500]
+    },
+    {
+      "input": ["dict","ingotLead"],
+      "output": ["LEAD",100]
+    },
+    {
+      "input": ["item","hbm:plant_flower",1,4],
+      "output": ["ETHANOL",50]
     },
     {
       "input": ["item","minecraft:tallgrass",1,1],
@@ -80,10 +104,6 @@
     {
       "input": ["item","minecraft:vine"],
       "output": ["SEEDSLURRY",100]
-    },
-    {
-      "input": ["dict","dustSaltpeter"],
-      "output": ["NITRIC_ACID",250]
     },
     {
       "input": ["dict","gemLignite"],

@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    513
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The more you cook, your level gets higher. Which means you get a lower chance of bad effects, and generally your food is more nutritious.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "Skill",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 500,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

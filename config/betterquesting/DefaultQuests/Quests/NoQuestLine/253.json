@@ -1,0 +1,110 @@
+{
+  "preRequisites:11": [
+    256
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Maintanence means you just have to have a set of tools in your inventory and click the gray button in the centre.\n\nLater on you can craft Tape which avoids this.\n\n\nThe muffler hatch is a waste output block. It needs to be unobstructed otherwise the smoke will not be able to come out and the machine\nwon\u0027t work.\n\nInput/Output hatches and buses are required. Hatches are for fluids and Buses are for items. It is recommended you have one of each,\nbut it is not necessary.\n\nEnergy hatches allow you to input energy into the machine.\n\nOverclocking mechanic was mentioned before.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1654,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Important Blocks",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 253,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 986,
+          "id:8": "gregtech:machine"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1654,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1657,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1211,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1181,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "4:10": {
+      "index:3": 4,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1196,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "5:10": {
+      "index:3": 5,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1151,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "6:10": {
+      "index:3": 6,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1166,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "preRequisites:11": [
+    1444430353
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Coal Roasting gives some extra byproducts to §9Coal Ore Processing§f, and also grants a byproduct of §6Purified Carbon§f.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 271,
+        "id:8": "gregtech:meta_crushed"
+      },
+      "ismain:1": 1,
+      "name:8": "Coal Roasting"
+    }
+  },
+  "questID:3": 235355620,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

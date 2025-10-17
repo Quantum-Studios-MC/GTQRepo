@@ -23,6 +23,7 @@
     "oreAluminum": {
       "slagColor": "e2e2e3",
       "langKey": [
+        "embers:tile.ore_aluminum",
         "galacticraftcore:tile.basic_block_core.ore_aluminum_gc",
         "galacticraftplanets:tile.asteroids_block.ore_aluminum_asteroids",
         "galacticraftplanets:tile.venus.venus_ore_aluminum",
@@ -31,13 +32,12 @@
         "galaxyspace:tile.haumea_aluminum_ore",
         "galaxyspace:tile.mars_aluminum",
         "hbm:tile.ore_aluminium",
-        "tconstruct:tile.tconstruct.common_ore.aluminum",
-        "thermalfoundation:tile.thermalfoundation.ore.aluminum"
+        "tconstruct:tile.tconstruct.common_ore.aluminum"
       ],
       "output": [
+        "embers:nugget_aluminum:0",
         "serendustry:meta_nugget:17",
-        "tconstruct:common_nuggets:2",
-        "thermalfoundation:material:196"
+        "tconstruct:common_nuggets:2"
       ],
       "bloomYieldMinMax": [
         12,
@@ -96,6 +96,7 @@
     "oreCopper": {
       "slagColor": "ffaa1c",
       "langKey": [
+        "embers:tile.ore_copper",
         "forestry:tile.for.resources.copper",
         "galacticraftcore:tile.basic_block_core.ore_copper_gc",
         "galacticraftcore:tile.basic_block_moon.coppermoon",
@@ -108,16 +109,13 @@
         "hbm:tile.ore_copper",
         "hbm:tile.ore_gneiss_copper",
         "nuclearcraft:tile.nuclearcraft.ore.copper",
-        "tconstruct:tile.tconstruct.common_ore.copper",
-        "techguns:tile.techguns.basicore.0",
-        "thermalfoundation:tile.thermalfoundation.ore.copper"
+        "tconstruct:tile.tconstruct.common_ore.copper"
       ],
       "output": [
+        "embers:nugget_copper:0",
         "gregtech:meta_nugget:25",
         "tconstruct:common_nuggets:0",
-        "techguns:itemshared:86",
-        "thaumcraft:nugget:1",
-        "thermalfoundation:material:192"
+        "thaumcraft:nugget:1"
       ],
       "bloomYieldMinMax": [
         12,
@@ -150,24 +148,6 @@
         15
       ]
     },
-    "oreIridium": {
-      "slagColor": "d5d4e7",
-      "langKey": [
-        "thermalfoundation:tile.thermalfoundation.ore.iridium"
-      ],
-      "output": [
-        "gregtech:meta_nugget:50",
-        "thermalfoundation:material:199"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
     "oreIron": {
       "slagColor": "d8af93",
       "langKey": [
@@ -178,8 +158,6 @@
         "galaxyspace:tile.miranda_iron_ore",
         "gregtech:tile.ore_block",
         "hbm:tile.ore_gneiss_iron",
-        "industrialrenewal:item.industrialrenewal.chunk_hematite",
-        "industrialrenewal:tile.industrialrenewal.orevein_hematite",
         "minecraft:tile.oreIron"
       ],
       "output": [
@@ -198,36 +176,17 @@
     "oreLead": {
       "slagColor": "95afee",
       "langKey": [
+        "embers:tile.ore_lead",
         "galacticraftplanets:tile.venus.venus_ore_galena",
         "gregtech:tile.ore_block",
         "hbm:tile.ore_lead",
-        "nuclearcraft:tile.nuclearcraft.ore.lead",
-        "techguns:tile.techguns.basicore.2",
-        "thermalfoundation:tile.thermalfoundation.ore.lead"
+        "nuclearcraft:tile.nuclearcraft.ore.lead"
       ],
       "output": [
+        "embers:nugget_lead:0",
         "gregtech:meta_nugget:55",
         "hbm:nugget_lead:0",
-        "techguns:itemshared:87",
-        "thaumcraft:nugget:4",
-        "thermalfoundation:material:195"
-      ],
-      "bloomYieldMinMax": [
-        12,
-        15
-      ],
-      "slagBloomYieldMinMax": [
-        12,
-        15
-      ]
-    },
-    "oreMithril": {
-      "slagColor": "9cf9ff",
-      "langKey": [
-        "thermalfoundation:tile.thermalfoundation.ore.mithril"
-      ],
-      "output": [
-        "thermalfoundation:material:200"
+        "thaumcraft:nugget:4"
       ],
       "bloomYieldMinMax": [
         12,
@@ -241,16 +200,16 @@
     "oreNickel": {
       "slagColor": "e4e5d8",
       "langKey": [
+        "embers:tile.ore_nickel",
         "galaxyspace:tile.mercury_nickel_ore",
         "galaxyspace:tile.miranda_nickel_ore",
         "galaxyspace:tile.nickel_ore",
         "galaxyspace:tile.nickel_ore",
-        "gregtech:tile.ore_block",
-        "thermalfoundation:tile.thermalfoundation.ore.nickel"
+        "gregtech:tile.ore_block"
       ],
       "output": [
-        "gregtech:meta_nugget:69",
-        "thermalfoundation:material:197"
+        "embers:nugget_nickel:0",
+        "gregtech:meta_nugget:69"
       ],
       "bloomYieldMinMax": [
         12,
@@ -264,12 +223,10 @@
     "orePlatinum": {
       "slagColor": "55f3ff",
       "langKey": [
-        "gregtech:tile.ore_block",
-        "thermalfoundation:tile.thermalfoundation.ore.platinum"
+        "gregtech:tile.ore_block"
       ],
       "output": [
-        "gregtech:meta_nugget:80",
-        "thermalfoundation:material:198"
+        "gregtech:meta_nugget:80"
       ],
       "bloomYieldMinMax": [
         12,
@@ -283,15 +240,13 @@
     "oreSilver": {
       "slagColor": "e8f6fd",
       "langKey": [
-        "bewitchment:tile.bewitchment.silver_ore",
-        "gregtech:tile.ore_block",
-        "thermalfoundation:tile.thermalfoundation.ore.silver"
+        "embers:tile.ore_silver",
+        "gregtech:tile.ore_block"
       ],
       "output": [
-        "bewitchment:silver_nugget:0",
+        "embers:nugget_silver:0",
         "gregtech:meta_nugget:100",
-        "thaumcraft:nugget:3",
-        "thermalfoundation:material:194"
+        "thaumcraft:nugget:3"
       ],
       "bloomYieldMinMax": [
         12,
@@ -305,6 +260,7 @@
     "oreTin": {
       "slagColor": "c3e9ff",
       "langKey": [
+        "embers:tile.ore_tin",
         "forestry:tile.for.resources.tin",
         "galacticraftcore:tile.basic_block_core.ore_tin_gc",
         "galacticraftcore:tile.basic_block_moon.tinmoon",
@@ -314,15 +270,13 @@
         "galaxyspace:tile.tin_ore",
         "gregtech:tile.ore_block",
         "nuclearcraft:tile.nuclearcraft.ore.tin",
-        "tconstruct:tile.tconstruct.common_ore.tin",
-        "techguns:tile.techguns.basicore.1",
-        "thermalfoundation:tile.thermalfoundation.ore.tin"
+        "tconstruct:tile.tconstruct.common_ore.tin"
       ],
       "output": [
+        "embers:nugget_tin:0",
         "gregtech:meta_nugget:112",
         "tconstruct:common_nuggets:1",
-        "thaumcraft:nugget:2",
-        "thermalfoundation:material:193"
+        "thaumcraft:nugget:2"
       ],
       "bloomYieldMinMax": [
         12,
@@ -341,11 +295,10 @@
         "hbm:tile.ore_gneiss_uranium_scorched",
         "hbm:tile.ore_nether_uranium",
         "hbm:tile.ore_nether_uranium_scorched",
-        "hbm:tile.ore_sellafield_uranium_scorched_name",
+        "hbm:tile.ore_sellafield_uranium_scorched",
         "hbm:tile.ore_uranium",
         "hbm:tile.ore_uranium_scorched",
-        "nuclearcraft:tile.nuclearcraft.ore.uranium",
-        "techguns:tile.techguns.basicore.4"
+        "nuclearcraft:tile.nuclearcraft.ore.uranium"
       ],
       "output": [
         "gregtech:meta_nugget:116",

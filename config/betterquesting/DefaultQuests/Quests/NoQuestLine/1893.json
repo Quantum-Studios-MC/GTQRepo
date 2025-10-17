@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    1891
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The assembly machine is one of the most important machines in gregtech;\n\nit works like a crafting table in the form of a machine, and it is REQUIRED for many components of the MV circuit!\n\nIf you want to escape to space and avoid those parasites, you\u0027re really, *really* going to need this.\n\nThis can also unlock a few special recipes for some.. \"tools\" to help you destroy the zombies.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 110,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "The Assembling Machine",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1893,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 96,
+          "id:8": "serendustry:serendustry_item"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 110,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "preRequisites:11": [
+    189
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "In early game, redstone cannot be easily refined from ore.\nYou could find redstone ore, process it with a hammer/granite anvil, soak it, and finally smash it back into dust, but this is highly inefficient.\nThere are redstone deposits deep in the world, with redstone crystals and ore. They should contain all the redstone you need for early game.",
+      "icon:10": {
+        "Count:3": 1,
+        "OreDict:8": "dustRedstone",
+        "id:8": "minecraft:redstone"
+      },
+      "name:8": "Resources: Redstone",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 179,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harvestcraft:cherryjuiceitem"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "dustRedstone",
+          "id:8": "minecraft:redstone"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

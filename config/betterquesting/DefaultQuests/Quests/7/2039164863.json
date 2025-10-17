@@ -1,0 +1,25 @@
+{
+  "preRequisites:11": [
+    1444430353
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Zinc Vapors from Sphalerite can net you some Zinc Sulphite, which boosts the production of Rubber by 4x.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 30167,
+        "id:8": "gregtech:meta_dust"
+      },
+      "ismain:1": 1,
+      "name:8": "Zinc Sulphite"
+    }
+  },
+  "questID:3": 2039164863,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

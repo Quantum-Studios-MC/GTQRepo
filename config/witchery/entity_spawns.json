@@ -1,0 +1,241 @@
+{
+  "coven_witch": [
+    {
+      "weight": 2,
+      "min": 1,
+      "max": 1,
+      "biomes": [
+        "minecraft:swampland"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 1,
+      "max": 1,
+      "biomes": [
+        "minecraft:taiga_cold_hills",
+        "minecraft:taiga",
+        "minecraft:birch_forest",
+        "minecraft:redwood_taiga_hills",
+        "minecraft:mutated_forest",
+        "minecraft:taiga_cold",
+        "minecraft:forest",
+        "minecraft:taiga_hills",
+        "minecraft:redwood_taiga",
+        "minecraft:mutated_birch_forest_hills",
+        "minecraft:mutated_birch_forest",
+        "minecraft:forest_hills",
+        "minecraft:jungle_edge",
+        "minecraft:birch_forest_hills",
+        "minecraft:mutated_taiga_cold",
+        "minecraft:mutated_redwood_taiga",
+        "minecraft:extreme_hills_with_trees",
+        "minecraft:roofed_forest",
+        "minecraft:mutated_taiga",
+        "minecraft:mutated_roofed_forest",
+        "minecraft:mutated_redwood_taiga_hills"
+      ]
+    }
+  ],
+  "spirit": [
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:mesa_clear_rock",
+        "minecraft:mesa_rock",
+        "minecraft:mesa"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:taiga_cold_hills",
+        "minecraft:taiga",
+        "minecraft:birch_forest",
+        "minecraft:redwood_taiga_hills",
+        "minecraft:mutated_forest",
+        "minecraft:taiga_cold",
+        "minecraft:forest",
+        "minecraft:taiga_hills",
+        "minecraft:redwood_taiga",
+        "minecraft:mutated_birch_forest_hills",
+        "minecraft:mutated_birch_forest",
+        "minecraft:forest_hills",
+        "minecraft:jungle_edge",
+        "minecraft:birch_forest_hills",
+        "minecraft:mutated_taiga_cold",
+        "minecraft:mutated_redwood_taiga",
+        "minecraft:extreme_hills_with_trees",
+        "minecraft:roofed_forest",
+        "minecraft:mutated_taiga",
+        "minecraft:mutated_roofed_forest",
+        "minecraft:mutated_redwood_taiga_hills"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:plains",
+        "minecraft:mutated_plains",
+        "minecraft:savanna_rock",
+        "minecraft:savanna"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:mutated_extreme_hills_with_trees",
+        "minecraft:ice_mountains",
+        "minecraft:mutated_birch_forest_hills",
+        "minecraft:extreme_hills",
+        "minecraft:mutated_savanna",
+        "minecraft:mutated_mesa_clear_rock",
+        "minecraft:smaller_extreme_hills",
+        "minecraft:mutated_mesa",
+        "minecraft:mutated_extreme_hills",
+        "minecraft:mutated_taiga_cold",
+        "minecraft:extreme_hills_with_trees",
+        "minecraft:mutated_taiga",
+        "minecraft:mutated_jungle",
+        "minecraft:mutated_roofed_forest"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:taiga_cold_hills",
+        "minecraft:redwood_taiga_hills",
+        "minecraft:mutated_forest",
+        "minecraft:taiga_hills",
+        "minecraft:mutated_jungle_edge",
+        "minecraft:mutated_savanna_rock",
+        "minecraft:extreme_hills",
+        "minecraft:jungle_hills",
+        "minecraft:mutated_birch_forest",
+        "minecraft:desert_hills",
+        "minecraft:forest_hills",
+        "minecraft:birch_forest_hills",
+        "minecraft:mutated_mesa_rock",
+        "minecraft:mutated_ice_flats",
+        "minecraft:mutated_redwood_taiga_hills",
+        "minecraft:mutated_swampland"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:swampland",
+        "minecraft:mutated_swampland"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:desert_hills",
+        "minecraft:mesa_clear_rock",
+        "minecraft:mesa_rock",
+        "minecraft:mutated_desert",
+        "minecraft:desert",
+        "minecraft:mesa"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:taiga_cold_hills",
+        "minecraft:ice_mountains",
+        "minecraft:taiga_cold",
+        "minecraft:mutated_taiga_cold",
+        "minecraft:mutated_ice_flats",
+        "minecraft:ice_flats",
+        "minecraft:cold_beach",
+        "minecraft:frozen_ocean",
+        "minecraft:frozen_river"
+      ]
+    },
+    {
+      "weight": 1,
+      "min": 2,
+      "max": 5,
+      "biomes": [
+        "minecraft:ice_flats"
+      ]
+    }
+  ],
+  "goblin": [
+    {
+      "weight": 4,
+      "min": 1,
+      "max": 2,
+      "biomes": [
+        "minecraft:swampland",
+        "minecraft:mutated_swampland"
+      ]
+    },
+    {
+      "weight": 4,
+      "min": 1,
+      "max": 3,
+      "biomes": [
+        "minecraft:taiga_cold_hills",
+        "minecraft:taiga",
+        "minecraft:birch_forest",
+        "minecraft:redwood_taiga_hills",
+        "minecraft:mutated_forest",
+        "minecraft:taiga_cold",
+        "minecraft:forest",
+        "minecraft:taiga_hills",
+        "minecraft:redwood_taiga",
+        "minecraft:mutated_birch_forest_hills",
+        "minecraft:mutated_birch_forest",
+        "minecraft:forest_hills",
+        "minecraft:jungle_edge",
+        "minecraft:birch_forest_hills",
+        "minecraft:mutated_taiga_cold",
+        "minecraft:mutated_redwood_taiga",
+        "minecraft:extreme_hills_with_trees",
+        "minecraft:roofed_forest",
+        "minecraft:mutated_taiga",
+        "minecraft:mutated_roofed_forest",
+        "minecraft:mutated_redwood_taiga_hills"
+      ]
+    },
+    {
+      "weight": 3,
+      "min": 1,
+      "max": 2,
+      "biomes": [
+        "minecraft:plains",
+        "minecraft:mutated_plains",
+        "minecraft:savanna_rock",
+        "minecraft:savanna"
+      ]
+    }
+  ],
+  "hellhound": [
+    {
+      "weight": 25,
+      "min": 1,
+      "max": 3,
+      "biomes": [
+        "minecraft:hell"
+      ]
+    }
+  ]
+}

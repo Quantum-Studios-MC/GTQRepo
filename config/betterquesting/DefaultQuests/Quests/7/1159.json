@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    1121,
+    1905005202
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Obtaining paper, is ironically much easier than in vanilla. \n\nAlthough the catch is you need to make a §apaper mill§f to make Paper at all! you need Wood Dust, Water, a Roaster, and 2 Paper Mills to make infinite paper. The process is closed loop, luckily.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:paper"
+      },
+      "ismain:1": 1,
+      "name:8": "Giga Chad",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1159,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 24,
+          "id:8": "minecraft:reeds"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 4,
+          "id:8": "minecraft:paper"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

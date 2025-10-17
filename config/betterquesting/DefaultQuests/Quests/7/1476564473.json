@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1252120119
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Wood Varnishing is an important step in §9circuit components.§f\n\nTo get wood varnish, you need to roast §9Charcoal.§f",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 31000,
+        "id:8": "gregtech:machine"
+      },
+      "ismain:1": 1,
+      "name:8": "Wood Varnishing"
+    }
+  },
+  "questID:3": 1476564473,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 31000,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

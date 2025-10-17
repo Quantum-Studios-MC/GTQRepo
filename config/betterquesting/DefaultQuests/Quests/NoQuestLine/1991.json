@@ -1,0 +1,28 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Epoxy Resin is used to make circuit boards from now on.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1013,
+        "id:8": "gregtech:meta_plate"
+      },
+      "name:8": "Epoxy Resin Sheet",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1991,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1013,
+          "id:8": "gregtech:meta_plate"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    1900
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The mixer is a pretty important machine in later tiers as it is used for a lot of recipes involving chemicals and fluids, but it is not \nneeded much in LV other than for Gallium Arsenide.\n\nI recommend you hold this off till you are ready to focus on the MV Circuits.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 470,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Mixer",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1885,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 100,
+          "id:8": "gregtech:meta_dust_small"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 470,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

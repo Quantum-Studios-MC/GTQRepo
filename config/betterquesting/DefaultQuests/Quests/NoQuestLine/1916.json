@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    1922
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "ME drives are basically drive storages for your ME cells. If you add an ME cell in this while it is connected to your network, you will\nbe able to use that cell for storage. Neat innit?",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "appliedenergistics2:drive"
+      },
+      "name:8": "ME Drive",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1916,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "appliedenergistics2:drive"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

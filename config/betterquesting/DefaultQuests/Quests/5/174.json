@@ -1,0 +1,55 @@
+{
+  "preRequisites:11": [
+    92
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Masonry Brick! It comes in 2 main forms.\nFirst, we have our Pyrotech ones. These will be required to create many different machines.\nNext, we have our GregTech ones. These are gonna be your first GT Tools.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 16,
+        "id:8": "pyrotech:material"
+      },
+      "name:8": "Masonry Brick",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 174,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 31753,
+          "id:8": "gregtech:item_pipe_normal"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 16,
+          "id:8": "pyrotech:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 31753,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

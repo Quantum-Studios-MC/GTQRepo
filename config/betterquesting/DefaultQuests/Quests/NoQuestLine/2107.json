@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2094
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The power substation is a power storage multiblock that is §3modular§f and can support a lot of energy storage. Useful for the center\nof your power grid.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1041,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Power Substation",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2107,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1041,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

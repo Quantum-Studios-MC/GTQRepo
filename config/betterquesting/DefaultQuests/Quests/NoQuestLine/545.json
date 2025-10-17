@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    554
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Filing Cabinets are a useful method to sort and do automatic storage. I recommend these for Bonsai Pot tree farms.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "realfilingcabinet:modelcabinet"
+      },
+      "name:8": "Filing Cabinet",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 545,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "realfilingcabinet:emptyfolder"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "realfilingcabinet:modelcabinet"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

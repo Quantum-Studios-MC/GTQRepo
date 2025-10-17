@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Gaining health from eating various foods does not come with only pros..\nThrough SoL you are §cforced§f to consume different foods , §aotherwise they will lose their nutritious value!§f ",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "spiceoflife:lunchbag"
+      },
+      "name:8": "The.. Spice of Life?"
+    }
+  },
+  "questID:3": 419,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    2044
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Grove Stones are useless unactivated. To activate them, perform the Grove Supplication ritual.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:grove_stone"
+      },
+      "name:8": "Grove Stone",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2035,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:lever"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:grove_stone"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

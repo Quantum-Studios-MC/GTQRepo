@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1894
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This machine takes Crushed Ore or Purified versions of ore to give a different byproduct from the Ore Washer, but at the same rate.\n\nThis machine also takes the most energy out of all the other LV ore processing machines, so i recommend you don\u0027t use this too much.\n\n( Yes, i know the first line is copied from GCP, but hey, i don\u0027t understand shi about ore processing either)",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 605,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Thermal Centrifuge",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1896,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 605,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    348
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Better type of rubber, and is more efficient in crafting recipes (insulation of cables) it\u0027s going to be needed in IV and LuV, so grab some.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1004,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "Styrene-Butadiene Rubber Bar",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 350,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1004,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

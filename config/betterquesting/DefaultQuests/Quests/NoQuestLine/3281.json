@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    3307
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Logic Networks are concept in ID, similar to AE2 Networks. The entire network has one tick, and there seems to be no channel system for logic networks.\n\n§6Networks with many devices can get §l§creally laggy,§6 so beware!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "integrateddynamics:cable"
+      },
+      "name:8": "Logic Networks"
+    }
+  },
+  "questID:3": 3281,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "integrateddynamics:cable"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

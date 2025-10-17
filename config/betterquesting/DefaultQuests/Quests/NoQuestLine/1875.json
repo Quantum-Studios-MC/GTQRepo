@@ -1,0 +1,32 @@
+{
+  "preRequisiteTypes:7": [
+    1
+  ],
+  "preRequisites:11": [
+    1893
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "All of the coils cost 128 cupronickel, 32 bronze, and 16 tin alloy in total.\n\nUse the alloy smelter for the alloys.",
+      "icon:10": {
+        "Count:3": 16,
+        "id:8": "gregtech:wire_coil"
+      },
+      "name:8": "Cupronickel Coils",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1875,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 16,
+          "id:8": "gregtech:wire_coil"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

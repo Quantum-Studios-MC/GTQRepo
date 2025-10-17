@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    111,
+    138
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1035,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Cleanroom",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 67,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1035,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

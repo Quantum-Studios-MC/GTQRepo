@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    605
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Boules have a property in which if you dope them with certain impurities they will make a better yield. A prime example is the P-Doped Boule,\nYielding 8x more components per wafer! As you go on, you will NEED to dope boules in order to get certain components.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 362,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "Doping",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 589,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 362,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    595
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Before you unlock the LCR, the way to get PTFE involves a few steps.\n\nYou\u0027ll need Chloroform and Hydrofluoric Acid, both of which are relatively simple.\nChloroform is just Methane and Chlorine (With a byproduct of HCl, Yeah!)\nHydrofluoric Acid is just Hydrogen and Fluorine. Very easy.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "PTFE Guide",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 608,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

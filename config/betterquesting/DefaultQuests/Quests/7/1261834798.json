@@ -1,0 +1,26 @@
+{
+  "preRequisites:11": [
+    1150
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Aether is a wonderful, but §3cold§f dimension. Once you access it by going to §d§cthe Nether§f using a Nether Cake§5 (done in Stone Age) §fand returning to the Overworld with an §6Overworld Apple§f you can make the portal with §eGlowstone§f and light it with a §bwater bucket.§k§f§f\n\nThe §bAether§f will have many important ingredients, and it\u0027ll be the Key to unlocking the §eTwilight Forest.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:glowstone"
+      },
+      "ismain:1": 1,
+      "name:8": "The Aether"
+    }
+  },
+  "questID:3": 1261834798,
+  "tasks:9": {
+    "0:10": {
+      "dimension:3": 4,
+      "index:3": 0,
+      "name:8": "Aether",
+      "taskID:8": "bq_standard:location"
+    }
+  }
+}

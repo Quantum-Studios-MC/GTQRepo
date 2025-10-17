@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    1891
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This is your first introduction to some *real* chemistry. in this questline we will be making Diodes for MV circuits.\n\nDiodes are also used in making some very useful items like the Building Wands.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "Gallium Arsenide and Diodes",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1900,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

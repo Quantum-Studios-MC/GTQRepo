@@ -135,20 +135,9 @@ biomesoplenty:undergarden
 biomesoplenty:visceral_heap
 randomthings:spectral
 jeid:error_biome
-appliedenergistics2:storage_biome
 thaumcraft:magical_forest
 thaumcraft:eerie
 thaumcraft:eldritch
-galacticraftcore:outer space
-galacticraftplanets:outer space 1
-galacticraftplanets:outer space 2
-galaxyspace:space
-galaxyspace:spacelowplains
-galaxyspace:spacemidplains
-galaxyspace:spacelowhills
-galaxyspace:spacemidhills
-asmodeuscore:-=|worldengine|=-
-asmodeuscore:-=|worldengine 2|=-
 twilightforest:twilight_lake
 twilightforest:twilight_forest
 twilightforest:dense_twilight_forest
@@ -169,6 +158,18 @@ twilightforest:dark_forest_center
 twilightforest:highlands_center
 twilightforest:thornlands
 twilightforest:spooky_forest
+appliedenergistics2:storage_biome
+galacticraftcore:outer space
+galacticraftplanets:outer space 1
+galacticraftplanets:outer space 2
+galaxyspace:space
+galaxyspace:spacelowplains
+galaxyspace:spacemidplains
+galaxyspace:spacelowhills
+galaxyspace:spacemidhills
+asmodeuscore:-=|worldengine|=-
+asmodeuscore:-=|worldengine 2|=-
+integrateddynamics:biome_meneglin
 nuclearcraft:nuclear_wasteland
 yurtmod:tent
 hbm:duna_plains
@@ -193,11 +194,14 @@ hbm:moho_crag
 hbm:moho_basalt
 hbm:moon
 hbm:orbit
+hbm:crater
+hbm:crater_inner
+hbm:crater_outer
 srparasites:biome_parasite
 thaumicaugmentation:emptiness
 thaumicaugmentation:tainted_lands
 thaumicaugmentation:emptiness_highlands
-aether_legacy:aether_highlands
 apocalypse_craft:city
 apocalypse_craft:wastelandbiome
 apocalypse_craft:forgottenforest
+aether_legacy:aether_highlands

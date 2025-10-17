@@ -1,0 +1,56 @@
+{
+  "preRequisites:11": [
+    1888,
+    1893
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The recipe for this may be expensive, but don\u0027t worry. Once you get PE it will become much cheaper.\n\nAnnealed Copper is also recommended but not required; you will get it through the Arc Furnace.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 521,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "Diode",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1889,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 351,
+          "id:8": "gregtech:meta_dust"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 25,
+          "id:8": "gregtech:meta_wire_fine"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 521,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

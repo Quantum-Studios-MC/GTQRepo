@@ -1,0 +1,43 @@
+{
+  "preRequisites:11": [
+    1876
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "LV Has now been conquered! MV gives you access to a lot of new stuff, like Galacticraft, Petrochem, more centrifuging recipes, and a better\nEBF as well as new multiblocks. \n\nNow that you have the Circuit Assembler, it is a good idea to make some circuits.\n\nYou can use either use soldering alloy which is more resource-efficient or tin which isn\u0027t as resource efficient but is cheaper.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 635,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Circuit Assembler",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1873,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harvestcraft:heartybreakfastitem"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 635,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

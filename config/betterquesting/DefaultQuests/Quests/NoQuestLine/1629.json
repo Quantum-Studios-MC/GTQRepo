@@ -1,0 +1,18 @@
+{
+  "preRequisites:11": [
+    1630,
+    1639
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:glass"
+      },
+      "name:8": "glass"
+    }
+  },
+  "questID:3": 1629,
+  "tasks:9": {}
+}

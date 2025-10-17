@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    1874
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Battery buffers work as a way to store energy and also a way to distribute more amps.\n\nHaving a 4x Battery Buffer means you have 4 amps available to you. This is especially useful for the EBF.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1316,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Battery Buffers",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1907,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 986,
+          "id:8": "gregtech:machine"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1316,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

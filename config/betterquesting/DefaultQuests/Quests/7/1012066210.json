@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1377469576,
+    1444430353
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Very useful! You can use this to make §bVacuum Tubes.§e§f",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "qmd:fluid_mercury"
+      },
+      "ismain:1": 1,
+      "name:8": "Mercury (Liquid)"
+    }
+  },
+  "questID:3": 1012066210,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredFluids:9": {
+        "0:10": {
+          "Amount:3": 144,
+          "FluidName:8": "mercury"
+        }
+      },
+      "taskID:8": "bq_standard:fluid"
+    }
+  }
+}

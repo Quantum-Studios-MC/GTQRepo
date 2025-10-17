@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    2074
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:specialflower",
+        "tag:10": {
+          "type:8": "puredaisy"
+        }
+      },
+      "name:8": "Pure Daisy",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2070,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botania:specialflower",
+          "tag:10": {
+            "type:8": "puredaisy"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

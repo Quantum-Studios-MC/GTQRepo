@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    352
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "this does the cracking recipes from the chemical reactor for a 1:1 ratio instead of wasting a portion of the product.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1009,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Oil Cracking Unit",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 346,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1009,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

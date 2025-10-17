@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    2150
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Earthen Basin can be used for two things; smashing things into juice with your *feet?* FDA Violation. anyway, it can also be used to made crude versions\nof products like Salt and Sugar by heating water and scane juice respectively.\n\nyou can use the other basin for juicing shit.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "cuisine:earthen_basin"
+      },
+      "name:8": "Earthen Basin",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2124,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harvestcraft:carrotjuiceitem"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "cuisine:earthen_basin"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

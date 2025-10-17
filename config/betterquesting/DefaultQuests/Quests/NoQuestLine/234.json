@@ -1,0 +1,56 @@
+{
+  "preRequisites:11": [
+    270,
+    238,
+    253
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Your first proper multiblock machine! The EBF is a multiblock machine required to make Aluminium and to progress to MV.\n\nThis questline will teach you all about how to manage multiblocks and how to use the EBF.\n\nThe amount of casings in JEI is not necessary. You can configure the multiblock with any specific amount of hatches and buses\nand the amount of casings will change.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1001,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Electric Blast Furnace",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 234,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:ore_sapphire_0"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1001,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 9,
+          "Damage:2": 2,
+          "id:8": "gregtech:metal_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

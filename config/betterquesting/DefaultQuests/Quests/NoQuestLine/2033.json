@@ -1,0 +1,75 @@
+{
+  "preRequisites:11": [
+    1998
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "New EV machine parts for new EV machines. EV Emitters need Quantum Eyes, which need radon; read more to find out how to get it.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 130,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "You know the drill..",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2033,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 130,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 175,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 220,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 205,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "4:10": {
+      "index:3": 4,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 235,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

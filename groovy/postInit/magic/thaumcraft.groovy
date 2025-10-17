@@ -50,34 +50,6 @@ mods.thaumcraft.infusion_crafting.recipeBuilder()
     .instability(20)
     .register()
 
-mods.thaumcraft.dust_trigger.triggerBuilder()
-    .researchKey('WITCHINGTOOLS')
-    .target(block('thaumcraft:crucible'))
-    .output(item('bewitchment:witches_oven'))
-    .register()
-
-mods.thaumcraft.dust_trigger.triggerBuilder()
-    .researchKey('UNLOCKALCHEMY@3')
-    .target(block('thaumcraft:smelter_basic'))
-    .output(item('bewitchment:witches_cauldron'))
-    .register()
-
-
-mods.thaumcraft.infusion_crafting.recipeBuilder()
-    .researchKey('VITALIUM')
-    .mainInput(item('bloodarsenal:blood_diamond', 3))
-    .output(item('gregtech:meta_dust', 32107))
-    .aspect('mortuus', 150)
-    .aspect('victus', 150)
-    .input(item('bewitchment:contract'))
-    .input(item('bewitchment:demon_heart'))
-    .input(item('bewitchment:demonic_elixir'))
-    .input(ore('ingotDreadium'))
-    .input(ore('ingotBloodInfusedIron'))
-    .instability(40)
-    .register()
-
-
 mods.thaumcraft.arcane_workbench.shapedBuilder()
     .researchKey('MANALENS')
     .output(item('botania:lens'))
@@ -471,3 +443,16 @@ def thaumcraftItems = [
 generateAspectRecipes(thaumcraftItems)
 
 println("[INIT] Thaumcraft aspect extraction system loaded")
+
+mods.thaumcraft.crucible.recipeBuilder()
+    .researchKey('UNLOCKALCHEMY@3')
+    .catalyst(ore('plateDawnstone'))
+    .output(metaitem('tabletDawnstone'))
+    .aspect(aspect('praecantatio') * 3)
+    .register()
+
+recipemap('extruder').recipeBuilder()
+        .inputs(ore('curvedPlateDawnstone'))
+        .inputs(ore('rune*B'))
+        .outputs(metaitem('tabletDawnstone'))
+        .duration(50).EUt(32).buildAndRegister()

@@ -1,0 +1,68 @@
+{
+  "preRequisites:11": [
+    192,
+    191
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Steam Machines! They are wonderful but they have a few drawbacks. They can only run recipes up to 32 EU/t, and are twice as slow.\nYou need to wrench a free side to allow them to vent the used steam, or they will stop working.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gregtech:steam_casing"
+      },
+      "name:8": "Bronze Hull",
+      "questlogic:8": "OR",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 201,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:pick_head",
+          "tag:10": {
+            "Material:8": "bronze"
+          }
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 260,
+          "id:8": "gregtech:fluid_pipe_normal"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:steam_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "gregtech:steam_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "preRequisites:11": [
+    2057
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Mortar is used for a variety of recipes. Right click with your ingredients, then right click with a pestle.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:mortar"
+      },
+      "name:8": "Mortar",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2050,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:yellow_flower"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:mortar"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:pestle"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

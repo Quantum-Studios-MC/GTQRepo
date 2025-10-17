@@ -1,0 +1,45 @@
+{
+  "preRequisites:11": [
+    1155532891
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Briquettes are condensed fuel which is §64x§f more efficient as fuel than the equivalent in a regular material.\n\nIt is formed in the §6Briquette Compressor,§f which takes in as much as §9500L Steam / T§f just to gain pressure! you need 100% pressure for it to begin compressing, so you need great powergen infrastructure to begin even thinking of using this.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 31002,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Briquettes"
+    }
+  },
+  "questID:3": 49892317,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 4,
+          "Damage:2": 319,
+          "id:8": "gregtech:meta_briquette"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "partialMatch:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 31002,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

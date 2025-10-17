@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    2144
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "With the crushing tub, you can jump up and down on it with an item placed inside to produce the Oil of that respective item. This also\nextends to other things like sugarcane and grapes.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rustic:crushing_tub"
+      },
+      "name:8": "Crushing Tub",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2136,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rustic:grapes"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rustic:crushing_tub"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

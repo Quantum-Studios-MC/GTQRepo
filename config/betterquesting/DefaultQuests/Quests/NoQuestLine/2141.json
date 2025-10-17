@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    2150
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Spatula is unlocked after Iron, and it helps in stir-frying the food to make it more cooked. Get it? No? Sigh.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "cuisine:iron_spatula"
+      },
+      "name:8": "Iron Spatula",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2141,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:spongebob_macaroni"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "cuisine:iron_spatula"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

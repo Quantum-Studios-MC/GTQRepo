@@ -1,0 +1,43 @@
+{
+  "preRequisites:11": [
+    612
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "In order to actually run your rocket, you\u0027ll need fuel. and a lot of it at that!\nFuel is made in MV, and its in the questline. You\u0027ll also need a fuel loader to load the fuel onto the rocket!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "galacticraftcore:fuel_loader"
+      },
+      "name:8": "Fuel",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 610,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forge:bucketfilled",
+          "tag:10": {
+            "Amount:3": 1000,
+            "FluidName:8": "fuel"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "galacticraftcore:fuel_loader"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

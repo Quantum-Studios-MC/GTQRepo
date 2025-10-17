@@ -1,0 +1,51 @@
+{
+  "preRequisites:11": [
+    530
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No, not like that.\nSqueeze some seed oil out of stuff and use the oil to make casings.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forestry:squeezer"
+      },
+      "name:8": "Getting Pregnant?",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 529,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:impregnated_casing"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:squeezer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:impregnated_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

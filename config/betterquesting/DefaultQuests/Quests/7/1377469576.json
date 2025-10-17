@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1444430353
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The §aSteam Condensation Chamber§f is a multiblock used for distilling §bMercury Vapors§f into §eLiquid Mercury§f. It is also used for a few extra functions in §eSteam.§f",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11023,
+        "id:8": "gregtech:machine"
+      },
+      "ismain:1": 1,
+      "name:8": "Steam Condensation Chamber"
+    }
+  },
+  "questID:3": 1377469576,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11023,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

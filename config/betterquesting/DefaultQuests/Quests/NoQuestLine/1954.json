@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    1968
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:nether_star"
+      },
+      "name:8": "MV Machines",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1954,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

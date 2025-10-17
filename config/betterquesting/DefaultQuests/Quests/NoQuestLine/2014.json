@@ -1,0 +1,40 @@
+{
+  "preRequisiteTypes:7": [
+    1,
+    1,
+    1,
+    1
+  ],
+  "preRequisites:11": [
+    2028,
+    2009,
+    2020,
+    1991
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To make this you have to invest into a Mainframe which is an IV circuit. ",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 638,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "EV Circuit Assembling",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2014,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 638,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    3266
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§6Foundry Molds§f can be acquired with §9Firebrick.§f They are placed in §bBasins§f and other casting blocks and are able to turn §9liquids§f into §9solid materials.§f\n\nTo begin, make a §cBlank Foundry Mold§f, and combine it with different tools to get new molds.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:mold_base"
+      },
+      "name:8": "Molds"
+    }
+  },
+  "questID:3": 3268,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "partialMatch:1": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:mold_base"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

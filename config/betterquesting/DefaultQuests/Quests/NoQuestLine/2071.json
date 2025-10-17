@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2087
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "OreDict:8": "ingotTerrasteel",
+        "id:8": "botania:manaresource"
+      },
+      "name:8": "Manasteel Ingot",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2071,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "ingotTerrasteel",
+          "id:8": "botania:manaresource"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

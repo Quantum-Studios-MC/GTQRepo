@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    1632
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:netherrack"
+      },
+      "name:8": "The Nether"
+    }
+  },
+  "questID:3": 1649,
+  "tasks:9": {
+    "0:10": {
+      "advancement_id:8": "",
+      "index:3": 0,
+      "taskID:8": "bq_standard:advancement"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "preRequisites:11": [
+    490
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "For the magic players, §2Roots§f provides some special soils that can be used for harvesting crops easier.\n\nThere is of course the faming station for the tech players, also with the §2Greenhouse.\n\n§2Rustic§f also has some options for better soils.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:elemental_soil"
+      },
+      "name:8": "Special Soils",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 498,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:knife_blade",
+          "tag:10": {
+            "Material:8": "wood"
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:elemental_soil"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rustic:fertile_soil"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

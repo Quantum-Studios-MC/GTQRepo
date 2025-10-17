@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    509
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Sprinkler cover can be attached to any GT Tank which holds fluids; (Super Tanks for example) when supplying the tank with\nwater (or any other sprinkler fluid) it will boost the growth exponentially.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 224,
+        "id:8": "gregtechfoodoption:gtfo_meta_item"
+      },
+      "name:8": "Sprinkler",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 492,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 224,
+          "id:8": "gregtechfoodoption:gtfo_meta_item"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

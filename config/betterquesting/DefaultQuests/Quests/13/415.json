@@ -1,0 +1,45 @@
+{
+  "preRequisites:11": [
+    400
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Runestone is incredibly important for early-game. It unlocks many new things, and it can also be used to make Runic Dust. \nRunic Dust has a lot of recipes and is a key component for the next tier.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:runestone"
+      },
+      "name:8": "Runestone",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 415,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "projectred-exploration:stone",
+            "orig_meta:3": 0
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:runestone"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    2076
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "botania:specialflower",
+        "tag:10": {
+          "type:8": "ba_snow_flower"
+        }
+      },
+      "name:8": "Snow Flower",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2072,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "botania:specialflower",
+          "tag:10": {
+            "type:8": "ba_snow_flower"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

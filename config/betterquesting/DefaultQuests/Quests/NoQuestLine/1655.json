@@ -1,0 +1,21 @@
+{
+  "preRequisites:11": [
+    1651,
+    1656,
+    1653,
+    1654
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 621,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "LV Circuit"
+    }
+  },
+  "questID:3": 1655,
+  "tasks:9": {}
+}

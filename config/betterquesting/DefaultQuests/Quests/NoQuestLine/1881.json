@@ -1,0 +1,64 @@
+{
+  "preRequisites:11": [
+    1884
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The LBB is a decent method of upgrading your steam power. You may be able to power this with charcoal from Bonsais, providing an efficient way to\nproduce Steam.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1013,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Large Bronze Boiler",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1881,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 920,
+          "id:8": "gregtech:machine"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1013,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 25,
+          "id:8": "gregtech:metal_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 9,
+          "id:8": "gregtech:boiler_firebox_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

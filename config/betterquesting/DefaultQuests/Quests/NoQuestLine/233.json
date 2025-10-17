@@ -1,0 +1,66 @@
+{
+  "preRequisites:11": [
+    240
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Some molds can save on a lot of hassle. Especially this one, since you won\u0027t need to hand-craft rotors for turbines anymore.\n\nThere are also gear and small gear molds which make it much easier to make Forestry machines later on.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 24,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "Convenient Molds",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 233,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 24,
+          "id:8": "gregtech:meta_item_1"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 24,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 13,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 23,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

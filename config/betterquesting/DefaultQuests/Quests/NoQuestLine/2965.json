@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2961
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Hello! in this modpack Blaze Powder can be acquired from rods as normal.\n\n§3However,§f ender eyes are a bit different. As stated before, they can be acquired from the Bath\nrecipe, but venturing through the Aurorian can also grant a much more efficient source.",
+      "frame:8": "GATE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:blaze_powder"
+      },
+      "ismain:1": 1,
+      "name:8": "Blaze Powder",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2965,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 12,
+          "id:8": "minecraft:blaze_powder"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

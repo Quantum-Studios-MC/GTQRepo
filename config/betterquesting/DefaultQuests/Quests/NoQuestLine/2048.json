@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    2064
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Spells that are put on staves can have modifiers applied to them.\nTo access the modifier menu, place a staff in an Imposer then right-click with a knife.\nEvery spell has different modifiers.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:imposer"
+      },
+      "name:8": "Imposer",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2048,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:imposer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

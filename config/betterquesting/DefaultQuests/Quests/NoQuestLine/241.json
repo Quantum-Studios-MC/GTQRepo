@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    257
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Macerator in LV works the same as the steam one; only in HV will the Macerator recieve additional output slots.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 65,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Macerator",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 241,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 65,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

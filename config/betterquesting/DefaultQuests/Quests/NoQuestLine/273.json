@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    254
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Chemical reactor is a machine that is very, *very* important for a lot of GregTech\u0027s recipes. it also is important for a bunch of \nchemlines later in this pack, but nothing to worry about now.\n\nfor now let\u0027s use it to make rubber more efficiently; use the usual rubber recipe (pulp and sulfur) and look at the result after.\n\nrubber as a fluid is not usable outside of the assembling machine, so let us learn how to solidify it.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 215,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Chemical Reactor",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 273,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 279,
+          "id:8": "gregtech:meta_dust"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 215,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

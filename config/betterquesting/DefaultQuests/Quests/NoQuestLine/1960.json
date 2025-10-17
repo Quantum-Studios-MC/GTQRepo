@@ -1,0 +1,42 @@
+{
+  "preRequisites:11": [
+    1943
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "New and improved circuits. Much cheaper but need more infrastructure.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 623,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "Integrated Circuits",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1960,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 623,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 624,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

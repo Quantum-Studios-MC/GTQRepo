@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2023
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The EV macerator has a higher chance of producing byproducts compared to lower tier macerators; the chance for byproducts increases\nper tier.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 68,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Macerator Pro Max",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2012,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 68,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

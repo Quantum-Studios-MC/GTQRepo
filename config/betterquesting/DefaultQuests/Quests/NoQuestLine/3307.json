@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    3303
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Integrated Dynamics or §bID§f is a logic and item routing mod that can be on par with §bAE2!§f (if not better in certain situations!)\n\nIt can do things from §6automating player interactions§f to §drouting and managing items §fto §5autocrafting!§f",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "integrateddynamics:on_the_dynamics_of_integration"
+      },
+      "name:8": "Integrated Dynamics"
+    }
+  },
+  "questID:3": 3307,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "integrateddynamics:on_the_dynamics_of_integration"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "preRequisites:11": [
+    184
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Any items with [Coal Dust] in the desc. are TOXIC and can cause mesothelioma (lung cancer) which can kill you. Mining ores like Lignite or Coal Blocks\ncauses it too- wear masks like this to avoid getting lung cancer.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:mask_piss"
+      },
+      "name:8": "Trench Mask",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 181,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:siox"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:bark_birch"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:mask_piss"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

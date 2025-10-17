@@ -1,0 +1,94 @@
+{
+  "preRequisites:11": [
+    530
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Thermionic Fabricator is used to make many Forestry items. The most useful ones are Electron Tubes. When soldered on Circuit Boards, they act as upgrades for machines.\nThere are many variants of Electron tubes, each with different effects on machines.\nCheck JEI for further info.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forestry:soldering_iron"
+      },
+      "name:8": "Machines Go Vroom Vroom",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 531,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "forestry:chipsets",
+          "tag:10": {
+            "T:2": 3
+          }
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 7,
+          "id:8": "forestry:thermionic_tubes"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:soldering_iron"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "entryLogic:8": "OR",
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:chipsets",
+          "tag:10": {
+            "T:2": 0
+          }
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "forestry:chipsets",
+          "tag:10": {
+            "T:2": 1
+          }
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "forestry:chipsets",
+          "tag:10": {
+            "T:2": 2
+          }
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "forestry:chipsets",
+          "tag:10": {
+            "T:2": 3
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

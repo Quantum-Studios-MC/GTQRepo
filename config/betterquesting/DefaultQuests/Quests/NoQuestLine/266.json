@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    265
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The second machine you should make; it increases plate production to a 1:1 ratio, which is better than the forge hammer at least.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 140,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Bending Machine",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 266,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 324,
+          "id:8": "gregtech:meta_stick"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 140,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

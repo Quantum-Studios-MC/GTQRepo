@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    102,
+    108
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1212,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "MV Energy Hatch"
+    }
+  },
+  "questID:3": 107,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1212,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

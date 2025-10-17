@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    219722240
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The §9Strand Caster§f is a multiblock version of the §bFluid Solidifer§f which can solidify §bsABF§f metals down into §9Ingots§f or whatever mold you use.\n\nIt is incredibly useful, and the first thing you get after getting your first Nickel Steel.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11015,
+        "id:8": "gregtech:machine"
+      },
+      "ismain:1": 1,
+      "name:8": "Strand Caster"
+    }
+  },
+  "questID:3": 728435678,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11015,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

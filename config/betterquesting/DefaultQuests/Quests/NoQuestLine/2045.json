@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    2044
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "These three flowers unlock many new mods! So i suggest you make them as soon as you can.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:yellow_flower"
+      },
+      "name:8": "Flowers",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2045,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

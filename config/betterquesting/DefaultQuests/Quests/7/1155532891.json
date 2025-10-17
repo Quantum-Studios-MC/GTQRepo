@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    728435678
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Castiron is the key to a few useful §aQoL§f machines like the §bGlass Furnace§f and §aMolten Steel Crucible§f. It can be made by smelting and then casting Iron in the sABF.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 29992,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "ismain:1": 1,
+      "name:8": "Cast Iron"
+    }
+  },
+  "questID:3": 1155532891,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 29992,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

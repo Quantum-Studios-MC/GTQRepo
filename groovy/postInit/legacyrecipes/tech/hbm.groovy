@@ -83,16 +83,6 @@ recipemap('assembler').recipeBuilder()
         .outputs(item('hbm:warhead_buster_small'))
         .duration(200).EUt(120).buildAndRegister()
 
-// MV.
-recipemap('assembler').recipeBuilder()
-        .inputs(ore('plateAluminium') * 2)
-        .inputs(ore('wireFineCopper') * 4)
-        .inputs(item('gregtech:meta_item_1', 521))
-        .inputs(item('hbm:circuit_aluminium') * 2)
-        .fluidInputs(fluid('tin') * 120)
-        .outputs(item('hbm:circuit_copper') * 2)
-        .duration(200).EUt(120).buildAndRegister()
-        
 // Centrifuge recipe for extracting mercury from redstone ore, 5% chance increases 10 by tier.
 // LV.
 recipemap('centrifuge').recipeBuilder()
@@ -102,22 +92,8 @@ recipemap('centrifuge').recipeBuilder()
 // EBF-Related Recipes
 
 // MV
-recipemap('electric_blast_furnace').recipeBuilder()
-        .inputs(ore('dustCobalt') * 6)
-        .inputs(ore('ingotSteel') * 6)
-        .fluidInputs(fluid('oxygen') * 250 )
-        .outputs(item('hbm:ingot', 32) * 2)
-        .property("temperature", 1200)
-        .duration(400).EUt(140).buildAndRegister()
 
 // AltRecipe for HBM HSS, HV.
-recipemap('electric_blast_furnace').recipeBuilder()
-        .inputs(ore('dustGraphene') * 2)
-        .inputs(ore('ingotSteel') * 6)
-        .fluidInputs(fluid('tungsten') * 250 )
-        .outputs(item('hbm:ingot', 32) * 2)
-        .property("temperature", 2700)
-        .duration(400).EUt(470).buildAndRegister()
 
 recipemap('mixer').recipeBuilder()
         .inputs(ore('dustRedstone') * 1)
@@ -179,21 +155,7 @@ recipemap('assembler').recipeBuilder()
         .fluidInputs(fluid('stainless_steel') * 120)
         .outputs(item('hbm:warhead_cluster_medium'))
         .duration(200).EUt(500).buildAndRegister()
-
-recipemap('assembler').recipeBuilder()
-        .inputs(ore('circuitHv'))
-        .inputs(ore('wireFineAluminium') * 2)
-        .fluidInputs(fluid('soldering_alloy') * 120)
-        .outputs(item('hbm:circuit_red_copper'))
-        .duration(200).EUt(500).buildAndRegister()
-
-recipemap('assembler').recipeBuilder()
-        .inputs(ore('circuitHv'))
-        .inputs(ore('wireFineElectrum') * 2)
-        .fluidInputs(fluid('soldering_alloy') * 120)
-        .outputs(item('hbm:circuit_gold'))
-        .duration(200).EUt(500).buildAndRegister()
-
+        
 // fusion recipes for schrab
 recipemap('fusion_reactor').recipeBuilder()
         .fluidInputs(fluid('germanium_72') * 250)

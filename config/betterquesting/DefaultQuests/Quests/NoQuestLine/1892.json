@@ -1,0 +1,43 @@
+{
+  "preRequisiteTypes:7": [
+    1
+  ],
+  "preRequisites:11": [
+    1902
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Some recipes require Programmed Circuits: These cost precious LV circuits. So, to avoid making these, there is a \"Ghost Programmed Circuit\"\nbutton inside of all Electric machines and input hatches/buses.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 461,
+        "id:8": "gregtech:meta_item_1",
+        "tag:10": {
+          "Configuration:3": 0
+        }
+      },
+      "name:8": "Programmed Circuits",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1892,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 335,
+          "id:8": "gregtech:meta_nugget"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    248
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "As you may notice, Gallium and Arsenic cannot be smelted directly from the ore- They have to be obtained from processing ores and they\nare obtained as Byproducts. this will be much more common as you progress. \n\nFor Gallium, your best bet is to obtain it as a byproduct from centrifuging Sphlarite in the Thermal Centrifuge/Centrifuge.\n\nFor Arsenic, your best bet is to just get some Realgar and turn it into Dust and then centrifuge it.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 39,
+        "id:8": "gregtech:meta_dust"
+      },
+      "name:8": "Arsenic and Gallium",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 268,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 39,
+          "id:8": "gregtech:meta_dust"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

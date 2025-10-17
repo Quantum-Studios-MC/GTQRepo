@@ -1,0 +1,43 @@
+{
+  "preRequisites:11": [
+    2191
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "AA Storage Crates offer good storage but not much utility. I recommend you use this with something like RFTools or something.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterquesting:placeholder",
+        "tag:10": {
+          "orig_id:8": "actuallyadditions:block_giant_chest",
+          "orig_meta:3": 0
+        }
+      },
+      "name:8": "Crates",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2186,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:xp"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "actuallyadditions:block_giant_chest",
+            "orig_meta:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

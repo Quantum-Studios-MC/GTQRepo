@@ -1,0 +1,273 @@
+{
+  "preRequisites:11": [
+    571
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§5Tinkers Construct§f tools are acquired quite late, but are worth the investment. These are the final tools for this tier.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "tconstruct:pickaxe",
+        "tag:10": {
+          "Modifiers:9": {
+            "0:10": {
+              "color:3": -7444965,
+              "identifier:8": "ecological",
+              "level:3": 1
+            },
+            "1:10": {
+              "color:3": 16777215,
+              "identifier:8": "toolleveling",
+              "level:3": 1
+            }
+          },
+          "Special:10": {
+            "Categories:9": {
+              "0:8": "aoe",
+              "1:8": "tool",
+              "2:8": "harvest"
+            }
+          },
+          "Stats:10": {
+            "Attack:5": 2.0,
+            "AttackSpeedMultiplier:5": 1.0,
+            "Durability:3": 75,
+            "FreeModifiers:3": 3,
+            "HarvestLevel:3": 0,
+            "MiningSpeed:5": 2.0
+          },
+          "StatsOriginal:10": {
+            "Attack:5": 2.0,
+            "AttackSpeedMultiplier:5": 1.0,
+            "Durability:3": 75,
+            "FreeModifiers:3": 3,
+            "HarvestLevel:3": 0,
+            "MiningSpeed:5": 2.0
+          },
+          "TinkerData:10": {
+            "Materials:9": {
+              "0:8": "wood",
+              "1:8": "wood",
+              "2:8": "wood"
+            },
+            "Modifiers:9": {
+              "0:8": "toolleveling"
+            }
+          },
+          "Traits:9": {
+            "0:8": "ecological",
+            "1:8": "toolleveling"
+          }
+        }
+      },
+      "name:8": "Wooden Pickaxe",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 577,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:sharpening_kit",
+          "tag:10": {
+            "Material:8": "flint"
+          }
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:xp"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:pickaxe",
+          "tag:10": {
+            "Modifiers:9": {
+              "0:10": {
+                "color:3": -7444965,
+                "identifier:8": "ecological",
+                "level:3": 1
+              },
+              "1:10": {
+                "color:3": 16777215,
+                "identifier:8": "toolleveling",
+                "level:3": 1
+              }
+            },
+            "Special:10": {
+              "Categories:9": {
+                "0:8": "aoe",
+                "1:8": "tool",
+                "2:8": "harvest"
+              }
+            },
+            "Stats:10": {
+              "Attack:5": 2.0,
+              "AttackSpeedMultiplier:5": 1.0,
+              "Durability:3": 75,
+              "FreeModifiers:3": 3,
+              "HarvestLevel:3": 0,
+              "MiningSpeed:5": 2.0
+            },
+            "StatsOriginal:10": {
+              "Attack:5": 2.0,
+              "AttackSpeedMultiplier:5": 1.0,
+              "Durability:3": 75,
+              "FreeModifiers:3": 3,
+              "HarvestLevel:3": 0,
+              "MiningSpeed:5": 2.0
+            },
+            "TinkerData:10": {
+              "Materials:9": {
+                "0:8": "wood",
+                "1:8": "wood",
+                "2:8": "wood"
+              },
+              "Modifiers:9": {
+                "0:8": "toolleveling"
+              }
+            },
+            "Traits:9": {
+              "0:8": "ecological",
+              "1:8": "toolleveling"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:hatchet",
+          "tag:10": {
+            "Modifiers:9": {
+              "0:10": {
+                "color:3": -7444965,
+                "identifier:8": "ecological",
+                "level:3": 1
+              },
+              "1:10": {
+                "color:3": 16777215,
+                "identifier:8": "toolleveling",
+                "level:3": 1
+              }
+            },
+            "Special:10": {
+              "Categories:9": {
+                "0:8": "aoe",
+                "1:8": "weapon",
+                "2:8": "tool",
+                "3:8": "harvest"
+              }
+            },
+            "Stats:10": {
+              "Attack:5": 2.5,
+              "AttackSpeedMultiplier:5": 1.0,
+              "Durability:3": 75,
+              "FreeModifiers:3": 3,
+              "HarvestLevel:3": 0,
+              "MiningSpeed:5": 2.0
+            },
+            "StatsOriginal:10": {
+              "Attack:5": 2.5,
+              "AttackSpeedMultiplier:5": 1.0,
+              "Durability:3": 75,
+              "FreeModifiers:3": 3,
+              "HarvestLevel:3": 0,
+              "MiningSpeed:5": 2.0
+            },
+            "TinkerData:10": {
+              "Materials:9": {
+                "0:8": "wood",
+                "1:8": "wood",
+                "2:8": "wood"
+              },
+              "Modifiers:9": {
+                "0:8": "toolleveling"
+              }
+            },
+            "Traits:9": {
+              "0:8": "ecological",
+              "1:8": "toolleveling"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tconstruct:shovel",
+          "tag:10": {
+            "Modifiers:9": {
+              "0:10": {
+                "color:3": -7444965,
+                "identifier:8": "ecological",
+                "level:3": 1
+              },
+              "1:10": {
+                "color:3": 16777215,
+                "identifier:8": "toolleveling",
+                "level:3": 1
+              }
+            },
+            "Special:10": {
+              "Categories:9": {
+                "0:8": "aoe",
+                "1:8": "tool",
+                "2:8": "harvest"
+              }
+            },
+            "Stats:10": {
+              "Attack:5": 2.0,
+              "AttackSpeedMultiplier:5": 1.0,
+              "Durability:3": 75,
+              "FreeModifiers:3": 3,
+              "HarvestLevel:3": 0,
+              "MiningSpeed:5": 2.0
+            },
+            "StatsOriginal:10": {
+              "Attack:5": 2.0,
+              "AttackSpeedMultiplier:5": 1.0,
+              "Durability:3": 75,
+              "FreeModifiers:3": 3,
+              "HarvestLevel:3": 0,
+              "MiningSpeed:5": 2.0
+            },
+            "TinkerData:10": {
+              "Materials:9": {
+                "0:8": "wood",
+                "1:8": "wood",
+                "2:8": "wood"
+              },
+              "Modifiers:9": {
+                "0:8": "toolleveling"
+              }
+            },
+            "Traits:9": {
+              "0:8": "ecological",
+              "1:8": "toolleveling"
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

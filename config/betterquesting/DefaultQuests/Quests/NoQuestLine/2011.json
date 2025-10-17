@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    2016
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Large Gas Turbine is a scalable and efficient powergen that comes at the cost of complexity.\n\n- Inertia means it has to be running for a while to reach full power\n- The rotors have durability and have to be replaced every so often\n- It also voids unconsumed energy!\n\nPretty decent but also pretty undecent.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1011,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Large Gas Turbine",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2011,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 113,
+          "id:8": "gregtech:meta_ingot"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1011,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

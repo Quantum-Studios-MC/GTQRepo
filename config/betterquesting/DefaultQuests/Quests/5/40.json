@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    190
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Bellows are an extremely useful block that speed up the processing of stone machines by many times when being actively used.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:bellows"
+      },
+      "name:8": "Bellows",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 40,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:bellows"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

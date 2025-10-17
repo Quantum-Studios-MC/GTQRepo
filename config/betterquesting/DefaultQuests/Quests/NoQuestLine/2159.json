@@ -1,0 +1,47 @@
+{
+  "preRequisites:11": [
+    2156
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "There are two ways of producing Mutagen. One of them is expensive, the other one won\u0027t be unlocked untill IV. Fortunatelly Gregech makes redstone WAY more plentiful then it used to be. If you survive the trip back to the Overworld, that is.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gendustry:mutagen_producer"
+      },
+      "name:8": "Ninja Turtles",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2159,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:fluid_tank_full",
+          "tag:10": {
+            "HbmFluidKey:10": {
+              "Amount:3": 1000,
+              "FluidName:8": "mutagen"
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gendustry:mutagen_producer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

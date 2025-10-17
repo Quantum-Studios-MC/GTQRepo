@@ -1,0 +1,45 @@
+{
+  "preRequisites:11": [
+    592
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The HV Autoclave allows you to make Energium Crystals.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 127,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Advanced Autoclave II",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 598,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 127,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 741,
+          "id:8": "gregtech:meta_item_1",
+          "tag:10": {
+            "Charge:4": 6400000
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

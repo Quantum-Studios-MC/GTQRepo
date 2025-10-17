@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1939
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "You\u0027ll want to upgrade to the next coil tier as soon as possible.\n\nFor Kanthal, you\u0027ll need both an MV Mixer and 2 MV energy hatches on your EBF.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "gregtech:wire_coil"
+      },
+      "name:8": "Kanthal Coils",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1949,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "gregtech:wire_coil"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

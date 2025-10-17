@@ -1,0 +1,27 @@
+{
+  "preRequisites:11": [
+    1946
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "When you distill your regular oil, you might notice that the product has \"Sulfuric\" before its name. This is not a typo, you will have to\nremove the sulfur before you can use the products. \n\nYou will have to combine these products with Hydrogen in order to get Hydrogen Sulfide which can be used later for Hydrochloric Acid. This also\ngives the product in its purified form.\n\nAfter you get the purified version you can use it.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forge:bucketfilled",
+        "tag:10": {
+          "Amount:3": 1000,
+          "FluidName:8": "light_fuel"
+        }
+      },
+      "name:8": "Desulfurizing",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1947,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

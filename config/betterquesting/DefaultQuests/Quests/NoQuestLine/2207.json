@@ -1,0 +1,164 @@
+{
+  "preRequisites:11": [
+    2198
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Advanced GT Tools.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gregtech:hammer",
+        "tag:10": {
+          "DisallowContainerItem:1": 0,
+          "GT.Behaviours:10": {},
+          "GT.Tool:10": {
+            "AttackDamage:5": 3.0,
+            "AttackSpeed:5": -2.8,
+            "Durability:3": 0,
+            "HarvestLevel:3": 2,
+            "Material:8": "gregtech:iron",
+            "MaxDurability:3": 255,
+            "ToolSpeed:5": 6.0
+          },
+          "HideFlags:3": 2
+        }
+      },
+      "name:8": "GT Tools",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2207,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 51,
+          "id:8": "gregtech:meta_screw"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:xp"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:hammer",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {},
+            "GT.Tool:10": {
+              "AttackDamage:5": 3.0,
+              "AttackSpeed:5": -2.8,
+              "Durability:3": 0,
+              "HarvestLevel:3": 2,
+              "Material:8": "gregtech:iron",
+              "MaxDurability:3": 255,
+              "ToolSpeed:5": 6.0
+            },
+            "HideFlags:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:mortar",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {},
+            "GT.Tool:10": {
+              "AttackDamage:5": 0.0,
+              "AttackSpeed:5": -2.4,
+              "Durability:3": 0,
+              "Material:8": "gregtech:iron",
+              "MaxDurability:3": 255
+            },
+            "HideFlags:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:file",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {},
+            "GT.Tool:10": {
+              "AttackDamage:5": 0.0,
+              "AttackSpeed:5": -2.4,
+              "Durability:3": 0,
+              "Material:8": "gregtech:iron",
+              "MaxDurability:3": 255
+            },
+            "HideFlags:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:screwdriver",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {},
+            "GT.Tool:10": {
+              "AttackDamage:5": 1.0,
+              "AttackSpeed:5": 3.0,
+              "Durability:3": 0,
+              "Material:8": "gregtech:iron",
+              "MaxDurability:3": 255
+            },
+            "HideFlags:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "4:10": {
+      "index:3": 4,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "gregtech:saw",
+          "tag:10": {
+            "DisallowContainerItem:1": 0,
+            "GT.Behaviours:10": {
+              "HarvestIce:1": 1
+            },
+            "GT.Tool:10": {
+              "AttackDamage:5": 1.0,
+              "AttackSpeed:5": -2.6,
+              "Durability:3": 0,
+              "Material:8": "gregtech:iron",
+              "MaxDurability:3": 255
+            },
+            "HideFlags:3": 2
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

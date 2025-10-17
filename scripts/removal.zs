@@ -50,19 +50,8 @@ recipes.remove(<hbm:coil_tungsten>);
 recipes.remove(<hbm:motor>);
 recipes.remove(<hbm:steel_scaffold>);
 recipes.remove(<hbm:deco_pipe>);
-recipes.remove(<hbm:hull_small_steel>);
 recipes.remove(<hbm:brick_compound> * 8);
 
 recipes.removeByRecipeName("gtwp:stick_normal");
 
-recipes.remove(<thermalfoundation:material:99>);
 
-recipes.removeByRecipeName("techguns:thompson_alt");
-recipes.removeByRecipeName("techguns:thompson_alt");
-recipes.removeByRecipeName("techguns:flamethrower_alt");
-recipes.removeByRecipeName("techguns:chainsaw_alt");
-recipes.removeByRecipeName("techguns:boltaction");
-recipes.removeByRecipeName("techguns:ak47_alt");
-
-recipes.removeByRecipeName("techguns:m4_alt");
-recipes.removeByRecipeName("techguns:rocketlauncher_alt");

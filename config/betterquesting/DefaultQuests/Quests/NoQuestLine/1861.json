@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1879
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This is basically a Robot Arm but for fluids. \n\nSupply Exact will simply transfer only a specified amount per tick and will limit it from going any higher or lower.\n\nKeep Exact will keep the amount of fluid in a machine stocked.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 247,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "LV Fluid Regulator",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1861,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 247,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "preRequisites:11": [
+    27
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1024,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Steam Oven",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 35,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1024,
+          "id:8": "gregtech:machine"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 1651,
+          "id:8": "gregtech:machine"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "Damage:2": 1653,
+          "id:8": "gregtech:machine"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "Damage:2": 1652,
+          "id:8": "gregtech:machine"
+        },
+        "4:10": {
+          "Count:3": 8,
+          "id:8": "gregtech:metal_casing"
+        },
+        "5:10": {
+          "Count:3": 8,
+          "id:8": "gregtech:boiler_firebox_casing"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

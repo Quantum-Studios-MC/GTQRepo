@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    331
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Oil is an essential component for Polyethylene and can also be used for a wide array of things like energy, flight, etc.\n\nThis can find fluid veins underground which cannot be seen regularly. There is a fluid prospector in HV though, so while you are here\nyour only option is to randomly place it till you find a fluid vein.\n\nOil: The most used variant, has more Light Fuel.\n\nHeavy Oil: Richer in Heavy Fuel, which does not have many common uses.\n\nRaw Oil: Best for making products as it is rich in Naphtha.\n\nNatural Gas: Gives you Refinery Gas.\n\nSalt Water: Provides chlorine and sodium which are useful in higher tiers.\n\nThe nether has Refinery gas but it is more rich in it than overworld veins.\n\nLava can also be obtained.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1032,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Oil and Ethylene",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 295,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1032,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

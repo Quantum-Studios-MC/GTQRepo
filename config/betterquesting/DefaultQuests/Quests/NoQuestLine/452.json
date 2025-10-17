@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    453
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Poke yourself with it near an Altar to get blood in the altar.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "bloodmagic:sacrificial_dagger",
+        "tag:10": {}
+      },
+      "name:8": "Sacrificial Dagger",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 452,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "bloodmagic:sacrificial_dagger",
+          "tag:10": {}
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "recipes": [
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,3],
+      "output": ["hbm:bedrock_ore_new",1,19],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:oil_tar",1,3],
+      "output": ["hbm:coke"]
+    },
+    {
+      "input": ["dict","dustCoal"],
+      "output": ["hbm:coke"],
+      "fluid": ["COALCREOSOTE",100]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,292],
+      "output": ["hbm:bedrock_ore_new",1,308],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,226],
+      "output": ["hbm:bedrock_ore_new",1,242],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,354],
+      "output": ["hbm:bedrock_ore_new",1,370],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,288],
+      "output": ["hbm:bedrock_ore_new",1,304],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,48],
+      "output": ["hbm:bedrock_ore_new",1,64],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,52],
+      "output": ["hbm:bedrock_ore_new",1,68],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:briquette"],
+      "output": ["hbm:coke"],
+      "fluid": ["COALCREOSOTE",150]
+    },
+    {
+      "input": ["dict","gemCoal"],
+      "output": ["hbm:coke"],
+      "fluid": ["COALCREOSOTE",100]
+    },
+    {
+      "input": ["item","hbm:chunk_ore",1,2],
+      "output": ["hbm:powder_aluminium"],
+      "fluid": ["LYE",150]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new"],
+      "output": ["hbm:bedrock_ore_new",1,16],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,4],
+      "output": ["hbm:bedrock_ore_new",1,20],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","dustChlorocalcite"],
+      "output": ["hbm:powder_calcium"],
+      "fluid": ["CHLORINE",250]
+    },
+    {
+      "input": ["item","hbm:oil_tar",1,2],
+      "output": ["hbm:coke"]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,293],
+      "output": ["hbm:bedrock_ore_new",1,309],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,227],
+      "output": ["hbm:bedrock_ore_new",1,243],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,355],
+      "output": ["hbm:bedrock_ore_new",1,371],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,289],
+      "output": ["hbm:bedrock_ore_new",1,305],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,49],
+      "output": ["hbm:bedrock_ore_new",1,65],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,53],
+      "output": ["hbm:bedrock_ore_new",1,69],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","minecraft:clay"],
+      "output": ["minecraft:brick_block"]
+    },
+    {
+      "input": ["item","hbm:oil_tar",1,1],
+      "output": ["hbm:coke",1,2]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,1],
+      "output": ["hbm:bedrock_ore_new",1,17],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,5],
+      "output": ["hbm:bedrock_ore_new",1,21],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,228],
+      "output": ["hbm:bedrock_ore_new",1,244],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,356],
+      "output": ["hbm:bedrock_ore_new",1,372],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,290],
+      "output": ["hbm:bedrock_ore_new",1,306],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","logWood"],
+      "output": ["minecraft:coal",1,1],
+      "fluid": ["WOODOIL",250]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,224],
+      "output": ["hbm:bedrock_ore_new",1,240],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,352],
+      "output": ["hbm:bedrock_ore_new",1,368],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","gemSodalite"],
+      "output": ["hbm:powder_sodium"],
+      "fluid": ["CHLORINE",100]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,50],
+      "output": ["hbm:bedrock_ore_new",1,66],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","dustSodium"],
+      "fluid": ["SODIUM",100]
+    },
+    {
+      "input": ["item","hbm:briquette",1,2],
+      "output": ["minecraft:coal",1,1],
+      "fluid": ["WOODOIL",500]
+    },
+    {
+      "input": ["item","hbm:oil_tar"],
+      "output": ["hbm:coke",1,2]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,2],
+      "output": ["hbm:bedrock_ore_new",1,18],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","dustLimestone"],
+      "output": ["hbm:powder_calcium"],
+      "fluid": ["CARBONDIOXIDE",50]
+    },
+    {
+      "input": ["item","minecraft:reeds"],
+      "output": ["minecraft:sugar",2],
+      "fluid": ["ETHANOL",50]
+    },
+    {
+      "input": ["dict","dustMolysite"],
+      "output": ["minecraft:iron_ingot"],
+      "fluid": ["CHLORINE",250]
+    },
+    {
+      "input": ["item","minecraft:glowstone_dust"],
+      "output": ["hbm:sulfur"],
+      "fluid": ["CHLORINE",100]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,229],
+      "output": ["hbm:bedrock_ore_new",1,245],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,357],
+      "output": ["hbm:bedrock_ore_new",1,373],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,291],
+      "output": ["hbm:bedrock_ore_new",1,307],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","treeSapling"],
+      "output": ["hbm:powder_ash"],
+      "fluid": ["WOODOIL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,225],
+      "output": ["hbm:bedrock_ore_new",1,241],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,353],
+      "output": ["hbm:bedrock_ore_new",1,369],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["item","hbm:bedrock_ore_new",1,51],
+      "output": ["hbm:bedrock_ore_new",1,67],
+      "fluid": ["VITRIOL",50]
+    },
+    {
+      "input": ["dict","crystalCinnabar"],
+      "output": ["hbm:sulfur"],
+      "fluid": ["MERCURY",100]
+    },
+    {
+      "input": ["dict","gemLignite"],
+      "output": ["hbm:coke",1,1],
+      "fluid": ["COALCREOSOTE",50]
+    },
+    {
+      "input": ["dict","dustLignite"],
+      "output": ["hbm:coke",1,1],
+      "fluid": ["COALCREOSOTE",50]
+    },
+    {
+      "input": ["item","hbm:briquette",1,1],
+      "output": ["hbm:coke",1,1],
+      "fluid": ["COALCREOSOTE",100]
+    }
+  ]
+}

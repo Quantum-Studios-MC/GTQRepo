@@ -1,0 +1,37 @@
+{
+  "preRequisites:11": [
+    2191
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Traveller\u0027s Backpacks may be used for sleeping, crafting, and also containing fluid.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterquesting:placeholder",
+        "tag:10": {
+          "orig_id:8": "travelersbackpack:travelers_backpack",
+          "orig_meta:3": 0
+        }
+      },
+      "name:8": "Traveler\u0027s Backpack",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2184,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "travelersbackpack:travelers_backpack",
+            "orig_meta:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

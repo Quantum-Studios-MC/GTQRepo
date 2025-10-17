@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    369
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Congrats! You have got your first PGM Metal.. Platinum! Platinum can be used to upgrade your NanoMuscle suite armor and can be used for\nthe EV Assembling Machine, which also unlocks Compact Machines 3. Good for automating your setups while being compact!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 80,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "Platinum Ingot",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 391,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 80,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

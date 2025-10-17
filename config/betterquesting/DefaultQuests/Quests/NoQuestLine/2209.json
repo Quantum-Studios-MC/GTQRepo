@@ -1,0 +1,94 @@
+{
+  "preRequisites:11": [
+    2196
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Your first NTM armor!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterquesting:placeholder",
+        "tag:10": {
+          "orig_id:8": "hbm:t45_helmet",
+          "orig_meta:3": 0,
+          "orig_tag:10": {
+            "charge:4": 1000000
+          }
+        }
+      },
+      "name:8": "T-45",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2209,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "hbm:t45_helmet",
+            "orig_meta:3": 0,
+            "orig_tag:10": {
+              "charge:4": 1000000
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "hbm:t45_plate",
+            "orig_meta:3": 0,
+            "orig_tag:10": {
+              "charge:4": 1000000
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "hbm:t45_legs",
+            "orig_meta:3": 0,
+            "orig_tag:10": {
+              "charge:4": 1000000
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "hbm:t45_boots",
+            "orig_meta:3": 0,
+            "orig_tag:10": {
+              "charge:4": 1000000
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    3266
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Strand Caster is a §4quick and easy§f§f way to cool down §aMetals§f more efficiently. Simply route in §cwater§f from the sides and §bLiquid Metal§f via an Outlet on the top, and you\u0027ve got yourself some solid metal scraps.\n\nIf you want, you can use the LP Steam as a water source or something as well.",
+      "frame:8": "GATE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:machine_strand_caster"
+      },
+      "ismain:1": 1,
+      "name:8": "Strand Casting"
+    }
+  },
+  "questID:3": 3272,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:machine_strand_caster"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

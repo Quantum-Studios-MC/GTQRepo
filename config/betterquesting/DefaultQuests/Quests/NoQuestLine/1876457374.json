@@ -1,0 +1,18 @@
+{
+  "preRequisites:11": [
+    1139
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 29990,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "New Quest"
+    }
+  },
+  "questID:3": 1876457374,
+  "tasks:9": {}
+}

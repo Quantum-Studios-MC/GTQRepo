@@ -10,14 +10,6 @@
     "Entry item strings are in the format: (domain):(path):(meta)"
   ],
   "entries": {
-    "bewitchment:cypress_planks:0": "bewitchment:cypress_wood_slab:0",
-    "bewitchment:cypress_wood:0": "bewitchment:cypress_planks:0",
-    "bewitchment:dragons_blood_planks:0": "bewitchment:dragons_blood_slab:0",
-    "bewitchment:dragons_blood_wood:0": "bewitchment:dragons_blood_planks:0",
-    "bewitchment:elder_planks:0": "bewitchment:elder_wood_slab:0",
-    "bewitchment:elder_wood:0": "bewitchment:elder_planks:0",
-    "bewitchment:juniper_planks:0": "bewitchment:juniper_wood_slab:0",
-    "bewitchment:juniper_wood:0": "bewitchment:juniper_planks:0",
     "biomesoplenty:log_0:4": "biomesoplenty:planks_0:0",
     "biomesoplenty:log_0:5": "biomesoplenty:planks_0:1",
     "biomesoplenty:log_0:6": "biomesoplenty:planks_0:2",
@@ -333,6 +325,7 @@
     "harvestcraft:pamcinnamon:0": "minecraft:planks:3",
     "harvestcraft:pammaple:0": "minecraft:planks:1",
     "harvestcraft:pampaperbark:0": "minecraft:planks:3",
+    "integrateddynamics:menril_log:0": "integrateddynamics:menril_planks:0",
     "minecraft:log2:0": "minecraft:planks:4",
     "minecraft:log2:1": "minecraft:planks:5",
     "minecraft:log:0": "minecraft:planks:0",
@@ -340,6 +333,7 @@
     "minecraft:log:2": "minecraft:planks:2",
     "minecraft:log:3": "minecraft:planks:3",
     "mysticalworld:charred_log:0": "mysticalworld:charred_planks:0",
+    "natura:apple_log:0": "natura:overworld_planks:9",
     "natura:nether_logs:0": "natura:nether_planks:0",
     "natura:nether_logs:1": "natura:nether_planks:2",
     "natura:nether_logs:2": "natura:nether_planks:3",
@@ -364,6 +358,7 @@
     "natura:overworld_planks:6": "natura:overworld_slab2:1",
     "natura:overworld_planks:7": "natura:overworld_slab2:2",
     "natura:overworld_planks:8": "natura:overworld_slab2:3",
+    "natura:overworld_planks:9": "natura:overworld_slab2:4",
     "natura:redwood_logs:1": "natura:overworld_planks:8",
     "randomthings:spectrelog:0": "randomthings:spectreplank:0",
     "roots:wildwood_log:0": "roots:wildwood_planks:0",
@@ -371,10 +366,6 @@
     "rustic:log:1": "rustic:planks:1",
     "thaumcraft:log_greatwood:0": "thaumcraft:plank_greatwood:0",
     "thaumcraft:log_silverwood:0": "thaumcraft:plank_silverwood:0",
-    "thaumicbases:enderlogs:0": "thaumicbases:enderplanks:0",
-    "thaumicbases:goldenlogs:0": "thaumicbases:goldenplanks:0",
-    "thaumicbases:netherlogs:0": "thaumicbases:netherplanks:0",
-    "thaumicbases:peacelogs:0": "thaumicbases:peaceplanks:0",
     "twilightforest:magic_log:0": "twilightforest:time_planks:0",
     "twilightforest:magic_log:1": "twilightforest:trans_planks:0",
     "twilightforest:magic_log:2": "twilightforest:mine_planks:0",
@@ -382,6 +373,12 @@
     "twilightforest:twilight_log:0": "twilightforest:twilight_oak_planks:0",
     "twilightforest:twilight_log:1": "twilightforest:canopy_planks:0",
     "twilightforest:twilight_log:2": "twilightforest:mangrove_planks:0",
-    "twilightforest:twilight_log:3": "twilightforest:dark_planks:0"
+    "twilightforest:twilight_log:3": "twilightforest:dark_planks:0",
+    "witchery:alder_log:0": "witchery:alder_planks:0",
+    "witchery:alder_planks:0": "witchery:alder_slab:0",
+    "witchery:hawthorn_log:0": "witchery:hawthorn_planks:0",
+    "witchery:hawthorn_planks:0": "witchery:hawthorn_slab:0",
+    "witchery:rowan_log:0": "witchery:rowan_planks:0",
+    "witchery:rowan_planks:0": "witchery:rowan_slab:0"
   }
 }

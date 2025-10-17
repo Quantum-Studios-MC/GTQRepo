@@ -1,0 +1,64 @@
+{
+  "preRequisites:11": [
+    166
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Flint Tools, which are the next step in tools.. of course they are.\n\nThey have around 130~ durability more than crude tools, so its a worthwhile investment.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:flint_axe"
+      },
+      "name:8": "Flint Tools",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 170,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:flint_shovel_durable"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:flint_axe"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:flint_shovel"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:flint_hammer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

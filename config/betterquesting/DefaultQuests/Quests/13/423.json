@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    408
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Used in Arcane Archives, also used to make the Runic Shears.\nLater unlocks XU2.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:pereskia"
+      },
+      "name:8": "Pereskia",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 423,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:pereskia"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    186
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Iron! With this we can almost end the Stone Age.\nBut first, we shall need 2 basic machines; the Crafting Table and Furnace.\n\nNote: TiCon Smeltery may replace the Furnace for steam age, so the acquisition of the furnace/crafting table is not documented.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:iron_ingot"
+      },
+      "name:8": "Iron Ingot",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 185,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:iron_ingot"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:iron_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

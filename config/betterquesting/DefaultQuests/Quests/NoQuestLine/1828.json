@@ -1,0 +1,55 @@
+{
+  "preRequisites:11": [
+    1850
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "A small tip with boilers, solid ones in particular; If you have a bonsai pot, you can place one ontop of the boiler, for free energy!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Small Steam Solid Fuel Boiler",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1828,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 4,
+          "id:8": "extrautils2:ingredients"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "minecraft:sapling"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

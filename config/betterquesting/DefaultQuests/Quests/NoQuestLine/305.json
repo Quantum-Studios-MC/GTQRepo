@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    328
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To get the next tier of energy hatches,  you\u0027ll need an ULPIC (POWER INTEGRATED CHIP)\n\nThese need an Aqua Crystal/Blue/Sapphire lens.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 602,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "name:8": "ULPIC",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 305,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 602,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Welcome to the Space chapter! Here we will be covering all things related to Galacticraft and Space.\n\nFirst thing you\u0027ll need is your tier-1 rocket.. to get that, you\u0027ll need a NASA Workbench.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "galacticraftcore:rocket_workbench"
+      },
+      "name:8": "NASA Workbench",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2249,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 188,
+          "id:8": "gregtech:meta_item_1"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "galacticraftcore:rocket_workbench"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

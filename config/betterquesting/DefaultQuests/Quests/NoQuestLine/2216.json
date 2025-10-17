@@ -1,0 +1,34 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Don\u0027t want to eat? Want to fly at insane speeds? Want to do insane amounts of damage in one hit?\nThis mod is for you!\nVampirism is a mod about being either a Vampire or a Vampire Hunter; each with its own detriments and benefits.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterquesting:placeholder",
+        "tag:10": {
+          "orig_id:8": "vampirism:vampire_fang",
+          "orig_meta:3": 0
+        }
+      },
+      "name:8": "Vampire Fang",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2216,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "vampirism:vampire_fang",
+            "orig_meta:3": 0
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

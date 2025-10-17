@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    591
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The new Circuit Assembler will allow you to make your first Mainframe- or the first IV Circuit!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 637,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Advanced Circuit Assembler II",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 602,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 637,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

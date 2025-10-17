@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1894
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Sifter is a machine that is very important for producing Flawless versions of certain gems like Emerald.\n\nIt inputs Purified Ore variants of gems to have a chance of finding Exquisite and Flawless gems.\n\nThis is good for getting higher yield for your gems.\n\nFlawless Emerald is required for MV, so might as well get the infrastructure for it now..",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 575,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Sifting Machine",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1868,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 575,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

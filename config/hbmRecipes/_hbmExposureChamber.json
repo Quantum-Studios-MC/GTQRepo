@@ -1,0 +1,24 @@
+{
+  "recipes": [
+    {
+      "particle": ["item","hbm:particle_higgs"],
+      "ingredient": ["dict","ingotUranium"],
+      "output": ["hbm:ingot_schraranium"]
+    },
+    {
+      "particle": ["item","hbm:particle_higgs"],
+      "ingredient": ["dict","ingotUranium238"],
+      "output": ["hbm:ingot_schrabidium"]
+    },
+    {
+      "particle": ["item","hbm:particle_dark"],
+      "ingredient": ["dict","ingotPlutonium"],
+      "output": ["hbm:ingot_euphemium"]
+    },
+    {
+      "particle": ["item","hbm:particle_sparkticle"],
+      "ingredient": ["dict","ingotSchrabidate"],
+      "output": ["hbm:ingot_dineutronium"]
+    }
+  ]
+}

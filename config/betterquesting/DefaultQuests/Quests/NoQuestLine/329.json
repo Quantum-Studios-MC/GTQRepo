@@ -1,0 +1,38 @@
+{
+  "preRequisites:11": [
+    310,
+    309
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Light Fuel is a good energy option.\nAlso please put some fluid in buckets or the quest won\u0027t register...",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forge:bucketfilled",
+        "tag:10": {
+          "Amount:3": 1000,
+          "FluidName:8": "light_fuel"
+        }
+      },
+      "name:8": "Light Fuel",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 329,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forge:bucketfilled",
+          "tag:10": {
+            "Amount:3": 1000,
+            "FluidName:8": "light_fuel"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

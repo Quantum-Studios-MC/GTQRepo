@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    2782
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The §6Crucible§k§f is a block similar to the §eTinker\u0027s Construct§f smeltery, capable of producing numerous §aAlloys§f at fast speeds.\n\nHowever, these alloys are in §6liquid§f form, so they have to be cast using §emolds§f to get an output.\n\nThis can also produce §eCast§f plates, important for things such as Power Armor or new Machines.",
+      "frame:8": "GATE",
+      "icon:10": {
+        "Count:3": 32,
+        "id:8": "hbm:machine_crucible"
+      },
+      "ismain:1": 1,
+      "name:8": "Foundry"
+    }
+  },
+  "questID:3": 3266,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:machine_crucible"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

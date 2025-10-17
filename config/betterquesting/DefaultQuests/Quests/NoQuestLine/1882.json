@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1894
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The ore washer is a machine that works like a cauldron does for Ores; it can wash crushed ores into purified ores. It can also produce certain\nbyproducts as a result of this process;\n\nE.g for a chance of getting Chrome you can wash Ruby ore into Purified ruby ore for a 33% chance for getting the dust.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 485,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Ore Washing Plant",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1882,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 485,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

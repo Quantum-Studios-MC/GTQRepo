@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    2126
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§2Rustic§f also has some options for §6Apiculture§f (bees)\n\nFinding a wild beehive and breaking it will get you some bees. Making an apiary and putting bees in it will slowly generate §5Beeswax§f and\nBees over time. \n\nKeeping an apiary near your farms will §2boost§f the production!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rustic:apiary"
+      },
+      "name:8": "Bees",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2134,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rustic:apiary"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

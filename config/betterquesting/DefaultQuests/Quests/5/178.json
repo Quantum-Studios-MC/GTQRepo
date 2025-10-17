@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    164
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "If you somehow cannot manage to find a bed, i suggest you make a Straw Bed. these are incredibly cheap costing about 9 dried fiber in total and come\nwith only one use!\n\nThis is an important place to mention that the day/night cycle has been changed. Day now lasts MUCH longer (Think around 30 minutes!) while night\nis around 15 minutes.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:straw_bed"
+      },
+      "name:8": "Straw Bed",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 178,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:straw_bed"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

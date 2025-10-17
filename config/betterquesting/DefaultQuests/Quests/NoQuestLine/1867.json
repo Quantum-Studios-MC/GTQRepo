@@ -1,0 +1,36 @@
+{
+  "preRequisiteTypes:7": [
+    1,
+    1
+  ],
+  "preRequisites:11": [
+    1885,
+    1891
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Essential for Battery Production.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 170,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Canning Machine",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1867,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 170,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "preRequisites:11": [
+    1940
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "MV machines like the Distillery are especially power hungry, so LV steam turbines just won\u0027t do.\n\nFor this we have the Advanced generators; for these we have a number of different fuel options. \n\nPetrochem is incredibly useful for fuels, and distilled fuels like Diesel are incredibly useful for energy.\n\nWhile you get to petrochem, you will probably have to stick to steam. In that case you should upgrade your boiler and your steam engine.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 951,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "MV Power",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1957,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 951,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 966,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 936,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

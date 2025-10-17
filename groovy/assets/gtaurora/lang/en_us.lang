@@ -83,6 +83,15 @@ item.gtaurora.circuit.amped_wetware_mainframe.name=Hyperamped Wetware Mainframe
 item.gtaurora.circuit.amped_wetware_processor.name=Amped Wetware Processor
 gtaurora.material.stable_neoveline=Stable Neoveline
 item.gtaurora.circuit_board.optical.name=Optical Circuit Board
+
+item.gtaurora.shape.billet.name=Billet Extruder Shape
+item.gtaurora.shape.shell.name=Shell Extruder Shape
+item.gtaurora.shape.ntmpipe.name=Construction Pipe Extruder Shape
+item.gtaurora.mold.billet.name=Billet Mold
+item.gtaurora.mold.shell.name=Shell Shape
+item.gtaurora.mold.ntmpipe.name=Construction Pipe Mold
+
+
 gtaurora.material.astanene=Astanene
 gtaurora.material.twinitrixite=Twinitrixite
 gtaurora.material.demetarium=Demetarium
@@ -449,3 +458,19 @@ gtaurora.material.twilight_coke=Twilight Coke
 gtaurora.material.artificial_glowstone=Artificial Glowstone
 gtaurora.material.menril_extract=Menril Extract
 gtaurora.material.menril_waste=Menril Waste
+
+metaitem.battery.amber_cell.name=Amber Cell Capacitor
+
+gtaurora.material.mercury_vapor=Mercury Vapors
+gtaurora.material.zinc_vapor=Zinc Vapors
+gtaurora.material.raw_latex=Raw Latex
+
+gtaurora.material.zinc_sulphate=Zinc Sulphate
+
+
+gtaurora.material.pure_carbon=Purified Carbon
+gtaurora.material.wood_varnish=Wood Varnish
+gtaurora.material.varnished_wood=Varnished Wood
+gtaurora.material.menril_varnished_wood=Menril Varnished Wood
+
+gtaurora.material.wood_sludge=Wood Sludge

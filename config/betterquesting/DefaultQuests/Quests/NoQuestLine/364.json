@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    368,
+    367,
+    370
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "RTM stands for Ruthenium, Tantalum, Molybdendum.\n\nYummy, if i do say so myself.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 451,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "RTM Alloy Ingot",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 364,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 451,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

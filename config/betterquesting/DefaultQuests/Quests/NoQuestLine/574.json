@@ -1,0 +1,76 @@
+{
+  "preRequisites:11": [
+    561
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "You should get ozzy liner under this, or you\u0027ll overheat.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:iron_helmet"
+      },
+      "name:8": "Iron Set",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 574,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 51,
+          "id:8": "gregtech:meta_plate"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:xp"
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:iron_helmet"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:iron_chestplate"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:iron_leggings"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "3:10": {
+      "index:3": 3,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:iron_boots"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

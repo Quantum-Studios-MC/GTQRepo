@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2229
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Remember those chemical dyes you could make using Sulfuric Acid? Well, now you can use those to dye lenses.\nLenses will be useful as each different color gives you a unique output!\n\nNOTE: If you are uninterested in Magic or Exploring so far, your only way to make endereyes is in this machine.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 202,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Advanced Chemical Bath II",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2244,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 202,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

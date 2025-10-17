@@ -1,0 +1,53 @@
+{
+  "preRequisites:11": [
+    361
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "PVC is a polymer acquired from Vinyl Chloride; it can be used for item pipes but it is chiefly used for insulating EV cables.\n\nIt can also be used in place of PE in plastic circuit boards.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1007,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "PVC",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 383,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "betterquesting:placeholder",
+          "tag:10": {
+            "orig_id:8": "theaurorian:ceruleanbucket",
+            "orig_meta:3": 0,
+            "orig_tag:10": {
+              "Fluid:10": {
+                "Amount:3": 1000,
+                "FluidName:8": "soldering_alloy"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1007,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

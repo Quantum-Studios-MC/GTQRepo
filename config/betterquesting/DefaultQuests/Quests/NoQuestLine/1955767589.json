@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    638078016
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "There are two types of Essentia Deposits; Both contain all the §9primal§k§f aspect ores of §aThaumcraft!§f\n\nTo process them, a centrifuge is enough. Using the byproducts, one may be able to make §5Thaumium alternatively...",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "gregtech:ore_ordominite_0"
+      },
+      "name:8": "Essentia Deposits"
+    }
+  },
+  "questID:3": 1955767589,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 55,
+          "id:8": "serendustry:meta_dust_tiny"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,14 +1,98 @@
 {
-  "CUSTOM_DEMO": {
-    "name": "Custom Fluid Demo",
-    "id": 1000,
-    "color": 16711680,
-    "tint": 16711680,
-    "p": 1,
-    "f": 2,
-    "r": 0,
-    "symbol": "OXIDIZER",
-    "texture": "custom_water",
-    "temperature": 20
-  }
+"TIN": {
+  "name": "Tin",
+  "id": 31000,
+  "color": 14540253,
+  "tint": 14540253,
+  "p": 1,
+  "f": 2,
+  "r": 0,
+  "symbol": "OXIDIZER",
+  "texture": "custom_water",
+  "temperature": 232
+},
+"ANTIMONY": {
+  "name": "Antimony",
+  "id": 31002,
+  "color": 8421504,
+  "tint": 8421504,
+  "p": 1,
+  "f": 2,
+  "r": 0,
+  "symbol": "OXIDIZER",
+  "texture": "custom_water",
+  "temperature": 631
+},
+"IRON": {
+  "name": "Iron",
+  "id": 31003,
+  "color": 7171437,
+  "tint": 7171437,
+  "p": 1,
+  "f": 2,
+  "r": 0,
+  "symbol": "OXIDIZER",
+  "texture": "custom_water",
+  "temperature": 1538
+},
+"SILICON": {
+  "name": "Silicon",
+  "id": 31005,
+  "color": 8421504,
+  "tint": 8421504,
+  "p": 1,
+  "f": 2,
+  "r": 0,
+  "symbol": "OXIDIZER",
+  "texture": "custom_water",
+  "temperature": 1414
+},
+"COPPER": {
+  "name": "Copper",
+  "id": 31006,
+  "color": 12092944,
+  "tint": 12092944,
+  "p": 1,
+  "f": 2,
+  "r": 0,
+  "symbol": "OXIDIZER",
+  "texture": "custom_water",
+  "temperature": 1085
+},
+"NICKEL": {
+  "name": "Nickel",
+  "id": 31007,
+  "color": 12632256,
+  "tint": 12632256,
+  "p": 1,
+  "f": 2,
+  "r": 0,
+  "symbol": "OXIDIZER",
+  "texture": "custom_water",
+  "temperature": 1455
+},
+"ZINC": {
+  "name": "Zinc",
+  "id": 31009,
+  "color": 10079487,
+  "tint": 10079487,
+  "p": 1,
+  "f": 2,
+  "r": 0,
+  "symbol": "OXIDIZER",
+  "texture": "custom_water",
+  "temperature": 420
+},
+"MANGANESE": {
+  "name": "Manganese",
+  "id": 31010,
+  "color": 5592405,
+  "tint": 5592405,
+  "p": 1,
+  "f": 2,
+  "r": 0,
+  "symbol": "OXIDIZER",
+  "texture": "custom_water",
+  "temperature": 1246
+}
 }

@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    302
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Does He Know?\n\nStainless Steel is an important new metal for the HV tier; though you will need both PE and Circuits alongside this to complete the tier!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 323,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "Stainless Steel Ingot",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 300,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 323,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

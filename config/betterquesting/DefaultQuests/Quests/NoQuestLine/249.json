@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    257
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The autoclave is a machine used for converting some specific types of dusts back into their original form.\n\nBe advised though, it is very slow so ore processing of this level (especially for gems) is not recommended at this tier.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 125,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Basic Autoclave",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 249,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 125,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

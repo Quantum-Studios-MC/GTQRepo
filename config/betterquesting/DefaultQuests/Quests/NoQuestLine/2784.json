@@ -1,0 +1,44 @@
+{
+  "preRequisites:11": [
+    2775
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The §aSteam-Powered Water Pump§k§f is the way to generate a §aLOT§f of water in the Steam Age.\nIt needs §91000L§f of steam to perform one operation, and outputs §b10L§f of §9Low Pressure Steam.§f\n\nSteam can be inputted through a normal GT Pipe, however, due to LP Steam being an §bNTM Fluid,§f it must be extracted using a §9Fluiduct§f into a §bBarrel.§f\n\nWater can be extracted most easily through §bCurvy Pipes.§f",
+      "frame:8": "GATE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:pump_steam"
+      },
+      "ismain:1": 1,
+      "name:8": "Full  Steam Ahead!",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2784,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 18,
+          "Damage:2": 1617,
+          "id:8": "gregtech:fluid_pipe_normal"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:pump_steam"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

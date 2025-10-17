@@ -1,0 +1,24 @@
+{
+  "preRequisites:11": [
+    3287
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To reach this dimension, simply surround a 2x2 hole of water with flowers and throw in a §6Golden Key§e§f found in Dungeons in the Aether.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "twilightforest:miniature_structure"
+      },
+      "name:8": "The Twilight Forest"
+    }
+  },
+  "questID:3": 3277,
+  "tasks:9": {
+    "0:10": {
+      "dimension:3": 7,
+      "index:3": 0,
+      "name:8": "New Location",
+      "taskID:8": "bq_standard:location"
+    }
+  }
+}

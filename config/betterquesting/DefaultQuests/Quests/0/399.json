@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "You might notice a small §aplayer model§f in the corner of your screen.\n\nThis represents your §6Body!§f Each limb/organ can be seperately damaged, and if the critical organs get damaged, you will §cdie§l§f no matter what!\n\n§4Natural Regeneration§f via §9Food§f is disabled, and to heal, you need to craft plasters/bandages!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "firstaid:plaster"
+      },
+      "name:8": "First Aid"
+    }
+  },
+  "questID:3": 399,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "firstaid:plaster"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

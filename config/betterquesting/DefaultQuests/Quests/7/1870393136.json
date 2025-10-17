@@ -1,0 +1,21 @@
+{
+  "preRequisites:11": [
+    1476564473,
+    630602553
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "\u003cNYI\u003e",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 30171,
+        "id:8": "gregtech:meta_plate"
+      },
+      "ismain:1": 1,
+      "name:8": "Varnished Menril Wood"
+    }
+  },
+  "questID:3": 1870393136,
+  "tasks:9": {}
+}

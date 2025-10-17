@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    164
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This is your first method of smelting. To use, place it down in the ground, then, add your desired item to it. Up to 8 of these can be smelted at once.\nNext, add a block of Straw. Straw can be made by drying wheat or with dried fiber and twine/string.\n\nNext, add 3 logs to your kiln and light with a Flint and Tinder.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:kiln_pit"
+      },
+      "name:8": "Pit Kilns and Fuel",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 176,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:thatch"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:kiln_pit"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

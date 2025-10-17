@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2229
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The HV Chemical Reactor unlocks many more recipes, to feed into HV.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 217,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "HV Chemistry",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2232,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 217,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

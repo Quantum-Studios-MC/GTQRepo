@@ -1,0 +1,34 @@
+{
+  "preRequisites:11": [
+    1641
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To §6route§f fluids to and from the §cCrucible,§f you need some Foundry Channels.\n\nThese come in two types; the Spout which can be set to §9export§f fluid from the §cCrucible\u0027s§f outputs, and §aChannels,§f which serve as transportation pipes.\n\nThey also may sometimes get §9clogged,§f you fix that by right-clicking with a §aShovel.§f",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "hbm:foundry_channel"
+      },
+      "ismain:1": 1,
+      "name:8": "Channels"
+    }
+  },
+  "questID:3": 1645,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:foundry_channel"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "hbm:foundry_outlet"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "preRequisites:11": [
+    534,
+    536
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Even faster and bigger Apiary.\nCheck the manual for building instructions.",
+      "icon:10": {
+        "Count:3": 26,
+        "id:8": "forestry:alveary.plain"
+      },
+      "name:8": "Bee Hotel",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 516,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:alveary.plain"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 26,
+          "id:8": "forestry:alveary.plain"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "entryLogic:8": "OR",
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:alveary.swarmer"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "forestry:alveary.fan"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "forestry:alveary.heater"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "forestry:alveary.hygro"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "forestry:alveary.stabiliser"
+        },
+        "5:10": {
+          "Count:3": 1,
+          "id:8": "forestry:alveary.sieve"
+        },
+        "6:10": {
+          "Count:3": 1,
+          "Damage:2": 3,
+          "id:8": "extrabees:alveary"
+        },
+        "7:10": {
+          "Count:3": 1,
+          "Damage:2": 6,
+          "id:8": "extrabees:alveary"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

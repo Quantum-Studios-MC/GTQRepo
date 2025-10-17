@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    513
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The mortar is used to crush down things. Obviously. Pestle included!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "cuisine:mortar"
+      },
+      "name:8": "Mortar",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 505,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "cuisine:mortar"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

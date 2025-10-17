@@ -1,0 +1,58 @@
+{
+  "preRequisites:11": [
+    531
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Forestry adds many different farm types. When supplied with energy, water and fertiliser, they produce stuff fairly quickly. At leats for MV anyways.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forestry:farm_crops"
+      },
+      "name:8": "Stardew Valley",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 535,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:flexible_casing"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "entryLogic:8": "OR",
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:farm_crops"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "id:8": "forestry:farm_mushroom"
+        },
+        "2:10": {
+          "Count:3": 1,
+          "id:8": "forestry:farm_gourd"
+        },
+        "3:10": {
+          "Count:3": 1,
+          "id:8": "forestry:farm_nether"
+        },
+        "4:10": {
+          "Count:3": 1,
+          "id:8": "forestry:farm_ender"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

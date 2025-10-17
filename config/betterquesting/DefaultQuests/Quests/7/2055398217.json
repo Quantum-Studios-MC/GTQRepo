@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    2093730609
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "How you store Data in ID. Read the book for more info, it\u0027s 11am and i\u0027m not writing any more quests. Fuck you.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 32,
+        "id:8": "integrateddynamics:variable"
+      },
+      "ismain:1": 1,
+      "name:8": "Variable Cards"
+    }
+  },
+  "questID:3": 2055398217,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "integrateddynamics:variable"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

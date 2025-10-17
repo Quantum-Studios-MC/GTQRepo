@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    1826
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Nether Quartz is acquired in low amounts in the overworld in form of ore, which only gives 1-2 quartz each.\n\nThe real source is in the Nether, where, like redstone, it forms massive deposits dropping dense quartz and quartz.\nQuartz is required for many things in Cuisine and Roots and it is worth getting.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:quartz"
+      },
+      "name:8": "Resources: Nether Quartz",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1805,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harvestcraft:starfruitjuiceitem"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:quartz"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

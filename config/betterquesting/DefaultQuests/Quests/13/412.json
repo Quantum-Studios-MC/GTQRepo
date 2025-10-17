@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    427
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The imbuer can also be used as an anvil, with no XP cost.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "minecraft:anvil"
+      },
+      "name:8": "73d82e45",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 412,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

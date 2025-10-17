@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    612
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "To get the Rocket Launch Pad, you\u0027ll need a little something called Space-Grade Steel. This is made using Dark Steel and Enderpearl dust, so you\u0027ll\nwant to venture into that a little bit before launching! Space Grade Steel is also required for making the heavy-duty plates.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "galacticraftcore:landing_pad"
+      },
+      "name:8": "Rocket Launch Pad",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 609,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "galacticraftcore:landing_pad"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

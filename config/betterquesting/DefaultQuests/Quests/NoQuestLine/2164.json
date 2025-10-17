@@ -1,0 +1,42 @@
+{
+  "preRequisites:11": [
+    2166,
+    2155
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Put bees inside. Bees work. Bees breed. Bees mutate. ",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forestry:apiary"
+      },
+      "name:8": "Beebreeding",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2164,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:apiary"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forestry:apiary"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

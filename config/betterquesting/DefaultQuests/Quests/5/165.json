@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    174
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Cuisine is a useful food mod that helps nullify hunger early on. Its foods depend on your knowledge of the mod, and how much you cook food in the mod\ntoo! Read the food questline for mroe info.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "cuisine:placed_dish"
+      },
+      "name:8": "Cuisine",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 165,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "cuisine:placed_dish"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

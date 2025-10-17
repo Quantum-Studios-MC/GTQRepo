@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    2126
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§2Pam\u0027s HarvestCraft §f is an extremely diverse food mod that has a lot of different foods for you to eat and thus keep your diet varied \nwith.\n\nAs this modpack has the Nutrition mod, you need to take care of your diet as well. Eating one kind of food all the time will both\n§5reduce the value of your current food§f and make your diet worse.\n\nSo you should probably make an underground farm of sorts to grow crops easily.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "harvestcraft:grilledcheesevegemitetoastitem"
+      },
+      "name:8": "Pam\u0027s Harvestcraft",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2138,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harvestcraft:sausageinbreaditem"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "preRequisites:11": [
+    1456
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Zombies are now §bsmarter than before!§f \n\nYou might have noticed you §cbleed§f when you take damage.. This blood §cis not just for show.§f\nYou spill blood if you get hurt, and if §4low health you bleed out once in a while.§f\n\n§cMining for blocks will alert other zombies of your position.\n\n§eZombies can see exposed light sources from super far away, and will come to investigate if they have line of sight.§f\n\n§cMore zombies spawn at night!§fIn groups or hordes, and they can also gain random §bspeed buffs.§f",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2,
+        "id:8": "minecraft:skull"
+      },
+      "name:8": "Zombie Awareness"
+    }
+  },
+  "questID:3": 1473,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

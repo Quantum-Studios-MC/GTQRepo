@@ -1,0 +1,54 @@
+{
+  "preRequisites:11": [
+    1996
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Radon is a radioactive gas required for Quantum Eyes. Radon can be made in IV by distilling Ender Air, but for now this is the only way.\n\nUranium-238 dust with Plutonium-239 Ingots will make a decent amount of Radon.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "betterquesting:placeholder",
+        "tag:10": {
+          "orig_id:8": "theaurorian:ceruleanbucket",
+          "orig_meta:3": 0,
+          "orig_tag:10": {
+            "Fluid:10": {
+              "Amount:3": 1000,
+              "FluidName:8": "radon"
+            }
+          }
+        }
+      },
+      "name:8": "Radon",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2009,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 8,
+          "Damage:2": 81,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "forge:bucketfilled",
+          "tag:10": {
+            "Amount:3": 1000,
+            "FluidName:8": "radon"
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

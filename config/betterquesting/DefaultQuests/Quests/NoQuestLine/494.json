@@ -1,0 +1,60 @@
+{
+  "preRequisites:11": [
+    513
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Chopping Block is a workstation used for dicing/chopping/shredding food items into their respective forms.\nThis works with a lot of things, so feel free to experiment! Check JEI.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "cuisine:kitchen_knife"
+      },
+      "name:8": "Chopping, Dicing, Shredding",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 494,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "hbm:stopsign"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "cuisine:chopping_board",
+          "tag:10": {
+            "BlockEntityTag:10": {
+              "cover:10": {
+                "Count:3": 1,
+                "Damage:2": 0,
+                "id:8": "minecraft:log"
+              }
+            }
+          }
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "cuisine:kitchen_knife"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

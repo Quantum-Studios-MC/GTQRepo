@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    364
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The advantage of getting higher tier coils is that you can get more and more coil bonuses which means more MONEY",
+      "icon:10": {
+        "Count:3": 12,
+        "Damage:2": 3,
+        "id:8": "gregtech:wire_coil"
+      },
+      "name:8": "RTM Alloy Coil Block",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 365,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 12,
+          "Damage:2": 3,
+          "id:8": "gregtech:wire_coil"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -5,9 +5,8 @@ minecraft:smith
 minecraft:butcher
 minecraft:nitwit
 openblocks:radio
+witchery:apothecary
 roots:wild_mage
-bewitchment:hedge_witch
-bewitchment:alchemist
 forestry:arborist
 forestry:apiarist
 extrautils2:alchemist

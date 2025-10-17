@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1830
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Steam Grinder is a multiblock that is a Steam Macerator, and processes 8 recipes in parallel. It\u0027s a bit slower but the parallels are worth it.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1025,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Steam Grinder",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1837,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1025,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

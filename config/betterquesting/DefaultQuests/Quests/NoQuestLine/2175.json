@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    2174
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Storage Scanner is an extremely useful machine created by using a TON of LV circuits. It\u0027s worth the investment, though, as it functions\nas an Interface to other storage solutions, including crates and chests! It can also be used to loot chests, and it also connects to Modular\nStorages easily, allowing quick and easy access to a lot of them at once.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "rftools:storage_scanner"
+      },
+      "name:8": "Storage Scanner",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2175,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "rftools:storage_scanner"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

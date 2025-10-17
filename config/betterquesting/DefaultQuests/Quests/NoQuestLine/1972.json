@@ -1,0 +1,35 @@
+{
+  "preRequisites:11": [
+    1959,
+    1969,
+    1945
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Congrats! you have acquired Ethylene! \n\nThough the processing is not over yet. You need to combine Ethylene with Air from a gas collector in order to get Polyethylene.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "forge:bucketfilled",
+        "tag:10": {
+          "Amount:3": 1000,
+          "FluidName:8": "ethylene"
+        }
+      },
+      "name:8": "Ethylene",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1972,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredFluids:9": {
+        "0:10": {
+          "Amount:3": 1000,
+          "FluidName:8": "ethylene"
+        }
+      },
+      "taskID:8": "bq_standard:fluid"
+    }
+  }
+}

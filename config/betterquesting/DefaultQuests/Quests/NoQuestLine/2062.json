@@ -1,0 +1,29 @@
+{
+  "preRequisites:11": [
+    2052
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Nether access. Refill it with obsidian!\nI suggest you also make an overworld cake or apple so you can come back easily.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "dimensionaledibles:nether_cake"
+      },
+      "name:8": "Nether Cake",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2062,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "dimensionaledibles:nether_cake"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

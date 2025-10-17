@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    348
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Distillation tower is a multiblock that is very useful for petroleum production. It can make different distillery products all at once instead\nof voiding the other products. this reduces waste and also unlocks some more recipes related to distillation.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1005,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Distillation Tower",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 352,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1005,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

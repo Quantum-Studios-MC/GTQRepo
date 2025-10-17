@@ -1,0 +1,42 @@
+{
+  "preRequisites:11": [
+    2066,
+    2050
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The spell system can be a little difficult to understand, but the gist is:\n\nTo learn a spell, you need to first make its spell dust in a Mortar. Next, make an imbuer and then place the spell dust inside it.\nAfter that, simply place the gramary on top of the dust in the imbuer and wait. You will eventually receive a message that a new spell has been added to\nyour Spell Library.\n\nTo open the spell library, press K (default keybind) while holding a staff. This will allow you to select the spell!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:imbuer"
+      },
+      "name:8": "Imbuer",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2064,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:dewgonia"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:imbuer"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

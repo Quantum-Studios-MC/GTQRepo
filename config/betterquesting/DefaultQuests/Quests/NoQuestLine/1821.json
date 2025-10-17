@@ -1,0 +1,52 @@
+{
+  "preRequisites:11": [
+    1819
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Some basic resources you will need to get are Fiber, Stone (Or any type of) rocks, and Sticks.\nThese are used for various purposes throughout the early game, but for now, they\u0027re the main way to make Tools.\nFirst, punch grass/tall grass for Fiber. This process has a small chance to drop Dried fiber, which is important for later on, so remember to hoard as much of it\nas you can.\n\nNext, rocks can be found in the ground or be mined via gravel. Finally, sticks are acquired from leaves.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 12,
+        "id:8": "pyrotech:material"
+      },
+      "name:8": "Basic Resources",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1821,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:stick"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 12,
+          "id:8": "pyrotech:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "2:10": {
+      "index:3": 2,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "rock",
+          "id:8": "pyrotech:rock"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

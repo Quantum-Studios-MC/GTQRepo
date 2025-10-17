@@ -1,0 +1,33 @@
+{
+  "preRequisites:11": [
+    219722240,
+    1149
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The vulcanisation vat produces liquid rubber, which can be solidified into rubber ingots or sheets in a §7Strand Caster.§f\n\nYou can §6boost§k§f rubber production using Zinc Sulphite.",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 11018,
+        "id:8": "gregtech:machine"
+      },
+      "ismain:1": 1,
+      "name:8": "Vulcanisation Vat"
+    }
+  },
+  "questID:3": 406411401,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 11018,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

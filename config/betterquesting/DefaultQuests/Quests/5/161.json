@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    189
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Now this is probably the most essential resource here.\nDiamond is required for the Smeltery, which is your ticket to finally getting a good source of iron and an inbuilt alloy smelter.\nSo now, how do you get diamond?\n\nThe Aurorian has Astral Sorcery structures which may contain diamonds.\nBlacksmiths may also have diamonds.\nDiamonds can also be obtained by painfully ore-processing them.. the choice is yours.",
+      "icon:10": {
+        "Count:3": 1,
+        "OreDict:8": "gemDiamond",
+        "id:8": "minecraft:diamond"
+      },
+      "name:8": "Resources: Diamond",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 161,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "gemDiamond",
+          "id:8": "minecraft:diamond"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1140
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "For any Laymen/Women here, the §6V.I.C.E§f is a super useful tool that\u0027s a portable crafting grid that has the ability to §5pull items from inventories near it.§f",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "vaultopic:vice"
+      },
+      "ismain:1": 1,
+      "name:8": "V.I.C.E"
+    }
+  },
+  "questID:3": 1275,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "vaultopic:vice"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

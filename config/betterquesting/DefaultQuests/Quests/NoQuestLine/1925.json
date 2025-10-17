@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1928
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 7,
+        "id:8": "appliedenergistics2:material"
+      },
+      "name:8": "Fluix Crystal",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1925,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 7,
+          "id:8": "appliedenergistics2:material"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

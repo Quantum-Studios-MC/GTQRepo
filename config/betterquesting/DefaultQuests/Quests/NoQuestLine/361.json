@@ -1,0 +1,52 @@
+{
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Welcome to EV. the main metal of this tier is Titanium, so you should automate it.\n\nEV Machines require a lot of power so i\u0027d recommend using a Large Turbine or something like that later on.\n\nEV is also home to the infamous Platline, but it\u0027s not as complicated as it might seem.\n\nAlso, Titanium unlocks Machine Chassis from EnderIO.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 113,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "Titanium Ingot",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 361,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2,
+          "id:8": "gregtech:meta_ingot"
+        }
+      }
+    },
+    "1:10": {
+      "index:3": 1,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 285,
+          "id:8": "gregtech:meta_dust"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 113,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "preRequisites:11": [
+    1670
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§aAnvils§k§f are a quicker and cheaper way to forge metal parts for your tools.\n\nThe Forging mechanic is similar to §6TerraFirmaCraft,§f and to work metals you have to;\n\n- Heat them up in a Charcoal/Brick Oven till it says \"§6Workable§f\"\n- Put the ingot of metal in the §6Anvil§f along with a hammer and try to match the 3 criteria of the tool part as well as keeping the arrows synchronized with each other",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "tinkersforging:hammer/valkyrie"
+      },
+      "name:8": "Tinkers Forging Info"
+    }
+  },
+  "questID:3": 3282,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "tinkersforging:hammer/iron"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

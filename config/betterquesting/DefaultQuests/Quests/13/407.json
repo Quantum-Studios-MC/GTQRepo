@@ -1,0 +1,41 @@
+{
+  "preRequisites:11": [
+    420
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Pyre is the main way of conducting rituals.\n\nNOTE: Before getting a Flint and Steel, simply lighting a block around the Pyre with your Bow Drill/Flint and Tinder will work.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "roots:pyre"
+      },
+      "name:8": "Pyre",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 407,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "minecraft:wooden_door"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "roots:pyre"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

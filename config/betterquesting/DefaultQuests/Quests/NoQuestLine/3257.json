@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    3093
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "§4Parasites§f are an invasive, alien species that will slowly but surely gain power in your world.\nYou can §aescape§f them by travelling to different dimensions like the Aether, but, till then, you have to deal with their growth.\n\nIn the §einitial earlygame,§f you can find structures with Tunnels in them. They will spawn §cparasites§f over time, so it is\nadvised to destroy as many tunnels as you can!\n\nThough the configs have been edited so they should not §anaturally spawn§f much, if at all..\n\nHowever.\n\nAll it takes..\n\n§eIs \n\n§cOne\n\n§4Spark",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "srparasites:itemmobspawner_mudo"
+      },
+      "name:8": "Parasites"
+    }
+  },
+  "questID:3": 3257,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

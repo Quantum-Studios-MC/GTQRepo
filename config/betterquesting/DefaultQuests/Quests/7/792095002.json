@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    1476564473
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Circuit Boards can be made using only Varnished Wood now. ",
+      "frame:8": "SQUARE",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 401,
+        "id:8": "gregtech:meta_item_1"
+      },
+      "ismain:1": 1,
+      "name:8": "Circuit Boards"
+    }
+  },
+  "questID:3": 792095002,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 401,
+          "id:8": "gregtech:meta_item_1"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

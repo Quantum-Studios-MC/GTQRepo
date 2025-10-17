@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    1830
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Look how far you\u0027ve come! from waiting 8 minutes for smelting stone, to doing 8 recipes in parallel!\n\nAnyway, the Steam Oven is an incredibly useful multiblock that can parallel 8 furnace recipes at once! How cool is that?",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1024,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Steam Oven",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1852,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1024,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

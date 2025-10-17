@@ -1,0 +1,22 @@
+{
+  "preRequisites:11": [
+    397
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "You might have noticed the §aseason§f counter in the GUI i have so masterfully crafted..\nWell, it\u0027s not just for show! certain crops can §6§6ONLY §f§fgrow in their native season! \n\nPlus, temperature also differs from season-to-season. though that should be obvious enough!",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "sereneseasons:ss_icon"
+      },
+      "name:8": "Seasons"
+    }
+  },
+  "questID:3": 421,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "taskID:8": "bq_standard:checkbox"
+    }
+  }
+}

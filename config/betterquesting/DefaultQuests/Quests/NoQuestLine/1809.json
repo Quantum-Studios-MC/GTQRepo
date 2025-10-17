@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1820
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This world isn\u0027t that hostile. Trees, Oxygen.. you\u0027re way better off than a lot of people in other survival situations..\nAnyway, now, it is time to acquire your first \"Machine\". This is the Chopping Block.\n\nThe chopping block is used mainly to cut down planks into slabs. It can also be used to convert logs into planks, which is a deprecated recipe by the \ncourtesy of Greg.",
+      "icon:10": {
+        "Count:3": 1,
+        "id:8": "pyrotech:chopping_block"
+      },
+      "name:8": "Chopping Block",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1809,
+  "tasks:9": {
+    "0:10": {
+      "ignoreNBT:1": 1,
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "pyrotech:chopping_block"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

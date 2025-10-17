@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    3304,
+    3308
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "No Description",
+      "icon:10": {
+        "Count:3": 1,
+        "ForgeCaps:10": {
+          "tinkersforging:forge_item:10": {
+            "steps:10": {
+              "last:3": -1,
+              "second:3": -1,
+              "third:3": -1
+            },
+            "temp:5": 0.0,
+            "tick:4": -1,
+            "work:3": 75
+          }
+        },
+        "id:8": "thaumcraft:ingot"
+      },
+      "name:8": "New Quest"
+    }
+  },
+  "questID:3": 3276,
+  "tasks:9": {}
+}

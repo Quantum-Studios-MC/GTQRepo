@@ -1,0 +1,28 @@
+recipemap('latex_extractor').recipeBuilder()
+        .inputs(item('gregtech:meta_item_1', 438))
+        .fluidOutputs(fluid('raw_latex') * 100)
+        .duration(800).EUt(16).buildAndRegister()
+
+recipemap('vulcanisation_vat').recipeBuilder()
+        .fluidInputs(fluid('raw_latex') * 200)
+        .inputs(ore('dustSulfur') * 2)
+        .fluidOutputs(fluid('rubber') * 144)
+        .duration(400).EUt(8).buildAndRegister()
+
+recipemap('vulcanisation_vat').recipeBuilder()
+        .fluidInputs(fluid('raw_latex') * 200)
+        .inputs(ore('dustSulfur') * 2)
+        .fluidOutputs(fluid('rubber') * 144)
+        .duration(400).EUt(8).buildAndRegister()
+
+recipemap('vulcanisation_vat').recipeBuilder()
+        .fluidInputs(fluid('raw_latex') * 100)
+        .inputs(ore('dustZincSulphate') * 1)
+        .fluidOutputs(fluid('rubber') * 288)
+        .duration(400).EUt(8).buildAndRegister()
+
+recipemap('roaster').recipeBuilder()
+        .fluidInputs(fluid('zinc_vapor') * 1000)
+        .inputs(ore('dustSulfur') * 1)
+        .outputs(metaitem('dustZincSulphate') * 2)
+        .duration(400).EUt(16).buildAndRegister()

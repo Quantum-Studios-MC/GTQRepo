@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2229
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "The Multismelter is basically a better Steam Oven. It\u0027s a furnace with many more parallels.. \n\nThe coil tier also increases the amount of max parallels!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1006,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Multi Smelter",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2223,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1006,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

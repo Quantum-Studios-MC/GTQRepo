@@ -539,21 +539,20 @@
       "itemOutput": []
     },
     {
-      "id": 61,
-      "name": "SATURN",
-      "duration": 60,
+      "id": 20,
+      "name": "PERFLUOROMETHYL",
+      "duration": 100,
       "fluidInput": [
-        ["SULFURIC_ACID",100]
+        ["PETROLEUM",1000],
+        ["UNSATURATEDS",500]
       ],
       "itemInput": [
-        ["dict","dustDuraSteel",2],
-        ["dict","dustCopper"],
-        ["dict","dustCoal"]
+        ["dict","dustFluorite"]
       ],
-      "fluidOutput": [],
-      "itemOutput": [
-        ["hbm:ingot_saturnite",4]
-      ]
+      "fluidOutput": [
+        ["PERFLUOROMETHYL",1000]
+      ],
+      "itemOutput": []
     },
     {
       "id": 62,

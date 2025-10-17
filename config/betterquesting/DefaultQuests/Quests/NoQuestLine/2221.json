@@ -1,0 +1,31 @@
+{
+  "preRequisites:11": [
+    2245
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "PTFE is an important plastic required for the Large Chemical Reactor and also as a stand-in for PE in many places, allowing for much more efficient\nrecipes.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1016,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "PTFE",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 2221,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1016,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

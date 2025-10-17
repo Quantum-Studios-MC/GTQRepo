@@ -18,18 +18,6 @@
 		type: "xp_levels"
 	},
 	{
-		ftb_money: 100L,
-		type: "ftbmoney:money"
-	},
-	{
-		ftb_money: 25L,
-		type: "ftbmoney:money"
-	},
-	{
-		ftb_money: 50L,
-		type: "ftbmoney:money"
-	},
-	{
 		item: "projectred-integration:gate 1 11"
 	},
 	{

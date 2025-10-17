@@ -1,0 +1,54 @@
+{
+  "preRequisites:11": [
+    1826
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Coal in itself is not easy to get. Your best bet is in the Nether, where you can find tons of dense coal deposits. These drop nominal amounts of coal.\nOnce you get the furnace, you can easily process overworld coal ore as well.\n\nCharcoal is the main fuel source for the Stone and Refractory eras. The best way to get it is burning Log Piles in Pile Burning. This produces insane\namounts of charcoal, along with flakes and ash.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 1,
+        "id:8": "minecraft:coal"
+      },
+      "name:8": "Resources: Coal and Charcoal",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 1797,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "id:8": "harvestcraft:blackberryjuiceitem"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "OreDict:8": "coal",
+          "id:8": "minecraft:coal"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    },
+    "1:10": {
+      "index:3": 1,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 1,
+          "id:8": "minecraft:coal"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

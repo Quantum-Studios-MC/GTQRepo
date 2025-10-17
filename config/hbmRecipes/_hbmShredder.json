@@ -1,0 +1,2897 @@
+{
+  "comment": "Ingot/block/ore -> dust recipes are generated in post and can therefore not be changed with the config. Non-auto recipes do not use ore dict.",
+  "recipes": [
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:fermented_spider_eye"],
+      "output": ["hbm:powder_poison",3]
+    },
+    {
+      "input": ["twilightforest:tower_wood",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:debris_element"],
+      "output": ["hbm:scrap_nuclear",4]
+    },
+    {
+      "input": ["extratrees:logs.2",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["roots:wildwood_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:stone_gneiss"],
+      "output": ["hbm:powder_lithium_tiny"]
+    },
+    {
+      "input": ["mysticalworld:charred_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["extratrees:planks.1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["rustic:painted_wood_red"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:papaya_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.fireproof.6",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:crystal_lapis"],
+      "output": ["hbm:powder_lapis",8]
+    },
+    {
+      "input": ["hbm:crystal_phosphorus"],
+      "output": ["hbm:powder_fire",8]
+    },
+    {
+      "input": ["harvestcraft:chestnut_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:can_empty"],
+      "output": ["hbm:powder_aluminium",2]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_14",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:quartz_ore"],
+      "output": ["hbm:powder_quartz",2]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["rustic:painted_wood_orange"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,14],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,13],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:coil_advanced_alloy"],
+      "output": ["hbm:powder_advanced_alloy"]
+    },
+    {
+      "input": ["hbm:deco_pipe_rim_red"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["hbm:steel_scaffold",1,32767],
+      "output": ["hbm:powder_steel_tiny",4]
+    },
+    {
+      "input": ["hbm:deco_pipe_rim_green"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,7],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_2_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,8],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,6],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:durian_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,5],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_schraranium"],
+      "output": ["hbm:nugget_schrabidium",3]
+    },
+    {
+      "input": ["biomesoplenty:log_3",1,7],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["chisel:planks-oak",1,4],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_nether_planks_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:log_3",1,6],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["chisel:planks-oak",1,12],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:log_3",1,5],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["chisel:planks-oak",1,11],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:log_3",1,4],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,10],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,9],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["gregtechfoodoption:gtfo_sapling_1",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["extrautils2:ironwood_log",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["forestry:sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["extratrees:logs.1",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["forestry:logs.0",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["natura:redwood_logs",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:coil_tungsten"],
+      "output": ["hbm:powder_tungsten"]
+    },
+    {
+      "input": ["hbm:debris_exchanger"],
+      "output": ["hbm:powder_steel",3]
+    },
+    {
+      "input": ["hbm:deco_pipe_quad_green"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["extratrees:planks.0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:pear_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:crystal_schrabidium"],
+      "output": ["hbm:powder_schrabidium",3]
+    },
+    {
+      "input": ["minecraft:planks",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.fireproof.5",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["thaumadditions:taintwood_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.9",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_15",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:ore_aluminium"],
+      "output": ["hbm:chunk_ore",2,2]
+    },
+    {
+      "input": ["minecraft:poisonous_potato"],
+      "output": ["hbm:powder_poison"]
+    },
+    {
+      "input": ["hbm:fragment_actinium"],
+      "output": ["hbm:powder_actinium_tiny"]
+    },
+    {
+      "input": ["harvestcraft:paperbark_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:obsidian"],
+      "output": ["hbm:gravel_obsidian"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:log_2",1,7],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:log_2",1,6],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["harvestcraft:apple_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:sellafield",1,5],
+      "output": ["hbm:scrap_nuclear",15]
+    },
+    {
+      "input": ["biomesoplenty:log_2",1,5],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:sellafield",1,4],
+      "output": ["hbm:scrap_nuclear",7]
+    },
+    {
+      "input": ["biomesoplenty:log_2",1,4],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:sellafield",1,3],
+      "output": ["hbm:scrap_nuclear",5]
+    },
+    {
+      "input": ["forestry:planks.vanilla.fireproof.0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:sellafield",1,2],
+      "output": ["hbm:scrap_nuclear",3]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_nether_planks_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_2_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:sellafield",1,1],
+      "output": ["hbm:scrap_nuclear",2]
+    },
+    {
+      "input": ["hbm:sellafield"],
+      "output": ["hbm:scrap_nuclear"]
+    },
+    {
+      "input": ["minecraft:diamond_ore"],
+      "output": ["hbm:gravel_diamond",2]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_nether_planks_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["cuisine:sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:coil_gold_torus"],
+      "output": ["hbm:powder_gold",2]
+    },
+    {
+      "input": ["forestry:planks.fireproof.1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.fireproof.4",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["gregtechfoodoption:gtfo_sapling_0",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["extratrees:logs.0",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["twilightforest:canopy_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:chunk_ore"],
+      "output": ["hbm:powder_desh_mix"]
+    },
+    {
+      "input": ["biomesoplenty:log_1",1,7],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:log_1",1,6],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:log_1",1,5],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:log_1",1,4],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:olive_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_2_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:steel_grate"],
+      "output": ["hbm:powder_steel_tiny",3]
+    },
+    {
+      "input": ["hbm:brick_obsidian"],
+      "output": ["hbm:gravel_obsidian"]
+    },
+    {
+      "input": ["hbm:brick_concrete_broken"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["forestry:planks.0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_nether_planks_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:pistachio_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:deco_pipe_framed_green"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["witchery:alder_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["forbidden_arcanus:cherrywood_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,3],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak",1,2],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_uranium"],
+      "output": ["hbm:powder_uranium",3]
+    },
+    {
+      "input": ["chisel:planks-oak",1,1],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:cherry_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-oak"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_0"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["extratrees:planks.2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_0",1,1],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["minecraft:cobblestone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["forestry:planks.fireproof.0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_0",1,2],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["rustic:sapling",1,1],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["witchery:rowan_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:sapling_0",1,3],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["forestry:logs.fireproof.3",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:sapling_0",1,4],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:dragonfruit_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["rustic:painted_wood_pink"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_0",1,5],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["rustic:sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:brick_light"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["biomesoplenty:sapling_0",1,6],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_0",1,7],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["tconstruct:slime_sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_niter"],
+      "output": ["hbm:niter",8]
+    },
+    {
+      "input": ["thaumcraft:plank_silverwood"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["natura:overworld_logs",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["rustic:planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:log_0",1,7],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:log_0",1,6],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:log_0",1,5],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["rustic:planks",1,1],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:log_0",1,4],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["forestry:planks.1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_plutonium"],
+      "output": ["hbm:powder_plutonium",3]
+    },
+    {
+      "input": ["quark:vertical_planks",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["witchery:rowan_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:nutmeg_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["integrateddynamics:menril_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:deco_pipe_rim_marked"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["harvestcraft:cashew_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_15",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["galaxyspace:barnarda_c_blocks",1,6],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stonebrick"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["forbidden_arcanus:cherrywood_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:meteor_polished"],
+      "output": ["hbm:powder_meteorite"]
+    },
+    {
+      "input": ["forestry:logs.fireproof.2",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["harvestcraft:date_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["witchery:alder_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:starfruit_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["minecraft:stone_slab",1,7],
+      "output": ["hbm:powder_quartz",2]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:carrot"],
+      "output": ["minecraft:sugar"]
+    },
+    {
+      "input": ["minecraft:hardened_clay"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:dirt_dead"],
+      "output": ["hbm:scrap_oil"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_13",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:sand"],
+      "output": ["hbm:dust",2]
+    },
+    {
+      "input": ["hbm:stone_cracked"],
+      "output": ["hbm:scrap_oil"]
+    },
+    {
+      "input": ["minecraft:apple"],
+      "output": ["minecraft:sugar"]
+    },
+    {
+      "input": ["harvestcraft:maple_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:crystal_titanium"],
+      "output": ["hbm:powder_titanium",3]
+    },
+    {
+      "input": ["minecraft:log2",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["rustic:painted_wood_cyan"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.3",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["extratrees:logs.6",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:coal_infernal"],
+      "output": ["hbm:powder_coal",2]
+    },
+    {
+      "input": ["forestry:sapling_ge",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:coil_copper_torus"],
+      "output": ["hbm:powder_red_copper",2]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["integrateddynamics:menril_log_filled"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,12],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,13],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,14],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.fireproof.1",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["randomthings:spectreplank"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:sandstone"],
+      "output": ["minecraft:sand",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:pink_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_thorium"],
+      "output": ["hbm:powder_thorium",3]
+    },
+    {
+      "input": ["integrateddynamics:menril_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,1],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:ore_rare"],
+      "output": ["hbm:powder_desh_mix"]
+    },
+    {
+      "input": ["quark:stained_planks",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,2],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["rustic:painted_wood_yellow"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:fig_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:crystal_beryllium"],
+      "output": ["hbm:powder_beryllium",3]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,7],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.4",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["extratrees:logs.5",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:coil_magnetized_tungsten"],
+      "output": ["hbm:powder_magnetized_tungsten"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,8],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,9],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,10],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,11],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,3],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["randomthings:spectresapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,4],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["natura:overworld_sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,5],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_lead"],
+      "output": ["hbm:powder_lead",3]
+    },
+    {
+      "input": ["hbm:stone_porous"],
+      "output": ["hbm:scrap_oil"]
+    },
+    {
+      "input": ["chisel:planks-spruce",1,6],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:block_slag"],
+      "output": ["hbm:powder_cement",4]
+    },
+    {
+      "input": ["forestry:logs.fireproof.0",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:quartz_block"],
+      "output": ["hbm:powder_quartz",4]
+    },
+    {
+      "input": ["hbm:deco_pipe_framed_green_rusted"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["minecraft:quartz_block",1,1],
+      "output": ["hbm:powder_quartz",4]
+    },
+    {
+      "input": ["minecraft:quartz_block",1,2],
+      "output": ["hbm:powder_quartz",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:deco_pipe_quad_red"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["hbm:powder_lapis"],
+      "output": ["hbm:powder_cobalt_tiny"]
+    },
+    {
+      "input": ["extratrees:logs.4",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_15",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_13",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,12],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:debris_concrete"],
+      "output": ["hbm:scrap_nuclear",2]
+    },
+    {
+      "input": ["rustic:painted_wood_lime"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,13],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["twilightforest:twilight_oak_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,14],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_rare"],
+      "output": ["hbm:powder_desh_mix",2]
+    },
+    {
+      "input": ["hbm:pink_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:pamcinnamon"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:concrete_smooth"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["twilightforest:mangrove_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:glowstone"],
+      "output": ["minecraft:glowstone_dust",4]
+    },
+    {
+      "input": ["hbm:deco_pipe_quad_marked"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:log",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["aether_legacy:aether_log",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:hazelnut_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["minecraft:sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["thaumcraft:sapling_greatwood"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["twilightforest:dark_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forbidden_arcanus:carved_cherrywood_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_trixite"],
+      "output": ["hbm:powder_plutonium",6]
+    },
+    {
+      "input": ["forestry:logs.1",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:quartz"],
+      "output": ["hbm:powder_quartz"]
+    },
+    {
+      "input": ["harvestcraft:peppercorn_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["harvestcraft:mango_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["natura:nether_logs",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_14",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["thaumcraft:log_silverwood"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["extratrees:logs.3",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["twilightforest:mine_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["natura:redwood_sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_14",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_diamond"],
+      "output": ["hbm:powder_diamond",3]
+    },
+    {
+      "input": ["hbm:fragment_cerium"],
+      "output": ["hbm:powder_cerium_tiny"]
+    },
+    {
+      "input": ["witchery:hawthorn_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["gregtech:rubber_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,4],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,5],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,6],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_starmetal"],
+      "output": ["hbm:powder_dura_steel",6]
+    },
+    {
+      "input": ["chisel:planks-birch",1,7],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["rustic:painted_wood_magenta"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["mysticalworld:charred_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["natura:nether_planks",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,8],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,9],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,10],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch",1,11],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:fragment_cobalt"],
+      "output": ["hbm:powder_cobalt_tiny"]
+    },
+    {
+      "input": ["harvestcraft:pampaperbark"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:concrete"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_2_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["thaumcraft:plank_greatwood"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-birch"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.2",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["chisel:planks-birch",1,1],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_2_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crate_iron"],
+      "output": ["hbm:powder_iron",8]
+    },
+    {
+      "input": ["chisel:planks-birch",1,2],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:log_4",1,5],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["randomthings:spectrelog"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["chisel:planks-birch",1,3],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.1",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["harvestcraft:pammaple"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["chisel:planks-dark-oak"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:coconut_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:deco_pipe_framed_rusted"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["harvestcraft:banana_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:persimmon_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_15",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:steel_beam"],
+      "output": ["hbm:powder_steel_tiny",3]
+    },
+    {
+      "input": ["hbm:steel_wall"],
+      "output": ["hbm:powder_steel_tiny",9]
+    },
+    {
+      "input": ["minecraft:skull",1,3],
+      "output": ["hbm:biomass",4]
+    },
+    {
+      "input": ["hbm:pipes_steel"],
+      "output": ["hbm:powder_steel",27]
+    },
+    {
+      "input": ["minecraft:skull",1,4],
+      "output": ["hbm:biomass",4]
+    },
+    {
+      "input": ["hbm:deco_pipe_framed_marked"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["minecraft:tnt"],
+      "output": ["minecraft:gunpowder",5]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["twilightforest:twilight_log",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,14],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:steel_poles"],
+      "output": ["hbm:powder_steel_tiny",2]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,7],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,8],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["integrateddynamics:menril_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["harvestcraft:soursop_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,9],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.7",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_13",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,10],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,10],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,11],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,11],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,12],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,12],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:dirt"],
+      "output": ["hbm:dust"]
+    },
+    {
+      "input": ["hbm:ore_sellafield_diamond"],
+      "output": ["hbm:gravel_diamond",2]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,13],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,13],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,14],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:ore_oil_empty"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,5],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,6],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_copper"],
+      "output": ["hbm:powder_copper",3]
+    },
+    {
+      "input": ["hbm:meteor_brick"],
+      "output": ["hbm:powder_meteorite"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,7],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,9],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,1],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,8],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,2],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:fragment_meteorite"],
+      "output": ["hbm:powder_meteorite_tiny"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,3],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,1],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:gravel"],
+      "output": ["minecraft:sand"]
+    },
+    {
+      "input": ["harvestcraft:jackfruit_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,4],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:rambutan_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,2],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,5],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["witchery:rowan_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,3],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-acacia",1,6],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-dark-oak",1,4],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_2_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["rustic:log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["forbidden_arcanus:mysterywood_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["rustic:painted_wood_black"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:steel_corner"],
+      "output": ["hbm:powder_steel_tiny",18]
+    },
+    {
+      "input": ["hbm:meteor_brick_mossy"],
+      "output": ["hbm:powder_meteorite"]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.0",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_14",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:lychee_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["thaumcraft:log_greatwood"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:dungeon_chain"],
+      "output": ["hbm:powder_steel_tiny"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:fragment_lanthanium"],
+      "output": ["hbm:powder_lanthanium_tiny"]
+    },
+    {
+      "input": ["rustic:painted_wood_white"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:lime_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["aether_legacy:golden_oak_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:brick"],
+      "output": ["minecraft:clay_ball"]
+    },
+    {
+      "input": ["extratrees:logs.9",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:skull"],
+      "output": ["hbm:biomass",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:deco_pipe_green_rusted"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["minecraft:skull",1,1],
+      "output": ["hbm:biomass",4]
+    },
+    {
+      "input": ["hbm:dirt_oily"],
+      "output": ["hbm:scrap_oil"]
+    },
+    {
+      "input": ["minecraft:skull",1,2],
+      "output": ["hbm:biomass",4]
+    },
+    {
+      "input": ["harvestcraft:passionfruit_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["gregtech:meta_plate",1,1617],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:tamarind_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_2_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:plum_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["harvestcraft:orange_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["minecraft:quartz_stairs"],
+      "output": ["hbm:powder_quartz",3]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["rustic:log",1,1],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forbidden_arcanus:edelwood_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:wool",1,11],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["twilightforest:magic_log",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:wool",1,12],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["minecraft:wool",1,9],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["minecraft:wool",1,8],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:wool",1,10],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["minecraft:wool",1,15],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:ingot_schrabidate"],
+      "output": ["hbm:powder_schrabidate"]
+    },
+    {
+      "input": ["roots:wildwood_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:wool",1,13],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_13",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["cuisine:log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:wool",1,14],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["minecraft:packed_ice"],
+      "output": ["hbm:powder_ice"]
+    },
+    {
+      "input": ["harvestcraft:breadfruit_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["witchery:hawthorn_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["harvestcraft:almond_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:crystal_sulfur"],
+      "output": ["hbm:sulfur",8]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:ingot_schraranium"],
+      "output": ["hbm:nugget_schrabidium",2]
+    },
+    {
+      "input": ["thaumcraft:sapling_silverwood"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["minecraft:clay"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:dust_tiny"],
+      "output": ["hbm:dust_tiny"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_aluminium"],
+      "output": ["hbm:powder_aluminium",3]
+    },
+    {
+      "input": ["harvestcraft:lemon_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["gregtechfoodoption:gtfo_log_2",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["natura:nether_logs2",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:ore_nether_fire"],
+      "output": ["hbm:powder_fire",6]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:fragment_niobium"],
+      "output": ["hbm:powder_niobium_tiny"]
+    },
+    {
+      "input": ["natura:overworld_planks",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.5",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_15",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:wool",1,2],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["minecraft:wool",1,3],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["rustic:painted_wood_green"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:wool"],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["harvestcraft:cinnamon_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:crystal_tungsten"],
+      "output": ["hbm:powder_tungsten",3]
+    },
+    {
+      "input": ["minecraft:wool",1,1],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_2_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:wool",1,6],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["extratrees:planks.fireproof.0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_15",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:wool",1,7],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["hbm:deco_pipe"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["minecraft:wool",1,4],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["extratrees:logs.8",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["forbidden_arcanus:mysterywood_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:wool",1,5],
+      "output": ["minecraft:string",4]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.4",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:deco_pipe_rim_green_rusted"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.2",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:brick_block"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["quark:variant_sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:block_schrabidate"],
+      "output": ["hbm:powder_schrabidate",9]
+    },
+    {
+      "input": ["hbm:crystal_lithium"],
+      "output": ["hbm:powder_lithium",3]
+    },
+    {
+      "input": ["hbm:deco_pipe_rusted"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["hbm:meteor_brick_chiseled"],
+      "output": ["hbm:powder_meteorite"]
+    },
+    {
+      "input": ["hbm:crystal_iron"],
+      "output": ["hbm:powder_iron",3]
+    },
+    {
+      "input": ["twilightforest:time_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["quark:vertical_stained_planks",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["gregtechfoodoption:gtfo_planks_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:deco_pipe_rim_rusted"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_1_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["natura:overworld_sapling2",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:brick_concrete_mossy"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_quark_stained_planks_14",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.6",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:crystal_fluorite"],
+      "output": ["hbm:fluorite",8]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["extratrees:logs.7",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:coil_advanced_torus"],
+      "output": ["hbm:powder_advanced_alloy",2]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.3",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:crystal_gold"],
+      "output": ["hbm:powder_gold",3]
+    },
+    {
+      "input": ["extratrees:planks.fireproof.1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:anvil"],
+      "output": ["hbm:powder_iron",31]
+    },
+    {
+      "input": ["harvestcraft:guava_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-jungle"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:deco_pipe_quad_green_rusted"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["natura:overworld_logs2",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["gregtech:rubber_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_15",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crate_tungsten"],
+      "output": ["hbm:powder_tungsten",36]
+    },
+    {
+      "input": ["extrautils2:ironwood_planks",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_1",1,2],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:fragment_neodymium"],
+      "output": ["hbm:powder_neodymium_tiny"]
+    },
+    {
+      "input": ["minecraft:brick_stairs"],
+      "output": ["minecraft:clay_ball",3]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,6],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_1",1,3],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:deco_pipe_framed_red"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,7],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_1",1,4],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,8],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_1",1,5],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,9],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_1",1,6],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:scrap"],
+      "output": ["hbm:dust"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,1],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_1",1,7],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["harvestcraft:vanillabean_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,2],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,3],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,4],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["cuisine:planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,5],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["rustic:painted_wood_brown"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:coil_copper"],
+      "output": ["hbm:powder_red_copper"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,14],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["aether_legacy:skyroot_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,10],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,11],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_1"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,12],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_1",1,1],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["gregtechfoodoption:gtfo_log_0",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["chisel:planks-jungle",1,13],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["extratrees:planks.fireproof.2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_6",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["twilightforest:trans_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_13",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.6",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["hbm:sand_dirty"],
+      "output": ["hbm:scrap_oil"]
+    },
+    {
+      "input": ["rustic:painted_wood_purple"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_4",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:grapefruit_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["natura:nether_sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crate_steel"],
+      "output": ["hbm:powder_steel",8]
+    },
+    {
+      "input": ["harvestcraft:gooseberry_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["harvestcraft:pecan_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:deco_pipe_framed"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_14",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:deco_pipe_red"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["hbm:sellafield_slaked"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_2",1,4],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_2",1,5],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_2",1,6],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_2",1,7],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["witchery:alder_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_10",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stone"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:reeds"],
+      "output": ["minecraft:sugar",3]
+    },
+    {
+      "input": ["hbm:deco_pipe_green"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["hbm:crystal_cobalt"],
+      "output": ["hbm:powder_cobalt",3]
+    },
+    {
+      "input": ["biomesoplenty:sapling_2"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:meteor_brick_cracked"],
+      "output": ["hbm:powder_meteorite"]
+    },
+    {
+      "input": ["gregtechfoodoption:gtfo_log_1",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:sapling_2",1,1],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["harvestcraft:apricot_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:bedrock_ore_new",1,32767],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_5",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:sapling_2",1,2],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:debris_metal"],
+      "output": ["hbm:powder_steel_tiny",3]
+    },
+    {
+      "input": ["galaxyspace:barnarda_c_test_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["rustic:sapling_apple"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["natura:apple_log",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:sapling_2",1,3],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_13",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.5",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_14",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["rustic:painted_wood_light_blue"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["natura:apple_sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["harvestcraft:pomegranate_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_natura_overworld_planks_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:sandstone_stairs"],
+      "output": ["minecraft:sand",6]
+    },
+    {
+      "input": ["forestry:logs.vanilla.fireproof.1",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:coil_gold"],
+      "output": ["hbm:powder_gold"]
+    },
+    {
+      "input": ["witchery:hawthorn_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:deco_pipe_marked"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["hbm:deco_pipe_quad_rusted"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["hbm:deco_pipe_quad"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["rustic:painted_wood_silver"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:boxcar"],
+      "output": ["hbm:powder_steel",32]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_11",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_8",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forbidden_arcanus:mysterywood_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.8",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["rustic:painted_wood_blue"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:brick_concrete_cracked"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:sand_dirty_red"],
+      "output": ["hbm:scrap_oil"]
+    },
+    {
+      "input": ["hbm:crystal_coal"],
+      "output": ["hbm:powder_coal",3]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_1",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:deco_pipe_rim"],
+      "output": ["hbm:powder_steel"]
+    },
+    {
+      "input": ["harvestcraft:pawpaw_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:block_meteor"],
+      "output": ["hbm:powder_meteorite",10]
+    },
+    {
+      "input": ["twilightforest:twilight_sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_1_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.vanilla.fireproof.0",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_1_0",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,7],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,1],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,8],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:steel_roof"],
+      "output": ["hbm:powder_steel_tiny",9]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,2],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,5],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,3],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,6],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,4],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["minecraft:flower_pot"],
+      "output": ["minecraft:clay_ball",3]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_0_9",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,3],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["harvestcraft:peach_sapling"],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["gregtech:planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,4],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:meteor_pillar"],
+      "output": ["hbm:powder_meteorite"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,1],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:stone_resource",1,4],
+      "output": ["hbm:powder_limestone",4]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,2],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:fragment_boron"],
+      "output": ["hbm:powder_boron_tiny"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay"],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,10],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["rustic:painted_wood_gray"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,15],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,11],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["minecraft:enchanted_book"],
+      "output": ["hbm:powder_magic"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_1_3",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,12],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,13],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forbidden_arcanus:cherrywood_log"],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,13],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,14],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["forestry:logs.fireproof.7",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,11],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,6],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,5],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["hbm:ore_tektite_osmiridium"],
+      "output": ["hbm:powder_tektite"]
+    },
+    {
+      "input": ["hbm:dust"],
+      "output": ["hbm:dust"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,12],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,7],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["extratrees:logs.fireproof.7",1,32767],
+      "output": ["hbm:powder_sawdust",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_13",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,9],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,8],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_12",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["biomesoplenty:planks_0",1,10],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,9],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["twilightforest:sort_planks"],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:crystal_redstone"],
+      "output": ["minecraft:redstone",8]
+    },
+    {
+      "input": ["hbm:debris_graphite"],
+      "output": ["hbm:powder_coal"]
+    },
+    {
+      "input": ["extrautils2:ironwood_sapling",1,32767],
+      "output": ["minecraft:stick"]
+    },
+    {
+      "input": ["hbm:brick_concrete"],
+      "output": ["minecraft:gravel"]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_fireproof_0_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,14],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_extratrees_planks_0_7",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["minecraft:stained_hardened_clay",1,15],
+      "output": ["minecraft:clay_ball",4]
+    },
+    {
+      "input": ["unlimitedchiselworks:chisel_planks_oak_forestry_planks_fireproof_0_2",1,32767],
+      "output": ["hbm:powder_sawdust"]
+    },
+    {
+      "input": ["hbm:debris_shrapnel"],
+      "output": ["hbm:powder_steel_tiny",5]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "preRequisites:11": [
+    316,
+    296
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "This questline is for Ethylene; If you are using Oil and the Fluid Rig an LV Distillery is enough.\n\nIf you are going with Biomass an MV distillery is required.\n\nHow distillation in earlier tiers works is that the Distillery will make only one type of oil product and void the rest. This sounds wasteful\nbut with the amount of oil you\u0027ll be getting later on it\u0027s not going to effect you too much.\n\nLater on you can unlock the Distillation Tower which saves all of the byproducts.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 261,
+        "id:8": "gregtech:machine"
+      },
+      "name:8": "Distillery",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 309,
+  "rewards:9": {
+    "0:10": {
+      "index:3": 0,
+      "rewardID:8": "bq_standard:item",
+      "rewards:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 81,
+          "id:8": "gregtech:meta_item_1"
+        }
+      }
+    }
+  },
+  "tasks:9": {
+    "0:10": {
+      "entryLogic:8": "OR",
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 261,
+          "id:8": "gregtech:machine"
+        },
+        "1:10": {
+          "Count:3": 1,
+          "Damage:2": 260,
+          "id:8": "gregtech:machine"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

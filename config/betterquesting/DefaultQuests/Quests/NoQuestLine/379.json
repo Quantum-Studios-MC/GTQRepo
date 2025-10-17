@@ -1,0 +1,32 @@
+{
+  "preRequisites:11": [
+    365,
+    395
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "Tungstensteel is an essential alloy for IV. it also is used in DeepMobEvolution.",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 2013,
+        "id:8": "gregtech:meta_ingot"
+      },
+      "name:8": "Tungstensteel Ingot",
+      "visibility:8": "ALWAYS"
+    }
+  },
+  "questID:3": 379,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 1,
+          "Damage:2": 2013,
+          "id:8": "gregtech:meta_ingot"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}

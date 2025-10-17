@@ -1,0 +1,30 @@
+{
+  "preRequisites:11": [
+    1326
+  ],
+  "properties:10": {
+    "betterquesting:10": {
+      "desc:8": "ME Glass Cables are the most basic type of ME Transport, and they have 2 recipes.\n\nUtilizing §dRadon§f is HIGHLY recommended, as it gives MUCH more output!",
+      "icon:10": {
+        "Count:3": 1,
+        "Damage:2": 16,
+        "id:8": "appliedenergistics2:part"
+      },
+      "name:8": "Cables"
+    }
+  },
+  "questID:3": 1228,
+  "tasks:9": {
+    "0:10": {
+      "index:3": 0,
+      "requiredItems:9": {
+        "0:10": {
+          "Count:3": 32,
+          "Damage:2": 16,
+          "id:8": "appliedenergistics2:part"
+        }
+      },
+      "taskID:8": "bq_standard:retrieval"
+    }
+  }
+}
